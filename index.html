@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Systemic Factors Casebook</title>
+<meta name="description" content="Random Canadian sentencing decisions where the court weighed Gladue factors, residential schools, anti-Black racism or other systemic factors.">
+<style>
+  :root {
+    --bg: #f6f5f1; --panel: #ffffff; --ink: #1f1f1f; --muted: #6b6b6b; --line: #e3e1da;
+    --accent: #1f4e79; --accent-ink: #ffffff; --chip: #fff4bf; --chip-ink: #5a4a00; --sentence: #9b1c1c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333;
+      --accent: #6aa6dc; --accent-ink: #0d1b28; --chip: #4a3f0d; --chip-ink: #ffe98a; --sentence: #ff8a80;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333;
+    --accent: #6aa6dc; --accent-ink: #0d1b28; --chip: #4a3f0d; --chip-ink: #ffe98a; --sentence: #ff8a80;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+           padding: 14px 24px; border-bottom: 1px solid var(--line); background: var(--panel);
+           position: sticky; top: 0; z-index: 2; }
+  header h1 { font: 600 18px/1.2 Georgia, "Times New Roman", serif; margin: 0; flex: 1; min-width: 200px; }
+  header h1 small { display: block; font: 400 13px/1.4 system-ui, sans-serif; color: var(--muted); }
+  button { font: inherit; cursor: pointer; border-radius: 8px; border: 1px solid var(--line);
+           background: var(--panel); color: var(--ink); padding: 8px 14px; }
+  button.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent);
+                   font-weight: 600; padding: 10px 20px; }
+  button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  button:disabled { opacity: .4; cursor: default; }
+  main { max-width: 1800px; margin: 0 auto; padding: 20px 24px 40px; }
+  .case { margin-bottom: 18px; }
+  .case h2 { font: 600 26px/1.25 Georgia, "Times New Roman", serif; margin: 0 0 4px; }
+  .meta { color: var(--muted); font-size: 15px; }
+  .meta strong { color: var(--ink); }
+  .meta a { color: var(--accent); }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .chip { background: var(--chip); color: var(--chip-ink); border-radius: 999px; padding: 2px 10px; font-size: 13px; font-weight: 600; }
+  .panes { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; }
+  .pane { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .pane h3 { margin: 0; padding: 10px 14px; font-size: 13px; letter-spacing: .06em; text-transform: uppercase;
+             color: var(--muted); border-bottom: 1px solid var(--line); }
+  .pane a { display: block; background: #fff; }
+  .pane img { display: block; width: 100%; height: auto; }
+  header { padding: 6px 24px 8px; justify-content: center; }
+  .groups { display: flex; gap: 6px 16px; flex-wrap: wrap; flex-basis: 100%; align-items: flex-end; justify-content: center; }
+  .groups button, .groups a.button { padding: 5px 11px; font-size: 14px; }
+  .groups button.primary { padding: 6px 14px; }
+  .groups .top { flex-basis: 100%; display: flex; justify-content: center; margin-bottom: 8px; }
+  .groups .set { display: flex; flex-direction: column; gap: 6px; }
+  .groups .set .label { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+  .groups .row { display: flex; gap: 8px; flex-wrap: wrap; }
+  .groups a.button { font: inherit; font-size: 14px; line-height: 1.5; text-decoration: none; display: inline-block; border-radius: 8px; border: 1px solid var(--line);
+                     background: var(--panel); color: var(--ink); padding: 5px 11px; box-shadow: 0 2px 0 var(--line); }
+  .groups a.button:active { transform: translateY(2px); box-shadow: none; }
+  .groups button { transition: transform .06s ease, box-shadow .06s ease, background-color .06s ease;
+                   box-shadow: 0 2px 0 var(--line); }
+  .groups button.primary { box-shadow: 0 2px 0 rgba(0,0,0,.25); }
+  .groups button:hover { filter: brightness(.97); }
+  .groups button:active, .groups button.pressed { transform: translateY(2px); box-shadow: none; filter: brightness(.9); }
+  .hint { color: var(--muted); font-size: 14px; margin: 28px 0 8px; text-align: center; }
+  .spacebar { display: inline-block; min-width: 110px; padding: 2px 10px 3px; margin: 0 4px; vertical-align: middle;
+              font: 500 12px/1.4 system-ui, sans-serif; letter-spacing: .04em; color: var(--ink); text-align: center;
+              border: 1px solid #c9c6bd; border-bottom-width: 3px; border-radius: 6px; background: var(--panel);
+              box-shadow: inset 0 -1px 0 rgba(0,0,0,.06); }
+  .empty { padding: 60px 0; text-align: center; color: var(--muted); }
+  .groups .more { display: none; }
+  .groups .top { align-items: center; gap: 8px; flex-wrap: wrap; }
+  .groups .pages { display: flex; gap: 6px; }
+  .groups .divider { width: 1px; height: 20px; background: var(--line); margin: 0 6px; }
+  .groups .pages a { font-size: 12.5px; line-height: 1.4; color: var(--ink); text-decoration: none; text-align: left;
+                     background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 2px 9px;
+                     box-shadow: 0 1px 0 var(--line); transition: transform .06s ease, box-shadow .06s ease; }
+  .groups .pages a:hover { filter: brightness(.97); }
+  .groups .pages a:active { transform: translateY(1px); box-shadow: none; }
+  @media (max-width: 700px), (pointer: coarse) and (max-height: 500px) {
+    /* Phones (upright or sideways): only Random case shows; "Browse" expands the catalogue, crime and factor buttons. */
+    .groups { flex-direction: column; align-items: center; gap: 10px; }
+    .groups .randomset { order: -1; flex-direction: row; align-items: center; gap: 8px; }
+    .groups .more { display: inline-flex; align-items: center; gap: 6px; }
+    .groups .more .chev { display: inline-block; transition: transform .15s ease; font-size: 18px; line-height: 1; }
+    .groups.open .more .chev { transform: rotate(90deg); }
+    .groups .extra { display: none !important; }
+    .groups.open .extra { display: flex !important; }
+    .groups .set.extra { align-items: center; }
+    .groups .row { justify-content: center; }
+    .groups .top { margin-bottom: 0; }
+    .groups .top { flex-direction: column; }
+    .groups .divider { display: none; }
+  }
+  /* No keyboard on phones and tablets: hide the space-bar hint. */
+  @media (max-width: 700px), (hover: none) and (pointer: coarse) { .hint { display: none; } }
+  @media (max-width: 700px), (pointer: coarse) and (max-height: 500px) { .panes { grid-template-columns: 1fr; } }
+  @media (max-width: 900px) {
+    header { padding: 12px 16px; }
+    main { padding: 16px; }
+    .panes { grid-template-columns: 1fr; }
+    .case h2 { font-size: 21px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <nav class="groups" id="groups" aria-label="Random cases"></nav>
+</header>
+<main>
+  <div id="view"><p class="empty">Loading cases…</p></div>
+  <p class="hint">Press <kbd class="spacebar">space</kbd> for a random case.</p>
+</main>
+<script src="cases.js"></script>
+<script>
+(function () {
+  const view = document.getElementById("view");
+  const groupNav = document.getElementById("groups");
+  const CRIMES = [
+    { key: "murder", label: "Murder" },               // includes manslaughter and attempted murder
+    { key: "assault", label: "Assault" },
+    { key: "sexual", label: "Rape" },                 // all sexual offences, including sexual assault
+    { key: "other", label: "Other" },
+  ];
+  // Factor buttons: the tag labels used in cases.js (a button appears only if at least 3 cases have that tag).
+  const FACTORS = ["Gladue factors", "Residential schools", "Colonialism", "Intergenerational trauma",
+                   "Anti-Black racism", "Systemic racism"];
+  let cases = [];
+  cases = window.CASES || [];                      // set by cases.js, loaded just before this script
+  if (!cases.length) {
+    view.innerHTML = '<p class="empty">Could not load the case list (cases.js). Rebuild the site with scripts/site/build_site.py.</p>';
+    return;
+  }
+  const byId = new Map(cases.map(c => [c.id, c]));
+  function esc(s) { return String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch])); }
+  // Each group keeps its own shuffled order, so every case in it appears once before any repeats.
+  const pools = {};
+  const pool = (key, test) => { pools[key] = { ids: cases.map((c, i) => i).filter(i => test(cases[i])), order: [], pos: 0 }; };
+  pool("all", () => true);
+  for (const g of CRIMES) pool(g.key, c => (c.groups || []).includes(g.key));
+  for (const f of FACTORS) pool("f:" + f, c => (c.factors || []).includes(f));
+
+  function shuffle(pool) {
+    pool.order = pool.ids.slice();
+    for (let i = pool.order.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool.order[i], pool.order[j]] = [pool.order[j], pool.order[i]];
+    }
+    pool.pos = 0;
+  }
+
+  // One-press buttons: each click shows a new random case from that group; nothing stays selected.
+  const btn = (key, label, cls = "") => `<button data-group="${esc(key)}"${cls ? ` class="${cls}"` : ""}>${esc(label)}</button>`;
+  groupNav.innerHTML = `
+    <div class="top extra">
+      <span class="pages"><a href="gladue.html">What are Gladue factors?</a></span>
+      <a class="button" href="catalogue.html">Search the Catalogue</a>
+      <span class="pages"><a href="stats.html">Statistics</a><a href="methodology.html">Methodology</a></span></div>
+    <div class="set randomset">${btn("all", "Random case", "primary")}
+      <button type="button" class="more" aria-expanded="false" aria-controls="groups">Browse <span class="chev" aria-hidden="true">›</span></button></div>
+    <div class="set extra"><span class="label">Browse by crime</span>
+      <div class="row">${CRIMES.filter(g => pools[g.key].ids.length).map(g => btn(g.key, g.label)).join("")}</div></div>
+    <div class="set extra"><span class="label">Browse by mitigating factor</span>
+      <div class="row">${FACTORS.filter(f => pools["f:" + f].ids.length >= 3).map(f => btn("f:" + f, f)).join("")}</div></div>`;
+
+  // Phones get the narrow picture (same text size, so it stays readable); tapping opens the version shown.
+  const PHONE = window.matchMedia("(max-width: 700px), (pointer: coarse) and (max-height: 500px)");
+  function pic(wide, narrow, alt) {
+    const href = PHONE.matches ? (narrow || wide) : wide;
+    return `<a href="${esc(href)}" target="_blank" rel="noopener"><picture>
+      <source media="(max-width: 700px), (pointer: coarse) and (max-height: 500px)" srcset="${esc(narrow || wide)}">
+      <img src="${esc(wide)}" alt="${esc(alt)}"></picture></a>`;
+  }
+  function show(c) {
+    window.history.replaceState(null, "", "#" + c.id);
+    try { localStorage.setItem("casebook:last", c.id); } catch (e) {}   // lets the catalogue's Back return here
+    const bits = [esc(c.court), c.year, esc(c.offence)];
+    const sentence = sentenceInline(c);
+    if (sentence) bits.push(sentence);
+    if (c.outcome) bits.push(esc(c.outcome));
+    view.innerHTML = `
+      <section class="case">
+        <h2>${esc(c.name)}, ${esc(c.citation)}</h2>
+        <div class="meta">${bits.join(" · ")}${c.url ? ` · <a href="${esc(c.url)}" target="_blank" rel="noopener">Full decision ↗</a>` : ""}</div>
+        <div class="chips">${c.factors.map(f => `<span class="chip">${esc(f)}</span>`).join("")}</div>
+      </section>
+      <div class="panes">
+        <article class="pane"><h3>The offence</h3>
+          ${pic(c.crime, c.crime_m, `Extract describing the offence in ${c.name}`)}</article>
+        <article class="pane"><h3>The court's reasons on systemic factors</h3>
+          ${pic(c.rationale, c.rationale_m, `Extract of the court's reasons on systemic factors in ${c.name}`)}</article>
+      </div>`;
+    document.title = `${c.name}, ${c.citation} · Systemic Factors Casebook`;
+    window.scrollTo({ top: 0 });
+  }
+  // "24" -> "2 years"; "18" -> "18 months"; "30" -> "2 years 6 months"; "0.5" -> "15 days"
+  function dur(m) {
+    if (m == null) return "";
+    if (m < 1) return `${Math.round(m * 30.4375)} days`;
+    const total = Math.round(m);                   // whole months for display
+    if (total < 24 && total % 12 !== 0) return `${fmtNum(total)} month${total === 1 ? "" : "s"}`;
+    const y = Math.floor(total / 12), mo = Math.round((total - y * 12) * 10) / 10;
+    return `${y} year${y === 1 ? "" : "s"}` + (mo ? ` ${fmtNum(mo)} month${mo === 1 ? "" : "s"}` : "");
+  }
+  function fmtNum(n) { return Number.isInteger(n) ? String(n) : n.toFixed(1); }
+
+  // The sentence for the line under the title: the figure in bold, with a short qualifier where it matters.
+  function sentenceInline(c) {
+    const s = c.sentence || {};
+    let main, qual = "";
+    if (s.life) { main = "life imprisonment"; if (s.parole_years) qual = `no parole for ${fmtNum(s.parole_years)} years`; }
+    else if (s.indeterminate) { main = "indeterminate sentence"; qual = "dangerous offender"; }
+    else if (s.months > 0) {
+      // A sentence the court gave in days (e.g. "1185 days") is shown as the court gave it, not as fractional months.
+      main = (!Number.isInteger(s.months) && /day/i.test(c.prison)) ? c.prison : dur(s.months);
+      if (s.youth) qual = "youth sentence";
+    }
+    else if (/time served/i.test(c.prison)) { main = "time served"; }
+    else if (s.months === 0 && s.cso_months) { main = "no jail"; qual = `${dur(s.cso_months)} conditional sentence in the community`; }
+    else if (s.months === 0) { main = "no jail"; }
+    else return "";
+    return `Prison: <strong>${esc(main)}</strong>${qual ? ` (${esc(qual)})` : ""}`;
+  }
+
+  function next(key = "all") {
+    const pool = pools[key];
+    if (!pool.ids.length) return;
+    if (pool.pos >= pool.order.length) shuffle(pool);
+    show(cases[pool.order[pool.pos++]]);
+  }
+
+  const moreBtn = groupNav.querySelector(".more");
+  const setOpen = open => { groupNav.classList.toggle("open", open); moreBtn.setAttribute("aria-expanded", String(open)); };
+  groupNav.addEventListener("click", e => {
+    if (e.target.closest(".more")) { setOpen(!groupNav.classList.contains("open")); return; }
+    const b = e.target.closest("button[data-group]");
+    if (b) { next(b.dataset.group); setOpen(false); }       // on phones, close the menu so the case is in view
+  });
+  // Space: a random case from all groups, with the same press effect on the Random case button.
+  const randomBtn = groupNav.querySelector('button[data-group="all"]');
+  document.addEventListener("keydown", e => {
+    if (e.key !== " " || e.metaKey || e.ctrlKey || e.altKey || e.target.closest("input, textarea")) return;
+    e.preventDefault();
+    if (e.target.closest("button")) e.target.blur();      // so Space never re-clicks the last button pressed
+    randomBtn.classList.add("pressed");
+    setTimeout(() => randomBtn.classList.remove("pressed"), 120);
+    next("all");
+  });
+  groupNav.addEventListener("mouseup", e => { const b = e.target.closest("button"); if (b) b.blur(); });
+
+  if (location.hash === "#browse=gladue") { next("f:Gladue factors"); return; }   // from the Gladue page
+  const start = byId.get(location.hash.slice(1));   // a link like #2018-BCSC-296 opens that case
+  if (start) show(start); else next();
+})();
+</script>
+</body>
+</html>

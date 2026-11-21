@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What Are Gladue Factors</title>
+<meta name="description" content="What Gladue factors are, and a timeline of how Canadian law came to weigh Indigenous and racialized offenders' backgrounds at sentencing.">
+<style>
+  :root { --bg: #f6f5f1; --panel: #ffffff; --ink: #1f1f1f; --muted: #6b6b6b; --line: #e3e1da; --accent: #1f4e79;
+          --law: #1f4e79; --court: #9b1c1c; --report: #2f6b3a; --context: #6b5a2e; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333;
+      --accent: #6aa6dc; --law: #6aa6dc; --court: #ff8a80; --report: #7fc28b; --context: #d6bd7a; }
+  }
+  :root[data-theme="dark"] { --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333;
+      --accent: #6aa6dc; --law: #6aa6dc; --court: #ff8a80; --report: #7fc28b; --context: #d6bd7a; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { padding: 12px 0; border-bottom: 1px solid var(--line); background: var(--panel); }
+  .bar { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
+  a.back { display: inline-block; text-decoration: none; font-size: 14px; line-height: 1.5; color: var(--ink);
+           background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 5px 12px; box-shadow: 0 2px 0 var(--line); }
+  a.back:active { transform: translateY(2px); box-shadow: none; }
+  main { max-width: 1040px; margin: 0 auto; padding: 28px 24px 60px; }
+  h1 { font: 600 34px/1.2 Georgia, "Times New Roman", serif; margin: 0 0 14px; }
+  h2 { font: 600 24px/1.25 Georgia, "Times New Roman", serif; margin: 40px 0 6px; }
+  .lede { font-size: 18px; }
+  blockquote { margin: 18px 0; padding: 12px 18px; border-left: 4px solid var(--accent); background: var(--panel);
+               font: 17px/1.55 Georgia, "Times New Roman", serif; }
+  blockquote cite { display: block; margin-top: 6px; font: 13px system-ui, sans-serif; color: var(--muted); font-style: normal; }
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 13px; color: var(--muted); margin: 6px 0 4px; }
+  .legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px;
+                         background: var(--c); vertical-align: 0; }
+  .hint { font-size: 13px; color: var(--muted); }
+
+  /* Timeline: left to right on wide screens (scrolls sideways), top to bottom on phones. */
+  .timeline { list-style: none; margin: 18px 0 0; padding: 0; }
+  .event { --c: var(--context); }
+  .event.law { --c: var(--law); } .event.court { --c: var(--court); } .event.report { --c: var(--report); }
+  .card { background: var(--panel); border: 1px solid var(--line); border-top: 4px solid var(--c); border-radius: 10px; padding: 12px 14px; }
+  .year { font: 700 22px/1 Georgia, "Times New Roman", serif; color: var(--c); }
+  .kind { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin-left: 8px; }
+  .title { font-weight: 700; margin: 6px 0 4px; line-height: 1.3; }
+  .text { font-size: 14px; line-height: 1.5; color: var(--ink); }
+  .cite { font-size: 12px; color: var(--muted); margin-top: 6px; }
+
+  .timeline { max-width: none; }
+  @media (max-width: 820px) {
+    main { padding: 20px 16px 50px; }
+    h1 { font-size: 27px; }
+    .bar { padding: 0 16px; }
+  }
+  @media all {
+    .timeline { position: relative; padding-left: 26px; }
+    .timeline::before { content: ""; position: absolute; left: 8px; top: 4px; bottom: 4px; width: 3px; background: var(--line); }
+    .event { position: relative; margin-bottom: 16px; }
+    .event .dot { position: absolute; left: -25px; top: 16px; width: 16px; height: 16px; border-radius: 50%; background: var(--c);
+                  border: 3px solid var(--bg); }
+  }
+  .cta { margin-top: 34px; }
+  .cta a { display: inline-block; text-decoration: none; background: var(--accent); color: #fff; border-radius: 8px; padding: 8px 16px; font-weight: 600; }
+  .sources { margin-top: 40px; font-size: 13px; color: var(--muted); max-width: 760px; }
+</style>
+</head>
+<body>
+<header><div class="bar"><a class="back" id="back" href="index.html">← Back</a></div></header>
+<main>
+  <section class="intro">
+    <h1>What are Gladue factors?</h1>
+    <p class="lede">When a court sentences an Indigenous person in Canada, it must consider the unique systemic and background factors that may have played a part in bringing that person before the court. These are known as <strong>Gladue factors</strong>, after the Supreme Court of Canada's 1999 decision in <em>R. v. Gladue</em>.</p>
+    <p>They include the effects of colonialism, residential schools, and loss of culture and language, as well as other similar factors. Courts must also consider sentencing options that are deemed culturally appropriate, including restorative justice. Since 2021, courts have applied similar reasoning to anti-Black racism.</p>
+    <blockquote>"All available sanctions, other than imprisonment, that are reasonable in the circumstances and consistent with the harm done to victims or to the community should be considered for all offenders, with particular attention to the circumstances of Aboriginal offenders."
+      <cite>Criminal Code, s. 718.2(e)</cite></blockquote>
+  </section>
+
+  <h2>Timeline</h2>
+  <div class="legend">
+    <span style="--c: var(--law)">Legislation</span>
+    <span style="--c: var(--court)">Court decision</span>
+    <span style="--c: var(--report)">Inquiry or report</span>
+    <span style="--c: var(--context)">Context</span>
+  </div>
+  <ol class="timeline" id="timeline"></ol>
+
+  <div class="cta"><a href="index.html" id="browse">Browse cases where Gladue factors were weighed</a></div>
+
+</main>
+<script>
+(function () {
+  const EVENTS = [
+    { y: "1996", k: "law", t: "Section 718.2(e) enacted", d: "Parliament's sentencing reform (Bill C-41, in force September 3, 1996) directs courts to consider alternatives to prison for all offenders, \"with particular attention to the circumstances of Aboriginal offenders\".", c: "Criminal Code, s. 718.2(e)" },
+    { y: "1999", k: "court", t: "R. v. Gladue", d: "Jamie Tanis Gladue, a young Cree woman, was sentenced for manslaughter. The Supreme Court holds that s. 718.2(e) is remedial: judges must consider the systemic and background factors affecting Indigenous offenders and alternatives to prison, and need information to do so.", c: "[1999] 1 S.C.R. 688" },
+    { y: "2001", k: "context", t: "First Gladue Court opens", d: "The Gladue (Aboriginal Persons) Court begins hearing cases at Old City Hall in Toronto in October 2001, with Gladue caseworkers preparing reports on offenders' backgrounds." },
+    { y: "2008", k: "context", t: "Apology for residential schools", d: "The Prime Minister apologizes in the House of Commons for the residential school system, and the Truth and Reconciliation Commission begins its work." },
+    { y: "2012", k: "court", t: "R. v. Ipeelee", d: "The Supreme Court reaffirms Gladue and finds it has had little effect. Courts must take judicial notice of colonialism, displacement and residential schools; offenders need not prove a direct causal link to their offence; and Gladue applies to every Indigenous offender, even for serious offences.", c: "2012 SCC 13" },
+    { y: "2012", k: "law", t: "Safe Streets and Communities Act", d: "Adds mandatory minimum sentences and narrows conditional sentences, limiting the alternatives to prison that Gladue directs judges to consider." },
+    { y: "2014", k: "court", t: "First Impact of Race and Culture Assessment", d: "In R. v. \"X\", a Nova Scotia youth sentencing, the court receives the first IRCA: a report on how anti-Black racism shaped a Black offender's life, modelled in part on Gladue reports.", c: "2014 NSPC 95" },
+    { y: "2015", k: "report", t: "Truth and Reconciliation Commission final report", d: "Calls to Action 30 to 32 ask governments to eliminate the over-representation of Indigenous people in custody, fund alternatives to imprisonment, and let judges depart from mandatory minimum sentences." },
+    { y: "2019", k: "law", t: "Bail reform", d: "Bill C-75 requires courts deciding bail to give particular attention to the circumstances of Indigenous accused and other over-represented groups (in force December 18, 2019).", c: "Criminal Code, s. 493.2" },
+    { y: "2021", k: "court", t: "R. v. Anderson", d: "The Nova Scotia Court of Appeal holds that sentencing judges must consider the effects of anti-Black racism on African Nova Scotian offenders, and endorses Impact of Race and Culture Assessments.", c: "2021 NSCA 62" },
+    { y: "2021", k: "court", t: "R. v. Morris", d: "The Court of Appeal for Ontario holds that courts should take judicial notice of anti-Black racism in Canada, and that its effects on an offender may reduce their moral responsibility for the crime.", c: "2021 ONCA 680" },
+    { y: "2022", k: "court", t: "R. v. Sharma", d: "A 5–4 Supreme Court upholds limits on conditional sentences against an Indigenous woman's challenge, finding they do not violate the Charter, despite their effect on alternatives to prison.", c: "2022 SCC 39" },
+    { y: "2022", k: "law", t: "Bill C-5", d: "Two weeks after Sharma, Parliament lifts the limits on conditional sentences added by the 2012 Safe Streets and Communities Act, including the one upheld in Sharma, and repeals the mandatory minimum sentences for all drug offences and some firearm offences. This restores many of the alternatives to prison that Gladue directs judges to consider." },
+  ];
+  const KIND = { law: "Legislation", court: "Court decision", report: "Report", context: "Context" };
+  const esc = s => String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
+  document.getElementById("timeline").innerHTML = EVENTS.map(e => `
+    <li class="event ${e.k}">
+      <div class="card">
+        <span class="year">${esc(e.y)}</span><span class="kind">${KIND[e.k]}</span>
+        <div class="title">${esc(e.t)}</div>
+        <div class="text">${esc(e.d)}</div>
+        ${e.c ? `<div class="cite">${esc(e.c)}</div>` : ""}
+      </div>
+      <span class="dot" aria-hidden="true"></span>
+    </li>`).join("");
+  // Back goes to the last case viewed; the button below opens a random Gladue-factors case.
+  try {
+    const last = localStorage.getItem("casebook:last");
+    if (last) document.getElementById("back").href = "index.html#" + last;
+  } catch (e) {}
+  document.getElementById("browse").href = "index.html#browse=gladue";
+})();
+</script>
+</body>
+</html>

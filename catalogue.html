@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Casebook Catalogue</title>
+<meta name="description" content="Every case in the Systemic Factors Casebook, by province and court.">
+<style>
+  :root { --bg: #f6f5f1; --panel: #ffffff; --ink: #1f1f1f; --muted: #6b6b6b; --line: #e3e1da; --accent: #1f4e79; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333; --accent: #6aa6dc; }
+  }
+  :root[data-theme="dark"] { --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333; --accent: #6aa6dc; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; padding: 12px 0;
+           border-bottom: 1px solid var(--line); background: var(--panel); }
+  header h1 { font: 600 18px/1.2 Georgia, "Times New Roman", serif; margin: 0; flex: 1; }
+  header h1 a { color: inherit; text-decoration: none; }
+  header h1 small { display: block; font: 400 13px/1.4 system-ui, sans-serif; color: var(--muted); }
+  header .bar { max-width: 1000px; margin: 0 auto; width: 100%; padding: 0 24px; }
+  a.back { display: inline-block; text-decoration: none; font-size: 14px; line-height: 1.5; color: var(--ink);
+           background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 5px 12px;
+           box-shadow: 0 2px 0 var(--line); transition: transform .06s ease, box-shadow .06s ease; }
+  a.back:hover { filter: brightness(.97); }
+  a.back:active { transform: translateY(2px); box-shadow: none; }
+  main { max-width: 1000px; margin: 0 auto; padding: 20px 24px 60px; }
+  details { border-bottom: 1px solid var(--line); }
+  summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; padding: 12px 0; }
+  summary::-webkit-details-marker { display: none; }
+  summary::before { content: "›"; display: inline-block; width: 16px; font-size: 22px; line-height: 1; color: var(--muted);
+                    transition: transform .15s ease; }
+  details[open] > summary::before { transform: rotate(90deg); }
+  .prov > summary { font: 600 24px/1.25 Georgia, "Times New Roman", serif; }
+  .court { margin-left: 26px; border-bottom: none; }
+  .court > summary { font-size: 14px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 600; padding: 8px 0; }
+  .court ul { margin: 0 0 12px 26px; }
+  .count { font: 400 13px system-ui, sans-serif; color: var(--muted); letter-spacing: 0; text-transform: none; }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { padding: 7px 0; border-bottom: 1px solid var(--line); }
+  li a { color: var(--accent); font-weight: 600; text-decoration: none; }
+  li a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 14px; }
+  @media (max-width: 700px) { header, main { padding-left: 16px; padding-right: 16px; } h2 { font-size: 22px; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar"><a class="back" id="back" href="index.html">← Back</a></div>
+</header>
+<main id="list"><p class="meta">Loading…</p></main>
+<script src="cases.js"></script>
+<script>
+(function () {
+  const cases = window.CASES || [];
+  // Back: the last case viewed on the main page, or a random case if that is not known.
+  try {
+    const last = localStorage.getItem("casebook:last");
+    if (last && cases.some(c => c.id === last)) document.getElementById("back").href = "index.html#" + last;
+  } catch (e) {}
+  const list = document.getElementById("list");
+  if (!cases.length) { list.innerHTML = '<p class="meta">Could not load the case list (cases.js).</p>'; return; }
+  const esc = s => String(s).replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
+  const PROVINCE_ORDER = ["British Columbia", "Ontario", "Nova Scotia", "Newfoundland and Labrador", "Canada (Supreme Court)"];
+  // Trial courts first within a province, then appeal courts.
+  const COURT_ORDER = ["BCSC", "BCCA", "ONCA", "NSPC", "NSSC", "NSCA", "NLCA", "SCC"];
+  const byProv = new Map();
+  for (const c of cases) {
+    if (!byProv.has(c.province)) byProv.set(c.province, new Map());
+    const courts = byProv.get(c.province);
+    if (!courts.has(c.court_code)) courts.set(c.court_code, []);
+    courts.get(c.court_code).push(c);
+  }
+  const provs = [...byProv.keys()].sort((a, b) => PROVINCE_ORDER.indexOf(a) - PROVINCE_ORDER.indexOf(b));
+  list.innerHTML = provs.map(p => {
+    const courts = [...byProv.get(p).keys()].sort((a, b) => COURT_ORDER.indexOf(a) - COURT_ORDER.indexOf(b));
+    return `<details class="prov" open><summary>${esc(p)}</summary>` + courts.map(code => {
+      const items = byProv.get(p).get(code).slice().sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+      return `<details class="court"><summary>${esc(items[0].court)}</summary><ul>` + items.map(c =>
+        `<li><a href="index.html#${esc(c.id)}">${esc(c.name)}, ${esc(c.citation)}</a>
+           <div class="meta">${esc(c.offence)}${c.factors.length ? " · " + esc(c.factors.join(", ")) : ""}</div></li>`).join("") + "</ul></details>";
+    }).join("") + "</details>";
+  }).join("");
+})();
+</script>
+</body>
+</html>
