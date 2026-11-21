@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1594,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue report given little relevance as no Indigenous connection confirmed
+M0221,N,X,N,X,X,X,X,X,X,N,HIGH,Gladue and residential schools cited generally; court notes no Gladue factors
+M1477,M,N,N,M,X,N,X,X,X,N,HIGH,Gladue intergenerational trauma listed as mitigating; colonialism quoted from West
+M0231,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only on conditional sentencing and overincarceration
+M0237,M,X,M,M,X,X,X,X,X,N,HIGH,Appeal upholds trial judge giving weight to Gladue and residential school harm
+M0822,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue and s 718.2(e) cited as general law only
+M1083,N,X,X,X,X,X,X,X,X,N,HIGH,s 718.2(e) restraint principle discussed; offender not Indigenous
+M1619,N,X,X,N,X,X,X,X,X,N,HIGH,Gladue and intergenerational trauma concern co-accused in parity discussion
+M0225,N,X,X,X,X,N,N,X,X,Y,HIGH,Mosque murders driven by Islamophobia and racism; Gladue cited generally
+M0363,X,X,X,X,X,M,X,X,X,N,LOW,Trial judge considered systemic racism on family detachment; appeal upheld

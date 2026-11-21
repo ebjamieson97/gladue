@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4687,other,HIGH,Arson
+F4688,drugs,HIGH,Production of marijuana and trafficking
+F4689,drugs,HIGH,Trafficking in cocaine
+F4690,sexual,HIGH,Incest with adult daughter
+F4691,drugs,HIGH,Production of cannabis
+F4692,driving,HIGH,Impaired driving and driving prohibition
+F4693,sexual,HIGH,Sexual intercourse with 13 year old niece
+F4694,sexual;other,HIGH,Sexual assault and mischief
+F4695,driving,HIGH,Over 80 and driving while disqualified
+F4696,drugs,HIGH,Importing heroin and possession for trafficking
+F4697,homicide;assault;sexual;kidnapping,HIGH,Attempted murder; aggravated sexual assault; assault with weapon; confinement
+F4698,homicide;other,HIGH,First degree murder and offering indignity to remains
+F4699,none,LOW,Offence not shown; knowledge or wilful blindness and restitution
+F4700,break_enter;robbery;weapons;other,HIGH,Home invasion robbery; firearm use; masked disguise
+F4701,sexual,HIGH,Sexual assault of incapable complainant
+F4702,sexual;assault,HIGH,Aggravated sexual assault and weapon use in assault
+F4703,break_enter;other;driving,HIGH,Break and enter; arson; failing to attend court; failing to stop
+F4704,assault;break_enter,HIGH,Aggravated assault and break and enter
+F4705,homicide,HIGH,Second degree murder
+F4706,drugs,HIGH,Possession of methamphetamine for trafficking
+F4707,robbery,HIGH,Three armed robberies
+F4708,homicide,HIGH,Second degree murder of stepson

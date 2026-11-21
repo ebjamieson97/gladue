@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0991,drugs;other,HIGH,Possession for trafficking into prison and breach of probation
+F0992,homicide,HIGH,Manslaughter
+F0993,sexual,LOW,Sexual assault dangerous offender application
+F0994,theft_fraud,HIGH,Criminal breach of trust by lawyer
+F0995,drugs,HIGH,Four counts possession for purpose of trafficking
+F0996,driving,LOW,Impaired driving substituted plus other count unclear
+F0997,drugs,HIGH,Marijuana grow operation
+F0998,robbery,HIGH,Robbery with a firearm
+F0999,robbery;break_enter;weapons;kidnapping;assault;theft_fraud;other,HIGH,Armed robberies break and enters confinement assault theft conspiracy
+F1000,break_enter;theft_fraud,HIGH,Break and enter and theft over $5000
+F1001,sexual,HIGH,Sexual offences against stepdaughters
+F1002,assault,HIGH,Six counts of common assault on children
+F1003,robbery;other,HIGH,Attempted robbery and breach of YCJA probation
+F1004,sexual,HIGH,Sexual assault
+F1005,drugs;theft_fraud,HIGH,Production and trafficking of marijuana and theft of electricity
+F1006,homicide;robbery,HIGH,Manslaughter and robbery
+F1007,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1008,other,HIGH,Accessory after the fact to murder
+F1009,robbery;assault,HIGH,Home invasion robbery and aggravated assault
+F1010,drugs,HIGH,Possession of heroin and marihuana for trafficking
+F1011,break_enter;theft_fraud;other,HIGH,Break and enter theft and breaches of probation and recognizance
+F1012,assault,HIGH,Aggravated assault

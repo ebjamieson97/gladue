@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3191,drugs,HIGH,Trafficking and possession of cocaine for trafficking
+F3192,none,LOW,Offence not shown only bail credit at issue
+F3193,homicide,HIGH,Second degree murder parole ineligibility
+F3194,sexual;kidnapping,HIGH,Sexual assault and unlawful confinement dangerous offender
+F3195,other,HIGH,Criminal harassment
+F3196,homicide,HIGH,Manslaughter by young person
+F3197,driving;other,HIGH,Dangerous driving impaired failing to stop obstruct and public mischief
+F3198,sexual,HIGH,Two counts of sexual assault by youth
+F3199,assault,HIGH,Aggravated assault
+F3200,sexual,HIGH,Sexual assault and sexual touching by person in trust
+F3201,drugs,HIGH,Trafficking heroin and fentanyl mix
+F3202,robbery;assault;break_enter;weapons;theft_fraud,HIGH,Robberies assaults break and enter rifle and car theft
+F3203,other,HIGH,Misleading advertising under Competition Act
+F3204,assault,HIGH,Aggravated assault by three accused
+F3205,drugs,HIGH,Possession for trafficking cocaine and marijuana possession
+F3206,homicide;weapons,HIGH,Two attempted murders and possessing explosive substances
+F3207,sexual;kidnapping,HIGH,Sexual assault and unlawful confinement
+F3208,assault,HIGH,Aggravated assault and assault causing bodily harm
+F3209,drugs,HIGH,Trafficking in cocaine
+F3210,drugs,HIGH,Importing cocaine and possession for trafficking
+F3211,drugs,HIGH,Trafficking cocaine and possession of cocaine
+F3212,sexual;assault,HIGH,Rape and causing bodily harm

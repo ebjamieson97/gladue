@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5150,NOT,NA,HIGH,Conviction appeal; sentence issue not reached
+D3780,NOT,NA,HIGH,Addendum on judicial review application
+D2163,IMPOSES,FULL,HIGH,Reasons for sentence for sexual assaults
+D2945,NOT,NA,LOW,Crown appeal on aggravated assault wound definition
+D3878,NOT,NA,HIGH,Summary conviction appeal on impaired driving conviction
+D1974,IMPOSES,FULL,HIGH,Sentencing for first degree murders
+D1256,NOT,NA,HIGH,Murder conviction appeals dismissed
+D1349,NOT,NA,HIGH,Appeal allowed; provincial offence ultra vires
+D2348,REVIEWS,FULL,HIGH,Sentence reduced after convictions stayed
+D2193,IMPOSES,FULL,HIGH,Sentencing for cocaine trafficking
+D3320,NOT,NA,HIGH,SCC on notice of appeal grounds
+D3371,NOT,NA,HIGH,Crown appeal on breath demand grounds
+D1810,IMPOSES,FULL,HIGH,Sentencing for drug conspiracy and trafficking
+D2487,REVIEWS,FULL,HIGH,Cocaine trafficking sentence appeal dismissed
+D1676,RELATED,NA,HIGH,Application for counsel on sentence appeal
+D1089,NOT,NA,HIGH,Rowbotham funding application
+D1934,IMPOSES,FULL,HIGH,Sentencing for sexual assault with firearm
+D6082,NOT,NA,HIGH,Verdict on cocaine trafficking
+D4314,IMPOSES,FULL,HIGH,Sentencing for break and enters
+D4489,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D5437,NOT,NA,HIGH,Civil negligence claim against Crown
+D4595,NOT,NA,HIGH,Conviction appeal dismissed
+D3417,RELATED,NA,HIGH,Breach of conditional sentence hearsay evidence
+D4140,NOT,NA,HIGH,Appeal on stay of proceedings
+D2679,REVIEWS,FULL,HIGH,Recognizance breach sentence reduced
+D3506,NOT,NA,HIGH,Tax appeal

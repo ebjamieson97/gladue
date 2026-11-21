@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0287,drugs,HIGH,Possession of heroin for the purpose of trafficking
+F0288,sexual,HIGH,Touching a child for a sexual purpose
+F0289,sexual,HIGH,Sexual assault
+F0290,other,HIGH,Indecent phone call and public mischief
+F0291,assault,HIGH,Assault
+F0292,drugs,HIGH,Importing heroin and possession for purpose of trafficking
+F0293,homicide;theft_fraud,HIGH,Attempted murder and theft
+F0294,assault,HIGH,Aggravated assault and assault with a weapon
+F0295,break_enter,LOW,Home invasion implied; convictions not detailed
+F0296,other,HIGH,Contempt for refusing to testify
+F0297,assault;break_enter,HIGH,Two aggravated assaults and break and enter
+F0298,robbery;assault;weapons;other,HIGH,Robbery; assault; weapon dangerous; threat; breach of recognizance
+F0299,homicide,HIGH,First degree murder and manslaughter
+F0300,assault;drugs,HIGH,Aggravated assault and possession of cocaine and heroin
+F0301,homicide,HIGH,Manslaughter
+F0302,weapons,HIGH,Possession of restricted firearms and firearm while prohibited
+F0303,none,LOW,Dangerous offender designation; underlying offences not shown
+F0304,drugs,HIGH,Conspiracy to possess cannabis for purpose of trafficking
+F0305,weapons;drugs,HIGH,Loaded firearm and possession for purpose of trafficking
+F0306,homicide,HIGH,Second degree murder
+F0307,weapons,HIGH,Four weapons offences including trafficking and possession while prohibited
+F0308,sexual,HIGH,Sexual assault of a child

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3141,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal not reached
+D5926,NOT,NA,HIGH,Murder conviction appeal dismissed
+D5301,NOT,NA,HIGH,SCC first degree murder conviction restored
+D2762,NOT,NA,HIGH,Conviction appeals dismissed; sentences not appealed
+D1252,NOT,NA,HIGH,Crown appeal of stay for delay
+D4752,NOT,NA,HIGH,Bail review
+D3177,IMPOSES,FULL,HIGH,Reasons for sentence for assault
+D5648,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed along with conviction and DNA order
+D4189,REVIEWS,FULL,HIGH,Sentence appeal for welfare fraud allowed; time served
+D4109,NOT,NA,HIGH,Adjournment of conviction appeal
+D1322,NOT,NA,HIGH,Murder conviction appeal; sentence appeal abandoned
+D4379,NOT,NA,HIGH,Murder conviction appeal
+D3586,NOT,NA,HIGH,Leave to appeal impaired driving conviction denied
+D3837,REVIEWS,FULL,HIGH,Sexual assault conviction upheld; sentence reduced to three years
+D3817,NOT,NA,HIGH,Conviction quashed; new trial ordered
+D4558,IMPOSES,FULL,HIGH,Sentencing decision for intimidation and accessory after murder
+D2601,NOT,NA,HIGH,Murder verdict
+D1943,REVIEWS,FULL,HIGH,Crown sentence appeal for trafficking allowed in part for DNA
+D4669,NOT,NA,HIGH,Crown appeal of acquittals
+D3009,REVIEWS,FULL,HIGH,Crown youth sentence appeal allowed; custody imposed
+D1280,RELATED,NA,HIGH,Crown appeal of sex offender registry order
+D1869,REVIEWS,FULL,HIGH,Leave granted; sentence appeal for break and enter dismissed
+D4720,NOT,NA,HIGH,Leave to appeal summary conviction Charter challenge denied
+D3395,NOT,NA,HIGH,Summary conviction appeal allowed; new trial
+D1834,REVIEWS,FULL,HIGH,Conviction and sentence appeals for sexual assault dismissed
+D3705,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; leave to appeal sentence denied

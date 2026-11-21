@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0969,robbery,HIGH,Convenience store robbery with handgun
+F0970,drugs,HIGH,Three counts of trafficking cocaine
+F0971,other,LOW,Offences terrorizing former wife and breaching court orders
+F0972,drugs,HIGH,Possession for purpose of trafficking meth cocaine fentanyl
+F0973,homicide,HIGH,Second degree murder
+F0974,break_enter;theft_fraud,HIGH,Break and enter and theft
+F0975,theft_fraud,HIGH,Theft under $5000 from employer
+F0976,weapons,LOW,Use of imitation firearm s. 85 offence
+F0977,sexual,HIGH,Sexual assault and sexual exploitation
+F0978,break_enter;theft_fraud;other,HIGH,Over 40 offences including break and enter theft and breaches
+F0979,robbery;break_enter;kidnapping;weapons;theft_fraud,HIGH,Armed robberies break and enters confinement firearm use theft
+F0980,theft_fraud,HIGH,Fraud against bank
+F0981,drugs,HIGH,Conspiracy to traffic in cocaine
+F0982,sexual,HIGH,Sexual assault and sexual touching of granddaughter
+F0983,break_enter;other,HIGH,Unlawfully entering dwelling and uttering threat to burn property
+F0984,weapons,HIGH,Firearms possession and trafficking offences
+F0985,break_enter,HIGH,Break and enter with intent
+F0986,none,LOW,Offence not shown in excerpt
+F0987,robbery;weapons;other,HIGH,Robbery disguise and possession of weapon
+F0988,robbery;theft_fraud;other,HIGH,Robbery possession of property by crime and breaches of probation
+F0989,weapons,HIGH,Possession of loaded prohibited firearm
+F0990,drugs,HIGH,Possession of cocaine for purpose of trafficking

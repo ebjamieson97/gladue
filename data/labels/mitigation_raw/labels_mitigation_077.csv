@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0761,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e quoted as general law
+M0762,N,X,X,X,X,X,X,X,X,N,LOW,Gladue and race assessment reports received but weight not shown
+M0763,M,N,N,N,X,N,X,X,X,N,LOW,Gladue report gave understanding of history; light sentence imposed
+M0764,R,X,N,N,X,X,X,X,X,N,HIGH,Gladue factors given minimal impact as no family dysfunction linked
+M0765,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e and Ipeelee cited only generally
+M0766,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors attenuated moral blameworthiness
+M0767,M,N,M,X,X,X,X,X,X,N,HIGH,Family residential school exposure put offender circumstances in context
+M0768,R,X,X,X,X,X,X,X,X,N,HIGH,Possible Indigenous grandmother with no connection so no Gladue report
+M0769,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in comparison cases
+M0770,R,X,X,X,X,N,X,X,X,N,HIGH,Gladue report showed no effect so Gladue played no role

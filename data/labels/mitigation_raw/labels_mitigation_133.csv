@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1321,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue not considered by trial judge but would have made no difference
+M1322,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned when distinguishing other cases
+M1323,M,X,X,X,X,N,X,X,X,N,LOW,Systemic factors considered in arriving at sentence despite Crown position
+M1324,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee quoted only for proportionality
+M1325,X,X,X,X,M,X,X,X,X,N,HIGH,Appeal court accepted judge gave mitigating weight to anti-Black racism
+M1326,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factors in fraud sentence appeal
+M1327,M,X,X,N,X,X,X,X,X,N,HIGH,Gladue report considered and conditional sentence imposed with cultural supports
+M1328,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in quoted case reference
+M1329,R,X,X,X,X,X,X,X,X,N,LOW,Aboriginal status considered but should not much change sentence
+M1330,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted generally

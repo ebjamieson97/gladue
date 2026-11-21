@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D1557,NOT,NA,HIGH,Bail pending appeal application
+D2425,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal allowed in part
+D3112,NOT,NA,HIGH,Crown appeal from acquittal allowed
+D2982,NOT,NA,LOW,Conviction appeal dismissed; sentence appeal not pursued
+D2931,NOT,NA,HIGH,Bail pending appeal dismissed
+D5405,NOT,NA,HIGH,Conviction appeal dismissed
+D4757,NOT,NA,HIGH,Civil disclosure application
+D5641,REVIEWS,FULL,HIGH,Manslaughter sentence appeal dismissed
+D3764,NOT,NA,HIGH,Conviction appeal allowed and new trial ordered
+D5370,IMPOSES,FULL,HIGH,Sentencing for second degree murder with parole ineligibility
+D1474,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal dismissed
+D2758,NOT,NA,HIGH,Murder trial verdict only
+D5651,NOT,NA,HIGH,Conviction appeal dismissed
+D4212,NOT,NA,HIGH,Conviction appeal dismissed
+D4755,NOT,NA,HIGH,Traffic conviction appeal dismissed
+D4052,NOT,NA,HIGH,Crown stay application in marihuana case
+D3452,NOT,NA,HIGH,Conviction appeal dismissed
+D5287,REVIEWS,FULL,HIGH,Sentence appeal for break and enters dismissed
+D3323,IMPOSES,FULL,HIGH,Dangerous offender application and long-term offender sentence
+D3204,NOT,NA,HIGH,New trial ordered; sentence appeal not reached
+D3066,REVIEWS,MINIMAL,HIGH,Conviction appeal and sentence appeal dismissed
+D4337,NOT,NA,HIGH,Conviction appeal dismissed
+D1262,NOT,NA,HIGH,Leave to appeal conviction denied
+D2532,RELATED,NA,LOW,Motion to reinstate abandoned appeal dismissed
+D6028,NOT,NA,HIGH,Voir dire ruling on phone records
+D1037,NOT,NA,HIGH,Appeal on peace officer authority

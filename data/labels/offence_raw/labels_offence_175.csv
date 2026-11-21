@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3829,assault;other,HIGH,Attempted choking and uttering threats
+F3830,drugs;assault,HIGH,Possession for trafficking; assault with weapon; assault causing bodily harm
+F3831,theft_fraud,HIGH,Fraud over $5000 attempted fraud and laundering proceeds
+F3832,drugs,HIGH,Possession of morphine and possession for trafficking
+F3833,sexual;other,HIGH,Criminal harassment and sexual assault
+F3834,drugs,HIGH,Possession of cocaine for the purpose of trafficking
+F3835,sexual;other,HIGH,Sexual assault and breach of probation
+F3836,theft_fraud;other,HIGH,Fraud over $5000 and conferring benefit on government employee
+F3837,drugs,HIGH,Possession of cocaine for the purpose of trafficking
+F3838,none,LOW,Youth adult sentence application; offences not shown
+F3839,assault,HIGH,Assaults in violent relationship
+F3840,assault,HIGH,Aggravated assault with beer bottle
+F3841,sexual,HIGH,Sexual offences against ten-year-old complainant
+F3842,drugs;other,HIGH,Possession for trafficking hydromorphone; Excise Act unstamped tobacco
+F3843,robbery;weapons;other,LOW,Conspiracy to rob; robbery; discharge firearm; other offences
+F3844,break_enter,LOW,Home invasion; other counts unclear
+F3845,drugs,HIGH,Possession for trafficking; production and trafficking of marihuana
+F3846,kidnapping;weapons;other,HIGH,Hostage taking; attempted kidnapping; weapon for dangerous purpose; intimidation; breach
+F3847,break_enter,HIGH,Attempted break and enter of residence
+F3848,theft_fraud,HIGH,Fraud over $5000 and forgery
+F3849,drugs,HIGH,Possession of fentanyl for the purpose of trafficking
+F3850,drugs,HIGH,Importing cocaine

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4137,theft_fraud;other,HIGH,Theft over and possession of stolen property and break-in instruments
+F4138,homicide;weapons;other,HIGH,Attempted murder and pointing firearm and breach of recognizance
+F4139,homicide,HIGH,Manslaughter with dangerous offender sentence
+F4140,sexual;kidnapping;robbery,HIGH,Sexual assault with weapon and unlawful confinement and robbery
+F4141,drugs,HIGH,Importing marihuana
+F4142,homicide,HIGH,Manslaughter with a firearm
+F4143,driving;weapons;assault;other,HIGH,Over 80 care or control and weapon possession and assault and breaches
+F4144,drugs,HIGH,Trafficking in cocaine
+F4145,driving,HIGH,Failing to remain at scene of accident causing death
+F4146,assault,HIGH,Aggravated assault
+F4147,sexual,HIGH,Accessing and possessing child pornography
+F4148,sexual,HIGH,Sexual assault of 16-year-old niece
+F4149,sexual,HIGH,Child pornography offences
+F4150,none,LOW,Offences not shown in excerpt
+F4151,drugs,HIGH,Possession of heroin
+F4152,homicide,HIGH,Manslaughter
+F4153,theft_fraud;break_enter;other,HIGH,Motor vehicle theft and break and enter and YCJA breaches
+F4154,theft_fraud;other,HIGH,Tax evasion and GST failure to remit and counselling fraud
+F4155,theft_fraud,HIGH,Credit card theft and use and fraud over 5000
+F4156,driving,HIGH,Dangerous driving causing death and bodily harm
+F4157,drugs,HIGH,Possession for trafficking of several drugs including fentanyl
+F4158,other,LOW,Unclear offence involving breach of conditional sentence

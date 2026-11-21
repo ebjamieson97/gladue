@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4775,theft_fraud;assault;other,LOW,Ten offences including theft and spraying security officers
+F4776,drugs,HIGH,Possession of cocaine for trafficking
+F4777,sexual,HIGH,Making child pornography for publication
+F4778,drugs,HIGH,Possession of marijuana for trafficking and production
+F4779,sexual,LOW,Two counts of indecent act in public place
+F4780,sexual,HIGH,Sexual interference and sexual assault
+F4781,assault;other,HIGH,Assault and criminal harassment and breaches
+F4782,drugs;weapons,HIGH,Trafficking cocaine and methamphetamine and firearm offences
+F4783,driving,LOW,Apparent impaired driving offence involving victim and fleeing
+F4784,sexual,HIGH,Historical indecent assault
+F4785,assault;other,HIGH,Aggravated assault of police and disarming officer
+F4786,driving,HIGH,Impaired driving causing death and bodily harm
+F4787,break_enter;theft_fraud,LOW,Break in and theft from rural property
+F4788,sexual;other,HIGH,Sexual assault and breach of undertaking
+F4789,weapons,HIGH,Possession of prohibited weapons for transfer
+F4790,drugs,HIGH,Possession of heroin for trafficking and cocaine possession
+F4791,theft_fraud,HIGH,Theft over $5000 from employer
+F4792,assault;weapons;break_enter;other,HIGH,Assault weapons offences break and enter threats mischief
+F4793,weapons,HIGH,Restricted firearm offences
+F4794,other,HIGH,Fisheries Act offences
+F4795,drugs,HIGH,Importing opium and possession for trafficking
+F4796,drugs,HIGH,Possession for trafficking of cocaine and fentanyl

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1563,sexual;kidnapping,HIGH,Sexual assault with weapon and forcible confinement
+F1564,sexual,HIGH,Attempted rape and indecent assault
+F1565,none,HIGH,Robbery convictions quashed; acquittals entered
+F1566,drugs,HIGH,Marijuana grow operation
+F1567,weapons,HIGH,Loaded restricted firearm and related possession counts
+F1568,sexual,HIGH,Sexual interference and invitation to sexual touching
+F1569,sexual,HIGH,Historical sexual assault
+F1570,homicide,HIGH,Manslaughter
+F1571,assault,HIGH,Two counts aggravated assault by stabbing
+F1572,break_enter;weapons;drugs;other,HIGH,B and E to steal firearms; instruments; mischief; drug possession
+F1573,theft_fraud,HIGH,Uttering forged document
+F1574,theft_fraud,HIGH,Seven counts fraud and possession of proceeds
+F1575,sexual,HIGH,Child pornography and sexual offences against foster children
+F1576,assault;other,HIGH,Assault causing bodily harm and uttering threat
+F1577,sexual,HIGH,Sexual assault of young daughter
+F1578,homicide,HIGH,Manslaughter
+F1579,none,LOW,Offence not shown in excerpt
+F1580,sexual;assault,HIGH,Sexual assault and aggravated assault
+F1581,assault;weapons;other,HIGH,Aggravated assault; knife possession; breach of bail and probation
+F1582,driving,HIGH,Dangerous driving
+F1583,assault,HIGH,Common assault
+F1584,sexual;other,HIGH,Child pornography offences; breach of probation and prohibition

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2509,drugs,HIGH,Trafficking cocaine and heroin
+F2510,sexual,HIGH,Historical indecent assault of young male
+F2511,drugs,HIGH,Importing heroin
+F2512,break_enter;theft_fraud,HIGH,Break and enter and theft at business
+F2513,none,LOW,Multiple youth offences not specified
+F2514,drugs,HIGH,Cultivation of cannabis
+F2515,homicide,HIGH,Manslaughter
+F2516,drugs,HIGH,Possession of ecstasy for purpose of export
+F2517,theft_fraud,HIGH,Conspiracy and fraud affecting share price
+F2518,weapons;drugs;assault,HIGH,Loaded firearm possession; cocaine possession; aggravated assault
+F2519,sexual;assault,LOW,Thirty offences of physical and sexual abuse of children
+F2520,drugs;other,HIGH,Possession for trafficking cocaine and breach of recognizance
+F2521,sexual,HIGH,Aggravated sexual assault and sexual assault with weapon
+F2522,assault,HIGH,Aggravated assault with baseball bat
+F2523,assault,LOW,Assault with weapon stayed; other charge unclear
+F2524,sexual,HIGH,Sexual interference of child
+F2525,other;robbery,LOW,Six offences including mischief and robbery
+F2526,break_enter;theft_fraud;other,HIGH,Break and enter; theft; stolen van; obstruction
+F2527,theft_fraud;driving;assault,HIGH,Stolen property; dangerous driving; failing to stop; assault with weapon
+F2528,assault;break_enter,HIGH,Assault causing bodily harm and break and enter
+F2529,sexual,HIGH,Possession of child pornography
+F2530,break_enter,HIGH,Unlawfully in dwelling house with intent

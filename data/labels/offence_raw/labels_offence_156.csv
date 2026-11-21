@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3411,sexual,HIGH,Child luring and invitation to sexual touching
+F3412,sexual,HIGH,Sexual assault of niece
+F3413,drugs;weapons,HIGH,Possession for trafficking fentanyl and loaded firearm possession
+F3414,driving,HIGH,Failure to stop after accident causing bodily harm
+F3415,sexual,HIGH,Sexual assault
+F3416,none,LOW,Offences not shown; only pre-sentence custody credit
+F3417,drugs,HIGH,Possession of oxycodone substituted for trafficking
+F3418,assault;kidnapping;break_enter;other,HIGH,Aggravated assault; forcible confinement; break and enter; threats; mischief; breaches
+F3419,homicide,HIGH,Second degree murder of child
+F3420,weapons,HIGH,Possession of loaded prohibited firearm
+F3421,other,HIGH,Arson; mischief over $5000; riot
+F3422,theft_fraud,HIGH,Theft under $5000 and possession of stolen property
+F3423,sexual,HIGH,Historical sexual assault
+F3424,theft_fraud,HIGH,Fraud over $5000
+F3425,sexual,HIGH,Sexual assault of 15 year old
+F3426,kidnapping,HIGH,Kidnapping and forcible confinement
+F3427,weapons,HIGH,Careless use of firearm and occupant of vehicle with firearm
+F3428,assault,HIGH,Assault of youth by young person
+F3429,sexual,HIGH,Sexual assault by young person
+F3430,homicide,HIGH,Second degree murder
+F3431,theft_fraud,HIGH,Fraud under $5000
+F3432,none,LOW,Offences not shown; conditional sentence substituted

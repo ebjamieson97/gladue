@@ -1,0 +1,29 @@
+id,label,depth,confidence,note
+D0850,REVIEWS,FULL,HIGH,Sentence appeal allowed and reduced to time served
+D0760,NOT,NA,HIGH,Fresh evidence and extension of time to appeal conviction dismissed
+D0805,IMPOSES,FULL,HIGH,Reasons for sentence for firearm and cannabis offences
+D0488,NOT,NA,HIGH,Trial verdict on sexual offences
+D0974,NOT,NA,HIGH,Conviction appeal allowed and sentence appeal abandoned
+D0920,NOT,NA,HIGH,Trial verdict on confinement and extortion
+D0520,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D0543,NOT,NA,HIGH,Trial verdict on sexual assault and confinement
+D0620,RELATED,NA,LOW,Leave to appeal granted from summary conviction sentence variation
+D0939,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal abandoned
+D0989,NOT,NA,LOW,Conviction appeal dismissed and sentence leave dismissed as unargued
+D0937,NOT,NA,HIGH,Conviction appeal and sentence appeal withdrawn
+D0738,NOT,NA,LOW,Murder conviction appeals dismissed and sentence leave dismissed as moot
+D0818,REVIEWS,FULL,HIGH,Sentence appeal allowed for pre-sentence custody credit
+D0574,NOT,NA,HIGH,Voir dire excluding evidence for unlawful search
+D0512,NOT,NA,HIGH,Murder trial verdicts
+D0802,IMPOSES,FULL,HIGH,Life sentence and parole ineligibility for second degree murder
+D0592,REVIEWS,FULL,HIGH,Youth sentence appeal allowed and s. 109 order varied
+D0569,NOT,NA,HIGH,Acquittal on sexual assault
+D0863,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal abandoned
+D0975,NOT,NA,HIGH,Voir dire on bad character evidence
+D0768,IMPOSES,FULL,HIGH,Sentence for criminal negligence causing death conditional sentence refused
+D0968,REVIEWS,MINIMAL,LOW,Conviction appeal dismissed and sentence found fit
+D0580,REVIEWS,FULL,HIGH,Murder appeal with parole ineligibility sentence appeal dismissed
+D0493,NOT,NA,HIGH,Voir dire on recognition evidence
+D0964,NOT,NA,HIGH,Bail pending Supreme Court appeal
+D0712,REVIEWS,FULL,HIGH,Sentence appeal for break and enter dismissed
+D0534,NOT,NA,HIGH,Conviction appeal with 11(b) issue new trial

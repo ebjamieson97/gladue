@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3785,other,HIGH,Criminal harassment and breaches of recognizance and probation
+F3786,sexual,HIGH,Indecent assault (sentencing delay appeal)
+F3787,break_enter;other;theft_fraud,HIGH,Break and enter and threatening and possession of stolen property
+F3788,theft_fraud;break_enter,HIGH,Theft and attempted break and enter
+F3789,other,LOW,Apparent breach of probation and related conduct
+F3790,homicide,HIGH,Manslaughter by stabbing
+F3791,homicide;assault;weapons,HIGH,Manslaughter and aggravated assault and firearm discharge
+F3792,other,HIGH,Obstruct justice and corruptly accepting money as corrections officer
+F3793,other,HIGH,Uttering threats (dangerous operation stayed)
+F3794,none,LOW,Military sentence appeal with no offence shown
+F3795,break_enter;theft_fraud;robbery;assault;weapons,HIGH,Break and enters and robbery and assault with intent and prohibited firearm
+F3796,drugs;weapons,HIGH,Drug possession and trafficking and prohibited weapons
+F3797,none,LOW,Credit for pre-trial custody only; offences not shown
+F3798,assault,HIGH,Assault causing bodily harm and assault on Crown counsel
+F3799,assault;other,HIGH,Assault causing bodily harm and breaches of probation
+F3800,theft_fraud,HIGH,Breach of trust and theft and use of forged document
+F3801,robbery;assault;break_enter;theft_fraud,HIGH,Robbery with firearm and assault with weapon and break and enter and stolen property
+F3802,assault,HIGH,Assault causing bodily harm and aggravated assault; dangerous offender
+F3803,sexual,HIGH,Sexual assault
+F3804,drugs,HIGH,Possession for the purpose of trafficking
+F3805,sexual;assault,HIGH,Sexual assault and assault
+F3806,kidnapping;other;break_enter;assault,HIGH,Kidnapping and extortion and break and enter and assault

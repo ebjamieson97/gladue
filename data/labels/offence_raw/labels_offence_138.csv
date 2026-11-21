@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3015,break_enter;assault,HIGH,Break and enter with assault
+F3016,weapons,HIGH,Restricted firearm possession concealed weapon breach of prohibition
+F3017,driving,HIGH,Dangerous operation causing bodily harm
+F3018,sexual,HIGH,Incest
+F3019,robbery,HIGH,Two counts of robbery
+F3020,assault,HIGH,Common assault
+F3021,none,LOW,Offences not identified in excerpt
+F3022,kidnapping,HIGH,Unlawful confinement
+F3023,sexual;assault,HIGH,Sexual assault and assault causing bodily harm
+F3024,sexual,HIGH,Possession and distribution of child pornography
+F3025,kidnapping;other,HIGH,Kidnapping for ransom confinement extortion and administering drug
+F3026,weapons;assault,HIGH,Discharge firearm with intent aggravated assault and firearm possession
+F3027,sexual,HIGH,Sexual assault
+F3028,break_enter;other,HIGH,Break and enters attempted break and enter and probation breaches
+F3029,homicide,HIGH,Criminal negligence causing death
+F3030,break_enter;assault,HIGH,Break and enter and assault in dwelling
+F3031,driving,HIGH,Dangerous driving causing death
+F3032,theft_fraud;break_enter;other,HIGH,Youth auto thefts break and enter theft and undertaking breaches
+F3033,robbery;assault,LOW,Robbery and assault with other offences unspecified
+F3034,theft_fraud;other;weapons,HIGH,Theft threats weapon dangerous purpose escape custody imitation firearm
+F3035,theft_fraud;break_enter;other,HIGH,Youth forgery unlawful entry and being unlawfully at large
+F3036,theft_fraud;other,HIGH,Fraud forgery and attempted obstruction of justice

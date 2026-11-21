@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1231,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal allowed with Gladue report and sentence reduced to time served
+M1232,X,X,X,X,R,R,X,X,X,N,HIGH,Racism accepted but no link to offence so no reduced responsibility
+M1233,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) cited generally and offender not shown Indigenous
+M1234,M,M,N,X,X,X,X,X,X,N,HIGH,Gladue report and colonial policies reduced culpability and sentence cut
+M1235,M,X,N,X,X,X,X,X,X,N,LOW,Gladue report considered and reduced sentence and resources set in probation
+M1236,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue raised but community sentence declined and appeal dismissed
+M1237,R,X,X,X,X,N,X,X,X,N,LOW,Gladue report read but only guilty pleas listed as mitigating
+M1238,M,M,N,M,X,X,X,X,X,N,HIGH,Gladue factors accepted and sentence reduced by one year
+M1239,M,X,X,X,X,N,X,X,X,N,LOW,Gladue report found very helpful in fixing sentence
+M1240,N,X,X,X,X,X,X,X,X,N,LOW,Gladue law quoted with no application to offender shown

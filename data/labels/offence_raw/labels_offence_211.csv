@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4621,homicide,HIGH,Manslaughter
+F4622,homicide,HIGH,Four counts of first degree murder
+F4623,sexual,HIGH,Sexual interference and making child pornography
+F4624,drugs,HIGH,Possession of heroin and fentanyl for trafficking
+F4625,robbery;weapons;other,HIGH,Robbery disguise with intent and possession of weapon
+F4626,break_enter,LOW,Home invasion with serious offences unspecified
+F4627,theft_fraud,HIGH,Fraudulent computer use theft and possession of stolen goods
+F4628,sexual;assault,HIGH,Sexual assault assault sexual touching and indecent assault
+F4629,other,HIGH,Bankruptcy and Insolvency Act offences
+F4630,robbery;driving;other,HIGH,Attempted robbery mask flight from police prohibited driving breach of probation
+F4631,drugs;other,HIGH,Cannabis possession for sale distribution and Excise Act offences
+F4632,break_enter;robbery;weapons,HIGH,Break and enters robberies and imitation firearm offences
+F4633,drugs,HIGH,Possession of fentanyl and cocaine for trafficking
+F4634,drugs,HIGH,Cultivating marihuana
+F4635,sexual;weapons,HIGH,Sexual assault and use of imitation firearm
+F4636,theft_fraud,HIGH,Theft of money from company
+F4637,drugs,LOW,Likely non-violent drug offence with conditional sentence
+F4638,assault;other,HIGH,Aggravated assault and failing to provide necessaries
+F4639,robbery;kidnapping;weapons;other,LOW,Armed robbery confinement disguise weapon possession; convictions overturned
+F4640,weapons,HIGH,Possession of weapon dangerous to public and carrying concealed weapon
+F4641,drugs,HIGH,Two counts possession for the purpose of trafficking
+F4642,other,HIGH,Breach of long-term supervision order

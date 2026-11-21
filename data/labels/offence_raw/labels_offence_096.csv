@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2091,sexual,HIGH,Two counts of sexual assault
+F2092,other,HIGH,Criminal contempt for blocking injunction
+F2093,assault;break_enter;other,LOW,14 domestic abuse offences including choking and breaking in
+F2094,robbery,HIGH,Robbery as driver in home invasion
+F2095,assault,HIGH,Aggravated assault and assault with a weapon
+F2096,homicide,HIGH,Manslaughter by young person
+F2097,sexual,HIGH,Sexual assault and sexual touching of step-daughter
+F2098,sexual,HIGH,Sexual assault of 14 year old
+F2099,homicide,HIGH,Conspiracy to commit murder
+F2100,drugs,HIGH,Possession of heroin for the purpose of trafficking
+F2101,none,LOW,Sentence reduced on fresh evidence; offences not shown
+F2102,none,LOW,Sentence appeal allowed by consent; offences not shown
+F2103,homicide,HIGH,Second degree murder parole ineligibility
+F2104,sexual,LOW,Offence involving consent issue; likely sexual assault; 30 months
+F2105,driving,HIGH,Flight from police and driving while prohibited
+F2106,drugs;driving,HIGH,Four counts possession for trafficking; failing to remain at accident
+F2107,other,HIGH,Fisheries Act offences and breach of court order
+F2108,other,HIGH,Breach of probation and SOIRA non-compliance
+F2109,theft_fraud,HIGH,Frauds
+F2110,theft_fraud,HIGH,Obtaining goods by false pretences with bad cheques
+F2111,drugs,HIGH,Possession for trafficking and production of marihuana
+F2112,homicide,HIGH,Criminal negligence causing two deaths

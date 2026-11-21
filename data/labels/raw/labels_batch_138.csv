@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5875,NOT,NA,HIGH,Conviction appeal dismissed
+D5404,NOT,NA,HIGH,Tax appeal
+D3559,NOT,NA,HIGH,Conviction appeal dismissed
+D4854,NOT,NA,HIGH,Conviction appeal on search warrant dismissed
+D5568,NOT,NA,HIGH,Trial verdict for assault
+D3183,NOT,NA,HIGH,Murder conviction appeals
+D3100,NOT,NA,HIGH,Conviction appeal allowed new trial
+D3423,IMPOSES,FULL,HIGH,Sentence for drug trafficking
+D5898,NOT,NA,HIGH,Informant privilege ruling at trial
+D1169,RELATED,NA,HIGH,Procedural order on perfecting appeal
+D3405,REVIEWS,FULL,HIGH,Crown sentence appeal dismissed
+D2669,IMPOSES,MINIMAL,HIGH,Life sentence for first degree murder
+D5721,NOT,NA,HIGH,Crown appeal from acquittals
+D1615,NOT,NA,HIGH,Murder conviction quashed manslaughter substituted
+D4282,NOT,NA,HIGH,Trial verdict on drug and firearm charges
+D4357,NOT,NA,HIGH,Leave to appeal conviction refused
+D2888,REVIEWS,FULL,HIGH,Sentence appeal on conditional sentence dismissed
+D3769,NOT,NA,HIGH,Summary conviction appeal dismissed
+D5197,NOT,NA,HIGH,Acquittal on importing cocaine
+D3172,REVIEWS,MINIMAL,HIGH,Conviction appeal partly allowed and sentence appeal dismissed
+D5351,REVIEWS,FULL,HIGH,Sentence appeal dismissed restitution order set aside
+D2835,IMPOSES,FULL,HIGH,Sentence on thirteen charges
+D4777,NOT,NA,HIGH,Application for appointment of counsel
+D1040,NOT,NA,HIGH,Trial verdict of guilty for fraud
+D3717,IMPOSES,FULL,HIGH,Parole ineligibility for second degree murder
+D4204,NOT,NA,HIGH,Trial verdict on break and enter

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2355,homicide,HIGH,Attempted murder with firearm
+F2356,homicide,HIGH,Second degree murder parole ineligibility
+F2357,sexual,HIGH,Sexual assault
+F2358,break_enter;theft_fraud,HIGH,Attempt break and enter and possession of stolen property
+F2359,sexual,HIGH,Two counts of indecent assault
+F2360,drugs,HIGH,Production of marihuana
+F2361,sexual,LOW,Sexual offences inferred from sexual intercourse reference
+F2362,robbery,HIGH,Using restricted firearm to commit robbery
+F2363,drugs,HIGH,Possession for trafficking of fentanyl and heroin
+F2364,theft_fraud,LOW,Theft of computer among other unspecified charges
+F2365,sexual,HIGH,Possession of child pornography for distribution
+F2366,assault;other,HIGH,Assault causing bodily harm and breach of no contact order
+F2367,theft_fraud,HIGH,Theft using stolen bank card
+F2368,sexual,HIGH,Sexual assault and sexual touching of young children
+F2369,homicide,HIGH,Second degree murder
+F2370,other,HIGH,Fisheries Act violations and false statement
+F2371,drugs,HIGH,Production and possession of marijuana for trafficking
+F2372,sexual,HIGH,Multiple sexual offences against 34 boys
+F2373,sexual,HIGH,Sexual interference and sexual assaults dangerous offender
+F2374,homicide;assault,HIGH,Manslaughter and two counts of aggravated assault
+F2375,sexual,HIGH,Child luring
+F2376,sexual;assault;other,HIGH,Sexual assault and assault and criminal harassment and breaches

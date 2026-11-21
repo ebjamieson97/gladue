@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0011,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned only as general restraint principle for non-Indigenous offender
+M0012,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0013,X,X,X,X,X,X,X,X,X,N,HIGH,Keyword was offender denying offence was racist
+M0014,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court applied Gladue and imposed time served
+M0015,R,X,X,X,X,X,X,X,X,N,HIGH,No Gladue report needed due to lack of connection to heritage
+M0016,R,N,X,X,X,X,X,X,X,N,LOW,Gladue considered but little impact on culpability as ancestry unproven
+M0017,M,X,M,X,X,X,X,X,X,N,HIGH,Appeal court found Gladue error and reduced sentence
+M0018,R,X,X,X,X,X,X,X,X,N,LOW,Appeal dismissed as judge was not told of Indigenous background
+M0019,M,X,X,X,X,X,X,X,X,N,LOW,Court said Gladue analysis applied and sentence properly considered circumstances
+M0020,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in summary of other cases

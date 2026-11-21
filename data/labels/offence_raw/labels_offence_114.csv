@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2487,weapons,HIGH,Concealed weapon; loaded restricted firearm; possession while prohibited
+F2488,weapons;other,HIGH,Firearms offences and uttering threats
+F2489,break_enter;theft_fraud;assault,HIGH,Break enter and theft; causing bodily harm; assault with weapon
+F2490,other;robbery;weapons;assault,HIGH,Breaches; robbery; weapon possession; assault with weapon; mischief
+F2491,sexual,HIGH,Sexual assault and sexual touching of stepdaughter
+F2492,robbery,HIGH,Two robberies and breach of conditional sentence
+F2493,other;assault;break_enter,HIGH,Threats; assault; aggravated assault; break and enter; breaches
+F2494,sexual,HIGH,Sexual assault and indecent assault of boys
+F2495,sexual,HIGH,Sexual assault; invitation to sexual touching; sexual interference
+F2496,drugs;theft_fraud;other,HIGH,Drug theft and trafficking; breach of trust; laundering
+F2497,theft_fraud,HIGH,Three counts of theft under $5000
+F2498,homicide,HIGH,Second degree murder
+F2499,drugs,HIGH,Importing and possessing heroin for trafficking
+F2500,homicide,HIGH,Manslaughter
+F2501,robbery,HIGH,Robbery of service station employees
+F2502,robbery;weapons,HIGH,Armed robberies with sawed off shotgun by young persons
+F2503,sexual,HIGH,Sexual interference and making child pornography
+F2504,weapons,HIGH,Firearm and prohibited device offences and breach of prohibition
+F2505,homicide;assault;weapons,HIGH,Attempted murder; aggravated assault; firearm use
+F2506,none,LOW,Offence not shown; joint submission on sentence
+F2507,sexual;other,HIGH,Sexual exploitation; sexual assault; criminal harassment
+F2508,kidnapping;sexual;assault,HIGH,Unlawful confinement; sexual assault causing bodily harm; choking

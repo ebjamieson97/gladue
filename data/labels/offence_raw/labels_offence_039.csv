@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0837,assault;weapons;other,HIGH,Aggravated assault; weapon for dangerous purpose; breach of probation
+F0838,theft_fraud,HIGH,Two counts of theft under $5000
+F0839,assault,HIGH,Assault causing bodily harm
+F0840,sexual,HIGH,Two counts of sexual assault causing bodily harm
+F0841,assault;sexual;other,HIGH,Assaults; assault with weapon; sexual assault; uttering threats
+F0842,homicide,HIGH,Second degree murder parole ineligibility
+F0843,drugs,HIGH,Possession of marijuana for purpose of trafficking
+F0844,sexual,HIGH,One count of sexual assault
+F0845,sexual,HIGH,Sexual assault; dangerous offender
+F0846,theft_fraud,HIGH,Five counts of fraud
+F0847,assault;sexual;kidnapping;other,HIGH,Aggravated assault; sexual assault; forcible confinement; uttering threats
+F0848,homicide,HIGH,Manslaughter in murder for hire plot
+F0849,weapons,HIGH,Firearm and ammunition possession including while prohibited
+F0850,drugs,HIGH,Possession of cocaine for trafficking; possession of fentanyl
+F0851,other,HIGH,Disobeying a court order
+F0852,sexual;kidnapping;other,HIGH,Sexual assault; forcible confinement; threatening death
+F0853,drugs,HIGH,Three counts possession for purpose of trafficking
+F0854,break_enter,HIGH,Break and enter
+F0855,homicide,HIGH,Attempted murder with a firearm
+F0856,theft_fraud,HIGH,Theft over $5000
+F0857,drugs,HIGH,Trafficking in heroin
+F0858,break_enter;theft_fraud;other,HIGH,Break and enter; theft; breach of probation

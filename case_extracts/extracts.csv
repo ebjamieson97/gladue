@@ -1,0 +1,603 @@
+court,citation,crime_paragraphs,crime_png,rationale_paragraphs,rationale_png,conclusion_clear,note
+BCCA,1999 BCCA 448,"6, 7",case_extracts/BCCA/1999_BCCA_448_crime.png,"60, 61, 63",case_extracts/BCCA/1999_BCCA_448_rationale.png,Y,Effect on 20-year sentence stated generally; victim harm is only in para 29.
+BCCA,2000 BCCA 374,"4, 5",case_extracts/BCCA/2000_BCCA_374_crime.png,"10, 11",case_extracts/BCCA/2000_BCCA_374_rationale.png,Y,Drug trafficking; no victim harm described.
+BCCA,2001 BCCA 254,2,case_extracts/BCCA/2001_BCCA_254_crime.png,"12, 13",case_extracts/BCCA/2001_BCCA_254_rationale.png,Y,Rationale passage slightly over 350 words; conclusion is the parole ineligibility reduction.
+BCCA,2001 BCCA 30,"5, 6, 7, 8",case_extracts/BCCA/2001_BCCA_30_crime.png,"21, 27",case_extracts/BCCA/2001_BCCA_30_rationale.png,Y,Appeal court finds judge ignored s. 718.2(e); sentence reduced to time served.
+BCCA,2001 BCCA 489,"3, 4",case_extracts/BCCA/2001_BCCA_489_crime.png,"4, 6, 7",case_extracts/BCCA/2001_BCCA_489_rationale.png,N,Court only says Gladue was considered; no stated effect on sentence or culpability.
+BCCA,2001 BCCA 512,6,case_extracts/BCCA/2001_BCCA_512_crime.png,"6, 9",case_extracts/BCCA/2001_BCCA_512_rationale.png,N,Single long paragraph 6 holds both narrative and Gladue quote; exceeds word range.
+BCCA,2002 BCCA 190,2,case_extracts/BCCA/2002_BCCA_190_crime.png,"7, 9, 10",case_extracts/BCCA/2002_BCCA_190_rationale.png,Y,Court's reasoning on aboriginal background is brief.
+BCCA,2002 BCCA 268,"4, 5",case_extracts/BCCA/2002_BCCA_268_crime.png,"13, 30",case_extracts/BCCA/2002_BCCA_268_rationale.png,Y,Appeal court; Gladue discussed mainly as procedure and fresh evidence on community supports.
+BCCA,2002 BCCA 67,"2, 3, 4",case_extracts/BCCA/2002_BCCA_67_crime.png,"14, 15",case_extracts/BCCA/2002_BCCA_67_rationale.png,Y,"Appeal court reviews trial judge's Gladue treatment; offender history is in para 6, not included."
+BCCA,2003 BCCA 273,"1, 2",case_extracts/BCCA/2003_BCCA_273_crime.png,"3, 4",case_extracts/BCCA/2003_BCCA_273_rationale.png,Y,Brief appellate statement; effect on sentence only implied.
+BCCA,2003 BCCA 641,1,case_extracts/BCCA/2003_BCCA_641_crime.png,3,case_extracts/BCCA/2003_BCCA_641_rationale.png,Y,Very thin; crime paragraph short and no narrative of events.
+BCCA,2004 BCCA 220,3,case_extracts/BCCA/2004_BCCA_220_crime.png,"16, 19, 20",case_extracts/BCCA/2004_BCCA_220_rationale.png,Y,Sentence reduced from 12 to 10 years.
+BCCA,2004 BCCA 461,"2, 3, 4",case_extracts/BCCA/2004_BCCA_461_crime.png,"10, 11",case_extracts/BCCA/2004_BCCA_461_rationale.png,N,Appeal court only notes aboriginal sentencing principles were considered; no reasoning on effect.
+BCCA,2005 BCCA 486,5,case_extracts/BCCA/2005_BCCA_486_crime.png,"12, 13",case_extracts/BCCA/2005_BCCA_486_rationale.png,N,Court never says aboriginal status reduced sentence; crime paragraph is long.
+BCCA,2006 BCCA 380,"2, 3",case_extracts/BCCA/2006_BCCA_380_crime.png,"6, 7, 8",case_extracts/BCCA/2006_BCCA_380_rationale.png,Y,Crime passage short (under 120 words); thin facts.
+BCCA,2006 BCCA 487,"1, 2",case_extracts/BCCA/2006_BCCA_487_crime.png,"11, 12, 13",case_extracts/BCCA/2006_BCCA_487_rationale.png,Y,Minor theft; aboriginal link is thin in court's own words.
+BCCA,2007 BCCA 206,5,case_extracts/BCCA/2007_BCCA_206_crime.png,"80, 81, 82, 83",case_extracts/BCCA/2007_BCCA_206_rationale.png,Y,Youth offender; manslaughter by dragging gas station attendant.
+BCCA,2007 BCCA 346,"2, 3",case_extracts/BCCA/2007_BCCA_346_crime.png,"10, 16",case_extracts/BCCA/2007_BCCA_346_rationale.png,N,Court never states aboriginal factor reduced culpability; only that fresh evidence would likely affect disposition.
+BCCA,2008 BCCA 437,"5, 6, 7, 8",case_extracts/BCCA/2008_BCCA_437_crime.png,"17, 64",case_extracts/BCCA/2008_BCCA_437_rationale.png,Y,Court says Gladue link to Jack himself was weak; effect generic.
+BCCA,2009 BCCA 166,5,case_extracts/BCCA/2009_BCCA_166_crime.png,"18, 20",case_extracts/BCCA/2009_BCCA_166_rationale.png,Y,Systemic factors thin; mainly community restorative approach and rehabilitation.
+BCCA,2009 BCCA 215,3,case_extracts/BCCA/2009_BCCA_215_crime.png,"9, 12",case_extracts/BCCA/2009_BCCA_215_rationale.png,Y,Appeal court summarises trial judge; Gladue factors treated as mitigating.
+BCCA,2009 BCCA 534,"5, 6, 7",case_extracts/BCCA/2009_BCCA_534_crime.png,"17, 18, 19, 20",case_extracts/BCCA/2009_BCCA_534_rationale.png,Y,Historical offence; no narrative of events in decision.
+BCCA,2009 BCCA 578,"4, 5, 6",case_extracts/BCCA/2009_BCCA_578_crime.png,"13, 26",case_extracts/BCCA/2009_BCCA_578_rationale.png,Y,Crime narrative is sexual; highlights kept non-graphic.
+BCCA,2010 BCCA 174,"2, 3",case_extracts/BCCA/2010_BCCA_174_crime.png,"10, 20",case_extracts/BCCA/2010_BCCA_174_rationale.png,N,Metis factor mentioned only briefly; no stated effect on sentence.
+BCCA,2010 BCCA 9,"1, 2",case_extracts/BCCA/2010_BCCA_9_crime.png,"11, 12",case_extracts/BCCA/2010_BCCA_9_rationale.png,Y,Appeal court; conditional sentence substituted. Crime narrative is brief.
+BCCA,2012 BCCA 129,"8, 9, 10, 11, 12",case_extracts/BCCA/2012_BCCA_129_crime.png,"28, 72",case_extracts/BCCA/2012_BCCA_129_rationale.png,Y,Para 72 is from the concurring reasons; majority para 30 also shapes sentence.
+BCCA,2012 BCCA 359,"10, 11, 12, 13",case_extracts/BCCA/2012_BCCA_359_crime.png,"20, 28",case_extracts/BCCA/2012_BCCA_359_rationale.png,N,Court only says Aboriginal status was taken into account; no stated effect on sentence.
+BCCA,2013 BCCA 153,"1, 2",case_extracts/BCCA/2013_BCCA_153_crime.png,"27, 28, 29",case_extracts/BCCA/2013_BCCA_153_rationale.png,Y,"Fraud case; no victim harm, so crime highlights are acts only."
+BCCA,2013 BCCA 160,"2, 3, 4, 5",case_extracts/BCCA/2013_BCCA_160_crime.png,"10, 11, 12, 28",case_extracts/BCCA/2013_BCCA_160_rationale.png,Y,
+BCCA,2013 BCCA 174,"2, 3",case_extracts/BCCA/2013_BCCA_174_crime.png,"13, 17, 18",case_extracts/BCCA/2013_BCCA_174_rationale.png,Y,Crime passage is a bit over 300 words; exact assault mechanism unknown.
+BCCA,2013 BCCA 202,"5, 6",case_extracts/BCCA/2013_BCCA_202_crime.png,"7, 17, 18, 19",case_extracts/BCCA/2013_BCCA_202_rationale.png,Y,Youth sentence; Crown conceded custody unfit given offender's circumstances.
+BCCA,2013 BCCA 219,"2, 3",case_extracts/BCCA/2013_BCCA_219_crime.png,"16, 26, 27, 28",case_extracts/BCCA/2013_BCCA_219_rationale.png,N,Court only notes background was considered; no stated effect on sentence.
+BCCA,2013 BCCA 321,"9, 10, 11",case_extracts/BCCA/2013_BCCA_321_crime.png,"20, 21",case_extracts/BCCA/2013_BCCA_321_rationale.png,N,Appeal court says Gladue was addressed; no clear statement of reduced culpability.
+BCCA,2013 BCCA 41,"7, 8, 9",case_extracts/BCCA/2013_BCCA_41_crime.png,"14, 15, 39",case_extracts/BCCA/2013_BCCA_41_rationale.png,Y,Effect on sentence stated only generally; minor offences.
+BCCA,2013 BCCA 93,4,case_extracts/BCCA/2013_BCCA_93_crime.png,"8, 15, 16, 17",case_extracts/BCCA/2013_BCCA_93_rationale.png,Y,
+BCCA,2014 BCCA 235,"8, 9",case_extracts/BCCA/2014_BCCA_235_crime.png,"11, 19, 20",case_extracts/BCCA/2014_BCCA_235_rationale.png,Y,Crime passage slightly over 300 words; threats are in para 7.
+BCCA,2014 BCCA 305,8,case_extracts/BCCA/2014_BCCA_305_crime.png,"13, 21",case_extracts/BCCA/2014_BCCA_305_rationale.png,N,Aboriginal factor only briefly weighed in enhanced credit; no culpability finding; crime para very long.
+BCCA,2014 BCCA 318,6,case_extracts/BCCA/2014_BCCA_318_crime.png,"63, 67",case_extracts/BCCA/2014_BCCA_318_rationale.png,Y,Concurring reasons of Garson J.A.; crime paragraph is long.
+BCCA,2014 BCCA 337,"2, 3",case_extracts/BCCA/2014_BCCA_337_crime.png,"8, 15",case_extracts/BCCA/2014_BCCA_337_rationale.png,Y,Crime facts brief; para 3 added for victim impact.
+BCCA,2014 BCCA 81,"23, 24",case_extracts/BCCA/2014_BCCA_81_crime.png,"18, 41",case_extracts/BCCA/2014_BCCA_81_rationale.png,Y,Appeal court; sentencing judge's own Gladue weighing is in para 26 (too long).
+BCCA,2014 BCCA 84,"4, 5, 6",case_extracts/BCCA/2014_BCCA_84_crime.png,"24, 31, 32",case_extracts/BCCA/2014_BCCA_84_rationale.png,Y,Appeal court; offender history from Gladue report is in paras 27 and 31.
+BCCA,2015 BCCA 114,7,case_extracts/BCCA/2015_BCCA_114_crime.png,"8, 15, 16",case_extracts/BCCA/2015_BCCA_114_rationale.png,N,Appeal only about pre-sentence credit; court does not state Gladue effect on sentence.
+BCCA,2015 BCCA 209,"4, 5",case_extracts/BCCA/2015_BCCA_209_crime.png,"10, 17",case_extracts/BCCA/2015_BCCA_209_rationale.png,Y,Aboriginal status reduced global sentence to two years new time; culpability not expressly reduced.
+BCCA,2015 BCCA 295,2,case_extracts/BCCA/2015_BCCA_295_crime.png,"10, 11, 29",case_extracts/BCCA/2015_BCCA_295_rationale.png,Y,Judge gave Aboriginal heritage little weight; no earlier reader passage supplied.
+BCCA,2015 BCCA 414,"7, 8, 9",case_extracts/BCCA/2015_BCCA_414_crime.png,"38, 39, 51",case_extracts/BCCA/2015_BCCA_414_rationale.png,Y,Appeal court infers trial judge weighed heritage; Gladue report found flawed.
+BCCA,2016 BCCA 232,8,case_extracts/BCCA/2016_BCCA_232_crime.png,"6, 15",case_extracts/BCCA/2016_BCCA_232_rationale.png,N,Leave-to-appeal ruling; no offence narrative; court never says Gladue reduced sentence.
+BCCA,2016 BCCA 275,"8, 9",case_extracts/BCCA/2016_BCCA_275_crime.png,"12, 13, 14, 15, 22",case_extracts/BCCA/2016_BCCA_275_rationale.png,Y,
+BCCA,2016 BCCA 299,"8, 9",case_extracts/BCCA/2016_BCCA_299_crime.png,"12, 28",case_extracts/BCCA/2016_BCCA_299_rationale.png,Y,Rationale slightly over 350 words.
+BCCA,2016 BCCA 314,"13, 14",case_extracts/BCCA/2016_BCCA_314_crime.png,"18, 19, 20, 21",case_extracts/BCCA/2016_BCCA_314_rationale.png,N,Court lists Aboriginal background as mitigating only; doubts Gladue report reliability.
+BCCA,2016 BCCA 321,"2, 3, 4",case_extracts/BCCA/2016_BCCA_321_crime.png,"1, 28",case_extracts/BCCA/2016_BCCA_321_rationale.png,N,Appeal court only confirms trial judge considered Gladue factors; no stated effect on sentence.
+BCCA,2016 BCCA 347,"2, 3",case_extracts/BCCA/2016_BCCA_347_crime.png,"7, 18",case_extracts/BCCA/2016_BCCA_347_rationale.png,N,Stabbing detail is in para 7; mitigation noted but no stated effect on sentence.
+BCCA,2016 BCCA 397,"2, 3, 4",case_extracts/BCCA/2016_BCCA_397_crime.png,"7, 20, 21",case_extracts/BCCA/2016_BCCA_397_rationale.png,Y,Breach offence; no violence.
+BCCA,2016 BCCA 507,7,case_extracts/BCCA/2016_BCCA_507_crime.png,"4, 14",case_extracts/BCCA/2016_BCCA_507_rationale.png,N,Court never states Aboriginal status reduced the sentence; appeal dismissed.
+BCCA,2016 BCCA 61,1,case_extracts/BCCA/2016_BCCA_61_crime.png,"30, 31, 32",case_extracts/BCCA/2016_BCCA_61_rationale.png,Y,Systemic reasoning partly via comparison with Pop.
+BCCA,2017 BCCA 215,"3, 4, 5",case_extracts/BCCA/2017_BCCA_215_crime.png,"12, 13",case_extracts/BCCA/2017_BCCA_215_rationale.png,Y,Crime narrative short; Crown conceded time served; effect stated briefly.
+BCCA,2017 BCCA 218,3,case_extracts/BCCA/2017_BCCA_218_crime.png,"15, 25",case_extracts/BCCA/2017_BCCA_218_rationale.png,Y,Appeal court endorses the judge's finding of reduced culpability.
+BCCA,2017 BCCA 227,"8, 9",case_extracts/BCCA/2017_BCCA_227_crime.png,"26, 29",case_extracts/BCCA/2017_BCCA_227_rationale.png,Y,
+BCCA,2017 BCCA 258,"3, 4",case_extracts/BCCA/2017_BCCA_258_crime.png,"38, 92",case_extracts/BCCA/2017_BCCA_258_rationale.png,Y,"Crown-appeal style; effect on victim only in para 53, not in passage."
+BCCA,2017 BCCA 339,"4, 5",case_extracts/BCCA/2017_BCCA_339_crime.png,"12, 13",case_extracts/BCCA/2017_BCCA_339_rationale.png,N,Court finds Gladue considered but states no reduction in culpability or sentence.
+BCCA,2017 BCCA 350,"2, 3",case_extracts/BCCA/2017_BCCA_350_crime.png,"17, 29",case_extracts/BCCA/2017_BCCA_350_rationale.png,Y,Crime passage avoids graphic para 4; effect on sentence is only modest.
+BCCA,2017 BCCA 389,"3, 4",case_extracts/BCCA/2017_BCCA_389_crime.png,"8, 9, 12, 16, 17",case_extracts/BCCA/2017_BCCA_389_rationale.png,Y,Appeal court describes trial judge's lenient treatment of background.
+BCCA,2017 BCCA 424,4,case_extracts/BCCA/2017_BCCA_424_crime.png,"10, 28, 29",case_extracts/BCCA/2017_BCCA_424_rationale.png,Y,Para 10 is the trial judge's summary of the Gladue report.
+BCCA,2018 BCCA 141,"2, 3",case_extracts/BCCA/2018_BCCA_141_crime.png,"11, 28",case_extracts/BCCA/2018_BCCA_141_rationale.png,N,Appeal court never says Aboriginal factors reduced culpability; custody upheld.
+BCCA,2018 BCCA 171,"5, 6",case_extracts/BCCA/2018_BCCA_171_crime.png,"11, 23, 37",case_extracts/BCCA/2018_BCCA_171_rationale.png,N,Court recognizes background but never says it reduced culpability or sentence.
+BCCA,2018 BCCA 195,"7, 8",case_extracts/BCCA/2018_BCCA_195_crime.png,"35, 38",case_extracts/BCCA/2018_BCCA_195_rationale.png,Y,
+BCCA,2018 BCCA 339,6,case_extracts/BCCA/2018_BCCA_339_crime.png,"14, 40, 41, 77",case_extracts/BCCA/2018_BCCA_339_rationale.png,Y,Crime paragraph 6 is long (quotes trial judge); sexual details not highlighted.
+BCCA,2018 BCCA 97,2,case_extracts/BCCA/2018_BCCA_97_crime.png,"3, 4, 12",case_extracts/BCCA/2018_BCCA_97_rationale.png,N,Appeal upheld five years; court says Gladue considered but never states a reduction.
+BCCA,2019 BCCA 135,"3, 4, 5, 6, 7",case_extracts/BCCA/2019_BCCA_135_crime.png,"12, 18, 19, 20, 21",case_extracts/BCCA/2019_BCCA_135_rationale.png,Y,"Crime passage describes original sexual offences, not the breach being sentenced."
+BCCA,2019 BCCA 244,"3, 4",case_extracts/BCCA/2019_BCCA_244_crime.png,"91, 92",case_extracts/BCCA/2019_BCCA_244_rationale.png,Y,"Victim effects are in para 16 and 7, not adjacent to crime passage."
+BCCA,2019 BCCA 390,"4, 5",case_extracts/BCCA/2019_BCCA_390_crime.png,"10, 11, 12, 13",case_extracts/BCCA/2019_BCCA_390_rationale.png,N,Court only says it balanced Gladue factors against record; no explicit reduction.
+BCCA,2019 BCCA 404,4,case_extracts/BCCA/2019_BCCA_404_crime.png,43,case_extracts/BCCA/2019_BCCA_404_rationale.png,Y,Reduces blameworthiness somewhat but not the dangerous offender outcome; para 43 slightly over 350 words.
+BCCA,2020 BCCA 109,"12, 13, 14",case_extracts/BCCA/2020_BCCA_109_crime.png,"20, 96",case_extracts/BCCA/2020_BCCA_109_rationale.png,Y,Appeal court; Gladue shapes culpability but sentence increased to two years less a day.
+BCCA,2020 BCCA 195,4,case_extracts/BCCA/2020_BCCA_195_crime.png,"24, 25, 26, 31",case_extracts/BCCA/2020_BCCA_195_rationale.png,N,Judge found moral culpability high; no stated reduction for Gladue factors.
+BCCA,2020 BCCA 23,"5, 6",case_extracts/BCCA/2020_BCCA_23_crime.png,"8, 128, 129",case_extracts/BCCA/2020_BCCA_23_rationale.png,Y,Dangerous offender; reduced blameworthiness accepted but public protection paramount.
+BCCA,2020 BCCA 355,"14, 15",case_extracts/BCCA/2020_BCCA_355_crime.png,"40, 41, 46",case_extracts/BCCA/2020_BCCA_355_rationale.png,Y,Offence has no human victim; harm limited to property damage and danger.
+BCCA,2020 BCCA 373,"1, 2, 3",case_extracts/BCCA/2020_BCCA_373_crime.png,"57, 60, 61",case_extracts/BCCA/2020_BCCA_373_rationale.png,Y,Factor shaped LTSO length only; sentence for offence not reduced.
+BCCA,2020 BCCA 387,"4, 5, 6, 7, 8, 9, 10, 11",case_extracts/BCCA/2020_BCCA_387_crime.png,16,case_extracts/BCCA/2020_BCCA_387_rationale.png,N,"Paragraph numbers repeat inside para 16; court mostly accepts Crown agreement, effect only implied."
+BCCA,2020 BCCA 64,"6, 7",case_extracts/BCCA/2020_BCCA_64_crime.png,"3, 15, 16, 17",case_extracts/BCCA/2020_BCCA_64_rationale.png,Y,
+BCCA,2021 BCCA 208,"9, 10",case_extracts/BCCA/2021_BCCA_208_crime.png,"14, 44, 83",case_extracts/BCCA/2021_BCCA_208_rationale.png,Y,Gladue effect is on prohibition length; court otherwise upheld custody.
+BCCA,2021 BCCA 399,"7, 8",case_extracts/BCCA/2021_BCCA_399_crime.png,"87, 88, 89, 90",case_extracts/BCCA/2021_BCCA_399_rationale.png,Y,Crime passage is brief; no victim effects described.
+BCCA,2021 BCCA 51,"4, 5, 6, 7",case_extracts/BCCA/2021_BCCA_51_crime.png,"8, 15",case_extracts/BCCA/2021_BCCA_51_rationale.png,Y,Sentencing judge's reasons are summarised by appeal court; effect stated briefly.
+BCCA,2021 BCCA 71,"10, 11",case_extracts/BCCA/2021_BCCA_71_crime.png,"17, 25",case_extracts/BCCA/2021_BCCA_71_rationale.png,Y,Crime narrative is thin; victim effects not described.
+BCCA,2022 BCCA 252,"3, 4",case_extracts/BCCA/2022_BCCA_252_crime.png,"24, 25, 26",case_extracts/BCCA/2022_BCCA_252_rationale.png,Y,"Factor is transgender marginalization and trauma, not racism; no victim effects."
+BCCA,2023 BCCA 132,"4, 5",case_extracts/BCCA/2023_BCCA_132_crime.png,"13, 21, 22",case_extracts/BCCA/2023_BCCA_132_rationale.png,Y,
+BCCA,2023 BCCA 2,"7, 8, 9, 10, 11",case_extracts/BCCA/2023_BCCA_2_crime.png,"68, 69, 70, 73",case_extracts/BCCA/2023_BCCA_2_rationale.png,Y,
+BCCA,2023 BCCA 442,"20, 21, 22",case_extracts/BCCA/2023_BCCA_442_crime.png,"29, 30, 31, 32",case_extracts/BCCA/2023_BCCA_442_rationale.png,Y,Crime narrative thin; appeal decision with only drug facts; harm in para 9 not adjacent.
+BCCA,2023 BCCA 448,"4, 5",case_extracts/BCCA/2023_BCCA_448_crime.png,"14, 17, 40",case_extracts/BCCA/2023_BCCA_448_rationale.png,Y,Gladue report description is in para 14 (too long to include).
+BCCA,2023 BCCA 65,"1, 2, 3, 4, 5, 6",case_extracts/BCCA/2023_BCCA_65_crime.png,"17, 28",case_extracts/BCCA/2023_BCCA_65_rationale.png,Y,Crime passage includes procedural paragraphs; sexual detail avoided.
+BCCA,2024 BCCA 239,"5, 6",case_extracts/BCCA/2024_BCCA_239_crime.png,"66, 67, 68, 69, 74",case_extracts/BCCA/2024_BCCA_239_rationale.png,Y,Appeal court describes trial judge's acceptance; paragraph 6 is report description.
+BCCA,2024 BCCA 390,"12, 13",case_extracts/BCCA/2024_BCCA_390_crime.png,"15, 23",case_extracts/BCCA/2024_BCCA_390_rationale.png,N,Court never states the factor reduced the sentence; appeal turned on joint submission.
+BCCA,2025 BCCA 111,"8, 9, 10",case_extracts/BCCA/2025_BCCA_111_crime.png,"25, 101, 102",case_extracts/BCCA/2025_BCCA_111_rationale.png,Y,Court found no reduced culpability; Gladue still factored into 51-day sentence.
+BCCA,2025 BCCA 113,"2, 3",case_extracts/BCCA/2025_BCCA_113_crime.png,"29, 31, 44",case_extracts/BCCA/2025_BCCA_113_rationale.png,Y,Majority opinion; dissent would have upheld the jail term.
+BCCA,2025 BCCA 183,"9, 10",case_extracts/BCCA/2025_BCCA_183_crime.png,"110, 111",case_extracts/BCCA/2025_BCCA_183_rationale.png,Y,Appellate court sentencing afresh; 22 months.
+BCCA,2025 BCCA 214,"46, 47",case_extracts/BCCA/2025_BCCA_214_crime.png,"14, 49, 50, 51, 68",case_extracts/BCCA/2025_BCCA_214_rationale.png,Y,Crime passage has little on victim effects; fear for her life is in para 53.
+BCCA,2025 BCCA 405,6,case_extracts/BCCA/2025_BCCA_405_crime.png,"26, 59, 62",case_extracts/BCCA/2025_BCCA_405_rationale.png,Y,Court found Gladue factors bore minimally on culpability; appeal court says effects profound and direct.
+BCCA,2026 BCCA 273,"10, 11, 12",case_extracts/BCCA/2026_BCCA_273_crime.png,"15, 46, 47",case_extracts/BCCA/2026_BCCA_273_rationale.png,Y,"Para 11 narrative is in crime passage; no victim injuries, only property damage and danger."
+BCSC,2001 BCSC 123,"2, 3",case_extracts/BCSC/2001_BCSC_123_crime.png,"57, 58, 61",case_extracts/BCSC/2001_BCSC_123_rationale.png,Y,Court's treatment of Métis heritage is a single brief sentence.
+BCSC,2001 BCSC 1252,"6, 7",case_extracts/BCSC/2001_BCSC_1252_crime.png,"4, 5, 19",case_extracts/BCSC/2001_BCSC_1252_rationale.png,N,Court never links Gladue factors to reduced culpability; systemic discussion is thin.
+BCSC,2001 BCSC 1570,2,case_extracts/BCSC/2001_BCSC_1570_crime.png,"21, 22, 23",case_extracts/BCSC/2001_BCSC_1570_rationale.png,Y,"Appeal court upholds short sentence partly on community-context reasoning, not culpability."
+BCSC,2001 BCSC 688,"2, 3, 4, 5",case_extracts/BCSC/2001_BCSC_688_crime.png,"7, 27",case_extracts/BCSC/2001_BCSC_688_rationale.png,Y,Gladue reduced parole ineligibility from fourteen to twelve years.
+BCSC,2003 BCSC 414,"3, 4, 5, 6",case_extracts/BCSC/2003_BCSC_414_crime.png,43,case_extracts/BCSC/2003_BCSC_414_rationale.png,N,Court never states clearly the effect of aboriginal status on sentence.
+BCSC,2004 BCSC 1747,"2, 3, 4, 5, 6",case_extracts/BCSC/2004_BCSC_1747_crime.png,"18, 22",case_extracts/BCSC/2004_BCSC_1747_rationale.png,N,Aboriginal background only mentioned as a consideration; no systemic discussion or stated effect.
+BCSC,2006 BCSC 577,"3, 4, 5",case_extracts/BCSC/2006_BCSC_577_crime.png,"18, 22",case_extracts/BCSC/2006_BCSC_577_rationale.png,Y,Court finds little mitigating effect due to violent nature of crime.
+BCSC,2007 BCSC 756,"4, 5, 6, 7, 8, 9",case_extracts/BCSC/2007_BCSC_756_crime.png,"13, 49, 50",case_extracts/BCSC/2007_BCSC_756_rationale.png,N,Court never states the effect on sentence; only that particular regard must be paid.
+BCSC,2008 BCSC 1126,"2, 3, 4",case_extracts/BCSC/2008_BCSC_1126_crime.png,"42, 43, 46",case_extracts/BCSC/2008_BCSC_1126_rationale.png,Y,"Reduction applied only to the consecutive evasion sentence, not the robbery."
+BCSC,2008 BCSC 1731,"12, 13, 14, 15, 16",case_extracts/BCSC/2008_BCSC_1731_crime.png,"31, 32, 112",case_extracts/BCSC/2008_BCSC_1731_rationale.png,Y,Crime narrative para 7 too long; used court's summary. Effect stated only generally.
+BCSC,2009 BCSC 1626,"1, 2, 3",case_extracts/BCSC/2009_BCSC_1626_crime.png,"18, 19, 20, 22",case_extracts/BCSC/2009_BCSC_1626_rationale.png,N,Court never states clearly that the factor reduced the sentence.
+BCSC,2009 BCSC 1928,"4, 5, 6",case_extracts/BCSC/2009_BCSC_1928_crime.png,"17, 18, 31",case_extracts/BCSC/2009_BCSC_1928_rationale.png,N,Court finds Gladue background does not explain offence or change disposition.
+BCSC,2010 BCSC 1800,"25, 26",case_extracts/BCSC/2010_BCSC_1800_crime.png,"31, 38, 72",case_extracts/BCSC/2010_BCSC_1800_rationale.png,Y,Residential school mention concerns co-accused Stump; Jeff's own Gladue factors are care and neglect.
+BCSC,2010 BCSC 1905,"2, 3",case_extracts/BCSC/2010_BCSC_1905_crime.png,"14, 18",case_extracts/BCSC/2010_BCSC_1905_rationale.png,N,Refugee background listed only as a mitigating factor; no explicit statement of effect.
+BCSC,2010 BCSC 578,"3, 4, 5, 6",case_extracts/BCSC/2010_BCSC_578_crime.png,"14, 15, 16, 17, 38",case_extracts/BCSC/2010_BCSC_578_rationale.png,Y,Court says factor has some impact but is not of great significance.
+BCSC,2011 BCSC 1363,"21, 22, 23, 24, 25",case_extracts/BCSC/2011_BCSC_1363_crime.png,"123, 141, 142, 143",case_extracts/BCSC/2011_BCSC_1363_rationale.png,Y,Gladue reduced only the breach sentences; moral culpability for principal offences found high.
+BCSC,2011 BCSC 1392,"1, 2, 3, 4",case_extracts/BCSC/2011_BCSC_1392_crime.png,"7, 50, 51",case_extracts/BCSC/2011_BCSC_1392_rationale.png,N,Court never states the factor lowered the sentence.
+BCSC,2011 BCSC 1885,"9, 10, 11",case_extracts/BCSC/2011_BCSC_1885_crime.png,"12, 13, 14, 19",case_extracts/BCSC/2011_BCSC_1885_rationale.png,N,Court links aboriginal background to treatment-focused probation but does not state culpability reduced.
+BCSC,2011 BCSC 366,"6, 7",case_extracts/BCSC/2011_BCSC_366_crime.png,"18, 21",case_extracts/BCSC/2011_BCSC_366_rationale.png,N,Crime paragraph short; no victim effects in narrative; court never states effect of Gladue factors.
+BCSC,2012 BCSC 1134,"2, 3, 4",case_extracts/BCSC/2012_BCSC_1134_crime.png,"17, 24",case_extracts/BCSC/2012_BCSC_1134_rationale.png,Y,Systemic discussion brief; mitigation tied to treatment of alcoholism.
+BCSC,2012 BCSC 1497,"4, 5, 6, 7",case_extracts/BCSC/2012_BCSC_1497_crime.png,"87, 88, 89, 90, 91",case_extracts/BCSC/2012_BCSC_1497_rationale.png,Y,
+BCSC,2012 BCSC 155,"79, 80",case_extracts/BCSC/2012_BCSC_155_crime.png,"82, 85, 86",case_extracts/BCSC/2012_BCSC_155_rationale.png,Y,Fraud case; paragraphs 79-80 chosen over the very long agreed facts.
+BCSC,2012 BCSC 1755,"6, 7, 8, 9",case_extracts/BCSC/2012_BCSC_1755_crime.png,"30, 32",case_extracts/BCSC/2012_BCSC_1755_rationale.png,Y,Murder; sexual assault of the body omitted from crime passage.
+BCSC,2012 BCSC 1980,"7, 8, 9",case_extracts/BCSC/2012_BCSC_1980_crime.png,"14, 15, 39, 40",case_extracts/BCSC/2012_BCSC_1980_rationale.png,Y,
+BCSC,2012 BCSC 780,5,case_extracts/BCSC/2012_BCSC_780_crime.png,"32, 56, 63",case_extracts/BCSC/2012_BCSC_780_rationale.png,Y,"Youth case; effect stated only as mitigating factor, not explicitly culpability."
+BCSC,2012 BCSC 815,"3, 4, 5",case_extracts/BCSC/2012_BCSC_815_crime.png,"56, 57, 58, 103",case_extracts/BCSC/2012_BCSC_815_rationale.png,Y,
+BCSC,2013 BCSC 1029,"6, 7, 8, 9, 10, 11",case_extracts/BCSC/2013_BCSC_1029_crime.png,"21, 22, 59",case_extracts/BCSC/2013_BCSC_1029_rationale.png,N,Court never states the factor reduced the sentence; accepts joint submission only.
+BCSC,2013 BCSC 1044,"14, 15",case_extracts/BCSC/2013_BCSC_1044_crime.png,"51, 52, 56",case_extracts/BCSC/2013_BCSC_1044_rationale.png,Y,Culpability moderated but still high.
+BCSC,2013 BCSC 1082,"7, 8, 9, 10",case_extracts/BCSC/2013_BCSC_1082_crime.png,"25, 26, 27, 29",case_extracts/BCSC/2013_BCSC_1082_rationale.png,N,Court only says factors give context; accepts joint submission.
+BCSC,2013 BCSC 1145,"3, 4, 5, 6",case_extracts/BCSC/2013_BCSC_1145_crime.png,"25, 36, 37, 38",case_extracts/BCSC/2013_BCSC_1145_rationale.png,Y,Ancestry listed as mitigating; effect on sentence not detailed.
+BCSC,2013 BCSC 1331,"1, 2",case_extracts/BCSC/2013_BCSC_1331_crime.png,"5, 12",case_extracts/BCSC/2013_BCSC_1331_rationale.png,N,Court weighs Gladue against seriousness but never says it reduced the sentence.
+BCSC,2013 BCSC 1894,"5, 6, 7, 8, 9",case_extracts/BCSC/2013_BCSC_1894_crime.png,"22, 23, 24, 25, 26",case_extracts/BCSC/2013_BCSC_1894_rationale.png,Y,Joint submission; court says factor has lesser effect on culpability due to adoption.
+BCSC,2013 BCSC 1918,"1, 2, 3",case_extracts/BCSC/2013_BCSC_1918_crime.png,"5, 22, 23, 24",case_extracts/BCSC/2013_BCSC_1918_rationale.png,Y,Para 27 adds the sentence would otherwise have been much longer.
+BCSC,2013 BCSC 194,"4, 5, 6, 7, 8",case_extracts/BCSC/2013_BCSC_194_crime.png,"84, 85, 86, 101",case_extracts/BCSC/2013_BCSC_194_rationale.png,N,Court only says it is mindful of heritage; no explicit reduction of culpability.
+BCSC,2013 BCSC 2121,"10, 11",case_extracts/BCSC/2013_BCSC_2121_crime.png,"101, 107",case_extracts/BCSC/2013_BCSC_2121_rationale.png,Y,"Offender is Mr. Tarrant, a lookout; victim effects are in para 18."
+BCSC,2013 BCSC 2321,"11, 12, 13, 14",case_extracts/BCSC/2013_BCSC_2321_crime.png,"113, 115",case_extracts/BCSC/2013_BCSC_2321_rationale.png,Y,
+BCSC,2013 BCSC 2335,12,case_extracts/BCSC/2013_BCSC_2335_crime.png,"3, 164, 183",case_extracts/BCSC/2013_BCSC_2335_rationale.png,Y,Court says less blameworthy but public protection still paramount
+BCSC,2013 BCSC 2424,"11, 12",case_extracts/BCSC/2013_BCSC_2424_crime.png,"40, 73, 74",case_extracts/BCSC/2013_BCSC_2424_rationale.png,N,Court never states clearly that the factor reduced the sentence
+BCSC,2013 BCSC 2445,2,case_extracts/BCSC/2013_BCSC_2445_crime.png,"25, 26",case_extracts/BCSC/2013_BCSC_2445_rationale.png,Y,
+BCSC,2014 BCSC 1009,"1, 2",case_extracts/BCSC/2014_BCSC_1009_crime.png,"4, 39",case_extracts/BCSC/2014_BCSC_1009_rationale.png,N,Court never states the background reduced the sentence.
+BCSC,2014 BCSC 1060,"3, 4",case_extracts/BCSC/2014_BCSC_1060_crime.png,"6, 7, 8, 17",case_extracts/BCSC/2014_BCSC_1060_rationale.png,N,Court notes Aboriginal concerns but never states effect on sentence.
+BCSC,2014 BCSC 1425,"26, 27, 28, 29, 30",case_extracts/BCSC/2014_BCSC_1425_crime.png,"98, 99, 100, 101",case_extracts/BCSC/2014_BCSC_1425_rationale.png,N,Heritage listed as mitigating but court says factors militate against non-custodial sentence.
+BCSC,2014 BCSC 1435,"5, 6",case_extracts/BCSC/2014_BCSC_1435_crime.png,"51, 52, 53, 54",case_extracts/BCSC/2014_BCSC_1435_rationale.png,Y,
+BCSC,2014 BCSC 1519,3,case_extracts/BCSC/2014_BCSC_1519_crime.png,"6, 7, 20",case_extracts/BCSC/2014_BCSC_1519_rationale.png,N,Court only says sentence must give due regard to aboriginal background; no stated effect.
+BCSC,2014 BCSC 1639,"5, 6, 7",case_extracts/BCSC/2014_BCSC_1639_crime.png,"11, 12, 13, 14, 15, 60",case_extracts/BCSC/2014_BCSC_1639_rationale.png,Y,Systemic discussion very brief; Gladue listed only as a mitigating factor.
+BCSC,2014 BCSC 1989,"4, 5, 6, 7",case_extracts/BCSC/2014_BCSC_1989_crime.png,"20, 21, 22, 24",case_extracts/BCSC/2014_BCSC_1989_rationale.png,N,Court never states the effect of heritage on sentence; joint submission accepted.
+BCSC,2014 BCSC 202,"7, 8, 9, 10, 11",case_extracts/BCSC/2014_BCSC_202_crime.png,"65, 66, 67, 74",case_extracts/BCSC/2014_BCSC_202_rationale.png,Y,Effect is mainly on remorse assessment; para 81 also cites Aboriginal background in sentence.
+BCSC,2014 BCSC 2147,"2, 3, 4",case_extracts/BCSC/2014_BCSC_2147_crime.png,"5, 28",case_extracts/BCSC/2014_BCSC_2147_rationale.png,N,Court links background to lack of skills but never says it reduced the sentence.
+BCSC,2014 BCSC 2198,"2, 3, 4",case_extracts/BCSC/2014_BCSC_2198_crime.png,"6, 7",case_extracts/BCSC/2014_BCSC_2198_rationale.png,Y,Conclusion is general: major part of my thinking; joint submission.
+BCSC,2014 BCSC 2546,"1, 2, 3",case_extracts/BCSC/2014_BCSC_2546_crime.png,"4, 5, 18",case_extracts/BCSC/2014_BCSC_2546_rationale.png,Y,
+BCSC,2014 BCSC 2554,"14, 15, 16",case_extracts/BCSC/2014_BCSC_2554_crime.png,"35, 36, 39",case_extracts/BCSC/2014_BCSC_2554_rationale.png,Y,Court gives Gladue factors relatively less weight because of the offender's accomplishments.
+BCSC,2014 BCSC 2566,"23, 24, 25, 26",case_extracts/BCSC/2014_BCSC_2566_crime.png,"58, 75",case_extracts/BCSC/2014_BCSC_2566_rationale.png,Y,Para 58 is Gladue report; para 75 implicitly adopts it. Crime passage mixes act and harm.
+BCSC,2014 BCSC 2597,"15, 16",case_extracts/BCSC/2014_BCSC_2597_crime.png,"19, 20, 21, 68",case_extracts/BCSC/2014_BCSC_2597_rationale.png,Y,Crime passage is graphic; highlights kept non-graphic.
+BCSC,2014 BCSC 552,"2, 3, 4, 5",case_extracts/BCSC/2014_BCSC_552_crime.png,"10, 11, 48, 49",case_extracts/BCSC/2014_BCSC_552_rationale.png,Y,Conclusion is brief; court gives no explicit culpability finding.
+BCSC,2014 BCSC 625,"2, 3",case_extracts/BCSC/2014_BCSC_625_crime.png,"36, 38, 44",case_extracts/BCSC/2014_BCSC_625_rationale.png,Y,
+BCSC,2014 BCSC 840,"7, 8, 9",case_extracts/BCSC/2014_BCSC_840_crime.png,"18, 19, 33",case_extracts/BCSC/2014_BCSC_840_rationale.png,Y,Court treats background as only mitigating factor but outweighed by aggravating factors.
+BCSC,2015 BCSC 1032,"9, 10",case_extracts/BCSC/2015_BCSC_1032_crime.png,"57, 58, 60",case_extracts/BCSC/2015_BCSC_1032_rationale.png,Y,
+BCSC,2015 BCSC 1568,"1, 2",case_extracts/BCSC/2015_BCSC_1568_crime.png,"7, 8, 9",case_extracts/BCSC/2015_BCSC_1568_rationale.png,N,Court never states Gladue factors reduced the sentence; joint submission accepted.
+BCSC,2015 BCSC 1833,11,case_extracts/BCSC/2015_BCSC_1833_crime.png,"26, 27, 54",case_extracts/BCSC/2015_BCSC_1833_rationale.png,Y,
+BCSC,2015 BCSC 1891,"3, 4",case_extracts/BCSC/2015_BCSC_1891_crime.png,"39, 47, 48, 49",case_extracts/BCSC/2015_BCSC_1891_rationale.png,Y,Two accused; rationale concerns Stanley Stump. Crime passage shows little harm to victims.
+BCSC,2015 BCSC 201,"19, 20, 21, 22",case_extracts/BCSC/2015_BCSC_201_crime.png,"135, 136, 138, 139",case_extracts/BCSC/2015_BCSC_201_rationale.png,Y,Court never says moral culpability reduced; effect on sentence is limited by mandatory minimum.
+BCSC,2015 BCSC 2397,"6, 7, 8, 9, 10",case_extracts/BCSC/2015_BCSC_2397_crime.png,"11, 31",case_extracts/BCSC/2015_BCSC_2397_rationale.png,Y,Court's statement of effect is brief.
+BCSC,2015 BCSC 2536,"3, 4, 5, 6",case_extracts/BCSC/2015_BCSC_2536_crime.png,"51, 52, 53, 56",case_extracts/BCSC/2015_BCSC_2536_rationale.png,Y,
+BCSC,2015 BCSC 354,"7, 8, 9, 10",case_extracts/BCSC/2015_BCSC_354_crime.png,"45, 46, 47, 60",case_extracts/BCSC/2015_BCSC_354_rationale.png,Y,No Gladue report; court had little information on aboriginal background.
+BCSC,2015 BCSC 615,"2, 3, 4",case_extracts/BCSC/2015_BCSC_615_crime.png,"21, 22, 60",case_extracts/BCSC/2015_BCSC_615_rationale.png,N,Court says only it is mindful of background; no explicit effect on sentence stated.
+BCSC,2015 BCSC 926,"1, 2",case_extracts/BCSC/2015_BCSC_926_crime.png,"35, 74",case_extracts/BCSC/2015_BCSC_926_rationale.png,Y,
+BCSC,2016 BCSC 1424,"3, 4, 5",case_extracts/BCSC/2016_BCSC_1424_crime.png,"37, 38, 48",case_extracts/BCSC/2016_BCSC_1424_rationale.png,Y,Conclusion on Gladue effect is brief; para 48 only lists it among factors.
+BCSC,2016 BCSC 1449,"15, 16, 17",case_extracts/BCSC/2016_BCSC_1449_crime.png,"23, 43, 53, 54, 55",case_extracts/BCSC/2016_BCSC_1449_rationale.png,Y,Court gives Gladue only modest effect given gravity.
+BCSC,2016 BCSC 161,2,case_extracts/BCSC/2016_BCSC_161_crime.png,"12, 13, 14, 19, 25",case_extracts/BCSC/2016_BCSC_161_rationale.png,Y,Para 19 also states Gladue supports a smaller sentence; not included.
+BCSC,2016 BCSC 171,"10, 11",case_extracts/BCSC/2016_BCSC_171_crime.png,"15, 16, 17, 54",case_extracts/BCSC/2016_BCSC_171_rationale.png,Y,Contempt for refusing to testify; Gladue applies to Martinez only.
+BCSC,2016 BCSC 1931,"7, 8, 9, 10",case_extracts/BCSC/2016_BCSC_1931_crime.png,"18, 19",case_extracts/BCSC/2016_BCSC_1931_rationale.png,Y,Gladue applies to Forrest only; injuries described in paras 12-13.
+BCSC,2016 BCSC 2148,2,case_extracts/BCSC/2016_BCSC_2148_crime.png,"30, 31, 38",case_extracts/BCSC/2016_BCSC_2148_rationale.png,Y,Court finds little Gladue link; Aboriginal background only one factor for low end.
+BCSC,2016 BCSC 2169,"18, 19, 20, 21, 22, 23",case_extracts/BCSC/2016_BCSC_2169_crime.png,"25, 26, 27, 75, 76, 77",case_extracts/BCSC/2016_BCSC_2169_rationale.png,Y,Conclusion brief; reduction from 15 to 14 years implied
+BCSC,2016 BCSC 2291,"15, 16, 17",case_extracts/BCSC/2016_BCSC_2291_crime.png,"89, 90, 91, 97",case_extracts/BCSC/2016_BCSC_2291_rationale.png,Y,"Effect is emphasis on restorative justice, not clearly reduced culpability"
+BCSC,2016 BCSC 2497,"4, 5, 6, 7, 8",case_extracts/BCSC/2016_BCSC_2497_crime.png,"62, 74, 75, 76, 77, 78, 79",case_extracts/BCSC/2016_BCSC_2497_rationale.png,Y,No victim; drug and firearm possession facts only
+BCSC,2016 BCSC 2522,"5, 6, 7, 8",case_extracts/BCSC/2016_BCSC_2522_crime.png,"23, 24, 44, 45",case_extracts/BCSC/2016_BCSC_2522_rationale.png,Y,
+BCSC,2016 BCSC 2657,"1, 2, 3, 4",case_extracts/BCSC/2016_BCSC_2657_crime.png,"11, 12, 14",case_extracts/BCSC/2016_BCSC_2657_rationale.png,Y,No Gladue report; court relies on offender background.
+BCSC,2016 BCSC 356,5,case_extracts/BCSC/2016_BCSC_356_crime.png,"22, 23, 24, 25",case_extracts/BCSC/2016_BCSC_356_rationale.png,N,Court notes Aboriginal heritage as mitigating but never explains effect; joint submission accepted.
+BCSC,2016 BCSC 627,"13, 14",case_extracts/BCSC/2016_BCSC_627_crime.png,"2, 3, 4",case_extracts/BCSC/2016_BCSC_627_rationale.png,N,Court never states Gladue effect on sentence; crime passage is possession only.
+BCSC,2016 BCSC 64,"5, 6, 7",case_extracts/BCSC/2016_BCSC_64_crime.png,"9, 10, 11, 15",case_extracts/BCSC/2016_BCSC_64_rationale.png,N,Court only says it takes First Nations background into consideration; effect not stated.
+BCSC,2016 BCSC 65,"5, 6",case_extracts/BCSC/2016_BCSC_65_crime.png,"40, 41, 47, 48, 49",case_extracts/BCSC/2016_BCSC_65_rationale.png,Y,Aboriginal background listed among mitigating factors producing sentence below range.
+BCSC,2016 BCSC 683,"7, 8, 9",case_extracts/BCSC/2016_BCSC_683_crime.png,"26, 27, 42, 52",case_extracts/BCSC/2016_BCSC_683_rationale.png,Y,Conclusion is brief; effect on sentence not quantified.
+BCSC,2016 BCSC 977,37,case_extracts/BCSC/2016_BCSC_977_crime.png,"119, 158",case_extracts/BCSC/2016_BCSC_977_rationale.png,Y,"Para 37 is a very long single paragraph; no shorter narrative exists. Dangerous offender, indeterminate."
+BCSC,2017 BCSC 1054,"14, 15, 16",case_extracts/BCSC/2017_BCSC_1054_crime.png,"86, 87, 88, 89, 90",case_extracts/BCSC/2017_BCSC_1054_rationale.png,Y,
+BCSC,2017 BCSC 1187,"4, 5",case_extracts/BCSC/2017_BCSC_1187_crime.png,"7, 10, 15",case_extracts/BCSC/2017_BCSC_1187_rationale.png,Y,Theft case; no victim harm; rationale brief
+BCSC,2017 BCSC 1218,"1, 2, 3, 4",case_extracts/BCSC/2017_BCSC_1218_crime.png,"21, 27",case_extracts/BCSC/2017_BCSC_1218_rationale.png,Y,Court lists heritage among important facts shaping sentence
+BCSC,2017 BCSC 1240,"9, 10, 11",case_extracts/BCSC/2017_BCSC_1240_crime.png,"81, 85",case_extracts/BCSC/2017_BCSC_1240_rationale.png,Y,Rationale passage over 350 words because para 81 is long
+BCSC,2017 BCSC 1801,"13, 14, 15, 16",case_extracts/BCSC/2017_BCSC_1801_crime.png,"95, 96, 97, 161, 162",case_extracts/BCSC/2017_BCSC_1801_rationale.png,Y,Court says factor played some part; effect on sentence stated modestly.
+BCSC,2017 BCSC 2203,"25, 26, 27",case_extracts/BCSC/2017_BCSC_2203_crime.png,"67, 73, 74",case_extracts/BCSC/2017_BCSC_2203_rationale.png,Y,Parole ineligibility case; factor pulls him back from maximum.
+BCSC,2017 BCSC 2236,"10, 11, 12, 13",case_extracts/BCSC/2017_BCSC_2236_crime.png,"32, 33, 87",case_extracts/BCSC/2017_BCSC_2236_rationale.png,Y,"Gun possession only; no victim harm. Paras 32-33 summarise Gladue report, adopted in para 87."
+BCSC,2017 BCSC 2288,"4, 5, 6, 7, 8",case_extracts/BCSC/2017_BCSC_2288_crime.png,"78, 121",case_extracts/BCSC/2017_BCSC_2288_rationale.png,Y,Fraud case; effect of Gladue factors stated briefly in para 121.
+BCSC,2017 BCSC 2433,"8, 9, 10",case_extracts/BCSC/2017_BCSC_2433_crime.png,"66, 67, 88, 89",case_extracts/BCSC/2017_BCSC_2433_rationale.png,Y,Heritage treated as mitigating factor but culpability still found high.
+BCSC,2017 BCSC 2438,1,case_extracts/BCSC/2017_BCSC_2438_crime.png,"5, 18",case_extracts/BCSC/2017_BCSC_2438_rationale.png,Y,Joint submission; court's effect statement is brief.
+BCSC,2017 BCSC 2463,"5, 6, 7, 8, 9",case_extracts/BCSC/2017_BCSC_2463_crime.png,"42, 50, 51",case_extracts/BCSC/2017_BCSC_2463_rationale.png,Y,Court names factor as mitigating but states little about its effect on sentence.
+BCSC,2017 BCSC 2485,"10, 11, 12, 13",case_extracts/BCSC/2017_BCSC_2485_crime.png,"63, 64, 65, 66",case_extracts/BCSC/2017_BCSC_2485_rationale.png,Y,
+BCSC,2017 BCSC 2513,"10, 11, 12, 13",case_extracts/BCSC/2017_BCSC_2513_crime.png,"1, 2, 58",case_extracts/BCSC/2017_BCSC_2513_rationale.png,Y,
+BCSC,2017 BCSC 681,"3, 4, 5, 6",case_extracts/BCSC/2017_BCSC_681_crime.png,"17, 25",case_extracts/BCSC/2017_BCSC_681_rationale.png,N,Court never ties Gladue background explicitly to the lower sentence.
+BCSC,2017 BCSC 877,"1, 2, 3",case_extracts/BCSC/2017_BCSC_877_crime.png,"6, 8, 9",case_extracts/BCSC/2017_BCSC_877_rationale.png,Y,Crime passage is brief; facts are sparse.
+BCSC,2017 BCSC 969,"6, 7, 8",case_extracts/BCSC/2017_BCSC_969_crime.png,"64, 73",case_extracts/BCSC/2017_BCSC_969_rationale.png,Y,Rationale passage slightly over 350 words because para 64 is long.
+BCSC,2018 BCSC 1033,"2, 3",case_extracts/BCSC/2018_BCSC_1033_crime.png,"28, 29, 34",case_extracts/BCSC/2018_BCSC_1033_rationale.png,Y,Crime passage slightly over 300 words.
+BCSC,2018 BCSC 1041,46,case_extracts/BCSC/2018_BCSC_1041_crime.png,"47, 72, 73",case_extracts/BCSC/2018_BCSC_1041_rationale.png,Y,Court says Gladue factors play only a minor role.
+BCSC,2018 BCSC 1229,"4, 5, 6, 7, 8",case_extracts/BCSC/2018_BCSC_1229_crime.png,"19, 20, 21, 43",case_extracts/BCSC/2018_BCSC_1229_rationale.png,Y,Crime narrative thin; no victim injuries; heritage weighed with other factors.
+BCSC,2018 BCSC 132,"7, 8, 9, 10, 11",case_extracts/BCSC/2018_BCSC_132_crime.png,"36, 46, 47, 48",case_extracts/BCSC/2018_BCSC_132_rationale.png,Y,Court's comments brief; effect stated only as taking notice of historical context.
+BCSC,2018 BCSC 1337,"11, 12, 13",case_extracts/BCSC/2018_BCSC_1337_crime.png,"26, 75, 76",case_extracts/BCSC/2018_BCSC_1337_rationale.png,Y,Rationale is Darren Sundman's; court says factor weighs little.
+BCSC,2018 BCSC 1350,"19, 20, 21, 22, 23",case_extracts/BCSC/2018_BCSC_1350_crime.png,"15, 30",case_extracts/BCSC/2018_BCSC_1350_rationale.png,Y,Gladue given little weight; paragraph 30 mostly about joint submission.
+BCSC,2018 BCSC 1405,"8, 9, 10, 11, 12",case_extracts/BCSC/2018_BCSC_1405_crime.png,"77, 78, 79, 80, 81, 84",case_extracts/BCSC/2018_BCSC_1405_rationale.png,Y,No victim injury; firearm possession offence.
+BCSC,2018 BCSC 1595,"6, 7, 8, 9, 10, 11, 12, 13",case_extracts/BCSC/2018_BCSC_1595_crime.png,"33, 40",case_extracts/BCSC/2018_BCSC_1595_rationale.png,Y,Court calls Gladue factors the most important mitigating circumstances; requires restraint.
+BCSC,2018 BCSC 1800,"7, 8, 9, 10, 11, 12",case_extracts/BCSC/2018_BCSC_1800_crime.png,"24, 25, 45",case_extracts/BCSC/2018_BCSC_1800_rationale.png,N,Court never states Gladue factors reduced the sentence; only that backgrounds were considered.
+BCSC,2018 BCSC 1995,"4, 5, 6",case_extracts/BCSC/2018_BCSC_1995_crime.png,"53, 54, 55, 64",case_extracts/BCSC/2018_BCSC_1995_rationale.png,Y,Court's statement of Gladue effect is brief; no victim harm in drug case.
+BCSC,2018 BCSC 2044,"24, 25, 26, 27",case_extracts/BCSC/2018_BCSC_2044_crime.png,"55, 78, 79, 80",case_extracts/BCSC/2018_BCSC_2044_rationale.png,Y,Victim initials appear in one highlight; heritage tempers but does not avoid custody.
+BCSC,2018 BCSC 2045,"19, 20, 21, 22, 23, 24, 25",case_extracts/BCSC/2018_BCSC_2045_crime.png,"46, 47, 48, 63",case_extracts/BCSC/2018_BCSC_2045_rationale.png,N,Court never links Gladue factors to reduced culpability or the suspended sentence.
+BCSC,2018 BCSC 2069,"4, 5, 6",case_extracts/BCSC/2018_BCSC_2069_crime.png,"9, 36, 37",case_extracts/BCSC/2018_BCSC_2069_rationale.png,Y,Court says highly reduced moral blameworthiness at para 36.
+BCSC,2018 BCSC 2147,"13, 14",case_extracts/BCSC/2018_BCSC_2147_crime.png,"4, 5, 7, 8",case_extracts/BCSC/2018_BCSC_2147_rationale.png,N,Facts of crime are in earlier reasons; court never says Gladue factors reduced sentence.
+BCSC,2018 BCSC 2168,"7, 8, 9, 10",case_extracts/BCSC/2018_BCSC_2168_crime.png,"23, 24, 54",case_extracts/BCSC/2018_BCSC_2168_rationale.png,Y,Crime has no victim harm; value of drugs used instead.
+BCSC,2018 BCSC 2281,"1, 2, 3",case_extracts/BCSC/2018_BCSC_2281_crime.png,"9, 10, 11",case_extracts/BCSC/2018_BCSC_2281_rationale.png,Y,Crime narrative brief; mostly sentencing commentary.
+BCSC,2018 BCSC 2392,"7, 8, 9",case_extracts/BCSC/2018_BCSC_2392_crime.png,"48, 61, 62",case_extracts/BCSC/2018_BCSC_2392_rationale.png,Y,Court's conclusion is general: sentence 'recognizes' circumstances; no explicit reduction stated.
+BCSC,2018 BCSC 2401,"6, 7",case_extracts/BCSC/2018_BCSC_2401_crime.png,"111, 112, 113, 114, 115",case_extracts/BCSC/2018_BCSC_2401_rationale.png,Y,"Non-violent breach offence; only two crime highlights available, no victim."
+BCSC,2018 BCSC 254,11,case_extracts/BCSC/2018_BCSC_254_crime.png,"46, 90",case_extracts/BCSC/2018_BCSC_254_rationale.png,Y,
+BCSC,2018 BCSC 296,"23, 24, 25",case_extracts/BCSC/2018_BCSC_296_crime.png,"9, 83, 84",case_extracts/BCSC/2018_BCSC_296_rationale.png,Y,Effect on sentence is implicit rather than an explicit reduction statement.
+BCSC,2018 BCSC 734,"6, 7, 8, 9",case_extracts/BCSC/2018_BCSC_734_crime.png,"49, 50, 51, 52, 53, 54",case_extracts/BCSC/2018_BCSC_734_rationale.png,N,Court never states effect of Gladue factors; Charter s. 12 challenge dismissed.
+BCSC,2018 BCSC 738,"9, 10, 11, 12",case_extracts/BCSC/2018_BCSC_738_crime.png,"34, 35, 36, 37, 38, 39",case_extracts/BCSC/2018_BCSC_738_rationale.png,Y,Harm is property damage only.
+BCSC,2018 BCSC 937,7,case_extracts/BCSC/2018_BCSC_937_crime.png,"11, 18",case_extracts/BCSC/2018_BCSC_937_rationale.png,Y,No victim; firearms import offence.
+BCSC,2018 BCSC 987,"31, 32, 33",case_extracts/BCSC/2018_BCSC_987_crime.png,"56, 89, 90",case_extracts/BCSC/2018_BCSC_987_rationale.png,Y,Child pornography; victim harm in para 22 not adjacent.
+BCSC,2019 BCSC 1039,"14, 15, 16",case_extracts/BCSC/2019_BCSC_1039_crime.png,"86, 87, 96",case_extracts/BCSC/2019_BCSC_1039_rationale.png,Y,
+BCSC,2019 BCSC 1363,"4, 5, 6, 7",case_extracts/BCSC/2019_BCSC_1363_crime.png,"17, 18",case_extracts/BCSC/2019_BCSC_1363_rationale.png,N,"Joint submission; court only lists factors as mitigating, no explicit culpability reduction."
+BCSC,2019 BCSC 1373,16,case_extracts/BCSC/2019_BCSC_1373_crime.png,"23, 27, 28",case_extracts/BCSC/2019_BCSC_1373_rationale.png,N,Firearm possession offence; court never states Gladue effect on sentence.
+BCSC,2019 BCSC 1399,"3, 4, 5",case_extracts/BCSC/2019_BCSC_1399_crime.png,"32, 33",case_extracts/BCSC/2019_BCSC_1399_rationale.png,N,Court says heritage recedes; no explicit reduction in culpability stated.
+BCSC,2019 BCSC 1452,"3, 4",case_extracts/BCSC/2019_BCSC_1452_crime.png,"25, 26, 27",case_extracts/BCSC/2019_BCSC_1452_rationale.png,Y,No victim impact information in decision.
+BCSC,2019 BCSC 1619,"1, 2, 3",case_extracts/BCSC/2019_BCSC_1619_crime.png,"7, 8, 55, 56, 57",case_extracts/BCSC/2019_BCSC_1619_rationale.png,Y,Suspended sentence; no victim harm described in crime paragraphs.
+BCSC,2019 BCSC 1717,"9, 10, 11",case_extracts/BCSC/2019_BCSC_1717_crime.png,"18, 67",case_extracts/BCSC/2019_BCSC_1717_rationale.png,Y,Offence is street-level fentanyl sales; no violence or victim harm described.
+BCSC,2019 BCSC 1960,"10, 11, 12, 13, 14, 15, 16, 17",case_extracts/BCSC/2019_BCSC_1960_crime.png,"42, 92, 93, 117",case_extracts/BCSC/2019_BCSC_1960_rationale.png,Y,"Offender history details are in paras 24 and 40-42, not in chosen passage."
+BCSC,2019 BCSC 2068,"4, 5",case_extracts/BCSC/2019_BCSC_2068_crime.png,"29, 30, 38",case_extracts/BCSC/2019_BCSC_2068_rationale.png,Y,"Court says factor is important and bears on voluntariness, but may not change result."
+BCSC,2019 BCSC 2084,"11, 12, 13",case_extracts/BCSC/2019_BCSC_2084_crime.png,"22, 23, 24, 49",case_extracts/BCSC/2019_BCSC_2084_rationale.png,Y,"Death of victim is in paras 17-18, outside crime passage."
+BCSC,2019 BCSC 2151,11,case_extracts/BCSC/2019_BCSC_2151_crime.png,"92, 93, 94, 102",case_extracts/BCSC/2019_BCSC_2151_rationale.png,Y,Crime passage is long (about 400 words) but only paragraph covering confinement and injuries.
+BCSC,2019 BCSC 2240,"10, 11, 12",case_extracts/BCSC/2019_BCSC_2240_crime.png,"21, 22, 23, 24, 75",case_extracts/BCSC/2019_BCSC_2240_rationale.png,N,Court never says Gladue factors reduced culpability; only gives effect via release plan.
+BCSC,2019 BCSC 229,"8, 9",case_extracts/BCSC/2019_BCSC_229_crime.png,"30, 31, 40, 41",case_extracts/BCSC/2019_BCSC_229_rationale.png,Y,Crime passage avoids graphic detail; only partial harm shown.
+BCSC,2019 BCSC 2339,"9, 10, 11, 12",case_extracts/BCSC/2019_BCSC_2339_crime.png,"53, 54, 58",case_extracts/BCSC/2019_BCSC_2339_rationale.png,Y,
+BCSC,2019 BCSC 236,2,case_extracts/BCSC/2019_BCSC_236_crime.png,"58, 67",case_extracts/BCSC/2019_BCSC_236_rationale.png,Y,"Court treats factor as weighing toward restraint, not strictly mitigating."
+BCSC,2019 BCSC 242,"3, 4, 5",case_extracts/BCSC/2019_BCSC_242_crime.png,"58, 65",case_extracts/BCSC/2019_BCSC_242_rationale.png,Y,Offence passage is sexual; highlights kept non-graphic.
+BCSC,2019 BCSC 2499,"3, 4, 5, 6",case_extracts/BCSC/2019_BCSC_2499_crime.png,"25, 26, 27, 28",case_extracts/BCSC/2019_BCSC_2499_rationale.png,Y,Court says it lacked detail on Gladue factors; 15 months instead of 18.
+BCSC,2019 BCSC 2514,"18, 19, 20",case_extracts/BCSC/2019_BCSC_2514_crime.png,"59, 79, 80",case_extracts/BCSC/2019_BCSC_2514_rationale.png,Y,
+BCSC,2019 BCSC 318,"2, 3",case_extracts/BCSC/2019_BCSC_318_crime.png,"20, 21, 50",case_extracts/BCSC/2019_BCSC_318_rationale.png,Y,Court lists background as mitigating; effect on sentence stated only generally.
+BCSC,2019 BCSC 368,"2, 3, 4",case_extracts/BCSC/2019_BCSC_368_crime.png,"31, 32",case_extracts/BCSC/2019_BCSC_368_rationale.png,Y,"Victim impact is at para 7, not adjacent to narrative."
+BCSC,2019 BCSC 396,"8, 9, 10",case_extracts/BCSC/2019_BCSC_396_crime.png,"18, 49, 50",case_extracts/BCSC/2019_BCSC_396_rationale.png,N,Appeal decision; Indigenous background only briefly listed as a mitigating factor.
+BCSC,2019 BCSC 559,"3, 4, 5",case_extracts/BCSC/2019_BCSC_559_crime.png,"81, 92, 93",case_extracts/BCSC/2019_BCSC_559_rationale.png,Y,Offender Wesley; conclusion also at para 108.
+BCSC,2019 BCSC 774,"9, 10",case_extracts/BCSC/2019_BCSC_774_crime.png,"13, 14, 42",case_extracts/BCSC/2019_BCSC_774_rationale.png,Y,
+BCSC,2020 BCSC 1139,"4, 5, 6",case_extracts/BCSC/2020_BCSC_1139_crime.png,"65, 71, 72",case_extracts/BCSC/2020_BCSC_1139_rationale.png,Y,Non-violent trafficking offence; crime highlights limited to drug sales.
+BCSC,2020 BCSC 1269,"12, 13, 14, 15",case_extracts/BCSC/2020_BCSC_1269_crime.png,"86, 87, 89",case_extracts/BCSC/2020_BCSC_1269_rationale.png,Y,
+BCSC,2020 BCSC 1395,"13, 14, 15",case_extracts/BCSC/2020_BCSC_1395_crime.png,"28, 80",case_extracts/BCSC/2020_BCSC_1395_rationale.png,Y,Also para 88 and 90 state the effect on sentence.
+BCSC,2020 BCSC 1397,"6, 7, 8, 9, 10, 11",case_extracts/BCSC/2020_BCSC_1397_crime.png,"86, 87, 90",case_extracts/BCSC/2020_BCSC_1397_rationale.png,Y,
+BCSC,2020 BCSC 1420,"9, 10",case_extracts/BCSC/2020_BCSC_1420_crime.png,"44, 50, 73, 75, 76",case_extracts/BCSC/2020_BCSC_1420_rationale.png,Y,Conclusion also at para 83 (reduced moral blameworthiness; 9 years).
+BCSC,2020 BCSC 1882,"31, 32",case_extracts/BCSC/2020_BCSC_1882_crime.png,"128, 137, 138",case_extracts/BCSC/2020_BCSC_1882_rationale.png,Y,Crime passage runs about 390 words; no shorter run covers act and injuries.
+BCSC,2020 BCSC 2086,"5, 6, 7",case_extracts/BCSC/2020_BCSC_2086_crime.png,"60, 61, 86",case_extracts/BCSC/2020_BCSC_2086_rationale.png,Y,"Indigenous offender is co-accused Franklin, not Aikman; crime is joint robberies."
+BCSC,2020 BCSC 2119,"4, 5, 6",case_extracts/BCSC/2020_BCSC_2119_crime.png,"22, 41, 42",case_extracts/BCSC/2020_BCSC_2119_rationale.png,Y,Conclusion is modest: rehabilitation weighted; no explicit culpability reduction.
+BCSC,2020 BCSC 213,"4, 5, 6",case_extracts/BCSC/2020_BCSC_213_crime.png,"100, 114",case_extracts/BCSC/2020_BCSC_213_rationale.png,Y,
+BCSC,2020 BCSC 2169,"11, 12, 13",case_extracts/BCSC/2020_BCSC_2169_crime.png,"53, 57",case_extracts/BCSC/2020_BCSC_2169_rationale.png,N,Court lists aboriginal descent as mitigating but never states its effect on culpability or sentence.
+BCSC,2020 BCSC 2218,2,case_extracts/BCSC/2020_BCSC_2218_crime.png,"10, 15, 16",case_extracts/BCSC/2020_BCSC_2218_rationale.png,Y,Crime paragraph is the long agreed statement of facts; cannot be shortened.
+BCSC,2020 BCSC 2331,"2, 3",case_extracts/BCSC/2020_BCSC_2331_crime.png,"4, 6",case_extracts/BCSC/2020_BCSC_2331_rationale.png,N,Very brief oral reasons; court never states the effect of the factor.
+BCSC,2020 BCSC 352,"5, 6, 7",case_extracts/BCSC/2020_BCSC_352_crime.png,"39, 40, 41, 42, 54",case_extracts/BCSC/2020_BCSC_352_rationale.png,Y,Crime highlights avoid graphic sexual detail; offender history is in paras 13-14.
+BCSC,2020 BCSC 536,"5, 6",case_extracts/BCSC/2020_BCSC_536_crime.png,"64, 70, 71",case_extracts/BCSC/2020_BCSC_536_rationale.png,Y,Drug and proceeds offences; no victim harm described.
+BCSC,2020 BCSC 570,"5, 6, 7",case_extracts/BCSC/2020_BCSC_570_crime.png,"27, 30, 31, 32",case_extracts/BCSC/2020_BCSC_570_rationale.png,Y,Sexual offence; graphic acts not highlighted; victim harm is in para 14.
+BCSC,2020 BCSC 884,"7, 8",case_extracts/BCSC/2020_BCSC_884_crime.png,"12, 36, 37",case_extracts/BCSC/2020_BCSC_884_rationale.png,Y,Gladue factors listed as mitigating; no explicit culpability statement.
+BCSC,2020 BCSC 907,"37, 38, 39, 40",case_extracts/BCSC/2020_BCSC_907_crime.png,"77, 78, 79, 98",case_extracts/BCSC/2020_BCSC_907_rationale.png,Y,Two offenders; Gunanoot assault on victim who died next day; joint submission.
+BCSC,2021 BCSC 1004,"3, 4, 5, 6, 7",case_extracts/BCSC/2021_BCSC_1004_crime.png,"10, 35, 39, 40",case_extracts/BCSC/2021_BCSC_1004_rationale.png,Y,
+BCSC,2021 BCSC 1194,"3, 4, 5, 6",case_extracts/BCSC/2021_BCSC_1194_crime.png,"40, 41, 46",case_extracts/BCSC/2021_BCSC_1194_rationale.png,Y,Crime highlights limited to avoid graphic sexual detail.
+BCSC,2021 BCSC 1391,"1, 2",case_extracts/BCSC/2021_BCSC_1391_crime.png,"42, 57, 58, 59",case_extracts/BCSC/2021_BCSC_1391_rationale.png,Y,Gladue treated as mitigating; effect on parole ineligibility stated in para 75.
+BCSC,2021 BCSC 1518,"9, 10, 11",case_extracts/BCSC/2021_BCSC_1518_crime.png,"12, 13, 25",case_extracts/BCSC/2021_BCSC_1518_rationale.png,Y,Gladue factors minimal; court says they lower sentence from upper end of range.
+BCSC,2021 BCSC 1563,40,case_extracts/BCSC/2021_BCSC_1563_crime.png,"84, 85, 86, 89",case_extracts/BCSC/2021_BCSC_1563_rationale.png,N,Court never states explicitly how Gladue factors changed the 18 month sentence.
+BCSC,2021 BCSC 1608,"43, 44, 45, 46, 47, 48",case_extracts/BCSC/2021_BCSC_1608_crime.png,"56, 57, 64",case_extracts/BCSC/2021_BCSC_1608_rationale.png,Y,
+BCSC,2021 BCSC 1652,"39, 40",case_extracts/BCSC/2021_BCSC_1652_crime.png,46,case_extracts/BCSC/2021_BCSC_1652_rationale.png,Y,Crime passage lacks victim effects; Gladue weight described as muted but supports controlled sentence.
+BCSC,2021 BCSC 1738,"5, 6, 7",case_extracts/BCSC/2021_BCSC_1738_crime.png,"9, 10, 50",case_extracts/BCSC/2021_BCSC_1738_rationale.png,Y,Court's reduction from nine to eight years is brief but explicit.
+BCSC,2021 BCSC 1773,"5, 6",case_extracts/BCSC/2021_BCSC_1773_crime.png,"71, 92",case_extracts/BCSC/2021_BCSC_1773_rationale.png,N,"Metis factor never clearly said to reduce sentence; effects on victims are in para 7, not included."
+BCSC,2021 BCSC 1833,"8, 9, 10",case_extracts/BCSC/2021_BCSC_1833_crime.png,"45, 73, 74",case_extracts/BCSC/2021_BCSC_1833_rationale.png,N,Court never states Gladue factors reduced culpability; relies on exceptional rehabilitation.
+BCSC,2021 BCSC 2036,"5, 6",case_extracts/BCSC/2021_BCSC_2036_crime.png,"17, 18, 50, 51, 52",case_extracts/BCSC/2021_BCSC_2036_rationale.png,Y,
+BCSC,2021 BCSC 2064,4,case_extracts/BCSC/2021_BCSC_2064_crime.png,"46, 70, 71, 72",case_extracts/BCSC/2021_BCSC_2064_rationale.png,N,Racism discussed as recommendation to parole; culpability reduction tied to mental illness only.
+BCSC,2021 BCSC 2147,"5, 6",case_extracts/BCSC/2021_BCSC_2147_crime.png,"11, 18",case_extracts/BCSC/2021_BCSC_2147_rationale.png,Y,
+BCSC,2021 BCSC 445,"1, 2, 3",case_extracts/BCSC/2021_BCSC_445_crime.png,"15, 16, 51",case_extracts/BCSC/2021_BCSC_445_rationale.png,Y,
+BCSC,2021 BCSC 528,"5, 6, 7, 8",case_extracts/BCSC/2021_BCSC_528_crime.png,"37, 40",case_extracts/BCSC/2021_BCSC_528_rationale.png,Y,Indigenous link is indirect (mother); effect stated as avoiding upper end of range.
+BCSC,2021 BCSC 597,"9, 10, 11",case_extracts/BCSC/2021_BCSC_597_crime.png,"27, 28, 98",case_extracts/BCSC/2021_BCSC_597_rationale.png,Y,
+BCSC,2021 BCSC 599,"4, 5, 6",case_extracts/BCSC/2021_BCSC_599_crime.png,"11, 95, 98, 99",case_extracts/BCSC/2021_BCSC_599_rationale.png,Y,
+BCSC,2021 BCSC 712,"2, 3",case_extracts/BCSC/2021_BCSC_712_crime.png,"4, 5, 37",case_extracts/BCSC/2021_BCSC_712_rationale.png,Y,
+BCSC,2021 BCSC 853,"6, 7, 8",case_extracts/BCSC/2021_BCSC_853_crime.png,"35, 36, 81",case_extracts/BCSC/2021_BCSC_853_rationale.png,Y,"Drug case, no victim harm; effect stated as mitigating factor in para 81."
+BCSC,2022 BCSC 1009,"10, 11",case_extracts/BCSC/2022_BCSC_1009_crime.png,"7, 12",case_extracts/BCSC/2022_BCSC_1009_rationale.png,N,Gladue factor only listed as agreed mitigating; no explicit statement of effect on sentence.
+BCSC,2022 BCSC 1015,"19, 20",case_extracts/BCSC/2022_BCSC_1015_crime.png,"17, 18, 24",case_extracts/BCSC/2022_BCSC_1015_rationale.png,Y,Victim's death only stated outside crime passage.
+BCSC,2022 BCSC 1058,"4, 5",case_extracts/BCSC/2022_BCSC_1058_crime.png,"6, 14",case_extracts/BCSC/2022_BCSC_1058_rationale.png,N,Court lists difficult childhood as mitigating but never states effect on sentence.
+BCSC,2022 BCSC 1183,"3, 4, 5",case_extracts/BCSC/2022_BCSC_1183_crime.png,"7, 43",case_extracts/BCSC/2022_BCSC_1183_rationale.png,Y,Court's recognition of difficult history is brief.
+BCSC,2022 BCSC 1394,"5, 6",case_extracts/BCSC/2022_BCSC_1394_crime.png,"11, 60",case_extracts/BCSC/2022_BCSC_1394_rationale.png,Y,Crime passage includes graphic para 5; highlights avoid sexual detail.
+BCSC,2022 BCSC 1397,"4, 5",case_extracts/BCSC/2022_BCSC_1397_crime.png,"13, 16, 33, 34",case_extracts/BCSC/2022_BCSC_1397_rationale.png,Y,Drug offence; no direct victim harm in crime passage.
+BCSC,2022 BCSC 1773,"47, 48",case_extracts/BCSC/2022_BCSC_1773_crime.png,"8, 52",case_extracts/BCSC/2022_BCSC_1773_rationale.png,Y,Narrative is para 7 (too long); used court's aggravating summary instead.
+BCSC,2022 BCSC 1972,"2, 3, 4, 5",case_extracts/BCSC/2022_BCSC_1972_crime.png,"23, 24, 33",case_extracts/BCSC/2022_BCSC_1972_rationale.png,Y,Drug trafficking; Metis descent limited info; no victim harm described.
+BCSC,2022 BCSC 2118,"4, 5, 6",case_extracts/BCSC/2022_BCSC_2118_crime.png,"59, 60, 61, 70",case_extracts/BCSC/2022_BCSC_2118_rationale.png,Y,Possible self-defence context in facts.
+BCSC,2022 BCSC 2151,"5, 6, 7",case_extracts/BCSC/2022_BCSC_2151_crime.png,"18, 72",case_extracts/BCSC/2022_BCSC_2151_rationale.png,Y,"Court denies full Gladue; weighs history as substantial mitigating factor (paras 49, 72)."
+BCSC,2022 BCSC 2199,"10, 11, 12",case_extracts/BCSC/2022_BCSC_2199_crime.png,"21, 28",case_extracts/BCSC/2022_BCSC_2199_rationale.png,Y,Rationale passage slightly over 350 words.
+BCSC,2022 BCSC 2276,"7, 8",case_extracts/BCSC/2022_BCSC_2276_crime.png,"28, 29, 30, 31, 56",case_extracts/BCSC/2022_BCSC_2276_rationale.png,Y,Court lists Métis heritage as mitigating but does not say culpability reduced.
+BCSC,2022 BCSC 2279,"6, 7, 8, 9",case_extracts/BCSC/2022_BCSC_2279_crime.png,"43, 44, 75",case_extracts/BCSC/2022_BCSC_2279_rationale.png,Y,"Court's conclusion is general: sentence somewhat less than Crown sought, reflecting Gladue principles."
+BCSC,2022 BCSC 2348,"4, 5, 6, 7, 8, 9",case_extracts/BCSC/2022_BCSC_2348_crime.png,"22, 54, 57, 64, 74",case_extracts/BCSC/2022_BCSC_2348_rationale.png,Y,Gladue listed as mitigating factor; deterrence still primary.
+BCSC,2022 BCSC 2493,"24, 25",case_extracts/BCSC/2022_BCSC_2493_crime.png,"119, 120, 122",case_extracts/BCSC/2022_BCSC_2493_rationale.png,Y,Crime passage is short; paragraph 25 has the injuries.
+BCSC,2022 BCSC 425,"39, 40",case_extracts/BCSC/2022_BCSC_425_crime.png,"23, 54, 61",case_extracts/BCSC/2022_BCSC_425_rationale.png,Y,Gladue only listed as one mitigating factor; effect on sentence not detailed.
+BCSC,2022 BCSC 641,"45, 46, 47",case_extracts/BCSC/2022_BCSC_641_crime.png,"63, 64, 81",case_extracts/BCSC/2022_BCSC_641_rationale.png,Y,
+BCSC,2022 BCSC 658,43,case_extracts/BCSC/2022_BCSC_658_crime.png,"15, 41, 57, 58",case_extracts/BCSC/2022_BCSC_658_rationale.png,Y,Crime paragraph is a bullet list of aggravating factors; death not stated there.
+BCSC,2022 BCSC 718,"5, 6, 7, 8, 9",case_extracts/BCSC/2022_BCSC_718_crime.png,"14, 33",case_extracts/BCSC/2022_BCSC_718_rationale.png,Y,Court's stated effect is brief; Indigenous heritage is through the father.
+BCSC,2023 BCSC 1026,"3, 4, 5",case_extracts/BCSC/2023_BCSC_1026_crime.png,"74, 75, 76, 91",case_extracts/BCSC/2023_BCSC_1026_rationale.png,Y,"Crime passage has little victim harm; harm is in para 66, not adjacent."
+BCSC,2023 BCSC 1031,"19, 20, 21, 22",case_extracts/BCSC/2023_BCSC_1031_crime.png,"96, 139, 218, 246",case_extracts/BCSC/2023_BCSC_1031_rationale.png,Y,Two offenders; rationale is about Abdullahi. Principle on discrimination in paras 236 not included.
+BCSC,2023 BCSC 1273,"13, 14, 15",case_extracts/BCSC/2023_BCSC_1273_crime.png,"25, 26, 30",case_extracts/BCSC/2023_BCSC_1273_rationale.png,N,Court only says Gladue considered; never states effect on sentence.
+BCSC,2023 BCSC 1722,"2, 3",case_extracts/BCSC/2023_BCSC_1722_crime.png,"37, 43",case_extracts/BCSC/2023_BCSC_1722_rationale.png,Y,Court stresses Gladue effect is limited; no direct residential school trauma.
+BCSC,2023 BCSC 1742,"12, 13, 14, 15, 16, 17, 18",case_extracts/BCSC/2023_BCSC_1742_crime.png,"85, 86, 87, 97, 98, 99, 100",case_extracts/BCSC/2023_BCSC_1742_rationale.png,Y,
+BCSC,2023 BCSC 1810,"29, 30, 31",case_extracts/BCSC/2023_BCSC_1810_crime.png,"42, 45, 46, 111, 126",case_extracts/BCSC/2023_BCSC_1810_rationale.png,Y,"No Gladue report; drug and firearm offence, no direct violence."
+BCSC,2023 BCSC 1876,"8, 9, 10",case_extracts/BCSC/2023_BCSC_1876_crime.png,"14, 15, 19",case_extracts/BCSC/2023_BCSC_1876_rationale.png,Y,Assessment not before court; conclusion about Hassan is brief and general.
+BCSC,2023 BCSC 2126,25,case_extracts/BCSC/2023_BCSC_2126_crime.png,"6, 7, 8, 28",case_extracts/BCSC/2023_BCSC_2126_rationale.png,Y,Facts are in an empty appendix; para 25 aggravating list used for crime.
+BCSC,2023 BCSC 2236,"6, 7",case_extracts/BCSC/2023_BCSC_2236_crime.png,"16, 31, 32",case_extracts/BCSC/2023_BCSC_2236_rationale.png,Y,
+BCSC,2023 BCSC 2288,"5, 6, 7, 8",case_extracts/BCSC/2023_BCSC_2288_crime.png,"56, 71",case_extracts/BCSC/2023_BCSC_2288_rationale.png,Y,
+BCSC,2023 BCSC 2308,"1, 2",case_extracts/BCSC/2023_BCSC_2308_crime.png,"7, 11",case_extracts/BCSC/2023_BCSC_2308_rationale.png,N,Court links background to offending but never states effect on sentence or culpability.
+BCSC,2023 BCSC 2309,"6, 7, 8",case_extracts/BCSC/2023_BCSC_2309_crime.png,"11, 12, 31, 36",case_extracts/BCSC/2023_BCSC_2309_rationale.png,Y,Effect is modest: moral blameworthiness only slightly attenuated.
+BCSC,2023 BCSC 2342,"13, 14",case_extracts/BCSC/2023_BCSC_2342_crime.png,"67, 68, 115",case_extracts/BCSC/2023_BCSC_2342_rationale.png,Y,
+BCSC,2023 BCSC 2474,"14, 15, 16",case_extracts/BCSC/2023_BCSC_2474_crime.png,"36, 86, 87, 145",case_extracts/BCSC/2023_BCSC_2474_rationale.png,Y,Victim harm evidence limited; crime passage covers final incident.
+BCSC,2023 BCSC 377,"1, 2",case_extracts/BCSC/2023_BCSC_377_crime.png,"7, 23, 24, 27",case_extracts/BCSC/2023_BCSC_377_rationale.png,Y,
+BCSC,2023 BCSC 671,"16, 17, 18",case_extracts/BCSC/2023_BCSC_671_crime.png,"43, 88, 89, 90, 91, 92",case_extracts/BCSC/2023_BCSC_671_rationale.png,Y,Joint submission accepted; court says Gladue factors shaped balance of sentence.
+BCSC,2023 BCSC 688,"27, 28, 29",case_extracts/BCSC/2023_BCSC_688_crime.png,"69, 70, 74",case_extracts/BCSC/2023_BCSC_688_rationale.png,N,Offender not relying on s. 718.2(e); Gladue report used only as background; no stated effect on sentence.
+BCSC,2023 BCSC 753,"3, 4",case_extracts/BCSC/2023_BCSC_753_crime.png,"21, 23, 24",case_extracts/BCSC/2023_BCSC_753_rationale.png,Y,Conclusion is only implicit: factors called important and mitigating; no explicit culpability statement.
+BCSC,2023 BCSC 85,"4, 5",case_extracts/BCSC/2023_BCSC_85_crime.png,"66, 67, 69",case_extracts/BCSC/2023_BCSC_85_rationale.png,Y,No victim harm; court says Gladue weight limited but applied.
+BCSC,2023 BCSC 876,"18, 19, 20, 21",case_extracts/BCSC/2023_BCSC_876_crime.png,"41, 42, 43",case_extracts/BCSC/2023_BCSC_876_rationale.png,Y,Brief Gladue treatment; only says it is a mitigating factor.
+BCSC,2023 BCSC 999,"9, 10, 11, 12, 13",case_extracts/BCSC/2023_BCSC_999_crime.png,"138, 139, 140",case_extracts/BCSC/2023_BCSC_999_rationale.png,Y,"Death of victim described in paras 20-22, outside crime passage."
+BCSC,2024 BCSC 1022,"22, 23, 24",case_extracts/BCSC/2024_BCSC_1022_crime.png,"59, 60, 61, 73",case_extracts/BCSC/2024_BCSC_1022_rationale.png,Y,Crime passage lacks victim death; death described in paras 27-28.
+BCSC,2024 BCSC 1055,"12, 13, 14, 15",case_extracts/BCSC/2024_BCSC_1055_crime.png,"24, 25, 51, 52",case_extracts/BCSC/2024_BCSC_1055_rationale.png,N,Court says it may consider trauma for culpability; never states reduction.
+BCSC,2024 BCSC 1099,"12, 13, 14, 15",case_extracts/BCSC/2024_BCSC_1099_crime.png,"82, 83, 84, 92",case_extracts/BCSC/2024_BCSC_1099_rationale.png,Y,Firearms case without victim; crime highlights are acts of possession and flight.
+BCSC,2024 BCSC 1103,3,case_extracts/BCSC/2024_BCSC_1103_crime.png,"36, 41, 42",case_extracts/BCSC/2024_BCSC_1103_rationale.png,N,Court names heritage as important factor but never states its effect on sentence.
+BCSC,2024 BCSC 1191,"8, 9, 10",case_extracts/BCSC/2024_BCSC_1191_crime.png,"17, 26",case_extracts/BCSC/2024_BCSC_1191_rationale.png,Y,Two offenders sentenced together; crime passage is agreed facts on child abuse.
+BCSC,2024 BCSC 1204,"12, 13",case_extracts/BCSC/2024_BCSC_1204_crime.png,"119, 120, 123",case_extracts/BCSC/2024_BCSC_1204_rationale.png,Y,
+BCSC,2024 BCSC 1278,"6, 7",case_extracts/BCSC/2024_BCSC_1278_crime.png,"32, 33, 34, 35",case_extracts/BCSC/2024_BCSC_1278_rationale.png,Y,"Victim injuries are only in para 17, not consecutive with narrative."
+BCSC,2024 BCSC 1313,4,case_extracts/BCSC/2024_BCSC_1313_crime.png,"56, 57, 58, 59, 73, 74",case_extracts/BCSC/2024_BCSC_1313_rationale.png,Y,Victim impact statement absent; harm not described in court narrative.
+BCSC,2024 BCSC 1325,"8, 9, 10, 11",case_extracts/BCSC/2024_BCSC_1325_crime.png,"35, 36, 38",case_extracts/BCSC/2024_BCSC_1325_rationale.png,Y,"Victim harm is in para 17, not consecutive with narrative."
+BCSC,2024 BCSC 1821,"8, 9",case_extracts/BCSC/2024_BCSC_1821_crime.png,"63, 64, 65, 77, 78",case_extracts/BCSC/2024_BCSC_1821_rationale.png,Y,Conclusion is that mitigation shapes length within range.
+BCSC,2024 BCSC 2177,"15, 16, 17",case_extracts/BCSC/2024_BCSC_2177_crime.png,"72, 76",case_extracts/BCSC/2024_BCSC_2177_rationale.png,Y,Crime passage lacks victim-impact; effect stated at para 69 and 20.
+BCSC,2024 BCSC 2220,"5, 6, 7, 8",case_extracts/BCSC/2024_BCSC_2220_crime.png,"37, 38, 54, 55",case_extracts/BCSC/2024_BCSC_2220_rationale.png,Y,
+BCSC,2024 BCSC 2355,"4, 5, 6",case_extracts/BCSC/2024_BCSC_2355_crime.png,"12, 15, 16",case_extracts/BCSC/2024_BCSC_2355_rationale.png,N,Court never states the Gladue factors reduced the sentence; joint submission accepted.
+BCSC,2024 BCSC 238,"7, 8",case_extracts/BCSC/2024_BCSC_238_crime.png,"89, 92, 93",case_extracts/BCSC/2024_BCSC_238_rationale.png,Y,Cherokee heritage; disconnection; conclusion at para 93.
+BCSC,2024 BCSC 2386,"5, 6",case_extracts/BCSC/2024_BCSC_2386_crime.png,"9, 10",case_extracts/BCSC/2024_BCSC_2386_rationale.png,N,Court never states the factors reduced culpability or affected the sentence.
+BCSC,2024 BCSC 397,"4, 5, 6",case_extracts/BCSC/2024_BCSC_397_crime.png,"8, 14, 15, 16",case_extracts/BCSC/2024_BCSC_397_rationale.png,N,Court never states Gladue effect on sentence; joint submission accepted.
+BCSC,2024 BCSC 545,7,case_extracts/BCSC/2024_BCSC_545_crime.png,"72, 75, 76, 77",case_extracts/BCSC/2024_BCSC_545_rationale.png,Y,Mitigation stated briefly; extent not quantified.
+BCSC,2024 BCSC 575,"11, 12, 13, 14",case_extracts/BCSC/2024_BCSC_575_crime.png,"22, 79, 81, 82",case_extracts/BCSC/2024_BCSC_575_rationale.png,Y,Crime passage is sexual assault; kept to non-graphic parts.
+BCSC,2024 BCSC 626,"9, 10, 11",case_extracts/BCSC/2024_BCSC_626_crime.png,"25, 55, 56",case_extracts/BCSC/2024_BCSC_626_rationale.png,Y,Crime passage has little victim-effect text; effects are in later paras 35-37.
+BCSC,2024 BCSC 876,"4, 5, 6",case_extracts/BCSC/2024_BCSC_876_crime.png,"7, 8, 12",case_extracts/BCSC/2024_BCSC_876_rationale.png,Y,Court treats unfortunate upbringing as mitigating; joint submission accepted.
+BCSC,2024 BCSC 878,"10, 11, 12, 13, 14, 15",case_extracts/BCSC/2024_BCSC_878_crime.png,"24, 32",case_extracts/BCSC/2024_BCSC_878_rationale.png,Y,Intergenerational trauma is brief; lower blameworthiness rests on all circumstances combined.
+BCSC,2024 BCSC 947,"40, 41, 42, 43, 44, 45",case_extracts/BCSC/2024_BCSC_947_crime.png,"63, 114, 115, 116, 142, 143",case_extracts/BCSC/2024_BCSC_947_rationale.png,Y,
+BCSC,2025 BCSC 1173,"6, 7, 8",case_extracts/BCSC/2025_BCSC_1173_crime.png,"86, 90",case_extracts/BCSC/2025_BCSC_1173_rationale.png,Y,Court finds no significant culpability reduction but applies restraint; passage 6-8 avoids graphic detail
+BCSC,2025 BCSC 121,10,case_extracts/BCSC/2025_BCSC_121_crime.png,"17, 18, 19, 20, 21, 22",case_extracts/BCSC/2025_BCSC_121_rationale.png,N,Court accepts racism context; never says it reduces culpability; para 10 is long.
+BCSC,2025 BCSC 1296,8,case_extracts/BCSC/2025_BCSC_1296_crime.png,"32, 33, 34, 44",case_extracts/BCSC/2025_BCSC_1296_rationale.png,Y,Gladue factors only listed as a mitigating factor; para 8 is long (~420 words).
+BCSC,2025 BCSC 1414,"9, 10, 11, 12, 13",case_extracts/BCSC/2025_BCSC_1414_crime.png,"76, 77, 82",case_extracts/BCSC/2025_BCSC_1414_rationale.png,Y,
+BCSC,2025 BCSC 1575,"2, 3",case_extracts/BCSC/2025_BCSC_1575_crime.png,"51, 52, 96",case_extracts/BCSC/2025_BCSC_1575_rationale.png,N,Court says Gladue factors cannot outweigh denunciation; no clear reduction stated; no narrative of acts nearby.
+BCSC,2025 BCSC 1980,"8, 9, 10",case_extracts/BCSC/2025_BCSC_1980_crime.png,"70, 90",case_extracts/BCSC/2025_BCSC_1980_rationale.png,Y,
+BCSC,2025 BCSC 2302,"2, 3, 4",case_extracts/BCSC/2025_BCSC_2302_crime.png,"37, 38, 46",case_extracts/BCSC/2025_BCSC_2302_rationale.png,Y,Court's stated effect is mitigating factor (para 36) and rehabilitation; joint submission accepted.
+BCSC,2025 BCSC 232,80,case_extracts/BCSC/2025_BCSC_232_crime.png,"85, 86, 87, 115",case_extracts/BCSC/2025_BCSC_232_rationale.png,Y,
+BCSC,2025 BCSC 2353,"4, 5, 6, 7, 8",case_extracts/BCSC/2025_BCSC_2353_crime.png,"10, 41",case_extracts/BCSC/2025_BCSC_2353_rationale.png,Y,No Gladue report; Indigenous ancestry unconfirmed.
+BCSC,2025 BCSC 2395,"6, 7, 8, 9",case_extracts/BCSC/2025_BCSC_2395_crime.png,"16, 74, 75, 76, 77",case_extracts/BCSC/2025_BCSC_2395_rationale.png,Y,"Victim impact is in para 13, outside the crime passage."
+BCSC,2025 BCSC 2418,3,case_extracts/BCSC/2025_BCSC_2418_crime.png,"22, 26, 27, 34",case_extracts/BCSC/2025_BCSC_2418_rationale.png,Y,"Crime passage is one long agreed-facts paragraph, over 300 words."
+BCSC,2025 BCSC 2460,"8, 9, 10, 11",case_extracts/BCSC/2025_BCSC_2460_crime.png,"40, 41, 42, 95",case_extracts/BCSC/2025_BCSC_2460_rationale.png,Y,
+BCSC,2025 BCSC 2545,"7, 8, 9, 10",case_extracts/BCSC/2025_BCSC_2545_crime.png,"79, 80, 81",case_extracts/BCSC/2025_BCSC_2545_rationale.png,N,Court notes Gladue factors but never states a clear reduction in culpability.
+BCSC,2025 BCSC 2550,"3, 4",case_extracts/BCSC/2025_BCSC_2550_crime.png,"5, 19, 20, 21",case_extracts/BCSC/2025_BCSC_2550_rationale.png,Y,Court calls personal and Gladue circumstances significant mitigating factors; no harm to victims described.
+BCSC,2025 BCSC 2574,"30, 31, 32",case_extracts/BCSC/2025_BCSC_2574_crime.png,"149, 150, 152",case_extracts/BCSC/2025_BCSC_2574_rationale.png,Y,Co-offender Buitenweg also discussed; extract focuses on McWilliams.
+BCSC,2025 BCSC 2616,"4, 5, 6, 7",case_extracts/BCSC/2025_BCSC_2616_crime.png,"92, 100, 101",case_extracts/BCSC/2025_BCSC_2616_rationale.png,Y,
+BCSC,2025 BCSC 2643,"20, 21, 22, 23",case_extracts/BCSC/2025_BCSC_2643_crime.png,"30, 31, 93",case_extracts/BCSC/2025_BCSC_2643_rationale.png,N,Court never discusses Gladue factors in detail; only a passing reference in para 93.
+BCSC,2025 BCSC 2651,"2, 3, 4, 5",case_extracts/BCSC/2025_BCSC_2651_crime.png,"29, 36, 37",case_extracts/BCSC/2025_BCSC_2651_rationale.png,Y,
+BCSC,2025 BCSC 2666,"8, 9, 10, 11",case_extracts/BCSC/2025_BCSC_2666_crime.png,"107, 111, 112, 113, 114, 115",case_extracts/BCSC/2025_BCSC_2666_rationale.png,N,Court finds Gladue factors operative but never states effect on culpability; crime narrative is brief.
+BCSC,2025 BCSC 394,"15, 16",case_extracts/BCSC/2025_BCSC_394_crime.png,"61, 62, 65",case_extracts/BCSC/2025_BCSC_394_rationale.png,Y,Court then says denunciation and deterrence still require a strong sentence.
+BCSC,2025 BCSC 405,"8, 9",case_extracts/BCSC/2025_BCSC_405_crime.png,35,case_extracts/BCSC/2025_BCSC_405_rationale.png,Y,Crime passage lacks victim effects (para 11 not adjacent); mitigation only slight.
+BCSC,2025 BCSC 416,"8, 9, 10, 11",case_extracts/BCSC/2025_BCSC_416_crime.png,70,case_extracts/BCSC/2025_BCSC_416_rationale.png,Y,Court adopts earlier judge's Gladue findings; ultimately stresses denunciation and deterrence.
+BCSC,2025 BCSC 539,"5, 6",case_extracts/BCSC/2025_BCSC_539_crime.png,"11, 26",case_extracts/BCSC/2025_BCSC_539_rationale.png,Y,Joint submission case; IRCA described in para 11.
+BCSC,2025 BCSC 735,"139, 140",case_extracts/BCSC/2025_BCSC_735_crime.png,"171, 172, 173, 174, 183",case_extracts/BCSC/2025_BCSC_735_rationale.png,Y,Crime facts in para 12 too long; used aggravating-factors summary.
+BCSC,2025 BCSC 759,"8, 9, 10",case_extracts/BCSC/2025_BCSC_759_crime.png,"79, 85",case_extracts/BCSC/2025_BCSC_759_rationale.png,Y,"No Gladue report; Indigenous heritage claimed, connection nebulous."
+BCSC,2025 BCSC 944,"11, 12",case_extracts/BCSC/2025_BCSC_944_crime.png,"56, 57, 62",case_extracts/BCSC/2025_BCSC_944_rationale.png,Y,Court says Gladue lowered sentence toward the low end of range.
+BCSC,2026 BCSC 1035,4,case_extracts/BCSC/2026_BCSC_1035_crime.png,"22, 23, 38",case_extracts/BCSC/2026_BCSC_1035_rationale.png,Y,Effect also stated at para 49; victim death only in para 1 and 4.
+BCSC,2026 BCSC 1107,"17, 18, 19, 20, 21",case_extracts/BCSC/2026_BCSC_1107_crime.png,"93, 94, 95, 103",case_extracts/BCSC/2026_BCSC_1107_rationale.png,Y,Effect on sentence stated but not quantified.
+BCSC,2026 BCSC 1113,"13, 14, 15, 16, 17",case_extracts/BCSC/2026_BCSC_1113_crime.png,"40, 41, 42, 43, 61",case_extracts/BCSC/2026_BCSC_1113_rationale.png,Y,Court's conclusion is brief: factors support the joint submission of 10 years parole ineligibility.
+BCSC,2026 BCSC 1120,"3, 4",case_extracts/BCSC/2026_BCSC_1120_crime.png,"26, 28, 33, 34",case_extracts/BCSC/2026_BCSC_1120_rationale.png,Y,Court stresses colonial harm does not remove his personal responsibility.
+BCSC,2026 BCSC 1146,"13, 14, 15, 16, 17, 18",case_extracts/BCSC/2026_BCSC_1146_crime.png,"36, 37, 70, 71",case_extracts/BCSC/2026_BCSC_1146_rationale.png,Y,
+BCSC,2026 BCSC 1157,"7, 8, 9, 10",case_extracts/BCSC/2026_BCSC_1157_crime.png,"63, 64, 77, 78",case_extracts/BCSC/2026_BCSC_1157_rationale.png,Y,
+BCSC,2026 BCSC 1207,"18, 19, 20, 21, 22",case_extracts/BCSC/2026_BCSC_1207_crime.png,"76, 77, 103, 104",case_extracts/BCSC/2026_BCSC_1207_rationale.png,Y,"Victim harm is in paras 62-63, not adjacent to narrative."
+BCSC,2026 BCSC 1289,"18, 19, 20, 21, 22",case_extracts/BCSC/2026_BCSC_1289_crime.png,"76, 77, 82, 83",case_extracts/BCSC/2026_BCSC_1289_rationale.png,Y,Court accepts racism as relevant but finds responsibility still high.
+BCSC,2026 BCSC 1292,"11, 12, 13, 14",case_extracts/BCSC/2026_BCSC_1292_crime.png,"108, 112",case_extracts/BCSC/2026_BCSC_1292_rationale.png,Y,Offence facts are in earlier trial reasons; crime passage is brief.
+BCSC,2026 BCSC 1329,3,case_extracts/BCSC/2026_BCSC_1329_crime.png,"54, 55, 56, 61",case_extracts/BCSC/2026_BCSC_1329_rationale.png,Y,Crime paragraph 3 is long (agreed facts); no other narrative paragraph.
+BCSC,2026 BCSC 1377,"12, 13, 14, 15",case_extracts/BCSC/2026_BCSC_1377_crime.png,"78, 80, 81",case_extracts/BCSC/2026_BCSC_1377_rationale.png,Y,
+BCSC,2026 BCSC 142,"4, 5, 6, 7",case_extracts/BCSC/2026_BCSC_142_crime.png,"33, 37, 38, 39",case_extracts/BCSC/2026_BCSC_142_rationale.png,N,Court finds only some explanation; never states reduced culpability or sentence effect.
+BCSC,2026 BCSC 1446,"2, 3, 4",case_extracts/BCSC/2026_BCSC_1446_crime.png,"72, 73, 74, 81, 82",case_extracts/BCSC/2026_BCSC_1446_rationale.png,Y,
+BCSC,2026 BCSC 1477,"124, 125",case_extracts/BCSC/2026_BCSC_1477_crime.png,"126, 127, 137, 138",case_extracts/BCSC/2026_BCSC_1477_rationale.png,Y,Manslaughter by omission; facts of injuries from agreed statement.
+BCSC,2026 BCSC 1574,"4, 5",case_extracts/BCSC/2026_BCSC_1574_crime.png,"8, 9, 37",case_extracts/BCSC/2026_BCSC_1574_rationale.png,Y,
+BCSC,2026 BCSC 170,"9, 10, 11",case_extracts/BCSC/2026_BCSC_170_crime.png,"24, 59, 123, 124, 125, 126",case_extracts/BCSC/2026_BCSC_170_rationale.png,Y,Para 140 also restates the reduction in blameworthiness.
+BCSC,2026 BCSC 1732,"14, 15, 16, 17, 18, 19",case_extracts/BCSC/2026_BCSC_1732_crime.png,"73, 74, 77, 78, 95",case_extracts/BCSC/2026_BCSC_1732_rationale.png,Y,Para 110 also states culpability is reduced.
+BCSC,2026 BCSC 1767,"6, 7",case_extracts/BCSC/2026_BCSC_1767_crime.png,"18, 28",case_extracts/BCSC/2026_BCSC_1767_rationale.png,Y,Crime highlights avoid graphic sexual detail.
+BCSC,2026 BCSC 1783,"4, 5, 6, 7",case_extracts/BCSC/2026_BCSC_1783_crime.png,"78, 79, 80, 81",case_extracts/BCSC/2026_BCSC_1783_rationale.png,Y,
+BCSC,2026 BCSC 193,"10, 11, 12, 13",case_extracts/BCSC/2026_BCSC_193_crime.png,32,case_extracts/BCSC/2026_BCSC_193_rationale.png,N,Court only says Indigenous status is considered; no stated effect on culpability or sentence.
+BCSC,2026 BCSC 2194,"4, 5",case_extracts/BCSC/2026_BCSC_2194_crime.png,"12, 35, 36, 60",case_extracts/BCSC/2026_BCSC_2194_rationale.png,Y,
+BCSC,2026 BCSC 248,"11, 12, 13",case_extracts/BCSC/2026_BCSC_248_crime.png,"51, 61",case_extracts/BCSC/2026_BCSC_248_rationale.png,Y,No Gladue report; general-level consideration only.
+BCSC,2026 BCSC 322,"8, 9",case_extracts/BCSC/2026_BCSC_322_crime.png,"28, 29, 51",case_extracts/BCSC/2026_BCSC_322_rationale.png,Y,Effect is partial offset of aggravation in parole ineligibility.
+BCSC,2026 BCSC 342,11,case_extracts/BCSC/2026_BCSC_342_crime.png,"38, 46",case_extracts/BCSC/2026_BCSC_342_rationale.png,Y,"Victim impact is in paras 17 and 35, not adjacent to narrative."
+BCSC,2026 BCSC 377,"15, 16, 17",case_extracts/BCSC/2026_BCSC_377_crime.png,"43, 44, 82, 83",case_extracts/BCSC/2026_BCSC_377_rationale.png,Y,Court's conclusion on Gladue effect is general; para 106 notes childhood impact.
+BCSC,2026 BCSC 591,"6, 7, 8",case_extracts/BCSC/2026_BCSC_591_crime.png,"153, 191",case_extracts/BCSC/2026_BCSC_591_rationale.png,Y,
+BCSC,2026 BCSC 787,"18, 19, 20, 21, 22",case_extracts/BCSC/2026_BCSC_787_crime.png,"43, 57, 58, 59",case_extracts/BCSC/2026_BCSC_787_rationale.png,Y,
+BCSC,2026 BCSC 856,"2, 3, 4",case_extracts/BCSC/2026_BCSC_856_crime.png,"12, 13, 14",case_extracts/BCSC/2026_BCSC_856_rationale.png,Y,
+BCSC,2026 BCSC 948,"9, 10",case_extracts/BCSC/2026_BCSC_948_crime.png,"70, 75",case_extracts/BCSC/2026_BCSC_948_rationale.png,Y,Court says factors impact moral blameworthiness; no explicit reduction statement.
+NLCA,2013 NLCA 2,39,case_extracts/NLCA/2013_NLCA_2_crime.png,"36, 40, 41",case_extracts/NLCA/2013_NLCA_2_rationale.png,N,Appeal on Crown discretion; no narrative of offence beyond para 39; no culpability reduction stated.
+NLCA,2018 NLCA 41,"4, 5, 6, 7",case_extracts/NLCA/2018_NLCA_41_crime.png,"43, 44, 48",case_extracts/NLCA/2018_NLCA_41_rationale.png,Y,Stabbing narrative sits inside quoted trial judge text; paras 4-7 slightly long.
+NLCA,2020 NLCA 30,"2, 3",case_extracts/NLCA/2020_NLCA_30_crime.png,"23, 34",case_extracts/NLCA/2020_NLCA_30_rationale.png,Y,Appeal court; Gladue weight stated briefly in para 34.
+NLCA,2026 NLCA 2,"36, 37",case_extracts/NLCA/2026_NLCA_2_crime.png,"38, 41",case_extracts/NLCA/2026_NLCA_2_rationale.png,Y,Appeal court only summarises sentencing judge; Gladue history not detailed.
+NSCA,2008 NSCA 110,3,case_extracts/NSCA/2008_NSCA_110_crime.png,"8, 10, 11",case_extracts/NSCA/2008_NSCA_110_rationale.png,Y,Appeal court finds Gladue factors only weakly engaged; early deprivation treated as mitigating.
+NSCA,2009 NSCA 7,"7, 8",case_extracts/NSCA/2009_NSCA_7_crime.png,"41, 42",case_extracts/NSCA/2009_NSCA_7_rationale.png,Y,Little detail of the offender's Indigenous background; effect stated only as avoiding federal penitentiary.
+NSCA,2018 NSCA 65,"3, 4",case_extracts/NSCA/2018_NSCA_65_crime.png,"8, 9",case_extracts/NSCA/2018_NSCA_65_rationale.png,N,Appeal only on remand credit; court never states effect of Gladue or IRCA factors.
+NSCA,2019 NSCA 36,6,case_extracts/NSCA/2019_NSCA_36_crime.png,"10, 42",case_extracts/NSCA/2019_NSCA_36_rationale.png,N,Gladue effect only weakly stated; para 35 too long to include
+NSCA,2021 NSCA 36,"126, 127, 128",case_extracts/NSCA/2021_NSCA_36_crime.png,"22, 92",case_extracts/NSCA/2021_NSCA_36_rationale.png,N,Appeal court only infers effect; no IRCA before sentencing judge
+NSCA,2021 NSCA 62,"15, 16, 17",case_extracts/NSCA/2021_NSCA_62_crime.png,"101, 145, 146",case_extracts/NSCA/2021_NSCA_62_rationale.png,Y,Crime narrative is thin; no victim harm in facts
+NSCA,2023 NSCA 53,"4, 5",case_extracts/NSCA/2023_NSCA_53_crime.png,"90, 105",case_extracts/NSCA/2023_NSCA_53_rationale.png,Y,No victim harm; offence is displaying an Airsoft gun and possessing a sawed-off rifle.
+NSCA,2023 NSCA 58,"7, 8, 9, 10, 11",case_extracts/NSCA/2023_NSCA_58_crime.png,"106, 107, 112",case_extracts/NSCA/2023_NSCA_58_rationale.png,Y,"Majority upholds the trial judge's reasoning, quoted in paras 107 and 112."
+NSCA,2024 NSCA 59,"10, 11",case_extracts/NSCA/2024_NSCA_59_crime.png,"81, 107, 108, 109",case_extracts/NSCA/2024_NSCA_59_rationale.png,Y,Crime passage includes agreed facts; victim named in source but not highlighted.
+NSCA,2025 NSCA 39,"1, 2",case_extracts/NSCA/2025_NSCA_39_crime.png,"76, 77, 78, 79",case_extracts/NSCA/2025_NSCA_39_rationale.png,Y,"Appeal court describes trial judge's use of IRCA; no harm to victims, firearm offence."
+NSCA,2026 NSCA 11,"16, 17, 18",case_extracts/NSCA/2026_NSCA_11_crime.png,"45, 47",case_extracts/NSCA/2026_NSCA_11_rationale.png,Y,Sentencing judge's reasons; appeal court later found he failed to explain effect.
+NSCA,2026 NSCA 36,"47, 48, 49",case_extracts/NSCA/2026_NSCA_36_crime.png,"72, 89, 90",case_extracts/NSCA/2026_NSCA_36_rationale.png,Y,"Crown appeal; court describes trial judge's IRCA use, then substitutes 4 years."
+NSPC,2006 NSPC 67,"2, 3",case_extracts/NSPC/2006_NSPC_67_crime.png,"18, 35",case_extracts/NSPC/2006_NSPC_67_rationale.png,Y,Gladue factors weighed but custody imposed
+NSPC,2008 NSPC 58,"8, 9",case_extracts/NSPC/2008_NSPC_58_crime.png,"50, 76",case_extracts/NSPC/2008_NSPC_58_rationale.png,Y,Conditional sentence imposed; Gladue effect stated in para 76
+NSPC,2009 NSPC 28,"1, 2",case_extracts/NSPC/2009_NSPC_28_crime.png,"5, 25",case_extracts/NSPC/2009_NSPC_28_rationale.png,Y,Very brief Gladue treatment; only para 5 addresses it
+NSPC,2009 NSPC 46,"2, 3, 4",case_extracts/NSPC/2009_NSPC_46_crime.png,"13, 15, 16, 18",case_extracts/NSPC/2009_NSPC_46_rationale.png,Y,"Gladue used to support a conditional discharge, not causal."
+NSPC,2012 NSPC 104,"90, 91, 92",case_extracts/NSPC/2012_NSPC_104_crime.png,"9, 99, 100, 101, 118",case_extracts/NSPC/2012_NSPC_104_rationale.png,Y,"Young person; manslaughter, party to break-in where Gallant killed victim."
+NSPC,2013 NSPC 46,"6, 7, 8",case_extracts/NSPC/2013_NSPC_46_crime.png,"3, 4, 5",case_extracts/NSPC/2013_NSPC_46_rationale.png,Y,"Very brief Gladue treatment; no victim harm described, property offence."
+NSPC,2013 NSPC 99,,,,,N,No numbered paragraphs in the decision text; nothing to extract.
+NSPC,2014 NSPC 103,1,case_extracts/NSPC/2014_NSPC_103_crime.png,"2, 3, 5",case_extracts/NSPC/2014_NSPC_103_rationale.png,N,No narrative of the offence; court only says joint submission accounts for status.
+NSPC,2014 NSPC 107,8,case_extracts/NSPC/2014_NSPC_107_crime.png,"4, 5, 9",case_extracts/NSPC/2014_NSPC_107_rationale.png,N,No narrative of the offences beyond para 8; court never states effect on sentence.
+NSPC,2014 NSPC 86,3,case_extracts/NSPC/2014_NSPC_86_crime.png,"14, 22",case_extracts/NSPC/2014_NSPC_86_rationale.png,N,Court never clearly states Gladue reduced sentence; only heightened consideration.
+NSPC,2015 NSPC 81,"11, 12, 13, 14",case_extracts/NSPC/2015_NSPC_81_crime.png,"117, 147",case_extracts/NSPC/2015_NSPC_81_rationale.png,Y,Crime passage somewhat over 300 words.
+NSPC,2015 NSPC 82,"11, 12, 13, 14",case_extracts/NSPC/2015_NSPC_82_crime.png,"101, 121",case_extracts/NSPC/2015_NSPC_82_rationale.png,Y,Crime passage somewhat over 300 words.
+NSPC,2015 NSPC 83,,,,,N,Court says context matters but imposes same sentence as co-accused; no stated reduction.
+NSPC,2016 NSPC 25,"1, 2",case_extracts/NSPC/2016_NSPC_25_crime.png,"13, 14, 15, 21",case_extracts/NSPC/2016_NSPC_25_rationale.png,Y,Refusal offence; crime passage has no harm to a victim.
+NSPC,2016 NSPC 30,"9, 10, 11",case_extracts/NSPC/2016_NSPC_30_crime.png,"27, 38",case_extracts/NSPC/2016_NSPC_30_rationale.png,Y,Court's conclusion brief; later para 88 also cites Gladue factors in setting lower end.
+NSPC,2016 NSPC 68,"24, 25",case_extracts/NSPC/2016_NSPC_68_crime.png,"62, 95",case_extracts/NSPC/2016_NSPC_68_rationale.png,Y,Non-violent property crime; no formal Gladue report; effect on sentence stated briefly.
+NSPC,2016 NSPC 83,3,case_extracts/NSPC/2016_NSPC_83_crime.png,"8, 35, 36, 38, 45",case_extracts/NSPC/2016_NSPC_83_rationale.png,Y,Crime paragraph is a bare list of charges; victim impact is in para 32.
+NSPC,2017 NSPC 48,"6, 7",case_extracts/NSPC/2017_NSPC_48_crime.png,"76, 77, 80",case_extracts/NSPC/2017_NSPC_48_rationale.png,Y,Culpability statement is in para 68; passage shows effect on sentence in para 80.
+NSPC,2017 NSPC 55,"5, 6",case_extracts/NSPC/2017_NSPC_55_crime.png,"26, 54, 55, 56",case_extracts/NSPC/2017_NSPC_55_rationale.png,N,Small drug sale; crime passage short; court never says racism reduced culpability.
+NSPC,2018 NSPC 14,"40, 41",case_extracts/NSPC/2018_NSPC_14_crime.png,"136, 187",case_extracts/NSPC/2018_NSPC_14_rationale.png,Y,"Adult versus youth sentence decision; para 136 quotes Derrick J. in X, adopted by the court."
+NSPC,2018 NSPC 48,"11, 12, 13, 14",case_extracts/NSPC/2018_NSPC_48_crime.png,"82, 83, 84, 103",case_extracts/NSPC/2018_NSPC_48_rationale.png,Y,Conclusion in para 103 is indirect: lower-end sentence follows s. 718.2(e).
+NSPC,2018 NSPC 56,"6, 7",case_extracts/NSPC/2018_NSPC_56_crime.png,"9, 10, 17",case_extracts/NSPC/2018_NSPC_56_rationale.png,Y,"Youth; conclusion in para 17 is general, not explicit culpability reduction."
+NSPC,2018 NSPC 83,"2, 3, 4",case_extracts/NSPC/2018_NSPC_83_crime.png,"27, 28, 29, 30",case_extracts/NSPC/2018_NSPC_83_rationale.png,Y,
+NSPC,2019 NSPC 13,"11, 12, 13",case_extracts/NSPC/2019_NSPC_13_crime.png,"36, 87",case_extracts/NSPC/2019_NSPC_13_rationale.png,Y,Drug case; Gladue only modestly affected sentence; no violence or victim harm.
+NSPC,2019 NSPC 35,9,case_extracts/NSPC/2019_NSPC_35_crime.png,"70, 71, 80",case_extracts/NSPC/2019_NSPC_35_rationale.png,N,"Court hedges; never clearly states reduced culpability, sentence 4 months outside usual range."
+NSPC,2019 NSPC 55,"1, 2, 3",case_extracts/NSPC/2019_NSPC_55_crime.png,"69, 70, 124",case_extracts/NSPC/2019_NSPC_55_rationale.png,Y,
+NSPC,2019 NSPC 68,"4, 5, 6",case_extracts/NSPC/2019_NSPC_68_crime.png,"23, 24, 67",case_extracts/NSPC/2019_NSPC_68_rationale.png,N,Court never states IRCA reduced culpability; only generic mitigating factors referenced.
+NSPC,2019 NSPC 74,"7, 8, 9",case_extracts/NSPC/2019_NSPC_74_crime.png,"69, 70, 71, 78",case_extracts/NSPC/2019_NSPC_74_rationale.png,Y,Drug case; no victim effects to highlight.
+NSPC,2019 NSPC 85,"27, 28, 29, 30",case_extracts/NSPC/2019_NSPC_85_crime.png,"58, 108, 109",case_extracts/NSPC/2019_NSPC_85_rationale.png,Y,Court accepts Crown's reduced 30-month position reflecting Gladue factors; no explicit culpability statement.
+NSPC,2019 NSPC 87,"1, 2, 3",case_extracts/NSPC/2019_NSPC_87_crime.png,"33, 41, 74, 87, 88, 89",case_extracts/NSPC/2019_NSPC_87_rationale.png,Y,Sexual assault; graphic details deliberately not highlighted.
+NSPC,2020 NSPC 1,"2, 3",case_extracts/NSPC/2020_NSPC_1_crime.png,"23, 24, 25",case_extracts/NSPC/2020_NSPC_1_rationale.png,Y,Court says factors mitigate blameworthiness but still imposes jail; crime passage has no victim harm.
+NSPC,2020 NSPC 10,"1, 2, 3",case_extracts/NSPC/2020_NSPC_10_crime.png,"36, 37, 38, 104",case_extracts/NSPC/2020_NSPC_10_rationale.png,Y,Facts thin; no victim harm. Conclusion in para 104 links IRCA to community sentence.
+NSPC,2020 NSPC 20,"11, 12",case_extracts/NSPC/2020_NSPC_20_crime.png,"36, 37, 61",case_extracts/NSPC/2020_NSPC_20_rationale.png,Y,
+NSPC,2020 NSPC 57,6,case_extracts/NSPC/2020_NSPC_57_crime.png,"52, 59",case_extracts/NSPC/2020_NSPC_57_rationale.png,N,Crime paragraph short; no explicit statement that race factor lowered sentence.
+NSPC,2021 NSPC 20,"7, 8",case_extracts/NSPC/2021_NSPC_20_crime.png,"59, 60, 64",case_extracts/NSPC/2021_NSPC_20_rationale.png,Y,Court's conclusion on effect is brief and qualified; sentence still upper range.
+NSPC,2022 NSPC 25,"9, 10",case_extracts/NSPC/2022_NSPC_25_crime.png,"31, 79",case_extracts/NSPC/2022_NSPC_25_rationale.png,Y,
+NSPC,2022 NSPC 59,"13, 14, 15, 16",case_extracts/NSPC/2022_NSPC_59_crime.png,"18, 34, 65, 66",case_extracts/NSPC/2022_NSPC_59_rationale.png,Y,
+NSPC,2023 NSPC 63,11,case_extracts/NSPC/2023_NSPC_63_crime.png,"76, 77, 78, 82",case_extracts/NSPC/2023_NSPC_63_rationale.png,Y,"Drug case; no victim harm, crime passage is possession facts."
+NSPC,2023 NSPC 65,"26, 27",case_extracts/NSPC/2023_NSPC_65_crime.png,"123, 124, 214",case_extracts/NSPC/2023_NSPC_65_rationale.png,Y,"Victim injury details are in paras 32-35, outside the crime passage."
+NSPC,2023 NSPC 68,"1, 2, 3, 4",case_extracts/NSPC/2023_NSPC_68_crime.png,"44, 45, 46, 47, 57, 58, 59",case_extracts/NSPC/2023_NSPC_68_rationale.png,Y,Offence facts thin; no violence or victim harm. Court balances IRCA trauma in conditional sentence.
+NSPC,2024 NSPC 31,"5, 6, 7, 8",case_extracts/NSPC/2024_NSPC_31_crime.png,"66, 67, 71",case_extracts/NSPC/2024_NSPC_31_rationale.png,Y,
+NSPC,2024 NSPC 42,"9, 10, 11, 12, 13",case_extracts/NSPC/2024_NSPC_42_crime.png,"53, 54, 55, 56, 57, 58",case_extracts/NSPC/2024_NSPC_42_rationale.png,Y,Crime passage lacks victim impact; that is in paras 59-61.
+NSPC,2024 NSPC 43,"12, 13, 14, 15, 16, 17",case_extracts/NSPC/2024_NSPC_43_crime.png,"71, 72, 73, 74, 75, 80",case_extracts/NSPC/2024_NSPC_43_rationale.png,Y,
+NSPC,2024 NSPC 45,5,case_extracts/NSPC/2024_NSPC_45_crime.png,"29, 30",case_extracts/NSPC/2024_NSPC_45_rationale.png,Y,Conclusion is brief; court says it factored Anderson guidance.
+NSPC,2025 NSPC 10,"1, 2, 3",case_extracts/NSPC/2025_NSPC_10_crime.png,"34, 35, 36, 47",case_extracts/NSPC/2025_NSPC_10_rationale.png,N,Gladue listed as mitigating but court says outweighed; no reduced culpability statement.
+NSPC,2025 NSPC 15,"39, 40",case_extracts/NSPC/2025_NSPC_15_crime.png,"64, 65, 70",case_extracts/NSPC/2025_NSPC_15_rationale.png,Y,Conclusion is general; para 109 later places moral culpability mid-range.
+NSPC,2026 NSPC 37,"1, 2",case_extracts/NSPC/2026_NSPC_37_crime.png,"100, 116, 117",case_extracts/NSPC/2026_NSPC_37_rationale.png,Y,Court finds racism played only a modest role; attenuation is limited.
+NSPC,2026 NSPC 43,2,case_extracts/NSPC/2026_NSPC_43_crime.png,"108, 109, 110, 113",case_extracts/NSPC/2026_NSPC_43_rationale.png,Y,Crime passage is the agreed statement of facts; no victim harm stated.
+NSSC,2003 NSSC 28,"1, 2",case_extracts/NSSC/2003_NSSC_28_crime.png,"10, 11",case_extracts/NSSC/2003_NSSC_28_rationale.png,N,Court never states aboriginal status reduced sentence; custody imposed.
+NSSC,2008 NSSC 266,"7, 8, 9, 10",case_extracts/NSSC/2008_NSSC_266_crime.png,"3, 6",case_extracts/NSSC/2008_NSSC_266_rationale.png,Y,Facts of assault thin; taken from victim impact discussion.
+NSSC,2011 NSSC 137,"10, 11, 12, 13",case_extracts/NSSC/2011_NSSC_137_crime.png,"54, 55, 57",case_extracts/NSSC/2011_NSSC_137_rationale.png,Y,"Sentence drops from 4 years range to 3.5 after Gladue; effect implied, not stated."
+NSSC,2014 NSSC 463,"5, 6",case_extracts/NSSC/2014_NSSC_463_crime.png,"57, 60, 61",case_extracts/NSSC/2014_NSSC_463_rationale.png,Y,
+NSSC,2015 NSSC 110,6,case_extracts/NSSC/2015_NSSC_110_crime.png,"18, 19, 33",case_extracts/NSSC/2015_NSSC_110_rationale.png,N,Court never states Gladue factors reduced culpability or sentence; only says it considered them.
+NSSC,2016 NSSC 198,6,case_extracts/NSSC/2016_NSSC_198_crime.png,"21, 22, 23, 24",case_extracts/NSSC/2016_NSSC_198_rationale.png,N,Possession offences; no violence. Court only says it was mindful of Gladue factors.
+NSSC,2017 NSSC 127,"14, 15",case_extracts/NSSC/2017_NSSC_127_crime.png,"43, 44, 45",case_extracts/NSSC/2017_NSSC_127_rationale.png,N,Crown appeal increased sentence; no reduction stated; refusal case with little harm.
+NSSC,2017 NSSC 129,8,case_extracts/NSSC/2017_NSSC_129_crime.png,"34, 52",case_extracts/NSSC/2017_NSSC_129_rationale.png,N,Court states principle but never says clearly how it lowered parole ineligibility.
+NSSC,2017 NSSC 173,"4, 5, 6",case_extracts/NSSC/2017_NSSC_173_crime.png,"16, 21",case_extracts/NSSC/2017_NSSC_173_rationale.png,Y,Effect on sentence stated only briefly in para 21.
+NSSC,2017 NSSC 345,"7, 8",case_extracts/NSSC/2017_NSSC_345_crime.png,"9, 19, 20",case_extracts/NSSC/2017_NSSC_345_rationale.png,N,Thin narrative; court never states effect of Gladue factors clearly.
+NSSC,2017 NSSC 90,"20, 21, 22",case_extracts/NSSC/2017_NSSC_90_crime.png,"99, 125, 126",case_extracts/NSSC/2017_NSSC_90_rationale.png,N,Court says context explains but does not justify or lower culpability.
+NSSC,2018 NSSC 10,"34, 35",case_extracts/NSSC/2018_NSSC_10_crime.png,"20, 21, 42",case_extracts/NSSC/2018_NSSC_10_rationale.png,Y,Crime passage short; fraud facts mostly in long Crown list at para 4.
+NSSC,2018 NSSC 16,"1, 2",case_extracts/NSSC/2018_NSSC_16_crime.png,"75, 76, 88, 89",case_extracts/NSSC/2018_NSSC_16_rationale.png,Y,No violence; weapons possession offence only.
+NSSC,2018 NSSC 338,4,case_extracts/NSSC/2018_NSSC_338_crime.png,"23, 28, 29",case_extracts/NSSC/2018_NSSC_338_rationale.png,N,Crime para 4 is about 700 words; court states effect only on forfeiture (para 93).
+NSSC,2019 NSSC 157,"10, 11, 12",case_extracts/NSSC/2019_NSSC_157_crime.png,"54, 55, 58",case_extracts/NSSC/2019_NSSC_157_rationale.png,Y,Sexual offence against a child; graphic details not highlighted.
+NSSC,2019 NSSC 386,"4, 5, 6",case_extracts/NSSC/2019_NSSC_386_crime.png,"29, 31, 32, 52",case_extracts/NSSC/2019_NSSC_386_rationale.png,Y,Conclusion is implicit; para 34 says factors do not excuse.
+NSSC,2019 NSSC 411,"2, 3",case_extracts/NSSC/2019_NSSC_411_crime.png,"18, 29, 30",case_extracts/NSSC/2019_NSSC_411_rationale.png,Y,"Offence facts thin; harm to victim is in para 11, not adjacent."
+NSSC,2020 NSSC 265,3,case_extracts/NSSC/2020_NSSC_265_crime.png,"4, 12, 13, 29",case_extracts/NSSC/2020_NSSC_265_rationale.png,Y,Crime passage slightly short; no victim harm described in court narrative.
+NSSC,2021 NSSC 54,"1, 2",case_extracts/NSSC/2021_NSSC_54_crime.png,"52, 53, 55",case_extracts/NSSC/2021_NSSC_54_rationale.png,Y,"Drug case; effect on sentence stated only loosely (background considered, restraint has a role)."
+NSSC,2022 NSSC 199,"33, 34",case_extracts/NSSC/2022_NSSC_199_crime.png,"31, 32, 45, 46",case_extracts/NSSC/2022_NSSC_199_rationale.png,Y,
+NSSC,2022 NSSC 200,"68, 69, 70",case_extracts/NSSC/2022_NSSC_200_crime.png,"72, 73, 80",case_extracts/NSSC/2022_NSSC_200_rationale.png,Y,Crime passage has little victim harm; injury described only as serious.
+NSSC,2022 NSSC 213,"41, 42, 43, 44",case_extracts/NSSC/2022_NSSC_213_crime.png,"32, 33, 39",case_extracts/NSSC/2022_NSSC_213_rationale.png,Y,Court calls it a mitigating factor but elsewhere says the needle does not move far.
+NSSC,2022 NSSC 215,"75, 76, 77",case_extracts/NSSC/2022_NSSC_215_crime.png,"91, 92, 98",case_extracts/NSSC/2022_NSSC_215_rationale.png,Y,Victim injuries not described in these paragraphs.
+NSSC,2022 NSSC 90,8,case_extracts/NSSC/2022_NSSC_90_crime.png,"94, 95, 97",case_extracts/NSSC/2022_NSSC_90_rationale.png,Y,Court says IRCA matters but conduct not less blameworthy; effect on sentence implied.
+NSSC,2022 NSSC 95,"6, 7, 8, 9",case_extracts/NSSC/2022_NSSC_95_crime.png,"73, 74, 75, 76, 77, 96",case_extracts/NSSC/2022_NSSC_95_rationale.png,Y,Court finds no culpability reduction for gun counts; Gladue lowered drug and breach sentences.
+NSSC,2023 NSSC 317,"49, 50, 51, 52, 53, 54, 55, 56, 57, 58",case_extracts/NSSC/2023_NSSC_317_crime.png,"19, 20, 21, 83",case_extracts/NSSC/2023_NSSC_317_rationale.png,Y,"Explicit culpability reduction is in para 84 (very long bullet list), not included."
+NSSC,2023 NSSC 391,"30, 31",case_extracts/NSSC/2023_NSSC_391_crime.png,"29, 46",case_extracts/NSSC/2023_NSSC_391_rationale.png,Y,"IRCA content itself is in paras 20-24, not in passage."
+NSSC,2023 NSSC 412,"9, 10, 11",case_extracts/NSSC/2023_NSSC_412_crime.png,"28, 41",case_extracts/NSSC/2023_NSSC_412_rationale.png,Y,Drug trafficking; no victim harm in narrative.
+NSSC,2023 NSSC 427,"8, 9, 10, 11",case_extracts/NSSC/2023_NSSC_427_crime.png,"62, 63, 73",case_extracts/NSSC/2023_NSSC_427_rationale.png,N,"Court concurs on proportionality and cites background, but never says plainly it reduced culpability."
+NSSC,2023 NSSC 85,8,case_extracts/NSSC/2023_NSSC_85_crime.png,"13, 50, 51, 52, 53, 54",case_extracts/NSSC/2023_NSSC_85_rationale.png,Y,Crime paragraph is graphic; highlights limited to non-graphic parts.
+NSSC,2024 NSSC 208,"35, 36",case_extracts/NSSC/2024_NSSC_208_crime.png,"25, 37, 38",case_extracts/NSSC/2024_NSSC_208_rationale.png,Y,Mitigating effect stated briefly in para 38.
+NSSC,2024 NSSC 217,10,case_extracts/NSSC/2024_NSSC_217_crime.png,13,case_extracts/NSSC/2024_NSSC_217_rationale.png,Y,Para 13 is long; para 15 states the sentence reduction for race and culture.
+NSSC,2024 NSSC 222,"13, 14, 15",case_extracts/NSSC/2024_NSSC_222_crime.png,"35, 36, 53, 54",case_extracts/NSSC/2024_NSSC_222_rationale.png,N,Court never clearly states IRCA reduced culpability or sentence.
+NSSC,2024 NSSC 244,"18, 19, 20",case_extracts/NSSC/2024_NSSC_244_crime.png,"38, 42",case_extracts/NSSC/2024_NSSC_244_rationale.png,Y,
+NSSC,2024 NSSC 279,"49, 50",case_extracts/NSSC/2024_NSSC_279_crime.png,"57, 58, 59, 83",case_extracts/NSSC/2024_NSSC_279_rationale.png,Y,Effect on sentence stated only generally; IRCA principle quote in para 85 not included.
+NSSC,2024 NSSC 33,"8, 9, 10",case_extracts/NSSC/2024_NSSC_33_crime.png,"74, 75, 76, 77, 91",case_extracts/NSSC/2024_NSSC_33_rationale.png,Y,Court says IRCA shapes sentence but stresses seriousness; no explicit culpability reduction.
+NSSC,2025 NSSC 133,"54, 55, 56, 57",case_extracts/NSSC/2025_NSSC_133_crime.png,"65, 96, 97, 98, 99",case_extracts/NSSC/2025_NSSC_133_rationale.png,Y,Crime passage short (about 90 words); possession offence with no victim.
+NSSC,2025 NSSC 156,"14, 15",case_extracts/NSSC/2025_NSSC_156_crime.png,"68, 71",case_extracts/NSSC/2025_NSSC_156_rationale.png,Y,"Gun possession offence, no victim; court's conclusion on culpability is modest."
+NSSC,2025 NSSC 225,19,case_extracts/NSSC/2025_NSSC_225_crime.png,"28, 70, 71, 72",case_extracts/NSSC/2025_NSSC_225_rationale.png,Y,Crime paragraph 19 is long (about 600 words) but is the only narrative.
+NSSC,2025 NSSC 32,"1, 2",case_extracts/NSSC/2025_NSSC_32_crime.png,"12, 13, 34",case_extracts/NSSC/2025_NSSC_32_rationale.png,Y,Drug trafficking; no victim harm in facts.
+NSSC,2025 NSSC 339,"29, 30, 31",case_extracts/NSSC/2025_NSSC_339_crime.png,"9, 10, 35",case_extracts/NSSC/2025_NSSC_339_rationale.png,N,Court only says it considered Gladue mitigation; para 36 says needle does not move.
+NSSC,2025 NSSC 426,3,case_extracts/NSSC/2025_NSSC_426_crime.png,"17, 18, 19, 20, 21, 24, 25",case_extracts/NSSC/2025_NSSC_426_rationale.png,Y,Judge says IRCA was very important to outcome and adopts its conclusions as well-founded.
+NSSC,2025 NSSC 54,"154, 155, 156, 157, 158",case_extracts/NSSC/2025_NSSC_54_crime.png,"57, 58, 185, 186, 187, 188, 189, 190, 191, 192",case_extracts/NSSC/2025_NSSC_54_rationale.png,Y,No victim harm; drug and firearm offences.
+NSSC,2026 NSSC 153,7,case_extracts/NSSC/2026_NSSC_153_crime.png,"10, 22, 23, 24",case_extracts/NSSC/2026_NSSC_153_rationale.png,Y,Brief reasoning; no Gladue report; joint submission.
+NSSC,2026 NSSC 25,"2, 3",case_extracts/NSSC/2026_NSSC_25_crime.png,"38, 49",case_extracts/NSSC/2026_NSSC_25_rationale.png,Y,"Court says Gladue considerations shaped sentence (para 59, 66) outside passage."
+NSSC,2026 NSSC 261,6,case_extracts/NSSC/2026_NSSC_261_crime.png,"62, 63, 73",case_extracts/NSSC/2026_NSSC_261_rationale.png,Y,Crime paragraph exceeds 300 words but is the only narrative.
+NSSC,2026 NSSC 262,"9, 10, 11, 12",case_extracts/NSSC/2026_NSSC_262_crime.png,"33, 96, 97",case_extracts/NSSC/2026_NSSC_262_rationale.png,Y,Sexual details avoided in highlights.
+NSSC,2026 NSSC 330,"11, 12, 13, 14, 15",case_extracts/NSSC/2026_NSSC_330_crime.png,"47, 90, 91, 92, 113, 161",case_extracts/NSSC/2026_NSSC_330_rationale.png,Y,"Death only described in para 7 and 19, not adjacent to narrative."
+NSSC,2026 NSSC 338,20,case_extracts/NSSC/2026_NSSC_338_crime.png,"117, 118, 119, 183",case_extracts/NSSC/2026_NSSC_338_rationale.png,Y,Crime paragraph 20 is longer than 300 words; no shorter narrative exists.
+ONCA,2007 ONCA 116,2,case_extracts/ONCA/2007_ONCA_116_crime.png,"5, 6",case_extracts/ONCA/2007_ONCA_116_rationale.png,Y,Very short appeal decision; no facts of the robbery given beyond one sentence.
+ONCA,2007 ONCA 255,"1, 2",case_extracts/ONCA/2007_ONCA_255_crime.png,"1, 2",case_extracts/ONCA/2007_ONCA_255_rationale.png,Y,Decision is three paragraphs; no offence narrative exists. Crown concession in para 1 not highlighted.
+ONCA,2007 ONCA 434,1,case_extracts/ONCA/2007_ONCA_434_crime.png,1,case_extracts/ONCA/2007_ONCA_434_rationale.png,Y,Short endorsement; no narrative of the offence or Gladue details.
+ONCA,2007 ONCA 682,"8, 9, 10",case_extracts/ONCA/2007_ONCA_682_crime.png,"70, 71, 72, 74",case_extracts/ONCA/2007_ONCA_682_rationale.png,Y,Appeal court finds trial judge adequately weighed Aboriginal status; no Gladue report.
+ONCA,2008 ONCA 338,"2, 3",case_extracts/ONCA/2008_ONCA_338_crime.png,"1, 4, 5, 6",case_extracts/ONCA/2008_ONCA_338_rationale.png,Y,Sentence reduced on appeal after failure to consider aboriginal background.
+ONCA,2008 ONCA 488,"4, 5",case_extracts/ONCA/2008_ONCA_488_crime.png,"8, 9, 10, 12, 13",case_extracts/ONCA/2008_ONCA_488_rationale.png,Y,Appeal court; fresh Gladue report; sentence upheld as reflecting mitigating factors.
+ONCA,2008 ONCA 623,"1, 2",case_extracts/ONCA/2008_ONCA_623_crime.png,"3, 4, 5",case_extracts/ONCA/2008_ONCA_623_rationale.png,Y,Crime narrative very thin; no facts of the attack given.
+ONCA,2008 ONCA 740,"3, 4, 5, 6, 7",case_extracts/ONCA/2008_ONCA_740_crime.png,"13, 35, 36, 37",case_extracts/ONCA/2008_ONCA_740_rationale.png,N,Court says factors were considered but never states they reduced culpability or sentence.
+ONCA,2009 ONCA 114,"9, 10, 11, 12",case_extracts/ONCA/2009_ONCA_114_crime.png,"39, 40, 41",case_extracts/ONCA/2009_ONCA_114_rationale.png,Y,
+ONCA,2009 ONCA 844,5,case_extracts/ONCA/2009_ONCA_844_crime.png,"45, 46",case_extracts/ONCA/2009_ONCA_844_rationale.png,N,Court never states Gladue factor's specific effect on sentence.
+ONCA,2010 ONCA 30,"2, 3",case_extracts/ONCA/2010_ONCA_30_crime.png,"7, 8, 13",case_extracts/ONCA/2010_ONCA_30_rationale.png,Y,
+ONCA,2010 ONCA 323,"6, 7",case_extracts/ONCA/2010_ONCA_323_crime.png,"2, 3, 4, 5",case_extracts/ONCA/2010_ONCA_323_rationale.png,N,Appeal court; no clear statement that factor reduced sentence; crime narrative minimal.
+ONCA,2010 ONCA 452,"5, 6, 7, 8",case_extracts/ONCA/2010_ONCA_452_crime.png,"77, 78, 79, 87",case_extracts/ONCA/2010_ONCA_452_rationale.png,Y,Two appellants; Jacko is the one who beat Mr. Roy.
+ONCA,2010 ONCA 737,1,case_extracts/ONCA/2010_ONCA_737_crime.png,"1, 2",case_extracts/ONCA/2010_ONCA_737_rationale.png,Y,Two-paragraph decision; no description of the crime at all.
+ONCA,2011 ONCA 182,"8, 9, 10",case_extracts/ONCA/2011_ONCA_182_crime.png,"33, 34, 39",case_extracts/ONCA/2011_ONCA_182_rationale.png,Y,
+ONCA,2011 ONCA 383,"1, 2",case_extracts/ONCA/2011_ONCA_383_crime.png,"1, 2, 3",case_extracts/ONCA/2011_ONCA_383_rationale.png,Y,Very short appeal decision; no narrative of the offence.
+ONCA,2011 ONCA 451,4,case_extracts/ONCA/2011_ONCA_451_crime.png,5,case_extracts/ONCA/2011_ONCA_451_rationale.png,N,Brief appeal reasons; court never states Gladue reduced culpability.
+ONCA,2011 ONCA 695,2,case_extracts/ONCA/2011_ONCA_695_crime.png,2,case_extracts/ONCA/2011_ONCA_695_rationale.png,Y,Very short appeal; no narrative of the crime or detailed rationale.
+ONCA,2012 ONCA 183,1,case_extracts/ONCA/2012_ONCA_183_crime.png,1,case_extracts/ONCA/2012_ONCA_183_rationale.png,Y,Very short appeal; no narrative of the crime.
+ONCA,2012 ONCA 557,1,case_extracts/ONCA/2012_ONCA_557_crime.png,1,case_extracts/ONCA/2012_ONCA_557_rationale.png,Y,Very short appeal; no victim-effect narrative.
+ONCA,2013 ONCA 177,"1, 2, 3",case_extracts/ONCA/2013_ONCA_177_crime.png,"61, 62, 63, 64, 65, 68",case_extracts/ONCA/2013_ONCA_177_rationale.png,Y,"Possession offence; no victim effects. Court says Aboriginal background considered, not that it reduced sentence."
+ONCA,2013 ONCA 22,1,case_extracts/ONCA/2013_ONCA_22_crime.png,2,case_extracts/ONCA/2013_ONCA_22_rationale.png,Y,Very short decision; no facts of the crime given.
+ONCA,2013 ONCA 245,15,case_extracts/ONCA/2013_ONCA_245_crime.png,"13, 14, 15, 16",case_extracts/ONCA/2013_ONCA_245_rationale.png,Y,Crime passage is short; decision gives little narrative of the stabbing.
+ONCA,2013 ONCA 332,2,case_extracts/ONCA/2013_ONCA_332_crime.png,"1, 3",case_extracts/ONCA/2013_ONCA_332_rationale.png,Y,No narrative of the killing in the decision; appeal ruling only.
+ONCA,2013 ONCA 50,4,case_extracts/ONCA/2013_ONCA_50_crime.png,"1, 2, 3, 4, 5",case_extracts/ONCA/2013_ONCA_50_rationale.png,Y,Offence facts not described; very brief appeal ruling.
+ONCA,2013 ONCA 587,1,case_extracts/ONCA/2013_ONCA_587_crime.png,"4, 5, 6",case_extracts/ONCA/2013_ONCA_587_rationale.png,N,Court never says background reduced the sentence; only appropriate weight given.
+ONCA,2016 ONCA 367,"2, 3",case_extracts/ONCA/2016_ONCA_367_crime.png,"23, 24, 31",case_extracts/ONCA/2016_ONCA_367_rationale.png,Y,
+ONCA,2016 ONCA 380,1,case_extracts/ONCA/2016_ONCA_380_crime.png,"3, 4",case_extracts/ONCA/2016_ONCA_380_rationale.png,N,Very brief decision; no narrative of events or reasoning on systemic factors.
+ONCA,2016 ONCA 843,"3, 4, 5",case_extracts/ONCA/2016_ONCA_843_crime.png,"19, 21",case_extracts/ONCA/2016_ONCA_843_rationale.png,Y,Gladue report content is not described; no victim harm in a trafficking case.
+ONCA,2016 ONCA 87,"22, 23, 24",case_extracts/ONCA/2016_ONCA_87_crime.png,"93, 99",case_extracts/ONCA/2016_ONCA_87_rationale.png,Y,Appeal court upholds judge's Gladue consideration; effect on sentence not quantified.
+ONCA,2017 ONCA 220,"3, 4, 5, 6",case_extracts/ONCA/2017_ONCA_220_crime.png,"3, 4, 5, 6, 25",case_extracts/ONCA/2017_ONCA_220_rationale.png,N,Gladue discussion is minimal; decision turns on dangerous offender law.
+ONCA,2017 ONCA 666,1,case_extracts/ONCA/2017_ONCA_666_crime.png,"8, 9, 10",case_extracts/ONCA/2017_ONCA_666_rationale.png,N,No offence narrative in decision; court does not state effect on culpability.
+ONCA,2018 ONCA 1029,"2, 3, 4, 5",case_extracts/ONCA/2018_ONCA_1029_crime.png,"7, 9, 14",case_extracts/ONCA/2018_ONCA_1029_rationale.png,Y,Para 15 and 20 also discuss reduced blameworthiness but passage length limited.
+ONCA,2019 ONCA 281,1,case_extracts/ONCA/2019_ONCA_281_crime.png,"12, 13, 14",case_extracts/ONCA/2019_ONCA_281_rationale.png,N,Brief appeal ruling; no narrative of events and no stated reduction of culpability.
+ONCA,2019 ONCA 46,1,case_extracts/ONCA/2019_ONCA_46_crime.png,6,case_extracts/ONCA/2019_ONCA_46_rationale.png,N,Brief appeal ruling; no facts narrative; mitigating factors overwhelmed by aggravating ones.
+ONCA,2019 ONCA 593,2,case_extracts/ONCA/2019_ONCA_593_crime.png,"1, 2",case_extracts/ONCA/2019_ONCA_593_rationale.png,Y,Brief endorsement; no narrative of the crime; court never explains Gladue factors.
+ONCA,2019 ONCA 815,1,case_extracts/ONCA/2019_ONCA_815_crime.png,"3, 4",case_extracts/ONCA/2019_ONCA_815_rationale.png,Y,No narrative of the offences; Indigenous background not described.
+ONCA,2020 ONCA 243,"7, 8",case_extracts/ONCA/2020_ONCA_243_crime.png,"86, 87, 102",case_extracts/ONCA/2020_ONCA_243_rationale.png,N,Court only says Gladue report was considered; no stated effect on culpability or sentence.
+ONCA,2020 ONCA 311,"1, 2",case_extracts/ONCA/2020_ONCA_311_crime.png,"2, 3, 4",case_extracts/ONCA/2020_ONCA_311_rationale.png,Y,Short appeal decision; no narrative of the driving events.
+ONCA,2020 ONCA 324,3,case_extracts/ONCA/2020_ONCA_324_crime.png,"6, 13, 14",case_extracts/ONCA/2020_ONCA_324_rationale.png,N,Appeal court only says trial judge recognized the trauma; effect on sentence not stated.
+ONCA,2020 ONCA 478,"5, 6",case_extracts/ONCA/2020_ONCA_478_crime.png,"8, 9, 184, 185",case_extracts/ONCA/2020_ONCA_478_rationale.png,Y,Constitutional ruling; court states Gladue factors support a conditional sentence.
+ONCA,2020 ONCA 710,"1, 2",case_extracts/ONCA/2020_ONCA_710_crime.png,"56, 57, 58, 59",case_extracts/ONCA/2020_ONCA_710_rationale.png,N,Appeal court finds judge gave Indigenous heritage little analysis; Weaver is the Indigenous offender.
+ONCA,2020 ONCA 786,1,case_extracts/ONCA/2020_ONCA_786_crime.png,"6, 7, 8",case_extracts/ONCA/2020_ONCA_786_rationale.png,Y,Crime paragraph is short.
+ONCA,2021 ONCA 167,"1, 2, 3",case_extracts/ONCA/2021_ONCA_167_crime.png,"3, 6, 7, 8",case_extracts/ONCA/2021_ONCA_167_rationale.png,Y,Very short appeal; Crown and appellant agreed; crime facts thin.
+ONCA,2021 ONCA 208,"1, 2",case_extracts/ONCA/2021_ONCA_208_crime.png,"11, 12, 18, 19",case_extracts/ONCA/2021_ONCA_208_rationale.png,Y,Appellate court; Gladue effect described as attenuated by seriousness.
+ONCA,2021 ONCA 239,"4, 5",case_extracts/ONCA/2021_ONCA_239_crime.png,"7, 12",case_extracts/ONCA/2021_ONCA_239_rationale.png,Y,Appeal decided on parity; Gladue discussed only in summary of trial judge.
+ONCA,2021 ONCA 256,"8, 9",case_extracts/ONCA/2021_ONCA_256_crime.png,"83, 84",case_extracts/ONCA/2021_ONCA_256_rationale.png,Y,Gladue report content never described; only effect on sentence stated.
+ONCA,2021 ONCA 33,"3, 4",case_extracts/ONCA/2021_ONCA_33_crime.png,"6, 11, 12, 13",case_extracts/ONCA/2021_ONCA_33_rationale.png,Y,Short passage; no victim harm described.
+ONCA,2021 ONCA 344,"19, 20",case_extracts/ONCA/2021_ONCA_344_crime.png,"15, 45, 46",case_extracts/ONCA/2021_ONCA_344_rationale.png,N,Gladue only mentioned in passing; no facts of the offence described; no explanation of effect.
+ONCA,2021 ONCA 680,"17, 18, 19, 20",case_extracts/ONCA/2021_ONCA_680_crime.png,"164, 165, 166, 179",case_extracts/ONCA/2021_ONCA_680_rationale.png,Y,No injury or victim harm in the facts; gun possession and flight only.
+ONCA,2021 ONCA 86,"7, 8",case_extracts/ONCA/2021_ONCA_86_crime.png,"21, 34",case_extracts/ONCA/2021_ONCA_86_rationale.png,Y,Crime passage has little harm to victims; no victim effects stated.
+ONCA,2022 ONCA 369,"2, 3, 4, 5",case_extracts/ONCA/2022_ONCA_369_crime.png,"10, 16, 17, 18",case_extracts/ONCA/2022_ONCA_369_rationale.png,Y,No victim harm; possession offence.
+ONCA,2022 ONCA 395,"5, 6, 7, 8",case_extracts/ONCA/2022_ONCA_395_crime.png,"14, 51, 52, 53",case_extracts/ONCA/2022_ONCA_395_rationale.png,Y,Appeal court upholds trial judge's Gladue treatment; effect described via trial judge.
+ONCA,2022 ONCA 863,"1, 2",case_extracts/ONCA/2022_ONCA_863_crime.png,"33, 37, 38, 39",case_extracts/ONCA/2022_ONCA_863_rationale.png,Y,Appeal court says trial judge gave appropriate mitigating weight; effect is implicit.
+ONCA,2022 ONCA 866,"15, 16, 17, 18",case_extracts/ONCA/2022_ONCA_866_crime.png,"91, 92, 104",case_extracts/ONCA/2022_ONCA_866_rationale.png,Y,Culpability mitigated in part but indeterminate sentence still imposed.
+ONCA,2023 ONCA 317,"4, 5",case_extracts/ONCA/2023_ONCA_317_crime.png,"18, 19, 20",case_extracts/ONCA/2023_ONCA_317_rationale.png,Y,Brief Gladue treatment on appeal; no report; crime narrative very short.
+ONCA,2023 ONCA 410,9,case_extracts/ONCA/2023_ONCA_410_crime.png,"5, 6, 7, 9",case_extracts/ONCA/2023_ONCA_410_rationale.png,Y,Appeal court; no Gladue report possible; effect stated only briefly.
+ONCA,2023 ONCA 599,"1, 2, 3",case_extracts/ONCA/2023_ONCA_599_crime.png,"24, 25, 26, 27",case_extracts/ONCA/2023_ONCA_599_rationale.png,Y,No Gladue report; reduction tied to cultural reconnection and mitigating factors.
+ONCA,2023 ONCA 608,"9, 10, 11",case_extracts/ONCA/2023_ONCA_608_crime.png,"40, 60, 61, 62",case_extracts/ONCA/2023_ONCA_608_rationale.png,Y,"Paras 60-62 are Paciocco J.A. concurring, describing trial judge findings; para 40 majority."
+ONCA,2023 ONCA 687,"2, 3",case_extracts/ONCA/2023_ONCA_687_crime.png,"8, 9, 12",case_extracts/ONCA/2023_ONCA_687_rationale.png,Y,Appeal court says Morris factors were adequately accounted for; limited discussion of offender history.
+ONCA,2023 ONCA 736,1,case_extracts/ONCA/2023_ONCA_736_crime.png,"3, 6, 7",case_extracts/ONCA/2023_ONCA_736_rationale.png,Y,Crime description is only one short paragraph.
+ONCA,2023 ONCA 808,"2, 3",case_extracts/ONCA/2023_ONCA_808_crime.png,"3, 9",case_extracts/ONCA/2023_ONCA_808_rationale.png,Y,Crime narrative thin; no victim effects.
+ONCA,2023 ONCA 816,"3, 4",case_extracts/ONCA/2023_ONCA_816_crime.png,"59, 62, 63",case_extracts/ONCA/2023_ONCA_816_rationale.png,Y,Conclusion also restated in para 65.
+ONCA,2024 ONCA 155,"19, 20, 21",case_extracts/ONCA/2024_ONCA_155_crime.png,"67, 68, 73, 74",case_extracts/ONCA/2024_ONCA_155_rationale.png,Y,Court finds only limited mitigation; appeal dismissed.
+ONCA,2024 ONCA 238,"4, 5, 6",case_extracts/ONCA/2024_ONCA_238_crime.png,"2, 18",case_extracts/ONCA/2024_ONCA_238_rationale.png,N,Gladue only mentioned as part of a combined 18-month reduction; no discussion.
+ONCA,2024 ONCA 326,"1, 2",case_extracts/ONCA/2024_ONCA_326_crime.png,"10, 14",case_extracts/ONCA/2024_ONCA_326_rationale.png,Y,Appeal court quoting trial judge on anti-Black racism and mental health.
+ONCA,2024 ONCA 473,"4, 5",case_extracts/ONCA/2024_ONCA_473_crime.png,"1, 6",case_extracts/ONCA/2024_ONCA_473_rationale.png,N,Brief appellate discussion; no clear statement of reduced culpability.
+ONCA,2024 ONCA 571,1,case_extracts/ONCA/2024_ONCA_571_crime.png,"3, 5",case_extracts/ONCA/2024_ONCA_571_rationale.png,N,Crime narrative very thin; Gladue discussion minimal.
+ONCA,2025 ONCA 416,5,case_extracts/ONCA/2025_ONCA_416_crime.png,"4, 7",case_extracts/ONCA/2025_ONCA_416_rationale.png,Y,Crime passage is short; only one paragraph describes the offence.
+ONCA,2025 ONCA 51,"21, 22, 23, 24",case_extracts/ONCA/2025_ONCA_51_crime.png,"107, 108, 109, 110, 111",case_extracts/ONCA/2025_ONCA_51_rationale.png,Y,Crime passage slightly over 300 words.
+ONCA,2025 ONCA 60,"4, 5",case_extracts/ONCA/2025_ONCA_60_crime.png,"19, 21, 22",case_extracts/ONCA/2025_ONCA_60_rationale.png,Y,Court found factors mitigating but not enough to go below range.
+ONCA,2025 ONCA 889,"1, 2, 3, 4",case_extracts/ONCA/2025_ONCA_889_crime.png,"5, 6, 7, 8",case_extracts/ONCA/2025_ONCA_889_rationale.png,Y,Short appellate decision; crime narrative is brief and no victim harm described.
+ONCA,2026 ONCA 113,"17, 18, 19, 20, 21",case_extracts/ONCA/2026_ONCA_113_crime.png,"81, 82, 84",case_extracts/ONCA/2026_ONCA_113_rationale.png,Y,Gladue effect is stated only within a general list of mitigating factors.
+ONCA,2026 ONCA 281,"12, 13, 14",case_extracts/ONCA/2026_ONCA_281_crime.png,"57, 67",case_extracts/ONCA/2026_ONCA_281_rationale.png,Y,Appeal court describes trial judge's Gladue reasoning; history detail is thin.
+ONCA,2026 ONCA 300,"17, 18, 19",case_extracts/ONCA/2026_ONCA_300_crime.png,"46, 48",case_extracts/ONCA/2026_ONCA_300_rationale.png,Y,
+ONCA,2026 ONCA 399,"2, 3, 4, 5, 6",case_extracts/ONCA/2026_ONCA_399_crime.png,6,case_extracts/ONCA/2026_ONCA_399_rationale.png,Y,Court barely discusses systemic factor; Gladue report mentioned only briefly.
+ONCA,2026 ONCA 521,"1, 2",case_extracts/ONCA/2026_ONCA_521_crime.png,"5, 7",case_extracts/ONCA/2026_ONCA_521_rationale.png,Y,No victim harm described; crime is possession offences.
+ONCA,2026 ONCA 556,"18, 19, 20",case_extracts/ONCA/2026_ONCA_556_crime.png,"16, 17, 44",case_extracts/ONCA/2026_ONCA_556_rationale.png,Y,Appeal decision; court says factors recognized but balanced against denunciation.
+ONCA,2026 ONCA 668,5,case_extracts/ONCA/2026_ONCA_668_crime.png,6,case_extracts/ONCA/2026_ONCA_668_rationale.png,Y,Short appeal endorsement; rationale passage is brief.
+ONCA,2026 ONCA 686,1,case_extracts/ONCA/2026_ONCA_686_crime.png,6,case_extracts/ONCA/2026_ONCA_686_rationale.png,Y,Very brief Gladue treatment; no description of offender's history.
+ONCA,2026 ONCA 742,1,case_extracts/ONCA/2026_ONCA_742_crime.png,2,case_extracts/ONCA/2026_ONCA_742_rationale.png,Y,Appeal decision; little narrative of the offence; Morris factors only briefly described.
+ONCA,2026 ONCA 767,"17, 18",case_extracts/ONCA/2026_ONCA_767_crime.png,"16, 17, 18, 19",case_extracts/ONCA/2026_ONCA_767_rationale.png,N,Appeal court summarises trial judge; no clear statement that racism reduced sentence.
+ONCA,C26729,"3, 4",case_extracts/ONCA/C26729_crime.png,"41, 57, 58",case_extracts/ONCA/C26729_rationale.png,Y,1999 Gladue-era appeal; conditional sentence of 20 months substituted.
+ONCA,C29539,4,case_extracts/ONCA/C29539_crime.png,31,case_extracts/ONCA/C29539_rationale.png,N,Racial slurs came from the victim; not a systemic factor about the offenders.
+ONCA,C32663,"3, 4, 5",case_extracts/ONCA/C32663_crime.png,"11, 13",case_extracts/ONCA/C32663_rationale.png,Y,Para 12 on nexus with systemic disadvantage omitted for length.
+ONCA,C38614,"2, 3, 4, 5",case_extracts/ONCA/C38614_crime.png,"36, 39, 43",case_extracts/ONCA/C38614_rationale.png,Y,Crime passage has little victim harm; Crown appeal increased conditional sentence.
+ONCA,C43169,1,case_extracts/ONCA/C43169_crime.png,"4, 5, 6",case_extracts/ONCA/C43169_rationale.png,N,No narrative of the robbery in decision; brief appeal ruling only.
+ONCA,C43626,5,case_extracts/ONCA/C43626_crime.png,"3, 4, 5, 6",case_extracts/ONCA/C43626_rationale.png,Y,Brief appeal; no detailed crime narrative.
+SCC,2012 SCC 13,"5, 6",case_extracts/SCC/2012_SCC_13_crime.png,"73, 90",case_extracts/SCC/2012_SCC_13_rationale.png,Y,"Crime paragraphs are earlier assaults on record, not the LTSO breach itself."
+SCC,2021 SCC 46,"74, 75",case_extracts/SCC/2021_SCC_46_crime.png,"80, 81",case_extracts/SCC/2021_SCC_46_rationale.png,Y,Gladue weighed but sentence increased; no explicit culpability reduction.
+SCC,2022 SCC 39,"5, 6",case_extracts/SCC/2022_SCC_39_crime.png,"6, 108",case_extracts/SCC/2022_SCC_39_rationale.png,Y,Crime passage has no victim harm; drug importation.
+SCC,2023 SCC 3,20,case_extracts/SCC/2023_SCC_3_crime.png,"62, 63",case_extracts/SCC/2023_SCC_3_rationale.png,Y,Crime paragraph has no victim-effect description; Gladue history is in para 21.
+SCC,2025 SCC 16,"5, 6, 7, 8, 9",case_extracts/SCC/2025_SCC_16_crime.png,"27, 29",case_extracts/SCC/2025_SCC_16_rationale.png,Y,Trial judge's reasons quoted by SCC; Gladue report not described in detail.
+SCC,2026 SCC 32,"183, 184",case_extracts/SCC/2026_SCC_32_crime.png,"156, 157",case_extracts/SCC/2026_SCC_32_rationale.png,Y,Majority reasons; crime paragraphs taken from the dissent's facts (183-184).

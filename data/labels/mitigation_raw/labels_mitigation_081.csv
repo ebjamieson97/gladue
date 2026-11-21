@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0801,R,X,X,X,X,X,X,X,X,N,HIGH,Treated as Aboriginal offender but no effect on indeterminate sentence
+M0802,M,X,N,X,X,X,X,X,X,N,HIGH,Reduced moral blameworthiness from traumatic childhood and Gladue report
+M0803,R,X,R,X,X,X,X,X,X,N,LOW,Gladue considered but result unchanged and no causal link claimed
+M0804,R,X,X,X,X,X,X,X,X,N,HIGH,Serious offence limited weight of aboriginal status
+M0805,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited generally
+M0806,X,X,X,X,R,X,X,X,X,N,HIGH,Anti-Black racism considered but no link to offending shown
+M0807,X,X,X,X,X,X,X,X,X,N,HIGH,Only Ipeelee proportionality cited
+M0808,X,X,X,X,X,X,X,X,X,N,HIGH,Only Ipeelee proportionality cited
+M0809,M,N,X,X,X,N,X,X,X,N,HIGH,Indigenous heritage and Gladue factors gave highly reduced blameworthiness
+M0810,M,X,N,N,X,X,X,X,X,N,HIGH,Indigenous heritage reduced moral blameworthiness to some extent

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5244,NOT,NA,HIGH,Conviction appeal dismissed
+D4722,NOT,NA,HIGH,Ruling on police opinion evidence at trial
+D3993,REVIEWS,FULL,HIGH,Sentence appeal for assault and sexual assault dismissed
+D2634,NOT,NA,HIGH,Youth trial decision on aggravated sexual assault verdict
+D3795,NOT,NA,HIGH,Disclosure application ruling at trial
+D2510,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed for pre-trial custody credit
+D2113,REVIEWS,FULL,HIGH,Sentence appeal for child luring allowed with reduced sentence
+D5236,NOT,NA,HIGH,Search warrant validity ruling
+D2552,REVIEWS,MINIMAL,HIGH,Crown sentence appeal on conditional sentences dismissed
+D1131,NOT,NA,HIGH,Murder conviction appeal new trial ordered
+D2394,REVIEWS,FULL,HIGH,Appeal from dangerous offender indeterminate sentence dismissed
+D3908,NOT,NA,HIGH,Acquittal after trial
+D2550,REVIEWS,MINIMAL,HIGH,Sentence varied on consent to time served
+D1084,NOT,NA,HIGH,Conviction appeals dismissed and sentence appeals abandoned
+D1551,NOT,NA,HIGH,Extension of time to appeal conviction
+D2283,REVIEWS,FULL,HIGH,Sentence appeal for marihuana production dismissed
+D5188,REVIEWS,FULL,HIGH,Summary conviction appeal and Crown cross-appeal of sentence denied
+D2717,REVIEWS,FULL,HIGH,Sentence appeal denying conditional sentence dismissed
+D3815,NOT,NA,HIGH,Murder conviction appeal on jury charge dismissed
+D2169,REVIEWS,FULL,HIGH,Crown sentence appeal allowed and sentence increased
+D4488,NOT,NA,HIGH,Leave to appeal conviction on abuse of process denied
+D1052,NOT,NA,HIGH,Intervenor application in Crown acquittal appeal
+D5676,NOT,NA,HIGH,Charter voir dire ruling
+D1337,NOT,NA,HIGH,Murder appeal on burglary definition
+D6013,NOT,NA,HIGH,Murder conviction appeal new trial ordered
+D2174,RELATED,NA,LOW,Application to vary intermittent sentence and probation terms

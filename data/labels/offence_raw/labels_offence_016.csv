@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0331,other,HIGH,Obstruction of peace officer
+F0332,sexual;other,HIGH,Sexual assault and uttering threats; dangerous offender
+F0333,sexual,HIGH,Sexual assault of foster child
+F0334,homicide,HIGH,Manslaughter
+F0335,driving;assault,HIGH,Dangerous driving and assault with a weapon
+F0336,drugs,HIGH,Trafficking and possession for trafficking
+F0337,homicide,HIGH,First degree murder; sexual assault stayed
+F0338,assault,HIGH,Assault with a weapon
+F0339,drugs;theft_fraud,HIGH,Marijuana production and trafficking and theft over
+F0340,other,HIGH,Terrorism participation and explosives offence
+F0341,other;theft_fraud,HIGH,Personation and obstructing a peace officer
+F0342,none,LOW,Offence not shown
+F0343,homicide,HIGH,Second degree murder
+F0344,sexual,HIGH,Sexual assault two victims
+F0345,sexual;assault;other,HIGH,Sexual assault causing bodily harm choking threat and breach
+F0346,none,LOW,Offence not shown; sophisticated crime
+F0347,assault,HIGH,Aggravated assault
+F0348,drugs;other,LOW,Drug trafficking original offence; breach of conditional sentence
+F0349,assault,HIGH,Assault causing bodily harm
+F0350,driving,HIGH,Dangerous driving causing bodily harm
+F0351,drugs,HIGH,Importing cocaine
+F0352,drugs,HIGH,Conspiracy to import cocaine and traffic

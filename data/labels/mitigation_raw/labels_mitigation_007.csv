@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0061,R,X,X,X,X,X,X,X,X,N,HIGH,Court found Aboriginal ancestry not a significant factor given violence
+M0062,X,X,X,X,X,X,X,X,X,N,HIGH,Appeal about firearm offences with no relevant factor discussed
+M0063,M,X,X,X,X,N,X,X,X,N,HIGH,Appeal court accepted Gladue was fully considered with great restraint
+M0064,X,X,X,X,X,X,X,X,X,N,LOW,Brief endorsement varying sentence on procedural error only
+M0065,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee quoted only as general law
+M0066,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for proportionality only
+M0067,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue systemic background factors important and mitigating; residential school effects unclear
+M0068,M,X,X,X,X,X,X,X,X,N,LOW,Gladue analysis considered in setting sentence but weight unclear
+M0069,M,X,N,X,X,X,X,X,X,N,HIGH,Aboriginal heritage accepted as mitigating factor
+M0070,N,X,X,X,X,N,X,X,X,N,LOW,Gladue report described but mitigating factors listed did not include it

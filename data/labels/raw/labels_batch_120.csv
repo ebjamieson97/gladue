@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5733,NOT,NA,HIGH,Production application ruling on records
+D5984,RELATED,NA,HIGH,Bail pending sentence appeal dismissed
+D5861,NOT,NA,HIGH,Conviction appeal on search warrant
+D1095,NOT,NA,HIGH,Conviction quashed new trial ordered
+D4439,REVIEWS,FULL,HIGH,Crown appeal on probation conditions allowed
+D2203,IMPOSES,FULL,HIGH,Reasons for sentence for sexual interference
+D4816,REVIEWS,MINIMAL,LOW,Leave to appeal sentence denied
+D3457,REVIEWS,FULL,HIGH,Sexual assault sentence appeal dismissed
+D1302,NOT,NA,HIGH,Sentence appeal dismissed as abandoned
+D1395,NOT,NA,HIGH,Disclosure and stay appeal
+D3964,REVIEWS,FULL,HIGH,Contempt sentence appeal allowed
+D2761,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed by consent for credit
+D2428,IMPOSES,FULL,HIGH,Joint recommendation conditional sentence imposed
+D4153,IMPOSES,FULL,HIGH,Reasons for sentence for weapons offences
+D4012,IMPOSES,FULL,HIGH,Reasons for sentence for sexual assaults
+D3575,NOT,NA,HIGH,Speeding conviction appeal new trial
+D5605,NOT,NA,HIGH,Conviction appeal dismissed
+D3464,NOT,NA,HIGH,Directions on judicial review parties
+D5162,REVIEWS,FULL,HIGH,Summary conviction sentence appeal dismissed
+D2705,NOT,NA,HIGH,Conviction appeal dismissed for want of prosecution
+D5561,NOT,NA,HIGH,Crown appeal restoring conviction
+D3865,NOT,NA,HIGH,Conviction appeal dismissed
+D4795,NOT,NA,HIGH,Application to withdraw admissions denied
+D4538,NOT,NA,HIGH,Disclosure application granted
+D5890,NOT,NA,HIGH,Conviction appeal dismissed
+D1171,NOT,NA,HIGH,Leave to appeal denied on summary conviction dismissals

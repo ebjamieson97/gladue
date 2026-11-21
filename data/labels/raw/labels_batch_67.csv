@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D1343,NOT,NA,HIGH,Conviction appeal dismissed
+D1863,REVIEWS,FULL,HIGH,Sentence appeal for assault causing bodily harm dismissed
+D5621,NOT,NA,HIGH,Bail review in murder case
+D1739,NOT,NA,HIGH,Summary conviction appeal allowed and new trial ordered
+D4152,NOT,NA,HIGH,Pretrial ruling on trial conditions in murder case
+D5569,NOT,NA,HIGH,Charter right to silence conviction appeal
+D2501,REVIEWS,MINIMAL,HIGH,Sentence appeal for impaired driving dismissed
+D2332,REVIEWS,FULL,HIGH,Crown youth sentence appeal allowed and probation substituted
+D4876,NOT,NA,HIGH,Section 11(b) delay application dismissed
+D3247,NOT,NA,HIGH,Verdict in break and enter trial
+D4237,NOT,NA,HIGH,Section 11(b) delay application denied
+D1132,IMPOSES,FULL,LOW,Fines for criminal contempt of publication ban
+D2850,REVIEWS,FULL,HIGH,Dangerous offender sentence appeal dismissed
+D5819,NOT,NA,HIGH,Manslaughter conviction appeal dismissed
+D3883,NOT,NA,HIGH,Application to cross-examine counsel in conviction appeal
+D3648,NOT,NA,HIGH,Acquittal on sexual invitation charge
+D1860,REVIEWS,FULL,HIGH,Parole ineligibility sentence appeal for murder dismissed
+D2387,IMPOSES,FULL,HIGH,Reasons for sentence for sexual offences against children
+D5260,NOT,NA,HIGH,Leave to appeal conviction denied
+D2841,NOT,NA,HIGH,Conviction set aside and new trial; sentence appeal not reached
+D5696,NOT,NA,HIGH,Crown appeal of regulatory acquittals
+D3004,RELATED,NA,HIGH,Evidence ruling in s. 745.6 parole eligibility hearing
+D2822,NOT,NA,HIGH,New trial ordered; sentence appeal not reached
+D5090,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D1528,IMPOSES,FULL,HIGH,Reasons for sentence second degree murder parole ineligibility
+D4431,NOT,NA,HIGH,Appeal to set aside guilty plea dismissed

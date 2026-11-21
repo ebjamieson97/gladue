@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0991,M,N,N,X,X,X,X,X,X,N,HIGH,Gladue factors accepted as relevant circumstances in parole ineligibility decision
+M0992,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in other cases cited by defence
+M0993,R,X,X,X,X,X,X,X,X,N,HIGH,Offender declined Gladue report and was not sentenced as Aboriginal
+M0994,M,N,X,X,X,X,X,X,X,N,HIGH,Aboriginal heritage mitigating for Tarrant but minor for Gammel
+M0995,N,X,X,N,X,X,X,X,X,N,HIGH,Gladue discussed only in other cases and general law
+M0996,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in distinguished cases
+M0997,X,X,X,X,M,X,X,X,X,N,LOW,Judicial notice of systemic racism against African Nova Scotians before non-custodial sentence
+M0998,X,X,X,X,R,X,X,X,X,N,HIGH,Anti-Black racism rejected for lack of connection to offence
+M0999,M,X,X,X,X,X,X,X,X,N,LOW,Judge took Metis heritage into account and appeal court upheld
+M1000,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only on proportionality

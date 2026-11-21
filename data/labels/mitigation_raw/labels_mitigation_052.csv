@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0511,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report waived; court noted heritage and 718.2(e) without clear weight
+M0512,N,N,N,X,X,N,X,X,X,N,LOW,Gladue report described; appeal court excerpt shows no clear weighing
+M0513,N,X,N,X,X,N,X,X,X,N,LOW,Gladue report factors recited; youth sentence imposed; weight unclear
+M0514,N,X,X,X,N,N,X,X,X,N,LOW,Social context law discussed; no IRCA; effect on offender unclear
+M0515,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue informed sentence and supported conditional discharge
+M0516,N,X,X,X,N,N,X,X,X,N,LOW,Cultural impact assessment described; no clear weight shown
+M0517,N,X,X,X,M,X,X,X,X,N,HIGH,Racism and historical discrimination context relevant in sentencing Black youth
+M0518,M,X,X,M,X,X,X,X,X,N,HIGH,Gladue factors and intergenerational trauma justified reduced custodial sentence
+M0519,X,X,X,X,R,X,X,X,X,N,LOW,Racial profiling allegation rejected on conviction appeal
+M0520,X,X,X,X,M,X,X,X,X,N,HIGH,Background in IRCA treated as mitigating offsetting record

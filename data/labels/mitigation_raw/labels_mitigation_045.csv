@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0441,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report among materials but no weighing shown in excerpt
+M0442,M,X,X,X,X,N,X,X,X,N,HIGH,Court accepted Gladue report supports a more controlled sentence
+M0443,X,X,X,X,R,X,X,X,X,N,HIGH,Anti-Black racism not raised at sentencing and no foundation laid
+M0444,X,X,X,X,X,X,X,X,X,N,LOW,Only a cited case involved racist group
+M0445,N,X,X,X,N,X,X,X,X,N,LOW,Letter on racism considered but weight to it not shown
+M0446,R,X,X,X,X,X,X,X,X,N,LOW,Disadvantaged background did not lower moral blameworthiness
+M0447,R,X,X,X,X,X,X,X,X,N,LOW,Violent crimes and record required imprisonment despite 718.2(e)
+M0448,M,N,M,X,X,X,X,X,X,N,HIGH,Parents residential school history put sentence in context
+M0449,N,X,N,X,X,X,X,X,X,N,LOW,Family residential school trauma described but weight not shown
+M0450,M,N,X,X,X,X,X,X,X,N,HIGH,Gladue factors applied and sentence reduced for proportionality

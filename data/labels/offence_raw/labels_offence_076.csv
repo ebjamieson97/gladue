@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1651,other,HIGH,Arson endangering life
+F1652,sexual,HIGH,Sexual touching of daughter
+F1653,drugs,HIGH,Importing methamphetamine and possession for trafficking
+F1654,robbery;kidnapping;assault;weapons;other,HIGH,Home invasion robbery confinement threat aggravated assault firearm
+F1655,sexual,HIGH,Sexual exploitation of minor
+F1656,none,LOW,Offences not shown in excerpt
+F1657,sexual;kidnapping,HIGH,Sexual assault and forcible confinement
+F1658,theft_fraud,HIGH,Fraud
+F1659,drugs,HIGH,Conspiracy to traffic in heroin
+F1660,weapons;other,HIGH,Firearm offence intimidation and breach of recognizance
+F1661,sexual,HIGH,Making sexually explicit material available to a minor
+F1662,sexual,HIGH,Luring and obtaining sexual services of a minor
+F1663,break_enter,HIGH,Break and enter of dwelling
+F1664,break_enter;theft_fraud,HIGH,Break and enter and theft in dwelling
+F1665,break_enter;robbery;weapons;assault,HIGH,Unlawfully in dwelling robbery knife possession assault
+F1666,sexual;assault,HIGH,Sexual interference incest and assault causing bodily harm
+F1667,drugs,HIGH,Trafficking in cocaine and possession for trafficking
+F1668,break_enter;robbery,HIGH,Conspiracy to break and enter and assault with intent to steal
+F1669,weapons,HIGH,Unlawful possession of firearm
+F1670,homicide,HIGH,Second degree murder
+F1671,weapons;theft_fraud,HIGH,Firearms offences and possession of stolen vehicle and plates
+F1672,drugs,HIGH,Trafficking in drugs

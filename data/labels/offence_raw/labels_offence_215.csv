@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4709,drugs;other,HIGH,Possession for trafficking crack cocaine and breach of probation
+F4710,none,LOW,Offence not shown in excerpt
+F4711,theft_fraud,HIGH,Theft under $5000 of a shirt
+F4712,drugs,HIGH,Trafficking in crack cocaine
+F4713,sexual;other,HIGH,Sexual assault and living off avails and death threat
+F4714,theft_fraud,HIGH,Fraud involving false GST refunds
+F4715,driving,HIGH,Impaired driving causing harm to passenger
+F4716,break_enter;theft_fraud;driving;weapons,HIGH,Break and enter and stolen property and driving prohibited and prohibited weapon
+F4717,other,HIGH,Criminal contempt for violating court order
+F4718,other;assault;weapons;kidnapping,HIGH,Threats and assault and pointing firearm and unlawful confinement
+F4719,other,HIGH,Breaches of no contact court orders
+F4720,homicide,HIGH,Manslaughter
+F4721,homicide,LOW,Aiding suicide of two patients
+F4722,weapons,HIGH,Using imitation firearm in commission of offence during bank robbery
+F4723,theft_fraud;other,HIGH,False tax returns and tax evasion and counselling fraud and GST
+F4724,homicide,HIGH,Second degree murder
+F4725,sexual;other,HIGH,Sexual assault and breach of probation
+F4726,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4727,sexual,HIGH,Luring a child
+F4728,assault,HIGH,Aggravated assault
+F4729,break_enter,HIGH,Four counts of break and enter
+F4730,homicide,LOW,Accessory after the fact to murder

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3763,other,HIGH,Participation in riot
+F3764,robbery,HIGH,Robbery; plea to assault causing bodily harm not accepted
+F3765,sexual,HIGH,Rape indecent assault gross indecency and buggery
+F3766,theft_fraud,HIGH,Fraud over $5000
+F3767,drugs,HIGH,Trafficking cocaine and methamphetamine for criminal organization
+F3768,kidnapping;break_enter;assault,HIGH,Child abduction unlawfully in dwelling and assault causing bodily harm
+F3769,robbery,LOW,Robbery conviction; other offences unclear
+F3770,sexual;other;assault,HIGH,Sexual assault arson mischief threats breach and assaulting officer
+F3771,drugs;weapons,HIGH,Possession for trafficking and loaded firearms
+F3772,drugs,HIGH,Trafficking methamphetamine and marihuana
+F3773,break_enter;theft_fraud,HIGH,Break and enter and theft
+F3774,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3775,drugs,HIGH,Possession of crack cocaine for trafficking
+F3776,kidnapping;assault;driving,HIGH,Forcible confinement assault dangerous operation and failure to stop
+F3777,sexual,HIGH,Indecent assault sexual assault and buggery
+F3778,robbery,HIGH,Armed robbery and related charges
+F3779,drugs,HIGH,Possession of marihuana for purpose of trafficking
+F3780,other;assault,HIGH,Threats assault causing bodily harm and breach of probation
+F3781,assault,HIGH,Assault causing bodily harm to wife
+F3782,sexual,HIGH,Possession of child pornography
+F3783,drugs,HIGH,Producing marihuana and possession for trafficking
+F3784,homicide,HIGH,Second degree murder

@@ -1,0 +1,61 @@
+sample,task,method,fold,precision,recall
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: decision tree,1,0.9147,0.9241
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: decision tree,2,0.9013,0.9074
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: decision tree,3,0.8788,0.9212
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: decision tree,4,0.9138,0.8948
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: decision tree,5,0.8988,0.9396
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: logistic regression,1,0.9476,0.9518
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: logistic regression,2,0.9538,0.9302
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: logistic regression,3,0.9642,0.9445
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: logistic regression,4,0.9538,0.9488
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: logistic regression,5,0.9495,0.9743
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: gradient boosting,1,0.9326,0.9562
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: gradient boosting,2,0.9551,0.9531
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: gradient boosting,3,0.9681,0.9457
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: gradient boosting,4,0.95,0.9465
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: gradient boosting,5,0.9481,0.9868
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: decision tree,1,0.9814,0.9456
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: decision tree,2,0.9945,0.977
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: decision tree,3,0.9821,0.9812
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: decision tree,4,0.9945,0.9945
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: decision tree,5,0.9874,0.9817
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: logistic regression,1,0.976,0.9878
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: logistic regression,2,1.0,0.9892
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: logistic regression,3,0.9648,0.9812
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: logistic regression,4,0.9824,1.0
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: logistic regression,5,0.9876,0.9945
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: gradient boosting,1,0.982,0.9824
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: gradient boosting,2,0.9946,0.9892
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: gradient boosting,3,0.9651,0.9882
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: gradient boosting,4,0.9877,1.0
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: gradient boosting,5,0.9876,0.9936
+RANDOM SAMPLE (unweighted),sentencing,Statistical: decision tree,1,0.8878,0.9055
+RANDOM SAMPLE (unweighted),sentencing,Statistical: decision tree,2,0.913,0.9403
+RANDOM SAMPLE (unweighted),sentencing,Statistical: decision tree,3,0.905,0.9095
+RANDOM SAMPLE (unweighted),sentencing,Statistical: decision tree,4,0.8698,0.9444
+RANDOM SAMPLE (unweighted),sentencing,Statistical: decision tree,5,0.9095,0.9188
+RANDOM SAMPLE (unweighted),sentencing,Statistical: logistic regression,1,0.9548,0.9453
+RANDOM SAMPLE (unweighted),sentencing,Statistical: logistic regression,2,0.9643,0.9403
+RANDOM SAMPLE (unweighted),sentencing,Statistical: logistic regression,3,0.9545,0.9497
+RANDOM SAMPLE (unweighted),sentencing,Statistical: logistic regression,4,0.9347,0.9394
+RANDOM SAMPLE (unweighted),sentencing,Statistical: logistic regression,5,0.9692,0.9594
+RANDOM SAMPLE (unweighted),sentencing,Statistical: gradient boosting,1,0.9458,0.9552
+RANDOM SAMPLE (unweighted),sentencing,Statistical: gradient boosting,2,0.9598,0.9502
+RANDOM SAMPLE (unweighted),sentencing,Statistical: gradient boosting,3,0.9303,0.9397
+RANDOM SAMPLE (unweighted),sentencing,Statistical: gradient boosting,4,0.9394,0.9394
+RANDOM SAMPLE (unweighted),sentencing,Statistical: gradient boosting,5,0.9596,0.9645
+RANDOM SAMPLE (unweighted),imposes,Statistical: decision tree,1,0.9857,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: decision tree,2,0.9429,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: decision tree,3,1.0,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: decision tree,4,1.0,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: decision tree,5,0.9841,0.9538
+RANDOM SAMPLE (unweighted),imposes,Statistical: logistic regression,1,1.0,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: logistic regression,2,0.9565,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: logistic regression,3,1.0,0.9848
+RANDOM SAMPLE (unweighted),imposes,Statistical: logistic regression,4,1.0,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: logistic regression,5,1.0,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: gradient boosting,1,0.9857,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: gradient boosting,2,0.9429,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: gradient boosting,3,1.0,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: gradient boosting,4,1.0,1.0
+RANDOM SAMPLE (unweighted),imposes,Statistical: gradient boosting,5,1.0,1.0

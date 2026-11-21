@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3961,assault;other,HIGH,Aggravated assault x2 and uttering threats
+F3962,homicide,HIGH,Second degree murder
+F3963,drugs,HIGH,Possession of cannabis resin for purpose of trafficking
+F3964,driving,HIGH,Impaired driving causing bodily harm and failing to remain
+F3965,driving;assault,HIGH,Dangerous driving and aggravated assault
+F3966,homicide,HIGH,Attempted murder of police officers
+F3967,break_enter;theft_fraud,HIGH,Break and enters and theft of motor vehicles
+F3968,homicide;weapons,HIGH,Manslaughter with firearm and firearms possession
+F3969,break_enter;theft_fraud,HIGH,Break and enter of pharmacy and theft of narcotics
+F3970,break_enter,HIGH,Two break and enters into residences
+F3971,none,LOW,Probation reporting condition appeal; offences not shown
+F3972,sexual,HIGH,Making child pornography and agreement to commit sexual offence against child
+F3973,homicide,HIGH,Second degree murder
+F3974,sexual,HIGH,Sexual assault of niece
+F3975,homicide,HIGH,Second degree murder
+F3976,sexual,HIGH,Sexual assault
+F3977,drugs,HIGH,Possession for trafficking fentanyl and heroin plus simple possession
+F3978,drugs,HIGH,Unauthorized production of marijuana
+F3979,sexual,HIGH,Possession of child pornography
+F3980,drugs,HIGH,Trafficking in heroin and possession for purpose of trafficking
+F3981,sexual,HIGH,Sexual touching and invitation to sexual touching of stepdaughter
+F3982,drugs,HIGH,Possession for trafficking of cocaine and fentanyl

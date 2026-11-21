@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3103,drugs;weapons,HIGH,Producing cannabis and unlawful storage of firearm
+F3104,homicide,HIGH,Second degree murder
+F3105,sexual,HIGH,Incest and sexual assault
+F3106,weapons,HIGH,Firearm possession offences while prohibited
+F3107,drugs,HIGH,Trafficking in cocaine
+F3108,none,LOW,Unspecified crime of violence
+F3109,sexual,HIGH,Sexual assault
+F3110,homicide,HIGH,Manslaughter
+F3111,other,HIGH,Aiding entry into Canada under IRPA and breach of recognizance
+F3112,homicide,HIGH,Manslaughter of newborn child
+F3113,theft_fraud,HIGH,Fraud and forgery offences
+F3114,homicide,HIGH,Manslaughter during home invasion
+F3115,sexual,LOW,Sexual assault dangerous offender designation
+F3116,homicide,HIGH,Two counts of second degree murder
+F3117,homicide,HIGH,Second degree murder
+F3118,assault;weapons;kidnapping,HIGH,Aggravated assault firearm discharge kidnapping restricted weapon possession
+F3119,sexual;robbery;other,HIGH,Gang sexual assault sexual assault with weapon robbery uttering threats
+F3120,robbery;other,HIGH,Robbery and breach of probation
+F3121,drugs;theft_fraud,HIGH,Trafficking fentanyl possession for trafficking proceeds of crime
+F3122,theft_fraud;drugs,HIGH,Theft of hydro and marijuana trafficking and production
+F3123,robbery;weapons,HIGH,Robbery and use of imitation firearm
+F3124,sexual,HIGH,Sexual interference

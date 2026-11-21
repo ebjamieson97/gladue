@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1291,M,X,X,X,X,M,X,X,X,N,HIGH,Aboriginal background and racism moderated moral culpability somewhat
+M1292,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted Gladue background considered; sentence at lower end
+M1293,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for conditional sentence law
+M1294,R,X,X,X,X,X,X,X,X,N,HIGH,Trauma accepted but high blameworthiness limited Gladue effect
+M1295,M,M,N,N,X,X,X,X,X,N,LOW,Court had regard to Gladue factors but said less compelling
+M1296,M,N,N,X,X,N,X,X,X,N,HIGH,Aboriginal heritage reduced culpability but only so far
+M1297,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue material would not have changed result
+M1298,R,X,N,N,X,X,X,X,X,N,LOW,Considered Gladue report but ten year sentence remained fit
+M1299,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in other cases cited
+M1300,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors were strong mitigating factors justifying sentence

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0641,M,X,X,X,X,X,X,X,X,N,LOW,Trial judge included Gladue in an 18 month reduction
+M0642,X,X,X,X,N,X,X,X,X,N,LOW,Offender reported systemic racism as fresh evidence; weight unclear
+M0643,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in a comparison case
+M0644,X,X,X,X,M,X,X,X,X,N,LOW,IRCA personal circumstances informed culpability and range
+M0645,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e recited as general law
+M0646,M,X,M,X,X,X,X,X,X,N,HIGH,Gladue factors including residential school family history diminished blameworthiness
+M0647,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue report considered and conditional sentence imposed
+M0648,M,X,X,X,X,X,X,X,X,N,LOW,Mitigating factors identified in Gladue report considered
+M0649,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but dangerous offender declared
+M0650,M,X,X,X,X,X,X,X,X,N,HIGH,Minimal Gladue factors and youth meant not upper range

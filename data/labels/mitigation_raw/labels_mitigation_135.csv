@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1341,M,X,N,N,X,N,X,X,X,N,HIGH,Departed from range based on Gladue principles
+M1342,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factors in fraud sentencing
+M1343,M,X,X,N,X,X,X,X,X,N,HIGH,Devastating background and Gladue considerations shaped culpability and sentence
+M1344,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal allowed as 718.2(e) not given adequate weight
+M1345,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in other cases
+M1346,N,X,N,X,X,X,X,X,X,N,LOW,Gladue only discussed in other cases and general law
+M1347,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court found aboriginal circumstances adequately addressed
+M1348,M,X,N,N,X,N,X,X,X,N,HIGH,Aboriginal status mitigating and supervision order shortened
+M1349,X,X,N,N,X,X,X,X,N,N,HIGH,Childhood racism and other offender residential school only described
+M1350,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors considered in imposing one year sentence

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1981,homicide,HIGH,Second degree murder of two offenders
+F1982,sexual,HIGH,Sexual assault
+F1983,drugs,HIGH,Possession for purpose of trafficking cocaine and methamphetamine
+F1984,robbery,HIGH,Five counts of robbery
+F1985,none,LOW,Offences not shown in excerpt
+F1986,robbery;kidnapping;weapons,HIGH,Bank robbery and unlawful confinement and imitation firearm use
+F1987,weapons;assault,HIGH,Discharging firearm and aggravated assault
+F1988,assault,HIGH,Aggravated assault with beer bottle
+F1989,driving,HIGH,Driving while suspended or prohibited
+F1990,none,LOW,Offences not shown in excerpt
+F1991,assault,LOW,Offence unclear; victim injured; likely assault
+F1992,robbery,HIGH,Six convenience store armed robberies
+F1993,other,HIGH,Animal related offence with prohibition order
+F1994,weapons;assault;other,HIGH,Firearm discharge and pointing and assault and threats
+F1995,homicide;assault,HIGH,Second degree murder and two aggravated assaults
+F1996,sexual;other,HIGH,Sexual assault and child luring and breach of recognizance
+F1997,assault;other,HIGH,Assault causing bodily harm and failing to appear
+F1998,weapons;drugs,HIGH,Firearm storage offences and possession of cocaine
+F1999,weapons,HIGH,Restricted firearm possession and carrying offences
+F2000,homicide,HIGH,Manslaughter
+F2001,sexual,LOW,Sexual interference and child pornography; order variation appeal
+F2002,assault;break_enter,HIGH,Aggravated assault during break and enter

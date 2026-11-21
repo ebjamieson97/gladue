@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1959,weapons;break_enter;theft_fraud,HIGH,Weapon for dangerous purpose; break and enter; break and enter and theft
+F1960,robbery;weapons,HIGH,Three robberies and using imitation firearms
+F1961,none,LOW,Offence not shown in excerpt
+F1962,sexual,HIGH,Child luring and communicating to obtain sexual services of minor
+F1963,driving,LOW,Racing driving causing accident; exact offence not named
+F1964,weapons,HIGH,Possession of loaded prohibited firearm
+F1965,sexual;assault,HIGH,Sexual assault and assault by choking
+F1966,none,LOW,Offence not shown in excerpt
+F1967,drugs,HIGH,Possession for trafficking of fentanyl and methamphetamine
+F1968,homicide,HIGH,Second degree murder
+F1969,weapons,HIGH,Possession of loaded prohibited or restricted firearm
+F1970,weapons;assault;other,HIGH,Firearm discharge; firearm possession; aggravated assault; arson; mischief; breach
+F1971,none,LOW,Offences not shown; global 10-year sentence
+F1972,none,LOW,Dangerous offender designation; underlying offence not shown
+F1973,homicide,HIGH,Murder with life sentence and parole ineligibility
+F1974,other,HIGH,Living off the avails of prostitution
+F1975,drugs;weapons,LOW,Gang investigation; likely drugs and firearms offences
+F1976,theft_fraud;other,HIGH,Tax evasion; false returns; GST evasion; counselling fraud
+F1977,weapons,LOW,Weapon possession and other unnamed crimes
+F1978,other,HIGH,Two counts of defamatory libel
+F1979,kidnapping;assault;robbery,HIGH,Unlawful confinement; assault; robbery
+F1980,weapons;drugs,HIGH,Firearm possession and possession for trafficking of several drugs

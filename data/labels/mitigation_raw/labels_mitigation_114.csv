@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1131,N,X,X,X,X,X,X,X,X,N,LOW,Gladue law stated but Indigenous status unproven
+M1132,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for breach of supervision law
+M1133,M,X,X,N,X,X,X,X,X,N,HIGH,Appeal court accepted judge weighed Gladue factors though attenuated
+M1134,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for individualization
+M1135,M,X,M,M,X,X,X,X,X,N,HIGH,Mother residential school and intergenerational effects considered as mitigating
+M1136,R,X,X,X,X,X,X,X,X,N,HIGH,Appeal court found limited Aboriginal information and no error
+M1137,M,X,X,X,X,X,X,X,X,N,HIGH,First Nations status listed as mitigating and appeal court upheld
+M1138,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue report and background factors reduced blameworthiness
+M1139,R,X,X,X,X,X,X,X,X,N,LOW,Gladue factors acknowledged but gravity of offence outweighed them
+M1140,M,X,N,X,X,X,X,X,X,N,HIGH,Appeal court applied s 718.2(e) and reduced the sentence

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3431,NOT,NA,HIGH,Right to counsel appeal
+D5321,REVIEWS,FULL,HIGH,Conviction and sentence appeal; sentence reduced
+D1765,NOT,NA,HIGH,Bail pending appeal application dismissed
+D4018,IMPOSES,FULL,HIGH,Sentencing for attempted murder
+D1489,IMPOSES,FULL,HIGH,Sentence for manslaughter joint submission
+D3962,RELATED,NA,LOW,Extension of time to appeal DO refused
+D2715,NOT,NA,HIGH,Voir dire on voluntariness
+D1457,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D4188,NOT,NA,HIGH,Conviction appeal dismissed
+D1115,REVIEWS,MINIMAL,HIGH,Leave to appeal sentence denied
+D5064,RELATED,NA,HIGH,Certiorari of assessment order before sentencing
+D3062,NOT,NA,HIGH,Crown appeal from acquittal
+D2916,REVIEWS,FULL,HIGH,Leave granted; sentence appeal dismissed
+D1195,REVIEWS,FULL,HIGH,Probation conditions appeal allowed in part
+D2434,IMPOSES,FULL,HIGH,Reasons for sentence for fraud
+D2584,NOT,NA,HIGH,Murder conviction appeal; sentence appeal not pursued
+D4004,IMPOSES,FULL,HIGH,Sentence for robbery
+D4049,REVIEWS,FULL,HIGH,Leave granted; sentence appeal dismissed
+D1839,RELATED,NA,HIGH,Disclosure ruling in conditional sentence breach hearing
+D1682,NOT,NA,HIGH,Application to withdraw guilty plea dismissed
+D5859,NOT,NA,HIGH,Abuse of process appeal
+D1425,REVIEWS,FULL,HIGH,Sentence appeal; probation order deleted
+D3257,NOT,NA,HIGH,Conviction appeal dismissed
+D2947,REVIEWS,MINIMAL,HIGH,Appeal of sentence firearms prohibition dismissed
+D1981,NOT,NA,HIGH,Mistrial ordered
+D4748,NOT,NA,HIGH,Murder conviction appeal; new trial

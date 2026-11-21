@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0309,homicide,HIGH,Manslaughter with a firearm
+F0310,homicide,HIGH,Manslaughter
+F0311,other,HIGH,Misleading police by false statement in homicide investigation
+F0312,other,HIGH,Breach of undertaking and causing disturbance
+F0313,sexual,HIGH,Sexual offences against step-daughters; dangerous offender designation
+F0314,driving,HIGH,Dangerous operation of a motor vehicle
+F0315,robbery,HIGH,Bank robbery
+F0316,homicide,HIGH,Manslaughter in home invasion
+F0317,assault,HIGH,Assault by throwing hot soup
+F0318,break_enter;theft_fraud,HIGH,Dwelling-house break and enter and theft
+F0319,sexual,HIGH,Sexual offences incest and sexual assault against three complainants
+F0320,none,LOW,Offence not shown; house arrest credit only
+F0321,homicide,HIGH,Second degree murder
+F0322,assault,HIGH,Choking
+F0323,drugs,HIGH,Trafficking cocaine two counts
+F0324,driving,HIGH,Impaired driving causing bodily harm
+F0325,robbery,HIGH,Robbery of cab driver
+F0326,drugs;other,HIGH,Possession for trafficking two counts and breach of probation
+F0327,sexual,HIGH,Sexual assault two counts
+F0328,other,HIGH,Breach of probation
+F0329,sexual,HIGH,Sexual interference two counts
+F0330,robbery;weapons;break_enter,HIGH,Armed robbery imitation firearm use and break and enter

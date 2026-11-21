@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4797,homicide,HIGH,Two counts first degree murder
+F4798,driving,HIGH,Dangerous driving causing death by young offender
+F4799,theft_fraud,HIGH,Two counts welfare fraud over $5000
+F4800,homicide,HIGH,Manslaughter
+F4801,none,LOW,Offence not identified beyond very serious
+F4802,homicide,HIGH,Second degree murder
+F4803,theft_fraud,LOW,Apparent possession over $5000 and car theft related
+F4804,homicide,HIGH,Two counts second degree murder and attempted murder
+F4805,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4806,drugs,HIGH,Possession of marihuana for purpose of exporting
+F4807,homicide;kidnapping;other,HIGH,Manslaughter kidnapping and offering indignity to a body
+F4808,other,HIGH,Mischief damage to property in cell
+F4809,robbery;weapons,HIGH,Robbery with prohibited firearm and firearm possession
+F4810,sexual,HIGH,Sexual assault of a child
+F4811,none,LOW,Offence not stated
+F4812,assault,HIGH,Aggravated assault and assault with a weapon
+F4813,none,LOW,Offence not stated
+F4814,break_enter;other,HIGH,Break and enter and arson of pharmacy
+F4815,drugs;theft_fraud;weapons,HIGH,Cocaine trafficking possession of crime proceeds restricted handgun
+F4816,drugs;weapons;theft_fraud,HIGH,Marijuana trafficking firearms and stolen identification documents
+F4817,none,LOW,Offence not shown in excerpt
+F4818,other;weapons,HIGH,Conspiracy arson conspiracy to discharge firearm and firearm possession

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0391,M,X,X,X,X,X,X,X,X,N,HIGH,Court weighed Gladue factors and growing up circumstances toward lower joint sentence
+M0392,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report before judge but no weight shown
+M0393,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only quoted for restorative principle
+M0394,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) recited generally
+M0395,R,X,X,X,X,X,X,X,X,N,HIGH,Bare Indigenous heritage without evidence had no impact
+M0396,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) cited for conditional sentence only
+M0397,R,X,X,X,X,X,X,X,X,N,HIGH,No systemic factors present and offence too serious
+M0398,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report considered by sentencing judge and accepted on appeal
+M0399,N,X,N,N,X,X,X,X,X,N,LOW,Gladue and residential school argued by counsel with no clear ruling
+M0400,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report fresh evidence and sentence reduced to six months

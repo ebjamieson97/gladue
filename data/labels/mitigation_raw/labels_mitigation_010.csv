@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0091,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but mandatory minimum applied and no effect
+M0092,M,X,M,M,X,X,X,X,X,N,HIGH,Gladue factors and residential school trauma reduced moral blameworthiness
+M0093,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only on parity
+M0094,X,X,X,X,X,X,X,N,X,Y,HIGH,Offender was white supremacist threatening Black victims
+M0095,X,X,X,X,X,X,X,N,X,Y,HIGH,Hate propaganda offence against Jewish people
+M0096,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) listed only in general principles
+M0097,M,N,M,M,X,N,X,X,X,N,HIGH,Residential school legacy diminished blameworthiness and supported joint submission
+M0098,M,X,M,X,X,X,X,X,X,N,HIGH,Appeal allowed for missing Gladue information and sentence reduced
+M0099,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous and Gladue only discussed in comparison cases
+M0100,M,X,M,M,X,M,X,X,X,N,HIGH,Gladue factors and residential school effects reduced moral blameworthiness

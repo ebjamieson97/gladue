@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2839,driving,HIGH,Driving while licence under suspension
+F2840,drugs,HIGH,Trafficking and possession for trafficking crack cocaine
+F2841,sexual,HIGH,Sexual assault
+F2842,sexual,HIGH,Sexual assault
+F2843,kidnapping;other;weapons,HIGH,Kidnapping and extortion and dangerous weapon possession
+F2844,drugs;theft_fraud,HIGH,Drug conspiracy and trafficking and possession of proceeds of crime
+F2845,assault,HIGH,Aggravated assault as predicate for dangerous offender
+F2846,assault;weapons;other,HIGH,Aggravated assault and pointing firearm and uttering threats
+F2847,sexual,HIGH,Sexual assault causing bodily harm; dangerous offender
+F2848,break_enter,HIGH,Break and entering dwelling house
+F2849,assault;sexual,HIGH,Assault with weapon and sexual assault and assault
+F2850,assault,HIGH,Assault causing bodily harm
+F2851,driving;homicide;other,HIGH,Impaired driving causing death and criminal negligence causing death and breach
+F2852,homicide;weapons,HIGH,Second degree murder and unlawful firearm storage and transport
+F2853,weapons;other,HIGH,Discharging firearm and firearms possession and breach of recognizance
+F2854,break_enter;robbery;weapons;kidnapping;assault,HIGH,Home invasion robbery with firearm and confinement and assault
+F2855,drugs,HIGH,Production and possession for trafficking of marijuana
+F2856,sexual,HIGH,Sexual assault and sexual interference
+F2857,sexual;robbery,HIGH,Sexual assault and robbery; dangerous offender
+F2858,other,HIGH,Disobeying court order
+F2859,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F2860,other,HIGH,Animal cruelty by organizations

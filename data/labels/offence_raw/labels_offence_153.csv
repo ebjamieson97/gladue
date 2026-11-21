@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3345,homicide,HIGH,Second degree murder parole ineligibility
+F3346,sexual,HIGH,Two counts of sexual assault
+F3347,sexual,HIGH,Sexual assault
+F3348,assault;sexual;kidnapping;weapons;other,HIGH,Sexual assault confinement assault weapons firearm personating police
+F3349,sexual,HIGH,Internet luring child pornography and sexually explicit material to child
+F3350,break_enter;theft_fraud,HIGH,Break enter and theft of safe
+F3351,robbery,HIGH,Robbery of fast food outlet
+F3352,sexual,HIGH,Sexual assault and transmitting child pornography
+F3353,theft_fraud;other,HIGH,Tax evasion false returns GST evasion counselling fraud
+F3354,assault;theft_fraud,HIGH,Assaulting peace officer and theft under $5000
+F3355,theft_fraud,HIGH,Fraud under $5000 obtaining drugs as pharmacist
+F3356,sexual;other,HIGH,Sexual interference invitation to touching and breach
+F3357,homicide,HIGH,Second degree murder parole ineligibility
+F3358,drugs,HIGH,Conspiracy to traffic fentanyl and other drugs
+F3359,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3360,other;theft_fraud;driving,HIGH,Arson auto theft breach failing to stop possession stolen property
+F3361,assault;weapons;drugs,HIGH,Discharge firearm aggravated assault firearm transfers cocaine trafficking
+F3362,homicide,HIGH,Second degree murder
+F3363,drugs,HIGH,Possession for trafficking cocaine and ecstasy
+F3364,sexual,HIGH,Sexual assault by taxi driver
+F3365,sexual;other,HIGH,Sexual interference and breach of s. 161 order
+F3366,drugs,HIGH,Possession of cocaine for purpose of trafficking

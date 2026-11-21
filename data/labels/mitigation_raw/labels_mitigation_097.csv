@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0961,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue and Ipeelee cited only as general law
+M0962,M,X,M,X,X,X,X,X,X,N,HIGH,Residential school abuse reduced moral blameworthiness and sentence on appeal
+M0963,M,M,M,X,X,X,X,X,X,N,HIGH,Gladue factors including colonization effects reduced sentence from Crown position
+M0964,R,X,N,X,X,X,X,X,X,N,LOW,Gladue considered but serious offence apparently limited its effect
+M0965,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in other cases cited
+M0966,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report described but no weight shown on appeal
+M0967,M,X,X,X,X,X,X,X,X,N,HIGH,Joint submission accepted as reflecting mitigating factors and First Nations status
+M0968,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue component weighed and sentence set below Crown position
+M0969,M,N,X,X,N,R,X,X,X,N,HIGH,Gladue adjustment applied but racialized systemic factors not mitigating
+M0970,M,X,X,X,X,N,X,X,X,N,LOW,Gladue report used for non-Indigenous offender and sentence recalibrated

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1057,robbery,HIGH,Robbery guilty plea joint recommendation
+F1058,assault,HIGH,Assault causing black eye
+F1059,robbery;weapons,HIGH,Four bank robberies and use of firearm counts
+F1060,robbery,HIGH,Robbery by purse snatching
+F1061,sexual,HIGH,Party to sexual assaults on daughter
+F1062,theft_fraud,HIGH,Possession of forged credit card and stolen property
+F1063,break_enter;assault,HIGH,Break and entry and assault
+F1064,sexual,HIGH,Sexual exploitation of young person
+F1065,drugs,LOW,Drug offences unclear from excerpt
+F1066,theft_fraud;driving,HIGH,Theft of vehicle theft and driving while prohibited
+F1067,sexual,HIGH,Indecent assault attempted rape and sexual assault
+F1068,break_enter,HIGH,Break and enter non-residential
+F1069,sexual;other,HIGH,Two sexual assaults and uttering threats
+F1070,sexual,HIGH,Two counts of sexual interference
+F1071,homicide;other,HIGH,Second degree murder and interfering with human remains
+F1072,assault,HIGH,Assault with a weapon
+F1073,homicide,HIGH,Manslaughter of wife
+F1074,drugs;other,HIGH,Cocaine trafficking criminal organization offence and breaches
+F1075,theft_fraud,HIGH,Fraud and unlawful use of credit card data
+F1076,theft_fraud,HIGH,Theft forgery and fraud from clients
+F1077,theft_fraud,HIGH,Fraud and conspiracy to commit fraud
+F1078,break_enter;theft_fraud,HIGH,Two break and enters and possession of stolen property

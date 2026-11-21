@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0691,M,N,N,X,X,X,X,X,X,N,HIGH,Appeal court reduced sentence citing s. 718.2(e) circumstances as Aboriginal offender
+M0692,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue report given little weight as heritage played no part
+M0693,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in summaries of other cases
+M0694,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned as principle and no such factors present
+M0695,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted only as general law
+M0696,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court upheld trial judge's proper application of Gladue principles
+M0697,M,X,N,X,X,M,X,X,X,N,HIGH,Gladue lens applied and racism in school listed among factors noted
+M0698,N,X,X,X,X,X,X,X,X,N,LOW,Counsel urged Gladue factors but court gave them no discussion
+M0699,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in other cases
+M0700,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous so no Gladue factors applied

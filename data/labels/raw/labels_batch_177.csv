@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D1047,NOT,NA,HIGH,Leave to appeal conviction dismissed
+D5938,REVIEWS,MINIMAL,HIGH,Sentence appeal on conditional sentence refusal dismissed
+D2006,REVIEWS,FULL,HIGH,Crown appeal dangerous offender designation allowed
+D1579,NOT,NA,HIGH,Crown appeal of stay of proceedings dismissed
+D1999,IMPOSES,FULL,HIGH,Sentence for second degree murder with parole ineligibility
+D5206,REVIEWS,FULL,HIGH,Sentence appeal allowed only for pre-sentence custody credit
+D3298,NOT,NA,HIGH,SCC 11(b) delay stay
+D1205,NOT,NA,HIGH,Similar fact evidence voir dire at trial
+D3849,NOT,NA,HIGH,Murder conviction appeal dismissed
+D3200,NOT,NA,HIGH,Murder conviction appeals dismissed
+D1086,NOT,NA,HIGH,SCC s. 24(2) evidence admissibility
+D3238,NOT,NA,HIGH,Application to examine witnesses on appeal dismissed
+D4886,NOT,NA,HIGH,Sexual assault conviction appeal dismissed
+D4780,NOT,NA,HIGH,Conviction appeal for disturbing peace
+D4688,NOT,NA,HIGH,Evidence ruling at Pickton trial
+D2792,NOT,NA,HIGH,Abuse of process stay appeal on conviction
+D2810,NOT,NA,HIGH,Murder conviction appeal dismissed
+D2834,NOT,NA,LOW,Appeal on 11(b) remedy; sentence only mentioned
+D5054,NOT,NA,HIGH,Trial verdict of guilty
+D4671,NOT,NA,HIGH,Preliminary inquiry discharge appeal
+D2610,IMPOSES,MINIMAL,HIGH,Life sentence for first degree murder imposed
+D2587,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed; Duncan credit
+D5852,RELATED,NA,HIGH,Dangerous offender assessment delay application denied
+D3178,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeal dismissed
+D2608,REVIEWS,MINIMAL,HIGH,Leave granted sentence appeal dismissed
+D3124,RELATED,NA,LOW,Appeal quashing driving prohibition after guilty plea

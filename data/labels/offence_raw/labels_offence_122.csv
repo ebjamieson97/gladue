@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2663,sexual,HIGH,Sexual interference of two children
+F2664,drugs;weapons,HIGH,Marihuana production and trafficking; unsafe firearm storage
+F2665,theft_fraud,HIGH,Three counts of fraud under $5000
+F2666,sexual,HIGH,Possession and making available of child pornography
+F2667,weapons,HIGH,Possession of prohibited weapon (switchblade)
+F2668,sexual,HIGH,Sexual interference
+F2669,sexual,HIGH,Sexual assault
+F2670,sexual,HIGH,Sexual assault of minor
+F2671,sexual;weapons,HIGH,Child pornography possession and access; careless firearm storage
+F2672,drugs,HIGH,Possession of marihuana for trafficking
+F2673,sexual;assault,HIGH,Indecent assault; rape; sexual assault; common assault
+F2674,assault;break_enter;other,HIGH,Aggravated assault; break and enter; masked face
+F2675,sexual;driving,HIGH,Sexual interference; dangerous operation; flight from police
+F2676,drugs,HIGH,Trafficking in cocaine
+F2677,sexual,HIGH,Sexual assault; sexual touching; child pornography
+F2678,theft_fraud;other,HIGH,Multiple frauds and impersonation; obstruction of justice
+F2679,sexual;kidnapping,LOW,Sexual assault and unlawful confinement; other counts unclear
+F2680,homicide,HIGH,Manslaughter
+F2681,robbery;weapons,HIGH,Robbery and use of imitation firearm
+F2682,sexual,HIGH,Sexual interference and making child pornography
+F2683,driving,HIGH,Dangerous driving causing bodily harm
+F2684,assault,HIGH,Aggravated assault

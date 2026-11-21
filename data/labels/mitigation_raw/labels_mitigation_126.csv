@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1251,X,X,X,X,X,N,X,X,X,N,LOW,Systemic racism reported but not listed as mitigating
+M1252,M,X,X,X,X,X,X,X,X,N,HIGH,Indigenous background factors mitigated moral culpability
+M1253,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in comparison case
+M1254,N,X,X,X,X,X,X,X,X,N,HIGH,Legal question about Crown duty and no Gladue weighing
+M1255,N,X,X,X,N,X,X,X,X,N,HIGH,General restraint principle and racism in comparison case
+M1256,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue led court to depart below usual range
+M1257,N,X,X,X,X,X,X,X,X,N,LOW,Trial judge considered Gladue factors with effect unclear
+M1258,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue applied to accomplices and not this appellant
+M1259,N,X,X,X,X,X,X,X,X,N,LOW,Gladue principles quoted generally
+M1260,X,X,X,X,X,X,X,X,X,N,HIGH,Morris cited only for gun crime danger

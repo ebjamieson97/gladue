@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0491,M,M,M,M,X,X,X,X,X,N,HIGH,Gladue factors including residential school trauma and colonial policies mitigating
+M0492,M,X,X,X,X,X,X,X,X,N,HIGH,Difficult childhood under 718.2e given regard; conditional sentence imposed
+M0493,X,X,X,X,X,X,X,X,X,N,HIGH,Only general 718.2e text quoted; offender not Indigenous
+M0494,M,N,M,X,X,X,X,X,X,N,LOW,Gladue factors applied and grandmothers residential school impact accepted
+M0495,R,X,R,X,X,X,X,X,X,N,LOW,Residential school history considered but custody upheld given offence seriousness
+M0496,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0497,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in general law and other cases
+M0498,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court took Gladue factors into account in reducing life sentence
+M0499,M,X,X,X,X,X,X,X,X,N,HIGH,Judge gave real consideration to Gladue report; upheld on appeal
+M0500,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report considered within overall sentence; joint submission accepted

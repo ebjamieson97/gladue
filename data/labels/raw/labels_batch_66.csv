@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3156,NOT,NA,HIGH,Bail pending appeal motion dismissed
+D2132,RELATED,NA,HIGH,Constitutional challenge to mandatory parole ineligibility for second murder
+D3415,NOT,NA,HIGH,Verdict of guilt after trial
+D5122,NOT,NA,HIGH,Third party records production application
+D5797,NOT,NA,HIGH,Murder conviction appeal on jury selection
+D5131,NOT,NA,HIGH,Appeal on acquittals restored
+D5426,NOT,NA,HIGH,Civil summary trial procedure ruling
+D2716,REVIEWS,MINIMAL,HIGH,Summary conviction appeal; fine held fit
+D3474,NOT,NA,HIGH,Murder conviction appeal on provocation
+D1933,RELATED,NA,HIGH,Application for assigned counsel on appeal denied
+D2728,NOT,NA,HIGH,Historic appeal on conviction for attempt
+D5699,NOT,NA,HIGH,Fraud trial acquittal
+D5777,NOT,NA,HIGH,Murder conviction appeal dismissed
+D1413,REVIEWS,FULL,HIGH,Conviction and parole ineligibility appeals dismissed
+D1958,IMPOSES,FULL,HIGH,Sentence for drug trafficking on joint recommendation
+D3895,NOT,NA,HIGH,Fishing appeals; sentence appeal not reached after acquittal
+D5919,NOT,NA,HIGH,Crown acquittal appeal allowed; new trial
+D2334,REVIEWS,FULL,HIGH,Sentence appeal for impaired driving; conditional sentence sought
+D1390,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal not pursued
+D5790,NOT,NA,HIGH,Conviction appeal dismissed
+D5104,NOT,NA,HIGH,Blood alcohol certificate disclosure appeal
+D5730,RELATED,NA,HIGH,Ruling on adjournment for pre-sentence report
+D5233,NOT,NA,HIGH,Appeal on access to sealed search warrant materials
+D1500,IMPOSES,FULL,HIGH,Curative treatment discharge with probation for impaired driving
+D5809,IMPOSES,FULL,HIGH,Five year sentence for manslaughter
+D1475,REVIEWS,FULL,HIGH,Sentence appeal for sexual assault dismissed

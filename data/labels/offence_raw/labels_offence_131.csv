@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2861,assault,HIGH,Assault causing bodily harm and common assaults
+F2862,drugs;weapons,HIGH,Fentanyl possession for trafficking and handgun possession
+F2863,driving,HIGH,Impaired operation of vessel causing bodily harm
+F2864,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F2865,sexual,HIGH,Two counts of sexual interference
+F2866,sexual,HIGH,Possession of child pornography
+F2867,drugs,HIGH,Two counts of trafficking hydromorphone
+F2868,none,LOW,Only fine in lieu of forfeiture and restitution shown
+F2869,homicide;assault,HIGH,Two second degree murders and two aggravated assaults
+F2870,robbery,HIGH,Attempted robbery
+F2871,sexual,HIGH,Sexual exploitation and sexual assault of young person
+F2872,sexual,HIGH,Four counts of indecent assault
+F2873,sexual,HIGH,Two counts of sexual assault
+F2874,homicide;weapons,HIGH,Manslaughter and two firearms counts
+F2875,homicide,HIGH,Manslaughter
+F2876,drugs,HIGH,Possession for trafficking of meth fentanyl and heroin
+F2877,break_enter;robbery;weapons,HIGH,Break enter and robbery and weapon possession
+F2878,driving;assault,HIGH,Dangerous driving causing bodily harm and assault with weapon
+F2879,sexual,HIGH,Sexual assault of stepdaughter
+F2880,homicide,HIGH,Second degree murder
+F2881,homicide;other,HIGH,Manslaughter and indignity to human remains
+F2882,drugs,HIGH,Trafficking in cocaine

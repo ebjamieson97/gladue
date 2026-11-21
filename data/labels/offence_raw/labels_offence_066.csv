@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1431,none,LOW,Charges not shown; Charter challenge on enhanced credit
+F1432,sexual,HIGH,Sexual assault
+F1433,break_enter;weapons,HIGH,Break and enter and steal firearm
+F1434,sexual,HIGH,Sexual assault and invitation to sexual touching
+F1435,assault;break_enter,HIGH,Assault of police officer with weapon and break and enter
+F1436,driving,HIGH,Impaired driving causing bodily harm
+F1437,drugs,HIGH,Production of cannabis and possession for trafficking
+F1438,assault;weapons;other,HIGH,Assault with weapon firearm offences and mischief
+F1439,drugs,HIGH,Four counts possession for trafficking
+F1440,homicide;weapons,HIGH,Attempted murder and two firearms offences
+F1441,assault;driving;other,HIGH,Aggravated assault care or control escape custody resisting officer
+F1442,theft_fraud,HIGH,Three shoplifting offences
+F1443,assault,HIGH,Aggravated assault
+F1444,assault,HIGH,Assaulting peace officer and assault causing bodily harm to peace officer
+F1445,kidnapping;robbery;other;weapons,HIGH,Kidnapping robbery extortion and confinement with firearm
+F1446,sexual,HIGH,Sexual assault by young person
+F1447,other;theft_fraud,HIGH,Breaches of undertaking and recognizance and obtaining money by false pretences
+F1448,assault;sexual,HIGH,Five assaults and one sexual assault
+F1449,sexual;assault,HIGH,Sexual assault sexual interference and assault of children
+F1450,assault;other,HIGH,Aggravated assault with firearm and uttering threats
+F1451,sexual,HIGH,Sexual assault sexual interference and invitation to sexual touching
+F1452,sexual,HIGH,Sexual interference child luring and child exploitation material

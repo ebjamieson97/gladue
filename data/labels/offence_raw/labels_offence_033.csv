@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0705,sexual,HIGH,Sexual assault
+F0706,drugs;weapons,HIGH,Drug possession and possession of prohibited weapon switchblade
+F0707,homicide,HIGH,Second degree murder
+F0708,sexual,HIGH,Indecent assault and sexual assault of adolescent boys
+F0709,weapons,HIGH,Unauthorized possession of a firearm
+F0710,robbery,HIGH,Robbery
+F0711,robbery;theft_fraud;other,HIGH,Robbery theft and breaches of probation
+F0712,none,LOW,Offence not identified in excerpt
+F0713,homicide;break_enter,HIGH,Second degree murder attempted murder and break and enter
+F0714,drugs;weapons;other,HIGH,Trafficking methamphetamine firearm order breach and excise offences
+F0715,none,LOW,Offence not identified in excerpt
+F0716,assault;break_enter;other,HIGH,Aggravated assault break and enter assault with weapon breach of probation
+F0717,drugs,HIGH,Production of cannabis
+F0718,driving,HIGH,Impaired driving and criminal negligence causing death and bodily harm
+F0719,driving,HIGH,Failing to provide breath sample
+F0720,homicide,HIGH,Manslaughter
+F0721,drugs;other,HIGH,Trafficking marijuana and breaches of court orders
+F0722,theft_fraud,HIGH,Fraud over $5000
+F0723,robbery,HIGH,Robbery of taxi driver
+F0724,sexual;assault,HIGH,Sexual assault and assault by choking
+F0725,assault,HIGH,Aggravated assault
+F0726,drugs;theft_fraud,HIGH,Production of marihuana and theft of hydro

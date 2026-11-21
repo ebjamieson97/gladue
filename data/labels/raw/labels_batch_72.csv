@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3277,NOT,NA,HIGH,Release pending appeal from conviction
+D2144,REVIEWS,FULL,HIGH,Parole ineligibility reduced on appeal for murder
+D3453,NOT,NA,HIGH,Leave to appeal refused on acquittal appeal
+D4693,NOT,NA,HIGH,Crown appeal from acquittal new trial
+D2818,IMPOSES,FULL,HIGH,Sentence for contempt of court witness refusal
+D3885,REVIEWS,MINIMAL,HIGH,Leave to appeal sentence denied
+D1855,IMPOSES,FULL,HIGH,Reasons for parole ineligibility on murder
+D2248,REVIEWS,FULL,HIGH,Sentence appeal on conditional sentence dismissed
+D3347,IMPOSES,FULL,HIGH,Reasons for sentence with conditional sentence for sexual assault
+D5918,NOT,NA,HIGH,Murder conviction appeal new trial
+D4830,RELATED,NA,LOW,Procedural order appointing counsel in inmate appeal
+D5124,NOT,NA,HIGH,Perjury indictment quashing appeal
+D4561,NOT,NA,HIGH,Conviction appeal dismissed
+D3460,NOT,NA,HIGH,Acquittal on arson charges
+D2366,REVIEWS,FULL,HIGH,Sentence appeal for stolen mail offences dismissed
+D3979,RELATED,NA,HIGH,Extension of time to appeal conviction and sentence
+D5334,NOT,NA,HIGH,Stay of proceedings restored
+D4628,NOT,NA,HIGH,Verdict guilty on drug and firearm charges
+D4760,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D2080,REVIEWS,FULL,HIGH,Sentence appeal on pretrial credit dismissed
+D3379,NOT,NA,HIGH,Tax withholding appeal
+D3798,NOT,NA,HIGH,Voir dire excluding prior incident evidence
+D4609,NOT,NA,HIGH,Crown appeal of highway traffic conviction allowed
+D4973,IMPOSES,FULL,HIGH,Reasons for sentence for conspiracy to murder
+D3339,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D4986,NOT,NA,HIGH,Crown appeal of delay stay dismissed

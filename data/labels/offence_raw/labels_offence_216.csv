@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4731,driving,HIGH,Dangerous driving causing bodily harm and death
+F4732,robbery;other,HIGH,Seven robberies and wearing a mask
+F4733,robbery;other,HIGH,Robbery and three breaches of probation
+F4734,other,LOW,Breaches of probation
+F4735,assault;driving;theft_fraud,LOW,Assault on officer with car and dangerous driving and shoplifting
+F4736,sexual,HIGH,Possession of child pornography
+F4737,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4738,assault,HIGH,Aggravated assault by stabbing
+F4739,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4740,break_enter,HIGH,Break and enter of dwelling house
+F4741,sexual,HIGH,Procuring a 14-year-old to become a prostitute
+F4742,sexual,HIGH,Sexual assault
+F4743,weapons,LOW,Firearms offence with weapons prohibitions
+F4744,sexual;other,HIGH,Sexual interference and incest and breaches of release
+F4745,theft_fraud;other,HIGH,Fraud and forged cheque and stolen property and breach of CSO
+F4746,theft_fraud,HIGH,Fraud
+F4747,drugs,HIGH,Trafficking in crack cocaine
+F4748,break_enter,HIGH,Break and enter
+F4749,assault;other;kidnapping,HIGH,Assault and uttering threats and unlawful confinement and breach of probation
+F4750,homicide,HIGH,Second degree murder
+F4751,none,LOW,Offence not shown in excerpt
+F4752,other,LOW,Apparent failure to appear or breach of condition

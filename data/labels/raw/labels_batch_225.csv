@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5825,REVIEWS,FULL,HIGH,Sentence appeal allowed on credit for time served
+D5783,NOT,NA,HIGH,Conviction appeal allowed new trial
+D2014,REVIEWS,FULL,HIGH,Crown sentence appeal for drug trafficking and fine
+D1307,NOT,NA,HIGH,Verdict in drug conspiracy trial
+D5217,IMPOSES,FULL,HIGH,Oral reasons for sentence break and enter and robbery
+D4990,NOT,NA,HIGH,Guilty plea set aside new trial ordered
+D5791,IMPOSES,FULL,HIGH,Sentencing for aggravated assault and child neglect
+D3597,IMPOSES,FULL,HIGH,Sentencing for bodily harm and break and enter
+D5382,REVIEWS,FULL,HIGH,Sentence appeal allowed conditional discharge granted
+D3080,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed reduced to 9 months
+D6041,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed conspiracy to rob
+D3346,NOT,NA,HIGH,Release pending new trial
+D3855,NOT,NA,HIGH,Civil contract dispute
+D3720,NOT,NA,HIGH,Murder conviction appeal new trial ordered
+D5727,REVIEWS,FULL,HIGH,Crown appeal of conditional sentence dismissed
+D5544,NOT,NA,HIGH,Expropriation compensation appeal
+D5415,IMPOSES,FULL,HIGH,Oral reasons for sentence cannabis production
+D3029,REVIEWS,MINIMAL,HIGH,Youth conviction appeal dismissed and sentence appeal dismissed
+D4607,NOT,NA,HIGH,Acquittal on assault
+D3120,NOT,NA,HIGH,Bail pending appeal denied
+D2596,REVIEWS,FULL,HIGH,Youth conviction appeal dismissed sentence varied
+D3728,NOT,NA,HIGH,Acquittal on sexual assault
+D4960,NOT,NA,HIGH,Conviction appeal dismissed robberies
+D5800,NOT,NA,HIGH,Summary conviction appeal allowed stay
+D6029,NOT,NA,HIGH,Interim relief on mink regulations
+D6058,NOT,NA,HIGH,Charter application on warrant denied

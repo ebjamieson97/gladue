@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2905,drugs;weapons;theft_fraud,HIGH,Possession for trafficking; prohibited weapon; counterfeit currency
+F2906,break_enter;sexual;other,HIGH,Break and enter; sexual assault; threat to injure animal
+F2907,driving,HIGH,Impaired driving causing death
+F2908,assault,HIGH,Aggravated assault with beer bottle
+F2909,kidnapping;assault,HIGH,Unlawful confinement; assault causing bodily harm; assault with weapon
+F2910,other,HIGH,Breach of trust by public official over false clothing claims
+F2911,other;break_enter,HIGH,Mischief to vehicle; break and enter to commit arson
+F2912,sexual,HIGH,Sexual assault and sexual interference historical
+F2913,sexual,HIGH,Possessing and accessing child pornography
+F2914,assault,HIGH,Aggravated assault by stabbing
+F2915,other,HIGH,Uttering threats and breach of release condition
+F2916,other,HIGH,Collecting property to benefit terrorist group
+F2917,none,LOW,Offence not shown; only serious injuries mentioned
+F2918,homicide,HIGH,Criminal negligence causing death in street race
+F2919,assault;other,HIGH,Assault and breaches of recognizance
+F2920,none,LOW,Offence not identified in endorsement
+F2921,theft_fraud,HIGH,Fraud over credit card use and theft from Walmart
+F2922,sexual;other,HIGH,Aggravated sexual assault; sexual assault; breach of probation
+F2923,sexual,HIGH,Youth sexual assault
+F2924,drugs,HIGH,Possession of cocaine for trafficking
+F2925,homicide,HIGH,Attempted murder by shooting
+F2926,assault;weapons;other,HIGH,Aggravated assault; death threat; weapon possession; breach of probation

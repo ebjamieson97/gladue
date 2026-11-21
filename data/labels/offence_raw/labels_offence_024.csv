@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0507,weapons,HIGH,Unauthorized possession of sawed-off shotgun and silencer
+F0508,none,LOW,Offence not shown in excerpt
+F0509,robbery,HIGH,Party to armed robbery
+F0510,other,HIGH,Fisheries Act regulatory licensing offences
+F0511,sexual,HIGH,Sexual assault and child luring and sexual material to child
+F0512,break_enter;assault,LOW,Home invasion assault as young person
+F0513,drugs,HIGH,Narcotics possession presumably for trafficking
+F0514,driving,HIGH,Impaired driving causing death and bodily harm
+F0515,assault,HIGH,Assault and two counts assault with weapon
+F0516,sexual,HIGH,Sexual assault counts and sexual interference
+F0517,homicide;other,HIGH,Manslaughter and interfering with body
+F0518,assault;driving,HIGH,Aggravated assault and assault causing bodily harm and impaired driving
+F0519,assault;kidnapping;other,HIGH,Assault with weapon and forcible confinement and mischief and breaches
+F0520,drugs,HIGH,Possession of heroin and cocaine for trafficking
+F0521,break_enter;theft_fraud;other,HIGH,Break and enter and stolen property and mischief and breach
+F0522,drugs;weapons;theft_fraud,HIGH,Methamphetamine trafficking and production and firearms and identity offences
+F0523,homicide,HIGH,Manslaughter
+F0524,robbery,HIGH,Two counts of robbery
+F0525,drugs,HIGH,Production of marijuana and possession for trafficking
+F0526,kidnapping;assault;other,HIGH,Human trafficking and assault with weapon and threats and mischief
+F0527,sexual,HIGH,Possession of child pornography
+F0528,homicide,HIGH,Second degree murder

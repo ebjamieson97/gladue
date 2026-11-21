@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5459,IMPOSES,FULL,HIGH,Sentencing on joint submission for assaults
+D5076,IMPOSES,FULL,HIGH,Murder sentencing with parole ineligibility set
+D5134,RELATED,NA,HIGH,Mandatory minimum s. 12 Charter ruling in sentencing
+D2423,NOT,NA,HIGH,Post-verdict bail pending sentencing ruling
+D5839,NOT,NA,HIGH,Crown appeal of acquittal new trial ordered
+D3497,NOT,NA,HIGH,Summary conviction appeal from impaired conviction dismissed
+D4105,NOT,NA,HIGH,Charter voir dire evidence exclusion ruling
+D3201,NOT,NA,HIGH,Conviction appeal dismissed similar fact evidence
+D4871,NOT,NA,HIGH,Charter disclosure ruling in trial
+D1571,REVIEWS,FULL,HIGH,Sentence appeal on pre-sentence custody credit dismissed
+D5741,NOT,NA,HIGH,Conviction appeal dismissed
+D2044,IMPOSES,FULL,HIGH,Sentencing for drug importation after Gardiner hearing
+D1054,NOT,NA,HIGH,Privilege ruling on intercepted communications
+D5902,REVIEWS,FULL,HIGH,Sentence appeal allowed and sentence reduced
+D2746,NOT,NA,HIGH,Interim release pending leave to SCC
+D1498,NOT,NA,HIGH,Application to withdraw guilty pleas dismissed
+D5517,NOT,NA,HIGH,Conviction appeal and fresh evidence dismissed
+D5365,NOT,NA,HIGH,Summary conviction appeal of obstruction conviction
+D2184,REVIEWS,FULL,HIGH,Sentence appeal for firearm offences dismissed
+D1842,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal abandoned
+D1104,NOT,NA,HIGH,SCC included offence conviction appeal
+D4594,NOT,NA,HIGH,Civil Crown liability appeal
+D5036,NOT,NA,HIGH,Charter voir dire ruling on seizure
+D2632,RELATED,NA,LOW,Extension of time to appeal denied as vexatious
+D3192,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed and sentence reduced
+D2037,IMPOSES,FULL,HIGH,Sentencing for aggravated assault

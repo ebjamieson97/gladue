@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1421,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited as general law only
+M1422,N,N,N,X,X,N,X,X,X,N,LOW,Gladue report and quoted cases but no weight shown for offender
+M1423,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court found Gladue analysis properly applied
+M1424,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted via Friesen on rehabilitation only
+M1425,R,X,X,X,X,X,X,X,X,N,LOW,Judge was aware of Gladue but violence and risk outweighed it
+M1426,M,X,M,N,X,X,X,X,X,N,HIGH,Aboriginal heritage and mother's residential school history accepted as mitigating
+M1427,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in another case being compared
+M1428,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in other cases
+M1429,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) and Gladue quoted as general law
+M1430,R,X,N,X,X,X,X,X,X,N,LOW,Aboriginal history considered but three and a half year sentence upheld

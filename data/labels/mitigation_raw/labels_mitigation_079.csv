@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0781,M,M,X,X,X,X,X,X,X,N,HIGH,Gladue factors and colonization impacts reduced moral culpability
+M0782,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted only
+M0783,M,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal ancestry listed as mitigating factor
+M0784,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited in general discussion only
+M0785,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue considerations called significant and mitigating
+M0786,M,X,X,N,X,X,X,X,X,N,HIGH,Appeal court accepted judge took social factors into account
+M0787,N,X,X,X,M,X,X,X,X,N,HIGH,IRCA and racism context reduced responsibility and sentence
+M0788,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited on general principles
+M0789,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) and Ipeelee quoted as law
+M0790,M,X,R,X,X,X,X,X,X,N,HIGH,Aboriginal background reduced blameworthiness somewhat but residential school effect not found

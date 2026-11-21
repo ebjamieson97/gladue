@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2817,sexual,HIGH,Sexual offences against step-daughter aged 14
+F2818,assault;other,HIGH,Assault threats and property damage against spouse over eight years
+F2819,drugs,HIGH,Possession for purpose of trafficking crack cocaine
+F2820,sexual,HIGH,Incest with half-sister aged 14
+F2821,weapons,LOW,Drive-by shooting with firearms; specific offences not stated
+F2822,homicide,HIGH,Second degree murder
+F2823,drugs,HIGH,Conspiracy to traffic drugs and cultivation of marijuana
+F2824,sexual,HIGH,Sexual interference with child under 14
+F2825,theft_fraud;driving;other,HIGH,Stolen vehicle and dangerous driving causing bodily harm plus other counts
+F2826,drugs,HIGH,Possession of cocaine and fentanyl for trafficking
+F2827,kidnapping;assault;weapons,HIGH,Unlawful confinement and assault and carrying weapon
+F2828,homicide,HIGH,Manslaughter
+F2829,kidnapping,HIGH,Taking child in contravention of custody order
+F2830,sexual,HIGH,Sexual assault of six-year-old girl
+F2831,sexual,HIGH,Multiple sexual assaults on children
+F2832,weapons;drugs;kidnapping;assault;homicide,HIGH,Weapons possession and trafficking and confinement and attempted murder
+F2833,drugs,HIGH,Drug trafficking offences
+F2834,weapons,HIGH,Possession of loaded firearm and prohibited weapons
+F2835,none,LOW,Offences not shown; credit for pre-sentence custody only
+F2836,assault,HIGH,Aggravated assault by stabbing
+F2837,drugs,HIGH,Possession for trafficking and production of methamphetamine and ecstasy
+F2838,homicide,HIGH,Manslaughter

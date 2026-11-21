@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D190,NOT,NA,HIGH,New trial ordered; Crown sentence cross-appeal not addressed
+D400,NOT,NA,HIGH,Conviction quashed new trial ordered
+D168,REVIEWS,FULL,HIGH,Conviction appeals dismissed; Palaguru sentence appeal dismissed
+D411,NOT,NA,HIGH,Charter right to counsel appeal
+D316,IMPOSES,FULL,HIGH,Sentencing for drug and firearm offences
+D160,NOT,NA,HIGH,Verdict reasons; sentencing adjourned
+D083,NOT,NA,HIGH,Section 525 detention review ruling
+D344,RELATED,NA,LOW,Extension of time to appeal conviction and sentence refused
+D153,NOT,NA,HIGH,Summary conviction appeal on driving while prohibited
+D202,IMPOSES,FULL,HIGH,Fisheries Act sentencing with fines
+D443,IMPOSES,MINIMAL,HIGH,Short reasons for sentence for first degree murder
+D051,NOT,NA,HIGH,New trial ordered on conviction appeal
+D423,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed; SOIRA order reduced
+D107,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D061,NOT,NA,HIGH,Verdict of guilty on sexual interference
+D093,REVIEWS,FULL,HIGH,Sexual assault sentence reduced on appeal
+D354,NOT,NA,HIGH,New trial ordered; sentence appeal not addressed
+D287,IMPOSES,FULL,HIGH,Suspended sentence for drug trafficking
+D434,NOT,NA,HIGH,Plea uninformed; conviction set aside
+D007,NOT,NA,HIGH,Section 24(2) ruling on evidence
+D101,REVIEWS,FULL,HIGH,Firearm offences sentence appeal dismissed
+D049,NOT,NA,HIGH,Old murder conviction appeal
+D023,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal not pursued
+D404,REVIEWS,FULL,HIGH,Drug sentence reduced on appeal
+D301,REVIEWS,FULL,HIGH,SCC joint submission test; sentence varied
+D437,RELATED,NA,LOW,Application to reopen abandoned sentence appeal refused

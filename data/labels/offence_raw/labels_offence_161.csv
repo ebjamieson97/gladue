@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3521,drugs;weapons,HIGH,Cocaine and cannabis trafficking and loaded handgun firearms offences
+F3522,assault,HIGH,Aggravated assault of domestic partner
+F3523,none,LOW,Offences not shown; sentence appeal with prior probation breaches
+F3524,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3525,drugs,LOW,Simple possession substituted on count 1; substance not shown
+F3526,weapons,HIGH,Transferring restricted firearm and possessing loaded restricted firearm
+F3527,assault;other,HIGH,Aggravated assault and threatening offence
+F3528,kidnapping,HIGH,Parental abduction of child under fourteen
+F3529,weapons;assault;other;kidnapping,HIGH,Firearm pointing and discharge; threats; choking; aggravated assault; confinement
+F3530,other,HIGH,Accessory after the fact to murder and obstructing peace officer
+F3531,sexual,LOW,Three convictions apparently sexual; excerpt unclear
+F3532,break_enter;other,HIGH,Break and entry and two breaches of recognizance
+F3533,homicide;assault,HIGH,Manslaughter and two counts of aggravated assault
+F3534,sexual,HIGH,Sexual interference and sexual assault
+F3535,other,HIGH,Three breaches of long-term supervision order
+F3536,assault;other,HIGH,Unprovoked assault and fabricating evidence by police officer
+F3537,drugs,HIGH,Possession of cocaine methamphetamine and heroin for trafficking
+F3538,theft_fraud,HIGH,Fraud over $5000 and attempted fraud
+F3539,homicide;assault,HIGH,Manslaughter and criminal negligence causing bodily harm
+F3540,drugs,HIGH,Possession of heroin and cocaine for trafficking
+F3541,homicide,HIGH,Attempted murder after aggravated assault stayed
+F3542,homicide;other,HIGH,Attempted murder threatening death and breach of probation

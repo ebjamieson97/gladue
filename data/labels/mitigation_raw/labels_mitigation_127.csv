@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1261,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted judge considered Gladue factors that may have played a role
+M1262,X,X,X,X,X,X,X,X,X,N,HIGH,Only general restraint principle under s. 718.2(e) cited
+M1263,M,M,M,M,X,M,X,X,X,N,HIGH,Colonization and background reduced blameworthiness to a limited extent
+M1264,X,X,X,X,X,X,X,X,X,N,HIGH,Only general s. 718.2(e) restraint discussed
+M1265,N,X,X,X,R,X,X,X,X,N,HIGH,Race and culture assessment found no role in offence and no lighter sentence
+M1266,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in comparator cases
+M1267,M,X,X,M,X,X,X,X,X,N,HIGH,Accepted Gladue type family history as mitigating including intergenerational trauma
+M1268,X,X,X,N,X,X,X,X,X,N,HIGH,Intergenerational trauma only noted in a comparator case
+M1269,N,X,X,X,X,X,X,X,X,N,LOW,Leave application only; judge considered Gladue factors but weight unclear
+M1270,M,X,X,X,X,N,X,X,X,N,HIGH,Aboriginal background taken into account giving rehabilitative sentence

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1255,none,LOW,Offences not shown in excerpt
+F1256,robbery;theft_fraud,HIGH,Armed robbery and four fraud-related offences
+F1257,theft_fraud,HIGH,Commercial fraud and fraud-related offences
+F1258,sexual;assault;other,HIGH,Sexual assault assault and breach of probation
+F1259,other;assault;weapons,HIGH,Extortion assault causing bodily harm weapon possession
+F1260,other,HIGH,Fisheries Act regulation offence
+F1261,other,HIGH,Employing foreign national without work permit
+F1262,weapons;other,HIGH,Firearm possession and discharge and breach of recognizance
+F1263,sexual;assault;kidnapping;break_enter,HIGH,Aggravated sexual assault aggravated assault confinement unlawfully in dwelling
+F1264,robbery,HIGH,Robbery of marihuana grower
+F1265,theft_fraud;other;driving,HIGH,Theft obstruction dangerous driving failing to stop disqualified driving
+F1266,sexual;assault;other,HIGH,Sexual assault voyeurism and assault
+F1267,homicide,HIGH,Murder or manslaughter by stabbing
+F1268,theft_fraud;other,HIGH,Tax evasion and counselling fraud
+F1269,weapons,HIGH,Firearm possession offences
+F1270,drugs,HIGH,Production of fentanyl and methamphetamine
+F1271,weapons;drugs;other,LOW,Firearms drug possession and other unclear counts
+F1272,theft_fraud,HIGH,Theft over $5000 from employer
+F1273,drugs;break_enter,HIGH,Possession for trafficking and break and entry
+F1274,none,LOW,Dangerous offender designation offences not shown
+F1275,sexual,HIGH,Sexual interference and sexual assault
+F1276,homicide,HIGH,Conspiracy to commit murder

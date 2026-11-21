@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3719,other,HIGH,Living off avails of prostitution
+F3720,theft_fraud,HIGH,Fraud over $5000 on OHIP
+F3721,other,HIGH,Public mischief
+F3722,sexual;other,HIGH,Sexual interference and attempted extortion
+F3723,assault;robbery;weapons;other,HIGH,Aggravated assault firearm robbery weapons breaches
+F3724,homicide,HIGH,Manslaughter
+F3725,theft_fraud;driving;assault;other,HIGH,Stolen property flight dangerous driving assault police resisting arrest
+F3726,drugs;weapons,HIGH,Cannabis trafficking possession and firearms offences
+F3727,none,LOW,Offence not identified
+F3728,assault;sexual;kidnapping;other,HIGH,Choking assault bodily harm threat confinement sexual assault
+F3729,assault;weapons;other,HIGH,Firearm discharge aggravated assault arson mischief storage
+F3730,kidnapping;weapons,HIGH,Conspiracy to kidnap kidnapping with firearm possession
+F3731,homicide,HIGH,Second degree murder
+F3732,robbery;weapons,HIGH,Robbery and possession of firearm while prohibited
+F3733,robbery,HIGH,Conspiracy to commit robbery
+F3734,weapons;other,HIGH,Loaded firearm possession storage magazine and threats
+F3735,weapons,HIGH,Firearms parts and explosives while prohibited
+F3736,robbery,HIGH,Conspiracy to commit robbery and robbery
+F3737,drugs,HIGH,Possession for trafficking cocaine fentanyl methamphetamine
+F3738,weapons,HIGH,Discharging firearm with intent and firearm possession
+F3739,driving,HIGH,Impaired driving and failing to stop for police
+F3740,assault;sexual;other,HIGH,Assaults sexual assault bodily harm and uttering threats

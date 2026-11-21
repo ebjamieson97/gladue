@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0463,homicide,HIGH,Attempted murder
+F0464,none,LOW,Unspecified indictable offences; only probation orders at issue
+F0465,robbery,HIGH,Conspiracy to commit robbery
+F0466,driving,HIGH,Dangerous driving causing death and dangerous driving
+F0467,sexual;other;drugs,HIGH,Sexual touching; luring; breach of undertaking; trafficking
+F0468,assault,LOW,Apparent assault; offence not clearly named
+F0469,homicide;assault,HIGH,Manslaughter and two counts assault with a weapon
+F0470,theft_fraud,HIGH,Theft over $1000 and fraud over $5000
+F0471,sexual;other,HIGH,Luring; child pornography; breach of recognizance; dangerous offender
+F0472,robbery,HIGH,Armed robbery of jewellery store
+F0473,break_enter;assault,HIGH,Break and enter with assault; assault with a weapon
+F0474,other,HIGH,Employing foreign national without authorization
+F0475,robbery;assault,HIGH,Robberies and assaults; dangerous offender
+F0476,drugs;weapons,HIGH,Possession for trafficking cocaine; loaded firearm offences
+F0477,drugs,HIGH,Simple possession of cocaine
+F0478,other,HIGH,Importing honey bees contrary to Health of Animals Act
+F0479,drugs,HIGH,Production of marijuana
+F0480,theft_fraud,HIGH,Possession of stolen automobile
+F0481,drugs;theft_fraud,HIGH,Trafficking marihuana conspiracies; proceeds of crime offences
+F0482,drugs,HIGH,Importing and trafficking cocaine
+F0483,break_enter;theft_fraud;other,LOW,Eight offences including break and enter; property and breaches
+F0484,driving,HIGH,Dangerous driving causing bodily harm

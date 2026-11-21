@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4321,NOT,NA,HIGH,Publication ban application dismissed
+D2010,IMPOSES,FULL,HIGH,Reasons for sentence for sexual interference
+D5587,NOT,NA,HIGH,Section 680 bail review referral
+D1683,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal dismissed
+D2984,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence not disturbed
+D4450,NOT,NA,HIGH,Section 680 bail review referral
+D1945,REVIEWS,FULL,HIGH,Conviction appeal dismissed; leave to appeal sentence refused
+D1516,RELATED,NA,LOW,Habeas corpus about legality of sentence length
+D5412,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence reduced for credit
+D3701,NOT,NA,HIGH,Conviction appeal allowed acquittal entered
+D5491,REVIEWS,FULL,HIGH,Crown sentence appeal for fraud and theft allowed
+D2335,IMPOSES,FULL,HIGH,Reasons for sentence for robbery of taxi driver
+D3550,REVIEWS,FULL,HIGH,Crown appeal of conditional sentence allowed
+D3591,NOT,NA,HIGH,Murder appeal about hearsay and wiretap evidence
+D1096,NOT,NA,LOW,Verdict on one count after guilty pleas
+D2935,NOT,NA,HIGH,Bail pending appeal and counsel appointment
+D1427,REVIEWS,FULL,HIGH,Sentence appeal for assault dismissed
+D2820,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D2089,IMPOSES,FULL,HIGH,Reasons for sentence for drug trafficking conditional sentence
+D4090,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D3877,NOT,NA,HIGH,Voir dire on dying declaration
+D3948,NOT,NA,HIGH,Rape shield application ruling
+D5246,REVIEWS,FULL,HIGH,Sentence appeal for child pornography possession dismissed
+D1182,NOT,NA,HIGH,Murder conviction quashed new trial ordered
+D4192,NOT,NA,HIGH,Conviction appeal for sexual assault dismissed
+D5831,NOT,NA,HIGH,Voir dire ruling on privacy in letter

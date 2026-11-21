@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0815,homicide;theft_fraud,HIGH,Manslaughter with firearm and theft and possession and use of stolen cards
+F0816,homicide,HIGH,Conspiracy to commit murder
+F0817,weapons,LOW,Firearm offence found during pat-down search
+F0818,homicide,HIGH,Second degree murder of daughter
+F0819,drugs,HIGH,Trafficking in heroin
+F0820,assault;other,HIGH,Two assaults and resisting police officer
+F0821,homicide,HIGH,First degree murder by youth sentenced as adult
+F0822,sexual,HIGH,Sexual touching of young child under s. 151
+F0823,none,LOW,DNA order appeals with offences not shown
+F0824,sexual;assault,HIGH,Sexual assault and assault
+F0825,robbery;theft_fraud;other,HIGH,Robbery and disguise and possession of property obtained by crime
+F0826,drugs,HIGH,Two counts possession for purpose of trafficking
+F0827,sexual;other,HIGH,Sexual assault and threatening
+F0828,sexual,HIGH,Possession of child pornography
+F0829,other;assault,HIGH,Mischief and assault
+F0830,sexual,HIGH,Sexual touching of child under s. 151
+F0831,robbery;kidnapping;other;theft_fraud;weapons;drugs,HIGH,Robbery and confinement and threats and firearms and drug trafficking
+F0832,break_enter;theft_fraud,HIGH,Break and enter and theft
+F0833,assault;driving,HIGH,Assault peace officer and dangerous driving and flight from police
+F0834,assault,HIGH,Aggravated assault and assault with a weapon
+F0835,homicide;other,HIGH,Attempted murder and extortion and other offences at karaoke bar
+F0836,drugs;weapons,HIGH,Drug trafficking and possession and loaded handguns

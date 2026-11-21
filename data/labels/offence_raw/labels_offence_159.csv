@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3477,weapons,HIGH,Possession of restricted firearm while prohibited and related firearm count
+F3478,break_enter,HIGH,Break and enter with intent
+F3479,break_enter;theft_fraud,HIGH,Break and enter and commit theft
+F3480,drugs;theft_fraud,HIGH,Possession of marihuana for trafficking and possession of proceeds of crime
+F3481,theft_fraud,HIGH,Theft over
+F3482,kidnapping,HIGH,Kidnapping
+F3483,none,LOW,Offences not shown; only prior record described
+F3484,sexual,HIGH,Sexual interference of stepdaughter
+F3485,drugs;other,HIGH,Trafficking in cocaine and breach of recognizance
+F3486,homicide,HIGH,Second degree murder by two youths
+F3487,assault,LOW,Assault of peace officer causing bodily harm; other counts unclear
+F3488,driving,HIGH,Driving while prohibited and driving without insurance
+F3489,driving,HIGH,Dangerous driving causing death and bodily harm
+F3490,sexual,HIGH,Possession of child pornography
+F3491,break_enter;assault,HIGH,Unlawfully in dwelling and aggravated assault and assault with weapon
+F3492,driving,HIGH,Dangerous driving causing bodily harm
+F3493,robbery;kidnapping;weapons,HIGH,Home invasion robbery and confinement and firearms offences
+F3494,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3495,sexual,HIGH,Internet luring of person believed under fourteen
+F3496,sexual,HIGH,Sexual interference and invitation to sexual touching
+F3497,kidnapping;assault,HIGH,Kidnapping and aggravated assault
+F3498,assault,HIGH,Aggravated assault by stabbing

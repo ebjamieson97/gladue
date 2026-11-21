@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0067,theft_fraud,HIGH,249 counts fraud on GST refunds
+F0068,sexual,HIGH,Sexual assault
+F0069,sexual,HIGH,Incest sexual assault and child pornography
+F0070,weapons,HIGH,Pointing firearm and possessing loaded prohibited firearm
+F0071,sexual,HIGH,Four counts of sexual assault historical
+F0072,drugs,HIGH,Production and possession of marihuana for trafficking
+F0073,homicide,HIGH,Second degree murder
+F0074,homicide,HIGH,Criminal negligence causing death
+F0075,assault,HIGH,Aggravated assault
+F0076,assault,HIGH,Assault
+F0077,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0078,break_enter;robbery;kidnapping;assault,HIGH,Break enter robbery forcible confinement assault resist arrest
+F0079,driving,HIGH,Impaired and dangerous driving causing death and bodily harm
+F0080,weapons,HIGH,Firearm offences including s. 117.01 breach
+F0081,drugs,HIGH,Possession for trafficking cocaine and cannabis
+F0082,homicide,HIGH,Second degree murder
+F0083,robbery;theft_fraud;other,HIGH,Robbery possession of stolen property failure to attend court
+F0084,drugs,HIGH,Four counts possession for trafficking
+F0085,drugs;other,HIGH,Drug trafficking possession and corruptly accepting by peace officer
+F0086,assault,HIGH,Aggravated assault
+F0087,drugs,HIGH,Possession of cannabis for purpose of trafficking
+F0088,drugs;theft_fraud,HIGH,Methamphetamine trafficking and possession of proceeds

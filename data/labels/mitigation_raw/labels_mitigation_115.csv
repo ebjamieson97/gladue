@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1141,M,X,X,X,X,X,X,X,X,N,HIGH,Substantial Gladue factors justified lower end of range
+M1142,X,N,X,X,X,X,X,X,X,N,HIGH,Colonial history noted only through offender's children
+M1143,N,X,X,X,X,X,X,X,X,N,HIGH,Generic 718.2(e) restraint mention for non-Indigenous offender
+M1144,X,X,N,X,X,X,X,X,X,N,LOW,Residential school history recounted in dangerous offender decision without weighing
+M1145,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only as general law
+M1146,R,N,X,X,X,X,X,X,X,N,HIGH,Gladue fresh evidence rejected as not affecting moral blameworthiness
+M1147,X,X,X,N,X,X,X,X,X,N,HIGH,Intergenerational trauma only as harm of fentanyl crisis
+M1148,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factors mentioned
+M1149,M,X,M,M,X,X,X,X,X,N,HIGH,Gladue report factors mitigating and slightly reduced global sentence
+M1150,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality

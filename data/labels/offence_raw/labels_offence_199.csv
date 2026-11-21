@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4357,homicide,HIGH,Second degree murder by youth
+F4358,driving,HIGH,Two counts over 80 care or control
+F4359,homicide,HIGH,Second degree murder second conviction
+F4360,drugs,HIGH,Possession of cocaine for trafficking
+F4361,sexual,HIGH,Two counts indecent assault on stepdaughters
+F4362,homicide,HIGH,Manslaughter
+F4363,drugs,HIGH,Possession of three drugs for trafficking
+F4364,assault,HIGH,Assault causing bodily harm
+F4365,drugs;weapons,HIGH,Drug trafficking possession and multiple firearms counts
+F4366,sexual,HIGH,Sexual touching and child pornography possession and making
+F4367,robbery;break_enter;assault;other,HIGH,Armed robbery break and enter assault disguise with intent
+F4368,none,LOW,Endorsement does not show offences
+F4369,break_enter;robbery;kidnapping;assault,HIGH,Break and enter robbery confinement assault causing bodily harm
+F4370,sexual;assault;weapons,HIGH,Sexual assault assault causing bodily harm knife possession
+F4371,sexual,HIGH,Two counts sexual assault
+F4372,drugs;theft_fraud,HIGH,Ephedrine export proceeds laundering and fraud on government
+F4373,break_enter;theft_fraud,HIGH,Two counts break and enter and theft
+F4374,weapons;other,HIGH,Restricted firearm possession and material benefit from sexual services
+F4375,other,HIGH,Accessory after the fact to murder
+F4376,none,LOW,Endorsement does not show offences
+F4377,driving,HIGH,Impaired driving causing bodily harm two counts
+F4378,drugs;other,HIGH,Possession for trafficking and resisting peace officer

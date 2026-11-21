@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D2785,NOT,NA,HIGH,Murder conviction appeal dismissed
+D2775,NOT,NA,HIGH,Fitness to stand trial ruling
+D5538,NOT,NA,HIGH,Summary conviction appeal on detention
+D3613,REVIEWS,FULL,HIGH,Sentence appeal for cannabis production dismissed
+D3052,IMPOSES,MINIMAL,HIGH,Life sentence for second degree murder on guilty plea
+D2073,IMPOSES,FULL,HIGH,Sentence for distributing child pornography
+D1226,NOT,NA,HIGH,Summary conviction appeal allowed driving suspended
+D5509,NOT,NA,HIGH,Bail pending appeal granted
+D4383,NOT,NA,HIGH,Crown appeal of Jordan stay dismissed
+D2257,REVIEWS,FULL,HIGH,Conviction and sentence appeal; small credit adjustment
+D2738,IMPOSES,MINIMAL,HIGH,Absolute discharge on joint submission
+D4356,NOT,NA,HIGH,Acquittal on drug possession
+D2581,REVIEWS,FULL,HIGH,Leave granted; parole ineligibility appeal dismissed
+D4809,IMPOSES,FULL,HIGH,Sentence for robberies with imitation firearm
+D4135,REVIEWS,FULL,HIGH,Leave granted; sentence appeal dismissed
+D4547,NOT,NA,HIGH,Summary conviction appeal on by-law offences
+D4747,NOT,NA,HIGH,Conviction appeal on Charter exclusion
+D1088,NOT,NA,HIGH,Acquittal entered; sentence appeal not addressed
+D2540,NOT,NA,HIGH,Motion for appointment of counsel
+D4640,NOT,NA,LOW,Conviction appeal; sentence submissions invited
+D1962,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal allowed
+D2849,NOT,NA,HIGH,Voluntariness of confession appeal
+D5050,IMPOSES,FULL,HIGH,Sentence for two manslaughters and firearm offence
+D1045,NOT,NA,HIGH,Conviction appeal dismissed
+D5989,NOT,NA,HIGH,Bail review pending new trial
+D4789,RELATED,NA,HIGH,Procedural motion to bifurcate Crown sentence appeal

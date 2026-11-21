@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0661,robbery,HIGH,Four counts of robbery using a firearm (home invasions)
+F0662,homicide,HIGH,Second degree murder parole ineligibility
+F0663,assault,HIGH,Aggravated assault and assault with a weapon; dangerous offender
+F0664,drugs,HIGH,Possession for purpose of trafficking reduced to simple possession
+F0665,theft_fraud;other,HIGH,Fraudulent refugee applications under Code and immigration act
+F0666,drugs,HIGH,Possession of cocaine heroin marihuana for trafficking
+F0667,drugs;weapons,HIGH,Possession for trafficking fentanyl; prohibited weapon brass knuckles
+F0668,sexual,HIGH,Sexual assault
+F0669,sexual,HIGH,Sexual assault and sexual interference against five children
+F0670,other,HIGH,Breach of recognizance by consuming alcohol
+F0671,weapons,HIGH,Firearms offences importing three guns
+F0672,homicide;assault;break_enter;kidnapping;robbery;theft_fraud;driving,HIGH,Attempted murder; aggravated assault; B&E; confinement; robbery; theft; failing to stop
+F0673,other,HIGH,Fisheries Act fishing outside licensed area
+F0674,sexual,HIGH,Rape of 15-year-old girl
+F0675,assault,HIGH,Assault and assault causing bodily harm by young person
+F0676,homicide,HIGH,Manslaughter
+F0677,assault;other,HIGH,Assault causing bodily harm; obstructing police; common assault
+F0678,homicide,HIGH,Criminal negligence causing death by driving
+F0679,homicide;driving,HIGH,Criminal negligence causing death street racing; failing to stop at accident
+F0680,theft_fraud;other,HIGH,Credit card offences; obstruct peace officer; breach of probation
+F0681,drugs,HIGH,Possession of marihuana for trafficking and production
+F0682,theft_fraud,HIGH,Theft

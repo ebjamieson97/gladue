@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D6005,NOT,NA,HIGH,Conviction-only appeal; new trial on conspiracy
+D4096,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed as fit after new trial ordered on other count
+D4110,RELATED,NA,HIGH,Appeal quashed from drug forfeiture order by third party
+D1820,RELATED,NA,HIGH,Application to stay probation order pending appeal
+D5478,NOT,NA,HIGH,Severance ruling in murder trial
+D1769,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal dismissed
+D3744,NOT,NA,HIGH,Interlocutory severance certiorari appeal dismissed
+D2290,REVIEWS,FULL,HIGH,Sentence appeal varied for pre-trial custody credit
+D3469,NOT,NA,HIGH,Crown appeal on Charter exclusion of evidence
+D1921,RELATED,NA,HIGH,Pretrial s. 12 Charter challenge to fraud sentence exposure
+D5837,NOT,NA,HIGH,Appeal from refusal to quash committal
+D5778,IMPOSES,FULL,HIGH,Reasons for sentence for marihuana production and trafficking
+D1748,REVIEWS,FULL,HIGH,Sentence appeal for attempted murder dismissed
+D2930,NOT,NA,HIGH,Appeal dismissed as appellant at large; leave refused
+D3054,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal does not arise
+D4150,NOT,NA,HIGH,Conviction appeal dismissed
+D2643,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal not pursued
+D4945,NOT,NA,HIGH,Voir dire ruling on search warrant
+D4451,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D2241,IMPOSES,FULL,HIGH,Reasons for sentence for sexual assault
+D4216,NOT,NA,HIGH,Crown appeal of acquittal on Charter exclusion
+D6024,NOT,NA,HIGH,Detention review hearing
+D4076,NOT,NA,HIGH,Voir dire ruling on standing in murder trial
+D1541,REVIEWS,FULL,HIGH,Dangerous offender sentence appeal allowed; new hearing
+D6064,NOT,NA,HIGH,Appeal on accessory after the fact dismissed
+D5905,NOT,NA,HIGH,Verdict on aggravated assault

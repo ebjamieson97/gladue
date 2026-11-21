@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D077,NOT,NA,HIGH,Ruling quashing subpoena of child witness
+D453,REVIEWS,FULL,HIGH,Sentence appeal for manslaughter dismissed
+D188,NOT,NA,HIGH,Appeal allowed on uninformed guilty plea; new trial and stay
+D286,IMPOSES,FULL,HIGH,Reasons for sentence for kidnapping and assault causing bodily harm
+D225,IMPOSES,FULL,HIGH,Reasons for sentence imposing conditional sentence for cannabis production
+D167,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal allowed and varied
+D364,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal not considered
+D151,IMPOSES,FULL,HIGH,Oral reasons for sentence on firearm and contempt offences
+D091,REVIEWS,MINIMAL,LOW,Summary conviction appeal from guilty pleas and sentence dismissed
+D115,IMPOSES,FULL,HIGH,Sentencing for dangerous driving causing death; conditional sentence
+D424,NOT,NA,HIGH,Appeal dismissed on delay Charter issue
+D234,RELATED,NA,LOW,Appeal reducing restitution order amount
+D410,NOT,NA,HIGH,Charter s. 8 ruling in murder prosecution
+D001,NOT,NA,HIGH,Verdict convicting of possession for export
+D169,REVIEWS,FULL,HIGH,Sentence appeal for fraud offences dismissed
+D260,REVIEWS,FULL,HIGH,Crown appeal on youth manslaughter adult sentence allowed
+D381,NOT,NA,HIGH,Trial adjudication with acquittals; sentencing later
+D074,NOT,NA,HIGH,Conviction appeal allowed; new trial ordered
+D250,IMPOSES,FULL,HIGH,Reasons for sentence for firearms and marihuana offences
+D365,NOT,NA,HIGH,Conviction appeal for sexual assault dismissed
+D045,NOT,NA,HIGH,Supreme Court decision on mental disorder treatment dispositions
+D279,RELATED,NA,HIGH,Application for appointment of counsel on sentence appeal
+D203,REVIEWS,FULL,HIGH,Conviction appeal allowed in part; sentence appeal dismissed
+D311,IMPOSES,FULL,HIGH,Reasons for sentence imposing suspended sentence and probation
+D031,NOT,NA,HIGH,Application to vary chambers order quashed for jurisdiction
+D274,IMPOSES,FULL,HIGH,Reasons for sentence of 40 months for firearm offences

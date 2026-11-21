@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0171,M,X,X,X,X,N,X,X,X,N,HIGH,Substantial Gladue factors supported reduced sentence
+M0172,M,X,N,X,X,X,X,X,X,N,HIGH,Judge gave effect to Gladue factors and appeal upheld
+M0173,N,X,X,X,X,X,X,X,X,N,LOW,Court noted 718.2e but showed no weight
+M0174,X,X,X,X,M,X,X,X,X,N,HIGH,IRCA evidence supported credit for restrictive bail conditions
+M0175,M,M,X,X,X,M,X,X,X,N,HIGH,Systemic racism and colonialism reduced moral blameworthiness
+M0176,M,X,M,X,X,X,X,X,X,N,LOW,Gladue factors including residential school listed as mitigating
+M0177,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous and Gladue only in other cases
+M0178,R,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal background considered but did not affect sentence
+M0179,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors only in comparison case
+M0180,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality

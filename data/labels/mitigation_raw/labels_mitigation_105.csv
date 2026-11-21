@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1041,X,X,X,X,R,R,X,X,X,N,HIGH,Claims of systemic racism and stereotyping rejected for lack of evidence
+M1042,R,X,X,X,X,X,X,X,X,N,HIGH,Metis background considered but no lesser sanction appropriate
+M1043,X,X,X,X,X,X,X,X,X,N,HIGH,Gladue appears only in footnote on restraint
+M1044,X,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited for general restraint principle
+M1045,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court accepted trial judge properly weighed Gladue report
+M1046,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue report found impactful on sentence and listed as mitigating
+M1047,M,X,N,X,X,N,X,X,X,N,LOW,Aboriginal background listed as mitigating; residential school only reported
+M1048,X,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited for general restraint principle
+M1049,X,X,X,X,X,X,X,X,X,N,HIGH,Racist remark by offender was not the motive
+M1050,R,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous and no evidence of Gladue factors

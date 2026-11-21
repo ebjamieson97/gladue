@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1151,M,M,N,M,X,X,X,X,X,N,LOW,Colonial impact acknowledged but weight on sentence unclear
+M1152,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for statutory interpretation
+M1153,N,X,X,X,X,X,X,X,X,N,HIGH,Generic restraint principle recited by sentencing judge
+M1154,M,X,M,X,X,N,X,X,X,N,LOW,Gladue factors taken into account yet custody imposed
+M1155,R,X,X,X,X,X,X,X,X,N,LOW,No evidence linking Indigenous heritage so no reduction
+M1156,M,X,X,X,X,N,X,X,X,N,HIGH,Gladue factors accepted in reduced sentence recommendation
+M1157,R,X,X,X,X,X,X,X,X,N,HIGH,Serious violent offence so no lesser sentence for Aboriginal offender
+M1158,N,X,X,X,X,X,X,X,X,N,HIGH,Metis descent noted and no Gladue report ordered
+M1159,X,X,X,X,M,X,X,X,X,N,HIGH,IRCA very important to outcome and treatment oriented sentence
+M1160,X,X,X,X,N,N,X,X,X,N,HIGH,Racism discussed only for jury challenge for cause

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D0789,REVIEWS,FULL,HIGH,Crown sentence appeal allowed conditional sentence replaced
+D0962,NOT,NA,HIGH,Application to reopen appeal dismissed
+D0673,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal dismissed
+D0626,RELATED,NA,HIGH,Appeal of penalty for breach of conditional sentence
+D0999,NOT,NA,HIGH,Charter challenge to consent age provision
+D0758,REVIEWS,FULL,HIGH,Sentence reduced on parity grounds
+D0815,IMPOSES,FULL,HIGH,Parole ineligibility set after second degree murder plea
+D0494,NOT,NA,HIGH,Leave to appeal conviction refused
+D0891,NOT,NA,HIGH,Conviction appeal allowed sentence not addressed
+D0806,IMPOSES,FULL,HIGH,Reasons for sentence child pornography and sexual interference
+D0646,REVIEWS,FULL,HIGH,Sentence appeal dismissed firearms and trafficking
+D0624,NOT,NA,HIGH,Appeal allowing withdrawal of guilty plea
+D0521,NOT,NA,HIGH,Forfeiture of bail pledges
+D0576,REVIEWS,FULL,HIGH,Conviction appeal and sentence variation considered sentence upheld
+D0896,REVIEWS,MINIMAL,HIGH,Sentence reduced on consent for immigration consequences
+D0858,NOT,NA,HIGH,Tax conviction appeals allowed new trial
+D0546,NOT,NA,HIGH,Murder conviction appeal sentence appeal not pursued
+D0672,IMPOSES,FULL,HIGH,Sentencing for firearm offences and threats
+D0846,REVIEWS,FULL,LOW,Conviction appeal partly allowed fine varied
+D0980,REVIEWS,FULL,HIGH,Sentence reduced to time served Gladue error
+D0595,REVIEWS,FULL,HIGH,Crown sentence appeal allowed probation added
+D0932,NOT,NA,HIGH,Crown acquittal appeal allowed new trial
+D0689,REVIEWS,FULL,HIGH,Sentence varied to conditional sentence on appeal
+D0609,REVIEWS,FULL,HIGH,Sentence appeal dismissed sexual assault with weapon
+D0800,REVIEWS,FULL,HIGH,Sentence appeal allowed pre-sentence custody credit error
+D0746,REVIEWS,FULL,HIGH,Sentence adjusted for pre-sentence custody credit

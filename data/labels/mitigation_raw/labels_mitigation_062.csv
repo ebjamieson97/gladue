@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0611,M,M,M,X,X,X,X,X,X,N,HIGH,Gladue factors and colonization effects listed as mitigating at lower end
+M0612,R,X,X,X,X,X,X,X,X,N,LOW,Gladue considered but five year sentence upheld
+M0613,X,X,X,X,R,X,X,X,X,N,HIGH,Racism evidence not used to reduce fault so Morris not addressed
+M0614,R,X,R,X,X,X,X,X,X,N,HIGH,Grandparents residential school attendance found to have no direct effect
+M0615,N,X,X,X,N,X,X,X,X,N,HIGH,Impact of Race and Cultural Assessment mentioned only as absent
+M0616,X,X,X,X,R,X,X,X,X,N,HIGH,Morris argued but not shown to affect sentence
+M0617,X,X,X,X,X,X,X,N,X,N,HIGH,White supremacist label was offender's accusation against victim
+M0618,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue and FASD reduced moral blameworthiness
+M0619,X,X,X,X,M,X,X,X,X,N,LOW,Judge applied Morris principles correctly per appeal court
+M0620,N,X,X,X,X,X,X,X,X,N,HIGH,General discussion of Gladue by appeal court

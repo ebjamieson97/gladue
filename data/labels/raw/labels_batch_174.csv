@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4456,NOT,NA,HIGH,Leave to appeal denied on regulation offence
+D1133,NOT,NA,HIGH,Sexual assault verdict
+D1781,NOT,NA,HIGH,Leave to appeal conviction refused
+D4534,NOT,NA,HIGH,Crown appeal of stay allowed
+D2034,REVIEWS,FULL,HIGH,Manslaughter sentence appeal dismissed
+D3974,NOT,NA,HIGH,Acquittal for sexual assault
+D5627,REVIEWS,FULL,HIGH,Sentence appeal allowed conditional sentence substituted
+D4714,NOT,NA,HIGH,Verdict simple possession
+D4162,NOT,NA,HIGH,Regulatory conviction appeal dismissed
+D2649,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed
+D2929,REVIEWS,MINIMAL,HIGH,Credit for custody adjusted on appeal
+D1942,IMPOSES,FULL,HIGH,Sentence on joint submission for reckless discharge of firearm
+D6036,NOT,NA,HIGH,Escheat dispute
+D4847,NOT,NA,HIGH,Civil appeal dismissed
+D3957,NOT,NA,HIGH,Bail pending appeal denied
+D2417,REVIEWS,FULL,HIGH,Sentence appeal seeking conditional sentence dismissed
+D5835,NOT,NA,HIGH,Conviction appeal allowed acquittals
+D2349,REVIEWS,FULL,HIGH,Sentence appeal for child sexual offences dismissed
+D1261,NOT,NA,HIGH,Murder conviction appeal new trial
+D3246,NOT,NA,HIGH,Acquittal on sexual offence charge
+D5685,NOT,NA,HIGH,Summary conviction appeal allowed acquittals
+D5986,NOT,NA,HIGH,Amicus appointment application dismissed
+D4296,NOT,NA,HIGH,Conviction appeal search warrant
+D5912,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D2103,NOT,NA,HIGH,Issue estoppel ruling on criminal organization
+D1170,NOT,NA,HIGH,Murder conviction appeal dismissed sentence appeal abandoned

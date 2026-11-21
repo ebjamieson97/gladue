@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3169,drugs;other,HIGH,Possession for trafficking drugs and breach of probation
+F3170,kidnapping;assault;sexual,HIGH,Human trafficking assault and child pornography
+F3171,sexual,HIGH,Sexual interference of a person under 16
+F3172,theft_fraud,HIGH,Fraud over $1000 welfare fraud
+F3173,drugs,HIGH,Possession of cocaine for trafficking
+F3174,driving,HIGH,Two counts of impaired driving
+F3175,assault;break_enter,HIGH,Aggravated assault and break and enter
+F3176,drugs,HIGH,Two counts possession for trafficking
+F3177,drugs,HIGH,Possession of MDMA and GHB for trafficking
+F3178,homicide,HIGH,Second degree murder
+F3179,homicide;assault,HIGH,Attempted murder and aggravated assault
+F3180,drugs;weapons,HIGH,Possession for trafficking and prohibited firearm possession
+F3181,homicide,HIGH,Manslaughter and attempted murder retrial ordered
+F3182,assault,HIGH,Aggravated assault with a weapon
+F3183,theft_fraud,HIGH,Eleven counts of fraud and identity theft
+F3184,weapons;drugs,HIGH,Firearms possession and cocaine trafficking offences
+F3185,robbery;weapons;assault;other,HIGH,Armed robbery weapon assault masked and breach of recognizance
+F3186,sexual,HIGH,Sexual exploitation and making child pornography
+F3187,other,HIGH,Accessory after the fact to murder
+F3188,sexual,HIGH,Sexual interference with stepdaughter
+F3189,assault,HIGH,Assault with bottle slashing victim throat
+F3190,assault,HIGH,Assault causing bodily harm and assault

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0199,drugs,HIGH,Trafficking and possession for trafficking cocaine
+F0200,homicide,HIGH,First degree murder
+F0201,homicide,HIGH,Two first degree murders
+F0202,assault;sexual,HIGH,Assault with weapon; assault causing bodily harm; sexual assault
+F0203,sexual,HIGH,Indecent assault and gross indecency
+F0204,sexual;other,HIGH,Sexual assault; attempt to procure; other counts
+F0205,robbery,HIGH,Bank robbery
+F0206,drugs,HIGH,Possession of cocaine for trafficking
+F0207,assault;break_enter,HIGH,Assault with weapon; break and enter and assault
+F0208,none,LOW,Offences not shown in excerpt
+F0209,theft_fraud;drugs;other,HIGH,Theft; proceeds of crime; cocaine trafficking; breach of recognizance
+F0210,drugs,HIGH,Possession of cocaine for trafficking
+F0211,sexual,HIGH,Sexual assault
+F0212,homicide,HIGH,Second degree murder
+F0213,sexual,HIGH,Making and possessing child pornography
+F0214,sexual;other,HIGH,Sexual assault and breach of probation
+F0215,sexual,HIGH,Two counts sexual interference
+F0216,homicide,HIGH,Manslaughter with firearm
+F0217,break_enter;robbery;assault;kidnapping;other,HIGH,Home invasion with robbery; assault; confinement; masked
+F0218,homicide,HIGH,Second degree murder
+F0219,driving,HIGH,Impaired care or control; lifetime driving prohibition
+F0220,break_enter;assault,HIGH,Break and enter dwelling and assault

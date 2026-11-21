@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4291,weapons,HIGH,Possession of loaded prohibited firearm and discharging firearm
+F4292,drugs,HIGH,Three counts possession for purpose of trafficking
+F4293,homicide,HIGH,Manslaughter
+F4294,theft_fraud,HIGH,Large frauds
+F4295,break_enter,LOW,Illegal entry offence and other unspecified offences
+F4296,homicide,HIGH,Second degree murder
+F4297,sexual,HIGH,Sexual touching of daughter and nieces
+F4298,driving,HIGH,Three driving while prohibited offences
+F4299,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4300,driving,HIGH,Impaired driving and dangerous driving
+F4301,break_enter;weapons,HIGH,Break enter and theft; using imitation firearm in robbery
+F4302,sexual;break_enter;assault;other,HIGH,Aggravated sexual assault; break and enter; choking; breach of recognizance
+F4303,theft_fraud,HIGH,Five counts of fraud under $5000
+F4304,weapons;other,HIGH,Loaded prohibited firearm possession; breach of recognizance
+F4305,robbery,HIGH,Robbery with a firearm
+F4306,sexual,HIGH,Sexual assault of two teenagers
+F4307,sexual,HIGH,Child pornography possession and internet child luring
+F4308,drugs,HIGH,Possession for purpose of trafficking cocaine; methamphetamine; heroin
+F4309,robbery,HIGH,Robbery with knife at liquor store
+F4310,theft_fraud,HIGH,Stock manipulation fraud and pension fraud
+F4311,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4312,assault,HIGH,Aggravated assault; assault with weapon; assault causing bodily harm

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3458,NOT,NA,LOW,Production of records application in appeal
+D3514,NOT,NA,HIGH,Conviction appeals dismissed
+D4980,NOT,NA,HIGH,New trial ordered
+D1897,REVIEWS,FULL,HIGH,Sentence appeal dismissed except credit adjusted
+D3704,NOT,NA,HIGH,Conviction appeal dismissed
+D2663,NOT,NA,HIGH,Appeal on bias dismissed
+D3755,NOT,NA,HIGH,Adjournment of stay application
+D5173,RELATED,NA,HIGH,Appeal allowed setting aside restitution order
+D1750,NOT,NA,HIGH,Pretrial evidence ruling criminal organization
+D2232,REVIEWS,FULL,HIGH,Sentence appeal allowed with enhanced credit
+D1155,NOT,NA,HIGH,Trial decision convictions Cannabis Act
+D3975,NOT,NA,HIGH,Detention review
+D5002,NOT,NA,HIGH,Civil privilege application
+D5771,NOT,NA,HIGH,Crown appeal of stays entrapment
+D3918,NOT,NA,HIGH,Appeal dismissed as abandoned
+D5872,NOT,NA,HIGH,SCC manslaughter conviction upheld
+D5897,NOT,NA,HIGH,Conviction appeal dismissed
+D1531,IMPOSES,FULL,HIGH,Sentencing for sexual assault three years
+D5070,NOT,NA,HIGH,SCC new trial insanity presumption
+D5888,NOT,NA,HIGH,SCC Charter evidence exclusion
+D4318,NOT,NA,HIGH,Standing to challenge search warrant
+D3554,NOT,NA,HIGH,Evidence ruling at trial
+D4676,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed and sentence leave denied
+D5011,NOT,NA,HIGH,Tax case on newspapers
+D5742,REVIEWS,FULL,HIGH,Appeal of indeterminate sentence dismissed
+D5379,NOT,NA,HIGH,Conviction and sentence quashed on conviction error

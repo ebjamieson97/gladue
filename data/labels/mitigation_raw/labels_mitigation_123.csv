@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1221,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue upbringing was mitigating circumstance that could not be ignored
+M1222,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) listed only as general principle
+M1223,M,X,M,M,X,N,X,X,X,N,HIGH,Residential school and intergenerational trauma reduced moral culpability and sentence
+M1224,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted as general law
+M1225,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted judge weighed Gladue and restorative justice
+M1226,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned only in discussing conditional sentences
+M1227,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors had marked impact on moral culpability and reduced sentence
+M1228,N,X,X,X,N,X,X,X,N,N,LOW,Authorities on race and gender listed generally; no finding for offender
+M1229,M,X,X,X,X,X,X,X,X,N,LOW,Gladue factors considered in mitigation and culturally sensitive recommendations
+M1230,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report accepted as tragic but seriousness limited its role

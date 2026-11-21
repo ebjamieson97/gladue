@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1061,R,R,X,X,X,X,X,X,X,N,HIGH,Gladue factors rejected for insufficient evidentiary basis
+M1062,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only on constitutional proportionality
+M1063,M,X,M,N,X,X,X,X,X,N,HIGH,Systemic factors and residential school history considered in sentencing
+M1064,M,M,M,N,X,X,X,X,X,N,HIGH,Gladue factors diminished moral blameworthiness and shortened custody
+M1065,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee and 718.2(e) only quoted as law
+M1066,N,X,N,N,X,X,X,X,X,N,LOW,Gladue report described but weight not shown in excerpt
+M1067,N,N,N,X,X,X,X,X,X,N,LOW,Crown cited Ipeelee and report background but weight unclear
+M1068,M,M,M,M,X,X,X,X,X,N,HIGH,Colonialism and residential school impacts diminished moral culpability
+M1069,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted Aboriginal background was considered
+M1070,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but offender danger outweighed it

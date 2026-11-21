@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0401,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) recited generally
+M0402,N,X,X,X,M,X,X,X,X,N,HIGH,IRCA on anti-Black racism given weight in reducing sentence
+M0403,R,X,N,X,X,X,X,X,X,N,HIGH,Aboriginal background found to have little mitigating effect
+M0404,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue considerations favoured shorter ineligibility but were outweighed
+M0405,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal allowed partly for failure to apply Gladue
+M0406,N,X,N,X,X,X,X,X,X,N,HIGH,Gladue principles stated generally and in other cases
+M0407,M,X,X,X,X,X,X,X,X,N,HIGH,Strong Gladue considerations listed as mitigating
+M0408,X,X,X,X,X,M,X,X,X,N,HIGH,Systemic racism reduced moral culpability but tempered by gravity
+M0409,M,N,X,X,X,X,X,X,X,N,HIGH,Gladue report considered for moral blameworthiness and SOIRA exemption
+M0410,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue reports did not displace denunciation and deterrence

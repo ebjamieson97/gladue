@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3323,homicide,HIGH,Unlawful act manslaughter with firearm
+F3324,sexual,HIGH,Sexual interference; invitation to sexual touching; sexual assault
+F3325,other,HIGH,Participating in a riot
+F3326,drugs,HIGH,Possession for trafficking and production of marijuana
+F3327,break_enter;assault,HIGH,Attempted break and enter; two assaults
+F3328,homicide,HIGH,Second degree murder
+F3329,break_enter,LOW,Home invasion on ex-wife; exact charges unclear
+F3330,homicide;driving,HIGH,Criminal negligence causing death; failing to stop at accident
+F3331,robbery;assault,LOW,Robbery by youths; assault causing bodily harm; DNA order appeal
+F3332,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3333,homicide,HIGH,Manslaughter of wife
+F3334,robbery,HIGH,Robbery with a knife
+F3335,drugs,HIGH,Possession for trafficking; production of crack; possession of marijuana
+F3336,homicide;sexual,LOW,Manslaughter resulting from rape
+F3337,other,LOW,Conspiracy offences under foreign law; nature unclear
+F3338,drugs,HIGH,Possession for trafficking of heroin fentanyl meth MDMA
+F3339,drugs,HIGH,Production of marijuana and possession for trafficking
+F3340,homicide,HIGH,Second degree murder
+F3341,assault;robbery;drugs;weapons;other,HIGH,Assault; robberies; drug offences; weapon; breaches of probation
+F3342,weapons;theft_fraud,HIGH,Possession of stolen prohibited weapons; careless storage; no licence
+F3343,sexual;assault;kidnapping;other,HIGH,Sexual assault; choking; confinement; threats; assault; breach of probation
+F3344,sexual;other,HIGH,Sexual assault and breach of undertaking

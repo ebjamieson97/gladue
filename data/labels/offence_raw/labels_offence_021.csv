@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0441,theft_fraud,HIGH,Fraud over $5000
+F0442,homicide,HIGH,Attempted murder
+F0443,kidnapping;other,HIGH,Kidnapping and extortion
+F0444,homicide,HIGH,Manslaughter
+F0445,driving,HIGH,Refusing breath sample causing death
+F0446,robbery;assault,LOW,Apparent violent robbery of store clerk; offence not named
+F0447,robbery;weapons;other,HIGH,Robbery; use of imitation firearm; breach of release order
+F0448,homicide;weapons;driving,HIGH,Attempted murder; firearm offences; failing to stop for police
+F0449,theft_fraud,HIGH,Twelve counts of theft under $5000
+F0450,driving,HIGH,Impaired driving causing death and bodily harm; over 80
+F0451,homicide,HIGH,Manslaughter
+F0452,driving,HIGH,Care or control with over 80
+F0453,sexual,HIGH,Sexual assault
+F0454,assault;sexual;kidnapping;other,HIGH,Assault; sexual assault; confinement; mischief; breaches
+F0455,drugs,HIGH,Production of marihuana
+F0456,robbery;drugs;other,HIGH,Robbery; trafficking cocaine; breach of bail; fail to attend
+F0457,homicide,HIGH,First degree murder
+F0458,sexual,HIGH,Sexual assault; invitation to touching; attempted incest
+F0459,theft_fraud;other,LOW,Theft and failing to appear; review of conditional sentence breach
+F0460,sexual,HIGH,Sexual interference
+F0461,homicide,HIGH,Second degree murder
+F0462,homicide,HIGH,Manslaughter

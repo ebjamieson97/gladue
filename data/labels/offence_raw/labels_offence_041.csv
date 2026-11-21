@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0881,drugs;weapons,HIGH,Cocaine possession for trafficking and prohibited firearm possession
+F0882,sexual,HIGH,Sexual assault of stepdaughter
+F0883,sexual,HIGH,Two sexual assaults and obtaining sexual services of minor
+F0884,weapons;drugs;theft_fraud;other,HIGH,Firearm and cocaine trafficking and stolen property and breaches
+F0885,drugs,HIGH,Possession for trafficking cocaine and heroin-fentanyl
+F0886,sexual,HIGH,Luring and sexual touching invitation and two sexual assaults
+F0887,theft_fraud;other,HIGH,Fraud and Excise Tax Act offences
+F0888,assault;sexual;kidnapping;other,HIGH,Aggravated assault and sexual assault and confinement and death threat
+F0889,assault;break_enter;theft_fraud;driving;drugs;other,HIGH,Aggravated assault and break and enters and stolen property and dangerous driving
+F0890,homicide,HIGH,Second degree murder
+F0891,drugs,HIGH,Trafficking MDMA and conspiracy to export MDMA
+F0892,weapons,HIGH,Unlicensed restricted firearm and ammunition possession
+F0893,sexual,HIGH,Historical sexual abuse of two complainants
+F0894,drugs,HIGH,Producing and possessing MDMA for trafficking
+F0895,assault;other;sexual;kidnapping,HIGH,Assault causing bodily harm and threats and sexual assault and confinement
+F0896,other,HIGH,Contempt of court for refusing to testify
+F0897,robbery;break_enter;kidnapping;assault;weapons,HIGH,Dangerous offender: robberies and hostage taking and break and enter
+F0898,sexual,HIGH,Attempt to purchase sexual services from minor
+F0899,drugs,HIGH,Possession of cocaine for trafficking
+F0900,assault,HIGH,Assault causing bodily harm
+F0901,robbery;other,HIGH,Seven robberies and wearing mask with intent
+F0902,robbery,HIGH,Armed robbery of gas station

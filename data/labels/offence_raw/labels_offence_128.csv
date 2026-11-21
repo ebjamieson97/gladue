@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2795,drugs,HIGH,Producing marihuana
+F2796,assault;other,HIGH,Aggravated assault breach of bail and intimidating justice participant
+F2797,sexual,LOW,Apparent sexual assault; offence not named
+F2798,weapons;break_enter;assault,HIGH,Weapon dangerous purpose break and enter and assault
+F2799,drugs;theft_fraud;other,HIGH,Trafficking proceeds of crime and breaches
+F2800,sexual,HIGH,Sexual assault of 14 year old
+F2801,homicide,HIGH,Murder by young person
+F2802,driving,HIGH,Failing to stop after accident causing death
+F2803,drugs;weapons,HIGH,Drug trafficking possession and firearms offences
+F2804,none,LOW,Offence not shown
+F2805,other;theft_fraud,HIGH,Breaches of probation and theft under $5000
+F2806,weapons;drugs,HIGH,Loaded firearm and possession for trafficking
+F2807,homicide,HIGH,Second degree murder
+F2808,robbery,HIGH,Two robberies
+F2809,none,LOW,Offence not shown
+F2810,driving;other,HIGH,Criminal negligence bodily harm by vehicle failing to stop breach
+F2811,homicide,HIGH,Second degree murder
+F2812,other;break_enter,HIGH,Arson break and enter mischief
+F2813,sexual,HIGH,Sexual exploitation
+F2814,assault;weapons,HIGH,Aggravated assault and discharging firearm
+F2815,sexual;robbery;kidnapping,HIGH,Sexual assaults with confinement and robbery
+F2816,assault;other,HIGH,Aggravated assault and breach of probation

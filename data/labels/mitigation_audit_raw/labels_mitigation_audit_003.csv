@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0320,R,X,R,X,X,X,X,X,X,N,HIGH,Metis heritage found to have no impact and little relevance
+M0583,X,X,X,X,X,X,X,X,M,N,HIGH,Victim racial slurs at Vietnamese appellants treated as partial provocation mitigating
+M0997,X,X,X,X,M,X,X,X,X,N,LOW,Judicial notice of systemic anti-Black racism; non-custodial sentence imposed
+M0973,N,X,N,X,X,N,X,X,X,N,LOW,Gladue report factors described; used for programming but weight unclear
+M0972,M,X,X,X,X,X,X,X,X,N,HIGH,Lower end sentence reflected Aboriginal status; appeal dismissed
+M0001,N,X,X,X,N,X,X,X,X,N,HIGH,Gladue cited on restraint; IRCA relates to another case
+M0460,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M1421,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue and Ipeelee cited as general sentencing law
+M1120,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited on overincarceration and restraint only
+M1579,X,X,X,X,M,X,X,X,X,N,LOW,IRCA systemic factors considered for moral blameworthiness; custody still imposed

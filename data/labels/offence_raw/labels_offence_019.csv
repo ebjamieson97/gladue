@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0397,robbery,HIGH,Counselling robbery of convenience store
+F0398,weapons,HIGH,Prohibited weapon and firearm with altered serial number
+F0399,none,LOW,Interim release application; offences not shown
+F0400,robbery,HIGH,Robbery of car seller
+F0401,drugs;weapons,HIGH,Two drug offences and firearms offences
+F0402,weapons;other,HIGH,Threats; dangerous weapon; imitation firearm; obstruction; probation breach
+F0403,sexual,HIGH,Sexual assault of child
+F0404,drugs,HIGH,Conspiracy to traffic cocaine
+F0405,kidnapping;assault;other,HIGH,Kidnapping for ransom; confinement; extortion; assault
+F0406,assault,HIGH,Assault causing bodily harm
+F0407,robbery,HIGH,Seven bank robberies; dangerous offender
+F0408,homicide;assault,HIGH,Second-degree murder and two aggravated assaults
+F0409,drugs,HIGH,Possession of cocaine for trafficking
+F0410,sexual,HIGH,Sexual offences against young child
+F0411,sexual,HIGH,Sexual assault and sexual interference
+F0412,drugs,HIGH,Trafficking in heroin
+F0413,assault;other,HIGH,Assault and resisting or obstructing peace officers
+F0414,kidnapping;robbery;other;driving;theft_fraud,HIGH,Kidnapping robbery extortion driving offences failing to appear false pretences
+F0415,none,LOW,Offences not shown; sentence appeal on credit and remorse
+F0416,assault,HIGH,Assault and assault causing bodily harm
+F0417,drugs;other,LOW,Trafficking and selling liquor to minor; probation issue
+F0418,sexual;break_enter,HIGH,Sexual assault and break and enter

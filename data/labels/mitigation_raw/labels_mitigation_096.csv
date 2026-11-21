@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0951,X,X,X,X,X,N,X,X,X,N,LOW,Apartheid racism noted in submissions with no clear weight
+M0952,M,X,X,M,X,X,X,X,X,N,HIGH,Trial judge reduced culpability for intergenerational trauma
+M0953,X,X,X,X,X,N,X,X,X,N,HIGH,Racism mentioned only in bias test law
+M0954,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors in general law and other cases
+M0955,X,X,X,X,M,X,X,X,X,N,HIGH,Sentence took IRCA circumstances into account
+M0956,X,X,N,X,X,X,X,X,X,N,HIGH,Residential school only in comparison case
+M0957,M,N,X,M,X,X,X,X,X,N,HIGH,Gladue and intergenerational trauma reduced moral blameworthiness
+M0958,N,X,X,X,X,X,X,X,X,N,LOW,Gladue applied in another case only
+M0959,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only as general law
+M0960,N,X,X,X,X,X,X,X,X,N,HIGH,718.2e quoted as general principle

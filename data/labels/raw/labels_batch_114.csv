@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5106,NOT,NA,HIGH,Jury trial commencement appeal
+D2485,NOT,NA,HIGH,Appeal allowed; guilty pleas set aside
+D1552,REVIEWS,FULL,HIGH,Conviction appeal partly allowed and sentence substituted
+D2844,NOT,NA,HIGH,Application to review bail refusal declined
+D5611,NOT,NA,HIGH,Conviction appeal; sentence not before court
+D3078,RELATED,NA,LOW,Leave to sentence appeal refused as not question of law
+D1605,REVIEWS,FULL,HIGH,Crown sentence appeal for child sexual offences allowed
+D2799,IMPOSES,FULL,HIGH,Oral sentence for animal cruelty conditional sentence
+D4260,IMPOSES,FULL,HIGH,Sentencing for impaired driving causing death
+D2934,RELATED,NA,HIGH,Youth DNA order application
+D2222,REVIEWS,FULL,HIGH,Manslaughter sentence appeal dismissed
+D4563,NOT,NA,HIGH,Section 278.92 application on messages
+D5103,NOT,NA,HIGH,Verdict on aggravated assault trial
+D4408,NOT,NA,HIGH,Conviction appeal on disclosure and warrant dismissed
+D2719,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D5058,NOT,NA,HIGH,Third party records production application
+D3122,NOT,NA,HIGH,NCR verdict appeal; new trial for language rights
+D4657,NOT,NA,HIGH,Lord's Day Act Bill of Rights appeal
+D1147,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D3965,NOT,NA,HIGH,Civil Crown liability appeal
+D3129,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence varied on fresh evidence
+D2436,REVIEWS,FULL,HIGH,Summary conviction fine appeal allowed in part
+D4332,REVIEWS,FULL,HIGH,Sentence appeal allowed reducing four years to three
+D2884,NOT,NA,HIGH,Conviction appeal for manslaughter dismissed
+D3081,REVIEWS,MINIMAL,HIGH,Summary appeal dismissed; sentence upheld briefly
+D1546,REVIEWS,FULL,HIGH,Sentence appeal on conditional sentence refusal dismissed

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1651,N,X,X,X,X,X,X,X,X,N,LOW,Gladue principles quoted from case law with no application to offender
+M1652,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for general proportionality principles
+M1653,M,X,X,X,X,X,X,X,X,N,HIGH,Metis heritage and Gladue principles applied as mitigating in CSO
+M1654,M,N,N,X,X,N,X,X,X,N,HIGH,Gladue factors counted in reducing prohibition; colonialism noted in report
+M1655,N,N,X,X,X,N,X,X,X,N,LOW,Gladue report and law described but weight not shown
+M1656,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors reduced moral culpability and sentence
+M1657,N,X,N,X,X,X,X,X,X,N,LOW,Parents attended residential schools noted but weight unclear
+M1658,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted as general law only
+M1659,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in a cited case
+M1660,R,X,X,R,X,X,X,X,X,N,HIGH,Court attributed no significance to Indigenous heritage for blameworthiness

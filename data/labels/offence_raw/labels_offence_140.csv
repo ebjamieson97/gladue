@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3059,driving,HIGH,Impaired driving dangerous driving and driving while disqualified
+F3060,homicide,HIGH,Manslaughter
+F3061,assault,HIGH,Assault causing bodily harm
+F3062,theft_fraud,HIGH,Uttering forged prescriptions and possession of stolen property
+F3063,homicide,HIGH,First degree murder
+F3064,drugs,HIGH,Marijuana grow operations
+F3065,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3066,kidnapping;sexual,LOW,Removing child from Canada for sexual interference purpose
+F3067,drugs,HIGH,Possession of cannabis for purpose of selling
+F3068,sexual;kidnapping,HIGH,Sexual assault and forcible confinement
+F3069,none,LOW,Offences not shown; credit for custody only
+F3070,sexual,HIGH,Sexual assault of sister
+F3071,sexual,LOW,Likely sexual offence but not stated
+F3072,drugs;theft_fraud,HIGH,Heroin trafficking possession and proceeds of crime
+F3073,none,LOW,Offences not shown
+F3074,theft_fraud,HIGH,Fraud over $5000
+F3075,kidnapping,HIGH,Child abduction contrary to custody order
+F3076,homicide,HIGH,Manslaughter
+F3077,homicide,HIGH,Second degree murder
+F3078,sexual;assault,HIGH,Rape indecent assault gross indecency and assault causing bodily harm
+F3079,homicide,HIGH,Manslaughter
+F3080,other,HIGH,Municipal tree protection and building by-law offences

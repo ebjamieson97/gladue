@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D2702,NOT,NA,HIGH,Bail pending appeal
+D2200,IMPOSES,FULL,HIGH,Sentence for aggravated assaults
+D3990,NOT,NA,HIGH,Crown stated case on information sufficiency
+D5164,NOT,NA,HIGH,Crown appeal on peace bond recognizance
+D5097,IMPOSES,FULL,HIGH,Conditional sentence imposed after assaults and breaches
+D1910,REVIEWS,FULL,HIGH,Conviction and sentence appeal for cocaine smuggling dismissed
+D5470,NOT,NA,HIGH,Voir dire on breath readings admissibility
+D5715,NOT,NA,HIGH,SCC murder conviction appeal new trial
+D2002,IMPOSES,FULL,HIGH,Sentence for kidnapping conspiracy and firearm
+D4202,REVIEWS,FULL,HIGH,Sentence appeal robbery imitation firearm dismissed
+D1064,NOT,NA,LOW,Leave granted and appeal dismissed; unclear if sentence
+D2767,NOT,NA,HIGH,Crown acquittal appeal foreign bribery
+D5283,NOT,NA,HIGH,Conviction appeal allowed new trial
+D5159,IMPOSES,FULL,HIGH,Reasons for sentence dangerous driving causing death
+D3761,NOT,NA,HIGH,Detention review hearing bail
+D5004,IMPOSES,FULL,HIGH,Sentence for criminal negligence causing death
+D2296,IMPOSES,FULL,HIGH,Sentence for conspiracy to murder
+D3327,NOT,NA,HIGH,Verdict on dangerous driving
+D4042,REVIEWS,FULL,HIGH,Leave to appeal sentence granted; appeal dismissed
+D2152,REVIEWS,FULL,HIGH,Crown appeal of illegal consecutive conditional sentences
+D1861,IMPOSES,MINIMAL,HIGH,Brief sentence consecutive three years break and enter
+D5945,NOT,NA,HIGH,Wiretap authorization review ruling
+D5631,IMPOSES,FULL,HIGH,Sentence for sexual assault on joint recommendation
+D1183,NOT,NA,HIGH,Conviction appeal dismissed
+D4672,NOT,NA,HIGH,SCC hearsay admissibility appeal
+D4869,REVIEWS,FULL,HIGH,Conviction dismissed; sentence reduced for pre-sentence credit

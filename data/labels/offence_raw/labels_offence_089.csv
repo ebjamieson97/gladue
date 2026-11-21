@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1937,drugs;theft_fraud,HIGH,Conspiracy to produce and traffic cannabis and possess proceeds
+F1938,sexual,HIGH,Sexual assault
+F1939,homicide,HIGH,First degree murder
+F1940,other,HIGH,Immigration and Refugee Protection Act offences involving foreign workers
+F1941,sexual,HIGH,Sexual assault with dangerous offender designation
+F1942,none,LOW,Offence not shown in excerpt
+F1943,sexual,HIGH,Sexual assault
+F1944,drugs,HIGH,Trafficking in crack cocaine
+F1945,driving,HIGH,Impaired driving causing bodily harm
+F1946,assault,HIGH,Four counts of aggravated assault
+F1947,other,HIGH,Participating in activities of a terrorist group
+F1948,assault,HIGH,Aggravated assault
+F1949,homicide,HIGH,First degree murder
+F1950,assault;weapons;other,HIGH,Aggravated assault; assault with weapon; weapon possession; uttering threat
+F1951,homicide,HIGH,Second degree murder
+F1952,assault,HIGH,Aggravated assault
+F1953,break_enter;theft_fraud;other,HIGH,Break and enter and theft; fraud; obstructing peace officer
+F1954,driving,HIGH,Dangerous driving causing death
+F1955,robbery,HIGH,Robbery at knife point
+F1956,sexual,LOW,Apparent sexual offence against young teen; offence not named
+F1957,drugs;weapons,HIGH,Possession for trafficking of cannabis and careless firearm storage
+F1958,sexual,HIGH,Sexual assault

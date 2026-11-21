@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3235,sexual,HIGH,Sexual assault
+F3236,none,LOW,Dangerous offender application; underlying offences not shown
+F3237,break_enter,HIGH,Seven counts breaking and entering
+F3238,sexual,HIGH,Sexual exploitation of 16 year old
+F3239,robbery;weapons;drugs;break_enter,HIGH,Home invasion robberies firearm possession cocaine forcible entry
+F3240,drugs,HIGH,Producing marihuana
+F3241,sexual,HIGH,Sexual exploitation of daughter
+F3242,theft_fraud,HIGH,Fraud forgery use of forged document attempted fraud
+F3243,homicide,HIGH,Manslaughter
+F3244,homicide,HIGH,Manslaughter of spouse
+F3245,other;weapons,HIGH,Criminal harassment and unauthorized firearms possession
+F3246,homicide;assault,HIGH,Manslaughter and aggravated assault
+F3247,drugs,HIGH,Possession of cocaine for trafficking
+F3248,assault;kidnapping,HIGH,Aggravated assault assault and forcible confinement of spouse
+F3249,homicide;driving,HIGH,Criminal negligence causing death and impaired driving causing death
+F3250,assault,HIGH,Aggravated assault with meat cleaver
+F3251,sexual,HIGH,Three counts sexual assault
+F3252,sexual,HIGH,Sexual assault
+F3253,sexual,HIGH,Sexual assault gross indecency indecent assault historical
+F3254,homicide,HIGH,Manslaughter
+F3255,sexual,HIGH,Drug facilitated sexual assault
+F3256,assault;weapons,HIGH,Aggravated assault and using firearm while committing offence

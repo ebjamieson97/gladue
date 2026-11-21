@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0683,assault,HIGH,Assault causing bodily harm (assault with weapon stayed)
+F0684,break_enter;theft_fraud,HIGH,Break and enter and theft over $5000
+F0685,drugs,LOW,Apparent drug trafficking transaction with undercover officer
+F0686,homicide,HIGH,Manslaughter; dangerous offender designation
+F0687,other;theft_fraud;assault,HIGH,Breaches of orders; theft; two assaults
+F0688,drugs,HIGH,Trafficking and possession for trafficking fentanyl heroin cocaine
+F0689,other;break_enter;robbery;weapons;assault;theft_fraud,LOW,Obstruct and threatening sentence reduced; home invasion counts sent to new trial
+F0690,drugs,HIGH,Importing cocaine and possession for trafficking
+F0691,drugs,HIGH,Possession of ecstasy for purpose of exportation
+F0692,homicide,HIGH,Second degree murder
+F0693,kidnapping;other;weapons,HIGH,Kidnapping; confinement; extortion; weapons offences
+F0694,other,HIGH,Failing to provide necessaries of life
+F0695,homicide,HIGH,Second degree murder
+F0696,drugs,HIGH,Possession for trafficking fentanyl and MDMA
+F0697,homicide,HIGH,Manslaughter
+F0698,assault;kidnapping;other,HIGH,Aggravated assault; assaults; unlawful confinement; breach of prohibition order
+F0699,other,HIGH,Failing to provide necessaries to child
+F0700,robbery,HIGH,Series of robberies
+F0701,other,HIGH,Fisheries Act deleterious substance deposit
+F0702,driving,HIGH,Impaired driving causing bodily harm
+F0703,other,HIGH,Extortion
+F0704,homicide,LOW,Apparent murder with parole ineligibility; NCR defence

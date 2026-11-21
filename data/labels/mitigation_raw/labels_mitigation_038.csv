@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0371,X,X,N,X,X,X,X,X,X,N,LOW,Elder statement on residential schools; no sign of weight
+M0372,X,X,X,X,X,N,X,X,X,N,LOW,Youth accused racism in school per report; not weighed
+M0373,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors considered but insufficient to outweigh gravity
+M0374,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factors mentioned
+M0375,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous; Ipeelee cited for proportionality
+M0376,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report reviewed; unfortunate upbringing treated as mitigating
+M0377,N,X,X,X,X,X,X,X,X,N,HIGH,Court said no Gladue type factors apply to offender
+M0378,R,X,X,X,X,X,X,X,X,N,LOW,Aboriginal status not pressed and given little relevance
+M0379,X,X,X,X,X,X,X,N,X,N,HIGH,White supremacist mentioned only in other case
+M0380,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue analysis supported conditional sentence with mitigating factors

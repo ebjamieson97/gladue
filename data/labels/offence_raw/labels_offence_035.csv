@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0749,other,HIGH,Procuring and living on avails of prostitution; breach of probation
+F0750,drugs,HIGH,Producing marihuana and possession for purpose of trafficking
+F0751,weapons;drugs;theft_fraud,HIGH,Firearm and drug offences and possession of proceeds of crime
+F0752,drugs,HIGH,Importing marihuana
+F0753,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0754,drugs,HIGH,Trafficking cocaine and possession for purpose of trafficking
+F0755,sexual,HIGH,Sexual assault
+F0756,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0757,kidnapping;other;theft_fraud,HIGH,Kidnapping for ransom; extortion; possession of stolen property
+F0758,driving,LOW,Apparently driving while disqualified; offence not clearly stated
+F0759,drugs;other,HIGH,Conspiracy to traffic; criminal organization offence; breach of probation
+F0760,drugs,HIGH,Possession of cocaine and hydromorphone for purpose of trafficking
+F0761,other,HIGH,Unlawfully at large
+F0762,other,HIGH,Fisheries Act protest fishery offences
+F0763,weapons,HIGH,Loaded firearm possession and breaches of firearms prohibitions
+F0764,sexual,HIGH,Sexual interference and sexual assault of stepdaughter
+F0765,other,HIGH,Breach of recognizance condition
+F0766,none,LOW,Excerpt does not show the offences
+F0767,sexual;assault,HIGH,Sexual assault and attempt to choke to overcome resistance
+F0768,drugs,HIGH,Conspiracy to possess heroin for purpose of trafficking
+F0769,homicide;other;weapons;break_enter;theft_fraud,HIGH,Attempted murder; threat; weapon; break and enter; vehicle theft
+F0770,homicide,HIGH,Manslaughter

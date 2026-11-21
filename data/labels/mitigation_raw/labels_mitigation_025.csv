@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0241,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in comparable case summary
+M0242,N,X,X,X,X,X,X,X,X,N,LOW,Metis offender with Gladue report but no weight shown in excerpt
+M0243,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in comparable case description
+M0244,M,X,X,X,X,X,X,X,X,N,LOW,Appeal allowed as 718.2(e) not applied and sentence reduced
+M0245,N,X,X,X,M,N,X,X,X,N,HIGH,Racialization and community experience framed moral culpability
+M0246,R,X,X,X,X,X,X,X,X,N,LOW,Gladue argued but long sentence for serious robbery upheld
+M0247,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue reports considered but denunciation required custody
+M0248,M,X,X,X,X,N,X,X,X,N,HIGH,Moral culpability reduced by accepted Gladue factors
+M0249,M,N,N,X,X,X,X,X,X,N,HIGH,Judge failed to give Gladue effect so sentence reduced
+M0250,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only on long term supervision

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1871,drugs,HIGH,Drug trafficking as petty retailer
+F1872,drugs,HIGH,Importing cocaine and possession for purpose of trafficking
+F1873,assault,HIGH,Aggravated assault and assault with a weapon
+F1874,sexual;drugs;other,HIGH,Sexual interference; drug trafficking; breach of recognizance
+F1875,theft_fraud,HIGH,Large scale commercial fraud
+F1876,other,LOW,Offences connected with prostitution trade; counts unclear
+F1877,robbery;driving;theft_fraud;other,HIGH,Attempted robbery; dangerous driving; stolen property; driving while disqualified; break-in tools
+F1878,theft_fraud,HIGH,Fraud under 5000 dollars
+F1879,break_enter;other;weapons;driving,HIGH,Break and enter; threat; pointing and discharging firearm; dangerous driving
+F1880,other,HIGH,Criminal harassment and breaches of probation and recognizance
+F1881,other,HIGH,Regulatory waste management offence; fines
+F1882,none,LOW,Various offences unspecified; sentence legality issue
+F1883,drugs,HIGH,Five counts possession for purpose of trafficking
+F1884,robbery;weapons,HIGH,Robbery with imitation firearm; weapon offences
+F1885,sexual,HIGH,Rape of intoxicated 14 year old
+F1886,assault,HIGH,Aggravated assault with syringe
+F1887,homicide;kidnapping;other,HIGH,Attempted murder; unlawful confinement; threats; breaches
+F1888,sexual,HIGH,Multiple historical sexual offences against children
+F1889,none,LOW,Offence not shown; bail credit issue
+F1890,break_enter;assault;driving;theft_fraud,HIGH,Break and enter; assault with weapon; driving while disqualified; stolen property
+F1891,none,LOW,Offence not shown; sentence varied on consent
+F1892,sexual,HIGH,Indecent assaults on boy by priest

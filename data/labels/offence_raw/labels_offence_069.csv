@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1497,kidnapping;sexual,HIGH,Unlawful confinement and two counts sexual assault causing bodily harm
+F1498,theft_fraud;assault;other,HIGH,Thefts and assault and fail to appear and breach
+F1499,sexual,HIGH,Sexual interference of 12-year-old
+F1500,homicide,HIGH,Manslaughter
+F1501,homicide,HIGH,Second degree murder
+F1502,homicide;weapons,HIGH,First degree murder and discharging firearm with intent
+F1503,sexual,LOW,Likely sexual offences with consent at issue; counts unclear
+F1504,assault,HIGH,Assault causing bodily harm
+F1505,drugs,HIGH,Possession for purpose of trafficking cocaine
+F1506,driving,HIGH,Failing to remain after accident under Motor Vehicle Act
+F1507,homicide;driving,HIGH,Criminal negligence causing death and bodily harm and failing to remain
+F1508,sexual,HIGH,Sexual assault causing bodily harm to child
+F1509,sexual,HIGH,Sexual assault
+F1510,homicide,HIGH,Second degree murder
+F1511,driving;homicide,HIGH,Criminal negligence causing death and flight causing death
+F1512,robbery;kidnapping,HIGH,Robbery with firearm and unlawful confinement
+F1513,robbery,HIGH,Robbery with firearm
+F1514,robbery;assault,HIGH,Robbery and assaulting a peace officer
+F1515,homicide;other,HIGH,Attempted murder and failure to comply with probation
+F1516,driving,HIGH,Dangerous driving
+F1517,drugs,HIGH,Trafficking or possession for trafficking cocaine
+F1518,assault;kidnapping;sexual;other,HIGH,Assault causing bodily harm and kidnapping and sexual assault and breach

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4159,weapons,HIGH,Trafficking in firearms
+F4160,homicide;other,HIGH,Manslaughter and arson
+F4161,other,LOW,Breach of conditional sentence order hearing
+F4162,assault;weapons,HIGH,Aggravated assault and weapons offence
+F4163,drugs;weapons;theft_fraud,LOW,Drug and firearm possession and cash found
+F4164,sexual,HIGH,Sexual assault
+F4165,drugs;sexual;assault,HIGH,Trafficking cocaine and sexual assault and assault
+F4166,robbery;weapons;other,HIGH,Robbery and masked face and weapon for dangerous purpose
+F4167,drugs;other,HIGH,Possession for trafficking cocaine and fentanyl and bail breach
+F4168,weapons;drugs;other,HIGH,Firearms offences and drug trafficking and obstruct police
+F4169,sexual;other,HIGH,Sexual assault and extortion
+F4170,theft_fraud;drugs,HIGH,Possession of stolen property and theft and cocaine possession
+F4171,weapons,HIGH,Loaded handgun possession offences
+F4172,other,HIGH,Wildlife Act hunting offences
+F4173,sexual;drugs,HIGH,Child pornography and cocaine possession
+F4174,assault,HIGH,Assault causing bodily harm
+F4175,assault,HIGH,Aggravated assault
+F4176,assault,HIGH,Assault of partner and another person and police
+F4177,assault;other,HIGH,Assault causing bodily harm and uttering threat
+F4178,theft_fraud,HIGH,Theft over 5000
+F4179,sexual,HIGH,Sexual assaults on foster boys
+F4180,drugs;weapons,HIGH,Possession of cocaine for trafficking and prohibited weapon

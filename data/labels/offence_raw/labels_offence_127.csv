@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2773,robbery;theft_fraud,HIGH,Three robberies and theft over $5000
+F2774,sexual;assault;other,HIGH,Sexual assault choking and uttering death threat
+F2775,homicide,HIGH,Manslaughter
+F2776,other,HIGH,Fisheries Act offences
+F2777,driving,LOW,Impaired driving apparently
+F2778,drugs,HIGH,Trafficking in a narcotic
+F2779,sexual,HIGH,Historical indecent assault of daughters
+F2780,homicide,HIGH,Second degree murder
+F2781,homicide,HIGH,Second degree murder
+F2782,other;assault,HIGH,Criminal harassment mischief and dangerous assault
+F2783,assault;weapons;other,HIGH,Assault careless use of firearm and death threat
+F2784,driving,HIGH,Impaired driving causing death
+F2785,drugs,HIGH,Possession for purpose of trafficking
+F2786,theft_fraud,HIGH,Conspiracy to commit fraud and uttering forged document
+F2787,break_enter;assault,HIGH,Break and enter and assault in home invasion
+F2788,drugs,HIGH,Possession of fentanyl for purpose of trafficking
+F2789,sexual,HIGH,Sexual assault
+F2790,sexual,HIGH,Sexual interference
+F2791,other,LOW,Offence unclear; criminal organization charge mentioned
+F2792,theft_fraud,HIGH,Possession of stolen property and stolen cards
+F2793,sexual,HIGH,Possessing and accessing child pornography
+F2794,none,LOW,Offences not shown; conspiracy mentioned

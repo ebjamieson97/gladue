@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1531,N,X,N,X,X,X,X,X,X,N,LOW,Gladue report and grandparents residential school described but no weighing shown
+M1532,N,X,X,X,X,X,X,X,X,N,LOW,Failure to consider aboriginal status noted as error but conditional sentence imposed anyway
+M1533,R,X,N,X,X,X,X,X,X,N,LOW,Appeal court upheld judge who applied Gladue but stressed denunciation
+M1534,N,X,X,X,X,X,X,X,X,N,HIGH,Only general statutory reference to 718.2(e)
+M1535,M,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal status listed as mitigating but outweighed by denunciation
+M1536,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not shown Aboriginal so Gladue did not apply; upbringing mitigating
+M1537,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court accepted judge properly applied Gladue and imposed reformatory sentence
+M1538,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue systemic factors and substantial mitigation informed moral blameworthiness
+M1539,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited by counsel only; youth and prospects were mitigating
+M1540,N,X,X,X,X,X,X,X,X,N,LOW,Section 718.2(e) quoted generally and another case described

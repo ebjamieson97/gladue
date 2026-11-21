@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5671,NOT,NA,HIGH,Appeal allowed; stay for delay; sentence not reached
+D3652,NOT,NA,HIGH,New trial ordered; sentence appeal not reached
+D4681,REVIEWS,FULL,HIGH,Sentence appeal allowed; conditional sentence substituted
+D6023,REVIEWS,MINIMAL,HIGH,Murder appeal dismissed including parole ineligibility
+D1437,REVIEWS,FULL,HIGH,Sentence appeal for robbery dismissed
+D4267,NOT,NA,HIGH,Trial verdict of guilty on assault counts
+D2069,REVIEWS,FULL,HIGH,Sentence appeal for drug trafficking dismissed
+D5949,REVIEWS,FULL,HIGH,Conviction and sentence appeal; impaired driving causing death
+D6003,IMPOSES,FULL,HIGH,Sentencing decision for manslaughter
+D1520,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D5625,REVIEWS,FULL,HIGH,Conviction and sentence appeal for perjury dismissed
+D1519,IMPOSES,MINIMAL,HIGH,Sentence on joint submission multiple counts
+D4181,IMPOSES,FULL,HIGH,Sentencing for accessory after the fact to murder
+D1163,NOT,NA,HIGH,Crown conviction appeal on fraud charges
+D4398,NOT,NA,HIGH,Conviction appeal allowed; new trial
+D5445,NOT,NA,HIGH,Release pending appeal granted
+D5102,NOT,NA,HIGH,SCC conviction appeal dismissed
+D1590,IMPOSES,FULL,HIGH,Reasons for sentence; conditional sentence for theft
+D3745,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal abandoned
+D2630,REVIEWS,FULL,HIGH,Conviction and dangerous offender sentence appeal dismissed
+D1074,NOT,NA,HIGH,Summary appeal of traffic guilty plea allowed
+D2944,NOT,NA,HIGH,Large murder conviction appeal
+D5735,NOT,NA,HIGH,Crown acquittal appeal allowed; new trial
+D2341,RELATED,NA,HIGH,Application to reopen sentence appeal dismissed
+D3751,NOT,NA,HIGH,Appeal to withdraw guilty pleas dismissed
+D2058,REVIEWS,FULL,HIGH,Appeal of fishery convictions and sentences dismissed

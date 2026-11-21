@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D0570,NOT,NA,HIGH,New trial ordered so sentence appeal not reached
+D0780,IMPOSES,FULL,HIGH,Reasons on sentencing for manslaughter
+D0841,NOT,NA,HIGH,Bail pending appeal application dismissed
+D0859,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed and leave to appeal sentence dismissed
+D0668,REVIEWS,FULL,HIGH,Fraud appeals; sentence appeals dismissed and restitution varied
+D0687,REVIEWS,FULL,HIGH,Fraud sentence appeal allowed reducing 18 months to 12
+D0991,NOT,NA,HIGH,Voir dire ruling on admissibility of statements
+D0600,REVIEWS,FULL,HIGH,Attempted murder conviction and life sentence appeals dismissed
+D0724,IMPOSES,FULL,HIGH,Oral reasons for sentence for sexual interference
+D0771,IMPOSES,FULL,HIGH,Sentencing decision for robbery of two offenders
+D0665,RELATED,NA,LOW,Appeal reducing driving prohibition to statutory maximum
+D0879,NOT,NA,HIGH,Old appeal on irregular juror and motion in arrest
+D0531,NOT,NA,HIGH,Conviction appeal dismissed in home invasion
+D0901,REVIEWS,FULL,HIGH,Crown sentence appeal allowed but sentence stayed
+D0819,REVIEWS,FULL,HIGH,Crown appeal of conditional sentence dismissed
+D0627,NOT,NA,LOW,Election offence conviction appeal; sentence leave not granted
+D0864,NOT,NA,HIGH,Bail pending appeal application dismissed
+D0756,REVIEWS,FULL,HIGH,Drug sentence appeal allowed reducing to nine months
+D0747,REVIEWS,FULL,HIGH,Sentence appeal for cocaine trafficking dismissed
+D0761,IMPOSES,FULL,HIGH,Regulatory fines and sentence order for environmental breach
+D0594,IMPOSES,FULL,HIGH,Oral reasons for sentence for methamphetamine production
+D0603,REVIEWS,FULL,HIGH,Sentence appeal allowed for harassment and breaches
+D0653,REVIEWS,FULL,HIGH,Conviction appeal dismissed; leave granted and sentence appeal dismissed
+D0481,NOT,NA,LOW,Crown appeal dismissed for lack of error of law
+D0842,REVIEWS,FULL,HIGH,Sentence appeal dismissed on conditional sentence refusal
+D0497,NOT,NA,HIGH,Conviction appeal partly allowed; sentence appeal abandoned

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5974,NOT,NA,HIGH,Bail pending appeal application
+D2562,NOT,NA,HIGH,Voir dire ruling on admissibility in murder trial
+D3359,NOT,NA,HIGH,Conviction appeal for first degree murder dismissed
+D1778,RELATED,NA,HIGH,Crown appeal of stay of dangerous offender application
+D2998,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal not reached
+D1265,NOT,NA,HIGH,Summary conviction appeal against conviction for breath refusal
+D4271,REVIEWS,FULL,HIGH,Summary conviction sentence appeal of fine dismissed
+D5201,NOT,NA,HIGH,Murder conviction appeal dismissed
+D4231,REVIEWS,MINIMAL,HIGH,Dangerous offender appeal allowed new hearing ordered
+D5507,NOT,NA,HIGH,Acquittal on dangerous driving charges
+D4764,NOT,NA,HIGH,Sexual assault conviction appeal dismissed
+D3893,IMPOSES,FULL,HIGH,Reasons for sentence on weapons and drug offences
+D2539,NOT,NA,HIGH,Crown appeal of acquittal for distracted driving
+D2110,IMPOSES,FULL,HIGH,Reasons for sentence for sexual assault causing bodily harm
+D3069,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal dismissed
+D4974,NOT,NA,HIGH,Sexual assault conviction appeal dismissed
+D5693,NOT,NA,HIGH,SCC dismisses murder conviction appeal on evidence
+D3952,IMPOSES,MINIMAL,LOW,Fine imposed on broadcaster for breaching publication ban
+D2729,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D5828,NOT,NA,HIGH,Verdict of guilty on sexual assault and related counts
+D2897,REVIEWS,MINIMAL,HIGH,Appeal from conviction and sentence for murder dismissed
+D2868,RELATED,NA,HIGH,Crown appeal about DNA authorizations for murderers
+D1902,NOT,NA,HIGH,Release pending appeal allowed
+D3992,REVIEWS,FULL,HIGH,Sentence appeal allowed and reduced to four years three months
+D5434,RELATED,NA,HIGH,Jurisdiction over summary conviction sentence appeal transferred
+D4444,NOT,NA,HIGH,Verdict of guilty on drug charges

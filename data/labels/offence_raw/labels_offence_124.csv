@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2707,homicide,HIGH,Attempted murder
+F2708,none,LOW,Appeal abandoned; offences not shown
+F2709,assault;other;weapons,HIGH,Assault causing bodily harm; threats; obstruct justice; discharge firearm with intent
+F2710,theft_fraud;other,LOW,Thefts from vehicles and stolen van; police pursuit
+F2711,drugs,HIGH,Trafficking in cocaine
+F2712,none,LOW,Offence not shown in endorsement
+F2713,sexual,HIGH,Two counts of sexual interference
+F2714,assault,HIGH,Simple assault substituted for assault causing bodily harm
+F2715,driving,HIGH,Impaired driving causing bodily harm
+F2716,assault,LOW,Two counts of assault; detention review not sentencing
+F2717,drugs,HIGH,Two counts of importing cocaine
+F2718,none,LOW,Offence not shown; conditional sentence replaced by jail
+F2719,weapons,HIGH,Possession of loaded prohibited or restricted firearm
+F2720,assault;break_enter;sexual,HIGH,Assault with weapon; break and enter with sexual assault
+F2721,drugs;theft_fraud;other,HIGH,Possession for trafficking; proceeds of crime; breach of probation
+F2722,drugs;theft_fraud,HIGH,Conspiracy to traffic cocaine; possession of proceeds of crime
+F2723,sexual;kidnapping;other,HIGH,Sexual assault; unlawful confinement; uttering threats
+F2724,weapons,HIGH,Possession of loaded pistol and sawed-off shotguns
+F2725,driving,HIGH,Impaired driving and failing to remain at scene
+F2726,theft_fraud;break_enter;other,HIGH,Fraud; break and enter; personation; impersonating police officer
+F2727,homicide,HIGH,Two counts of conspiracy to commit murder
+F2728,robbery;kidnapping,HIGH,Two armed robberies; hostage taking; masked offences

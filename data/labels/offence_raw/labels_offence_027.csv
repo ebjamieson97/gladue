@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0573,homicide,HIGH,Manslaughter and criminal negligence causing death
+F0574,sexual;assault,HIGH,Two sexual assaults and assault on wife
+F0575,robbery;weapons,HIGH,Robbery and using imitation firearm in robbery
+F0576,assault,HIGH,Aggravated assault
+F0577,driving,HIGH,Impaired and dangerous driving causing death and bodily harm
+F0578,homicide,HIGH,Conspiracy to commit murder
+F0579,robbery;assault;weapons,HIGH,Firearm use in robbery and aggravated assault; possession while prohibited
+F0580,drugs;other;theft_fraud,LOW,Breach of trust offences at jail; possession of stolen wallet; first charge cut off
+F0581,sexual,HIGH,Three counts of indecent assault on patients
+F0582,assault,HIGH,Aggravated assault
+F0583,drugs,HIGH,Trafficking heroin containing fentanyl
+F0584,drugs,HIGH,Trafficking marihuana and possession for purpose of trafficking
+F0585,assault,LOW,Apparently assault on victims; offence not clearly stated
+F0586,weapons,HIGH,Pointing a firearm
+F0587,assault,HIGH,Assault causing bodily harm with pen knife
+F0588,sexual;other,HIGH,Aggravated sexual assault; sexual interference; breach of recognizance
+F0589,other,HIGH,Occupational health and safety regulatory offences
+F0590,homicide;robbery;kidnapping,LOW,Attempted murder; robberies; unlawful confinement; possible 2008 escape offence
+F0591,homicide,HIGH,Attempted murder
+F0592,drugs;theft_fraud,HIGH,Possession for trafficking; proceeds of crime; money laundering
+F0593,drugs;other,HIGH,Cocaine and marijuana trafficking; breaches of recognizance
+F0594,sexual,HIGH,Gross indecency; statutory rape; incest

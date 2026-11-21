@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0595,kidnapping;other,HIGH,Unlawful confinement; arson; mischief over $5000
+F0596,sexual,HIGH,Sexual touching of child under 14
+F0597,homicide,HIGH,Manslaughter
+F0598,sexual,HIGH,Sexual interference
+F0599,break_enter;kidnapping;assault;other,HIGH,Break and enter; masking face; confinement; assault with weapon
+F0600,kidnapping;assault,HIGH,Attempted abduction; unlawful confinement; assault
+F0601,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0602,drugs,HIGH,Three counts under Controlled Drugs and Substances Act
+F0603,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0604,drugs;other,HIGH,Possession for trafficking; obstruction; simple drug possession
+F0605,driving,HIGH,Impaired driving
+F0606,other,HIGH,Failing to provide necessaries of life
+F0607,none,LOW,Offence not shown in excerpt
+F0608,theft_fraud,HIGH,Fraud; personation; uttering forged document
+F0609,homicide;other,HIGH,Manslaughter and indignity to human remains
+F0610,sexual,HIGH,Sexual interference; child pornography; exploitation; sexual assault
+F0611,theft_fraud,HIGH,Fraud over $5000
+F0612,theft_fraud;other,HIGH,Fraud over $5000 and breach of conditional sentence
+F0613,robbery,HIGH,Robbery with firearm; other counts stayed
+F0614,other,HIGH,Contempt for refusing to testify
+F0615,assault,HIGH,Aggravated assault and assault with weapon
+F0616,sexual,HIGH,Eighteen historical sexual offences

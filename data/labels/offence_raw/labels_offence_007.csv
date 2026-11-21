@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0133,homicide,HIGH,Two counts of manslaughter by young person
+F0134,sexual,HIGH,Sexual offences against two young girls
+F0135,theft_fraud,LOW,Possession of stolen property and other serious offences unclear
+F0136,homicide,HIGH,Two counts of second degree murder
+F0137,theft_fraud,HIGH,Large scale employee fraud and forgery
+F0138,sexual;kidnapping;other,HIGH,Sexual assault with weapon; unlawful confinement; uttering threats
+F0139,assault;other,HIGH,Aggravated assault; failing to provide necessaries; failing to seek medical help
+F0140,sexual,HIGH,Sexual assault of employee
+F0141,other,HIGH,27 municipal parking bylaw infractions
+F0142,assault,HIGH,Aggravated assault and assault
+F0143,drugs,HIGH,Possession of cannabis for purpose of trafficking
+F0144,driving,HIGH,Impaired driving sentence with minimum penalty
+F0145,sexual,HIGH,Sexual interference
+F0146,assault;weapons;other,HIGH,Assault causing harm; aggravated assault; weapon dangerous; threats; obstruction; breaches
+F0147,drugs,HIGH,Two counts possession for purpose of trafficking
+F0148,drugs,HIGH,Possession for purpose of trafficking 250 kg cocaine
+F0149,driving,HIGH,Over 80 driving with impaired count stayed
+F0150,drugs;weapons,HIGH,Drug possession and trafficking; restricted firearm possession
+F0151,assault,HIGH,Assault with a weapon by providing and discharging firearm
+F0152,assault,LOW,Apparent assault offences from fight; excerpt unclear
+F0153,break_enter;kidnapping;assault;other,HIGH,Break and enter; masking face; confining; assault with weapon
+F0154,homicide,HIGH,Manslaughter of man in racist attack

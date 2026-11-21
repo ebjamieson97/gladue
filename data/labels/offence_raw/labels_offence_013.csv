@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0265,assault;other,HIGH,Aggravated assault and extortion
+F0266,other,HIGH,Preventing elector from voting under Canada Elections Act
+F0267,drugs,HIGH,Production of cannabis
+F0268,sexual,HIGH,Historical sexual intercourse with minor and indecent assault of stepdaughter
+F0269,none,LOW,Offences not shown in excerpt
+F0270,homicide,HIGH,Second degree murder
+F0271,other,HIGH,Attempt to obstruct justice and perjury by police officers
+F0272,driving,HIGH,Three counts of impaired driving causing death
+F0273,assault;other,HIGH,Assault causing bodily harm; mischief and breach of recognizance
+F0274,sexual,HIGH,Incest and sexual interference against daughter
+F0275,other,HIGH,Failure to comply with probation order and recognizance
+F0276,none,LOW,Offences not shown in excerpt
+F0277,theft_fraud;other,HIGH,Fraud on government and breach of trust by public officer
+F0278,sexual;assault;other,HIGH,Sexual assault; assault; uttering threat
+F0279,drugs,HIGH,Production of marihuana and possession for purpose of trafficking
+F0280,sexual,HIGH,Historic sexual offences against cousin
+F0281,theft_fraud,HIGH,Fraud under $5000 using altered credit card
+F0282,drugs,HIGH,Trafficking MDMA
+F0283,assault,HIGH,Aggravated assault
+F0284,homicide,HIGH,Conspiracy to commit murder
+F0285,robbery;assault;other,HIGH,Robbery; assault; assault causing bodily harm; impersonating police officer
+F0286,drugs,HIGH,Possession of cocaine for trafficking and simple possession of heroin

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3125,drugs,HIGH,Possession for purpose of trafficking cocaine
+F3126,driving,HIGH,Dangerous driving causing death and failing to stop
+F3127,robbery;kidnapping;weapons,HIGH,Armed robbery; unlawful confinement; two firearms offences
+F3128,robbery,HIGH,Robbery
+F3129,assault,HIGH,Assault on wife
+F3130,drugs,HIGH,Trafficking in cocaine
+F3131,none,LOW,Offences of conviction not shown in excerpt
+F3132,sexual;other,HIGH,Sexual assault and breach of probation
+F3133,other;weapons,HIGH,Death threats; breach of probation; criminal harassment; attempt to possess firearm
+F3134,homicide,HIGH,Manslaughter
+F3135,sexual,HIGH,Sexual interference; sexual assault; invitation to touching; child pornography
+F3136,theft_fraud,HIGH,Fraud against elderly victims
+F3137,robbery;other,HIGH,Robbery and disguise with intent to rob
+F3138,theft_fraud;other,HIGH,Uttering forged document; fraud under $5000; breach of recognizance
+F3139,break_enter;robbery,HIGH,Break and enter to commit robbery home invasion
+F3140,sexual,HIGH,Sexual interference and making child pornography
+F3141,kidnapping;other,HIGH,Human trafficking; exercising control over prostitution; obstruction of justice
+F3142,sexual,HIGH,Multiple sexual offences against four child complainants
+F3143,sexual;kidnapping,HIGH,Sexual assault with a weapon and unlawful confinement
+F3144,drugs,HIGH,Two counts possession of cocaine for trafficking
+F3145,sexual,HIGH,Sexual assault causing bodily harm
+F3146,sexual,HIGH,Sexual assault by young person; breach sentence quashed

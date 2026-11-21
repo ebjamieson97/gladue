@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0581,M,M,M,X,X,X,X,X,X,N,HIGH,Gladue factors from residential schools and colonialism listed as mitigating
+M0582,M,X,X,X,X,X,X,X,X,N,LOW,Indigenous background considered in fashioning sentence without report
+M0583,X,X,X,X,X,X,X,X,M,N,HIGH,Racial slurs by victim treated as mitigating provocation
+M0584,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for rehabilitation principle
+M0585,R,X,X,X,X,N,X,X,X,N,LOW,Gladue discussed but seriousness of manslaughter required long imprisonment
+M0586,N,X,X,X,X,X,X,X,X,N,LOW,Gladue law quoted at length and not listed as mitigating
+M0587,M,N,N,X,X,N,X,X,X,N,HIGH,Aboriginal heritage given little weight but sentence at low end
+M0588,X,X,X,X,N,X,X,X,X,N,HIGH,Impact of Race and Culture Assessment only in comparison case
+M0589,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for individualization
+M0590,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality

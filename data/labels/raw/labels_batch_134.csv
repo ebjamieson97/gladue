@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4218,NOT,NA,HIGH,Crown appeal on impaired driving conviction
+D1532,IMPOSES,FULL,HIGH,Reasons for sentence for drug and firearm offences
+D4051,NOT,NA,HIGH,Summary conviction appeal allowed acquittal
+D3535,IMPOSES,FULL,HIGH,Sentencing for manslaughter and attempted murder
+D4440,REVIEWS,FULL,HIGH,Leave granted; sentence appeal for assault dismissed
+D2478,REVIEWS,MINIMAL,HIGH,Appeal of parole ineligibility for murder dismissed
+D5792,NOT,NA,HIGH,Evidence ruling at trial
+D6008,NOT,NA,HIGH,Voir dire rulings in sexual assault trial
+D1745,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal dismissed
+D5228,NOT,NA,HIGH,Video conference witness application
+D1075,NOT,NA,HIGH,Conviction appeals only for dangerous offender
+D2926,NOT,NA,HIGH,Charter section 8 appeal on screen capture
+D1007,NOT,NA,HIGH,Lottery conviction appeal dismissed
+D2079,IMPOSES,FULL,HIGH,Sentencing with Charter challenge to minimum fine
+D2376,IMPOSES,FULL,HIGH,Sentencing decision for excess BAC causing bodily harm
+D4221,NOT,NA,HIGH,Murder conviction appeal dismissed
+D3612,NOT,NA,HIGH,Appeal allowed new trial ordered
+D3749,IMPOSES,FULL,HIGH,Reasons for sentence for sexual interference
+D1608,REVIEWS,FULL,HIGH,Sentence appeal allowed for robbery
+D2629,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence appeal dismissed
+D3796,NOT,NA,HIGH,Disclosure ruling in murder trial
+D5446,NOT,NA,HIGH,Testimonial accommodation ruling
+D4533,NOT,NA,HIGH,Crown appeal on disclosure and informer privilege
+D4841,NOT,NA,HIGH,Mistrial application ruling
+D2759,NOT,NA,HIGH,Reopening trial and mistrial declared
+D1027,NOT,NA,HIGH,Media production order appeal

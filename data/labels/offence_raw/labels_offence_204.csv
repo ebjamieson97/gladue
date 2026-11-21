@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4467,sexual;assault;other,HIGH,Sexual assault; assault; harassment; threats to kill animal
+F4468,drugs,HIGH,Possession for trafficking cocaine heroin clorazepam
+F4469,homicide,HIGH,Manslaughter
+F4470,driving,HIGH,Criminal negligence in operation of vehicle causing bodily harm
+F4471,sexual,HIGH,Sexual assault
+F4472,other,HIGH,Terrorism offences and explosive substance offences
+F4473,weapons;drugs,HIGH,Careless storage; loaded restricted firearm; cannabis trafficking
+F4474,weapons,LOW,Weapon-related offences by repeat offender
+F4475,assault;sexual,HIGH,Assault and sexual assault youth
+F4476,sexual,LOW,Non-consensual sexual offence against complainant
+F4477,drugs;weapons,HIGH,Drug trafficking production and firearms offences
+F4478,sexual,HIGH,Obtaining sexual services of minor; sexual interference
+F4479,other,HIGH,Fisheries Act harmful alteration of fish habitat
+F4480,other,HIGH,Breaches of s. 810.2 recognizance
+F4481,driving,HIGH,Dangerous driving causing death
+F4482,sexual,HIGH,Sexual assault of child
+F4483,theft_fraud,HIGH,Fraud over $5000 x3
+F4484,sexual,HIGH,Child pornography distribution and sexual assault
+F4485,none,LOW,Offences not stated
+F4486,driving,HIGH,Dangerous driving causing death and bodily harm
+F4487,homicide,HIGH,Two counts second-degree murder
+F4488,robbery;other,HIGH,Robbery and uttering threats

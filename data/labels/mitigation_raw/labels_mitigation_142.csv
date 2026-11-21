@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1411,N,X,X,X,X,X,X,X,X,N,LOW,Section 718.2(e) recited as general law with no sign offender is Indigenous
+M1412,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M1413,M,X,X,X,X,N,X,X,X,N,HIGH,Aboriginal background and systemic factors explained reduced responsibility but jail still required
+M1414,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M1415,X,X,X,X,X,X,X,X,X,N,HIGH,Environmental offence with no relevant factor
+M1416,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue factors recognized and sentence would be longer without them
+M1417,M,X,N,N,X,X,X,X,X,N,LOW,Gladue report used and adversity credited in accepted joint submission
+M1418,M,X,X,X,X,N,X,X,X,N,HIGH,Systemic history and over-representation weighed against serious offence
+M1419,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court confirmed judge treated Gladue features as mitigating
+M1420,M,X,M,X,X,X,X,X,X,N,HIGH,Mother's residential school abuse and background reduced moral blameworthiness on appeal

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0751,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report reviewed and recommendations endorsed; weight on sentence unclear
+M0752,R,X,X,X,X,X,X,X,X,N,LOW,Appeal court upheld judge who gave little weight to Gladue report
+M0753,M,N,X,X,X,X,X,X,X,N,HIGH,Aboriginal heritage listed among mitigating factors
+M0754,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factors; racist comments only as bad character
+M0755,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only cited from other case; none at issue here
+M0756,M,X,X,X,X,X,X,X,X,N,HIGH,First Nations upbringing and abuse listed as mitigating circumstances
+M0757,M,X,X,X,X,X,X,X,X,N,HIGH,Trial judge reduced sentence for Gladue factors and appeal court agreed
+M0758,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in statement of law
+M0759,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but no impact on risk or treatment prospects
+M0760,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e cited generally for conditional sentence

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1475,robbery,HIGH,Robbery as aider and abettor
+F1476,weapons,HIGH,Possession of loaded restricted firearm
+F1477,other,HIGH,Fisheries Act offences
+F1478,drugs,HIGH,Four counts of trafficking by corrections officer
+F1479,theft_fraud;other,HIGH,Fraud; forgery; theft; breaches of probation
+F1480,homicide,HIGH,Manslaughter and attempted murder
+F1481,other,HIGH,Participation in criminal organization
+F1482,none,LOW,Young offender offence not shown
+F1483,weapons,HIGH,Prohibited firearm possession; prohibited device; unsafe storage
+F1484,drugs,HIGH,Possession for trafficking and production of marihuana
+F1485,sexual,HIGH,Two counts of indecent assault on daughter
+F1486,drugs,HIGH,Possession of opium for purpose of trafficking
+F1487,homicide,HIGH,Manslaughter with firearm
+F1488,driving,HIGH,Dangerous operation of motor vehicle
+F1489,other;drugs,HIGH,Bribery; obstruct justice; breach of trust; cocaine trafficking
+F1490,sexual,HIGH,Sexual assault of 11 year old
+F1491,assault;other,HIGH,Assault; uttering threats; breach of no-contact order
+F1492,homicide,HIGH,Second degree murder
+F1493,assault;other,HIGH,Assault causing bodily harm; breach of probation
+F1494,sexual;other,HIGH,Child pornography offences; failing to comply with recognizance
+F1495,sexual,HIGH,Sexual offences against step-grandchildren
+F1496,sexual,HIGH,Sexual interference

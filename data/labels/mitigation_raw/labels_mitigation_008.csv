@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0071,X,X,X,X,M,X,X,X,X,N,HIGH,IRCA context used to mitigate sentence for African Nova Scotian offender
+M0072,X,X,X,X,M,N,X,X,X,N,LOW,IRCA informed understanding of offender but court noted limits of courts
+M0073,N,X,X,X,X,X,X,X,X,N,HIGH,Court noted no Gladue factors apply to this offender
+M0074,X,X,X,X,N,X,X,X,X,N,HIGH,Racism raised only about Crown remark during trial
+M0075,X,X,X,X,X,N,X,X,X,N,HIGH,Court noted offenders had not been victims of racism
+M0076,X,X,X,X,R,X,X,X,X,N,HIGH,Appeal court agreed Morris considered but moral blameworthiness hard to reduce
+M0077,N,X,X,X,X,N,X,X,X,N,LOW,IRCA letter relied on by defence but weight unclear
+M0078,R,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e considered but prison only appropriate sanction
+M0079,N,X,X,X,X,X,X,X,X,N,HIGH,No Gladue or cultural reports requested
+M0080,N,X,X,X,X,X,X,N,N,Y,HIGH,Appeal of racially motivated offence; mitigation was plea and rehabilitation

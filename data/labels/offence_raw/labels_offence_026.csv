@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0551,other,HIGH,Fisheries Act offences
+F0552,homicide,HIGH,Manslaughter
+F0553,drugs;theft_fraud,HIGH,Trafficking oxycodone and fentanyl and forgery
+F0554,theft_fraud,LOW,Apparently stolen van; counts not clearly stated
+F0555,sexual,HIGH,Sexual assault
+F0556,sexual;other,HIGH,Sexual assault and indecent act in public place
+F0557,homicide,HIGH,Second degree murder parole ineligibility
+F0558,drugs,HIGH,Importing hashish
+F0559,homicide;other,HIGH,Attempted murder and uttering threats to kill
+F0560,theft_fraud,HIGH,Seven counts of fraud
+F0561,assault;other,HIGH,Assault causing bodily harm and mischief
+F0562,other,HIGH,Breach of probation
+F0563,theft_fraud,HIGH,Fraud and breach of trust and forgery
+F0564,homicide,HIGH,Two counts of manslaughter
+F0565,drugs;weapons,HIGH,Possession and PPT of drugs and prohibited weapon brass knuckles
+F0566,assault,LOW,Brutal prolonged assault; offence not precisely stated
+F0567,homicide,HIGH,Manslaughter
+F0568,other,HIGH,Uttering threats
+F0569,none,LOW,Dangerous offender designation; underlying offences not shown
+F0570,assault,LOW,Prolonged assaults on vulnerable victim
+F0571,theft_fraud,HIGH,Fraud and theft
+F0572,kidnapping;assault,HIGH,Procuring and living on avails of prostitution of minors and common assault

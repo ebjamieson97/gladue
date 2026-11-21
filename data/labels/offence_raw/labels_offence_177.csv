@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3873,none,LOW,Offence not shown in endorsement
+F3874,robbery,LOW,Apparent bank robbery with teller; youth appeal
+F3875,assault,LOW,Vicious beating; offence not named
+F3876,drugs,HIGH,Conspiracy to traffic in MDMA
+F3877,weapons;kidnapping,HIGH,Firearms offences and conspiracy to commit unlawful confinement
+F3878,theft_fraud;other,HIGH,Multiple thefts and fraud plus threats and breach
+F3879,other,HIGH,Criminal harassment
+F3880,none,LOW,Offence not shown in endorsement
+F3881,break_enter;robbery;assault;theft_fraud,HIGH,B and E robbery and assault with weapon and stolen property
+F3882,homicide,HIGH,Second degree murder
+F3883,none,LOW,Offence not shown in endorsement
+F3884,break_enter,LOW,Break and enter plus four other unspecified counts
+F3885,homicide,HIGH,Two counts of manslaughter with firearm
+F3886,assault;kidnapping;other,HIGH,Assault and aggravated assault and confinement and uttering threats
+F3887,theft_fraud,HIGH,Fraud over 5000 and theft over 5000
+F3888,driving,HIGH,Impaired driving causing death and bodily harm and fail to stop
+F3889,driving,HIGH,Dangerous driving causing death and bodily harm and fail to stop
+F3890,break_enter;assault;theft_fraud;other,HIGH,B and E and assault police and stolen property and breach and mischief
+F3891,assault,HIGH,Aggravated assault and assault with a weapon
+F3892,assault;robbery;weapons;other,HIGH,Assault and robbery and dangerous weapon and breach of recognizance
+F3893,sexual,HIGH,Two counts of sexual assault
+F3894,sexual,HIGH,Sexual interference and sexual assault of child

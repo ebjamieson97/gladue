@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3631,sexual,HIGH,Sexual assault of a 14 year old
+F3632,sexual;assault,HIGH,Aggravated sexual assault and choking
+F3633,break_enter;theft_fraud,LOW,Attempt break and enter and thefts plus other unclear counts
+F3634,homicide,HIGH,Second degree murder
+F3635,drugs,HIGH,Producing cannabis
+F3636,theft_fraud,HIGH,Fraud and uttering forged document
+F3637,sexual;robbery;kidnapping;assault,HIGH,Aggravated sexual assault robberies confinement and choking
+F3638,assault,HIGH,Four counts of assault on spouse
+F3639,homicide,HIGH,Manslaughter
+F3640,drugs;weapons,HIGH,Possession for trafficking and prohibited crossbow possession
+F3641,none,LOW,Offences not shown in excerpt
+F3642,driving,HIGH,Dangerous driving causing death and bodily harm
+F3643,kidnapping,HIGH,Confining
+F3644,homicide,HIGH,Attempted murder
+F3645,other,HIGH,Two counts of breach of probation
+F3646,driving,HIGH,Impaired driving causing bodily harm and failing to stop and refusing sample
+F3647,theft_fraud,HIGH,Fraud on timber stumpage
+F3648,homicide,HIGH,Manslaughter of wife
+F3649,theft_fraud,HIGH,Fraud attempted fraud identity theft and personation
+F3650,homicide;driving,HIGH,Criminal negligence causing death and impaired driving causing death
+F3651,robbery,HIGH,Armed robbery
+F3652,sexual,HIGH,Sexual assault of a child

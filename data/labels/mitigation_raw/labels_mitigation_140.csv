@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1391,X,X,X,X,X,X,X,X,X,N,HIGH,Racist remark prompted robbery but no factor weighed
+M1392,X,X,N,X,X,X,X,X,X,N,HIGH,Residential school only in comparison case
+M1393,X,X,X,X,R,X,X,X,X,N,HIGH,Anti-Black racism evidence given limited weight and adult sentence upheld
+M1394,X,X,X,N,X,X,X,X,X,N,HIGH,Intergenerational trauma only in quoted drug passage
+M1395,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only by analogy to conditional sentences
+M1396,N,X,X,X,X,X,X,X,X,N,LOW,Gladue raised as legal argument not about Indigenous offender
+M1397,X,X,X,X,M,X,X,X,X,N,HIGH,Systemic anti-Black racism mitigated moral blameworthiness
+M1398,R,X,X,X,X,X,X,X,X,N,LOW,Gladue report considered but no restorative plan and offence serious
+M1399,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in other cases and general law
+M1400,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue general law and no such factors for another offender

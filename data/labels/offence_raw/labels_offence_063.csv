@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1365,assault;kidnapping,HIGH,Assault causing bodily harm unlawful confinement assault with weapon
+F1366,robbery;other,HIGH,Robbery and failure to comply with release order
+F1367,other,HIGH,Obstruction of justice x2 and criminal harassment
+F1368,driving;theft_fraud;kidnapping,HIGH,Dangerous driving causing harm stolen property hit and run confinement
+F1369,assault,HIGH,Aggravated assault
+F1370,sexual,LOW,Endangering morals of child via sexually suggestive photo
+F1371,other;assault;theft_fraud,HIGH,Unlawfully at large assault staff theft possession breach probation
+F1372,sexual,HIGH,Making and possessing child pornography
+F1373,kidnapping;assault,HIGH,Forcible confinement and assault with weapon
+F1374,drugs,HIGH,Trafficking in cocaine
+F1375,none,LOW,Excerpt does not show the offences
+F1376,sexual,HIGH,Sexual assault youth sentence
+F1377,assault,HIGH,Aggravated assault by maiming
+F1378,drugs,HIGH,Possession of marihuana for purpose of trafficking
+F1379,sexual,HIGH,Sexual interference and invitation to sexual touching
+F1380,drugs,HIGH,Nine counts trafficking in cocaine
+F1381,driving,HIGH,Impaired driving causing bodily harm
+F1382,theft_fraud;other,HIGH,Fraud over 5000 uttering forged document breach of recognizance
+F1383,homicide,HIGH,Two counts conspiracy to commit murder
+F1384,other,HIGH,Breach of long-term supervision order
+F1385,sexual;kidnapping;other,HIGH,Sexual assault with weapon confinement threats harassment obstruction
+F1386,drugs;other,HIGH,Possession for trafficking and breach of trust

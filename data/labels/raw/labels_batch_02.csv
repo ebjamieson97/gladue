@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D336,REVIEWS,MINIMAL,HIGH,Conviction appeal and sentence appeal dismissed
+D306,IMPOSES,FULL,HIGH,Sentence for accessory after the fact to murder
+D170,REVIEWS,FULL,HIGH,Sentence appeal for assaults dismissed after error found
+D477,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeal dismissed
+D371,NOT,NA,HIGH,Murder conviction substituted and sentencing remitted
+D379,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D345,NOT,NA,HIGH,Conviction appeal dismissed
+D293,REVIEWS,FULL,HIGH,Crown appeal of conditional sentence allowed
+D274,IMPOSES,FULL,HIGH,Reasons for sentence on firearms offences
+D368,REVIEWS,FULL,HIGH,Appeal of parole ineligibility period dismissed
+D154,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D376,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal dismissed
+D437,RELATED,NA,HIGH,Application to reopen abandoned sentence appeal refused
+D144,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal abandoned
+D146,IMPOSES,FULL,HIGH,Sentence for impaired driving over .08
+D377,REVIEWS,FULL,HIGH,Sentence appeal for assault dismissed
+D385,NOT,NA,HIGH,Dangerous offender sentence appeal dismissed as abandoned
+D024,NOT,NA,HIGH,Civil damages claim by inmate
+D272,IMPOSES,FULL,HIGH,Reasons for sentence on joint submission conditional sentence
+D134,REVIEWS,FULL,HIGH,Sentence appeal allowed and sentence reduced
+D102,NOT,NA,HIGH,Bail pending sentencing ruling
+D100,REVIEWS,FULL,HIGH,Manslaughter sentence appeal dismissed
+D142,IMPOSES,FULL,HIGH,Sentence on joint submission for manslaughter
+D131,REVIEWS,FULL,HIGH,Sentence appeal for trafficking dismissed
+D239,REVIEWS,FULL,HIGH,Sentence appeal for vehicle theft dismissed
+D119,REVIEWS,FULL,HIGH,Youth sentence appeal for murder dismissed

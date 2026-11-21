@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0903,none,LOW,Offence not shown in excerpt
+F0904,weapons,HIGH,Possession of handguns with altered serial numbers
+F0905,assault;other;kidnapping,HIGH,Assault and threats and confinement and breaches of probation
+F0906,homicide,HIGH,Two counts second degree murder
+F0907,weapons;other,HIGH,Firearm possession and concealed weapon and recognizance breaches
+F0908,none,LOW,Dangerous offender appeal; predicate offences not shown
+F0909,assault,HIGH,Assault by bailiff on young offender
+F0910,robbery;assault;other,HIGH,Robbery and assaults and recognizance breaches
+F0911,sexual,HIGH,Historic sexual assault and interference and exploitation
+F0912,drugs,HIGH,Possession of cocaine for trafficking
+F0913,weapons;other,HIGH,Firearm possession and breach of release order
+F0914,drugs,HIGH,Possession of cocaine and MDMA and psilocybin for trafficking
+F0915,drugs,LOW,Breach of conditional sentence for cocaine trafficking
+F0916,assault,HIGH,Domestic assault
+F0917,drugs,HIGH,Trafficking cocaine
+F0918,drugs,HIGH,Trafficking cocaine
+F0919,weapons;drugs,HIGH,Firearm possession and cocaine possession
+F0920,weapons;other,HIGH,Discharging firearm into dwelling and intimidating justice participant
+F0921,assault,HIGH,Aggravated assault
+F0922,sexual;other,HIGH,Sexual assault and indecent assault and extortion
+F0923,none,LOW,Offences not shown in excerpt
+F0924,drugs,HIGH,Trafficking cocaine

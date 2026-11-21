@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1241,M,N,N,X,X,X,X,X,X,N,LOW,Detailed Gladue report considered and residential school effects on communities noted
+M1242,R,X,N,X,X,X,X,X,X,N,HIGH,Indigenous circumstances found to have little impact on serious offence
+M1243,M,X,N,M,X,X,X,X,X,N,HIGH,Intergenerational trauma accepted as reducing moral culpability
+M1244,N,X,X,X,M,X,X,X,X,N,HIGH,Race and culture assessment trauma shaped lenient community sentence
+M1245,X,X,N,X,X,X,X,X,X,N,LOW,Indigenous background only in comparison case
+M1246,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in comparison cases
+M1247,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue law quoted and comparison case only
+M1248,R,X,X,N,X,X,X,X,X,N,HIGH,Gladue considered but court said no lesser sentence required
+M1249,N,X,N,X,X,X,X,X,X,N,HIGH,No Gladue factors for offender and Indigenous references concern victim
+M1250,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) cited as general law

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0419,robbery;other,HIGH,Robbery; resisting peace officer; breach of probation and release order
+F0420,sexual;kidnapping;other,HIGH,Sexual assault causing bodily harm; confinement; breaches
+F0421,robbery;weapons,HIGH,Robbery with imitation firearm; robbery; use of imitation firearm
+F0422,sexual,HIGH,Indecent assault and sexual assault
+F0423,driving,HIGH,Two counts impaired driving causing death
+F0424,drugs,HIGH,Five counts trafficking cannabis
+F0425,driving;other,HIGH,Over 80; impaired driving; failing to stop; probation breaches
+F0426,drugs,HIGH,Possession of cocaine for trafficking
+F0427,drugs,HIGH,Two counts possession of fentanyl
+F0428,sexual,HIGH,Dangerous offender; predicate sexual assault of daughter
+F0429,robbery;assault;weapons,HIGH,Robbery; assault with weapon; possession of weapon dangerous purpose
+F0430,none,LOW,Various offences not specified; probation order quashed
+F0431,assault,HIGH,Aggravated assault
+F0432,assault,HIGH,Aggravated assault; long-term offender application
+F0433,break_enter,HIGH,Twenty-one break and enters
+F0434,weapons,HIGH,Careless handling of firearm
+F0435,robbery,HIGH,Three armed robberies
+F0436,theft_fraud,HIGH,Fraud; use of forged documents; theft
+F0437,driving,HIGH,Excess blood alcohol driving and leaving scene of accident
+F0438,drugs,HIGH,Production of marihuana and possession for trafficking
+F0439,break_enter;kidnapping;robbery,HIGH,Break and enter; unlawful confinement; robbery
+F0440,drugs,HIGH,Possession for purpose of trafficking

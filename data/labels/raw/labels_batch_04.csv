@@ -1,0 +1,28 @@
+id,label,depth,confidence,note
+D420,REVIEWS,MINIMAL,HIGH,Conviction and global sentence appeal dismissed; sentence fit
+D386,REVIEWS,FULL,HIGH,Crown sentence appeal; conditional sentence unfit but no reincarceration
+D043,NOT,NA,HIGH,Conviction appeal dismissed for lack of jurisdiction
+D096,REVIEWS,FULL,HIGH,Sentence appeal for nurse impersonation fraud dismissed
+D312,IMPOSES,FULL,HIGH,Reasons for sentence on firearms offences
+D257,REVIEWS,FULL,HIGH,Leave granted; appeal of six-year fraud sentence dismissed
+D372,REVIEWS,FULL,HIGH,Inmate sentence appeal for robberies dismissed
+D138,RELATED,NA,HIGH,Chambers direction to hear conviction and Crown sentence appeals together
+D073,NOT,NA,HIGH,SCC Charter s. 15 equality ruling on fishing
+D438,REVIEWS,MINIMAL,HIGH,Leave granted; appeal of intermittent sentence dismissed
+D255,NOT,NA,HIGH,Release pending sentence appeal refused
+D324,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeals dismissed; sentence fit
+D433,RELATED,NA,LOW,Extension of time and leave on fines under Provincial Offences Act
+D139,NOT,NA,HIGH,SCC Kienapple multiple conviction ruling
+D129,REVIEWS,MINIMAL,LOW,Conviction appeal dismissed; SOIRA and surcharge varied on sentence
+D013,NOT,NA,HIGH,Crown acquittal appeal dismissed
+D418,NOT,NA,HIGH,Conviction appeal dismissed
+D394,NOT,NA,LOW,Summary conviction appeal dismissed; sentence appeal not advanced
+D010,NOT,NA,HIGH,Acquittal on impaired driving after voir dire
+D326,IMPOSES,FULL,HIGH,Reasons for sentence for sexual assault causing bodily harm
+D128,REVIEWS,FULL,HIGH,Appeal of parole ineligibility for second degree murder dismissed
+D335,RELATED,NA,HIGH,Stay of fine pending sentence appeal
+D341,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence stated fit
+D277,REVIEWS,FULL,HIGH,Sentence appeal for impaired driving causing death; reduced
+D026,REVIEWS,FULL,LOW,Summary appeal of fine and costs for littering
+D038,NOT,NA,HIGH,Conviction appeal on Charter s. 24(2) dismissed
+D024,NOT,NA,HIGH,SCC civil damages appeal by inmate

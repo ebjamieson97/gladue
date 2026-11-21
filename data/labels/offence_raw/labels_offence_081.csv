@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1761,driving,HIGH,Dangerous driving causing death
+F1762,homicide,HIGH,Manslaughter during home break-in
+F1763,drugs,HIGH,Possession for purpose of trafficking; appeal abated
+F1764,none,LOW,Offences not identified in excerpt
+F1765,sexual,HIGH,Sexual touching of person under 14 (historical)
+F1766,sexual,HIGH,Sexual assault of 15-year-old
+F1767,other,HIGH,Criminal harassment
+F1768,none,LOW,Offences not identified; appeal abandoned
+F1769,other,HIGH,Criminal harassment and related breaches
+F1770,weapons,HIGH,Multiple firearm possession and storage offences
+F1771,drugs,HIGH,Three counts trafficking cocaine
+F1772,weapons;drugs,HIGH,Loaded firearm possession; cocaine possession; prohibited weapons
+F1773,sexual,HIGH,Sexual assault and sexual touching of minor
+F1774,drugs,HIGH,Trafficking cocaine dial-a-dope
+F1775,kidnapping,HIGH,Parental abduction in breach of custody order
+F1776,assault,LOW,Vicious attack with permanent injury; offence unclear
+F1777,sexual;other,HIGH,Sexual assault and distributing intimate images
+F1778,driving,HIGH,Dangerous driving causing bodily harm; failing to remain
+F1779,drugs,HIGH,Trafficking fentanyl and cocaine
+F1780,drugs,HIGH,Possession of cannabis for trafficking
+F1781,theft_fraud,HIGH,Fraud against Customs
+F1782,none,LOW,Offences not identified; credit varied

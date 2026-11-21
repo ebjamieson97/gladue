@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0181,M,M,M,X,X,X,X,X,X,N,LOW,Appeal court found Gladue background reduced moral blameworthiness and cut sentence
+M0182,R,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal status gave no ameliorating effect given serious bank robbery
+M0183,R,X,R,X,X,X,X,X,X,N,HIGH,Aboriginal factors not shown to apply; residential school not tied to offender
+M0184,N,X,X,X,X,X,X,X,X,N,LOW,Section 718.2(e) only mentioned in discussion of case law
+M0185,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for individualization principle
+M0186,N,X,X,X,N,N,X,X,X,N,LOW,General discussion of social context law and Gladue factors
+M0187,M,X,N,X,X,N,X,X,X,N,HIGH,Systemic factors somewhat reduced moral blameworthiness but dangerous offender found
+M0188,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in other cases
+M0189,R,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal status considered but seriousness meant no mitigation
+M0190,N,X,X,X,M,X,X,X,X,N,HIGH,IRCA content reduced moral blameworthiness and supported lower sentence

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3257,assault;other,HIGH,Assault police assault causing disturbance breach of recognizance
+F3258,theft_fraud,HIGH,Theft of timber under $5000
+F3259,theft_fraud,HIGH,Theft under after bank robbery charge reduced
+F3260,sexual,HIGH,Aggravated sexual assault by HIV nondisclosure
+F3261,assault,HIGH,Assault with a weapon (sword) on daughter
+F3262,break_enter;theft_fraud;other,LOW,Break and enter theft and probation breach conditional sentence breach
+F3263,robbery,HIGH,Armed bank robbery with handgun
+F3264,assault;robbery,HIGH,Aggravated assault and robbery; dangerous offender application
+F3265,assault;other,HIGH,Assault with a weapon and mischief to vehicle
+F3266,none,LOW,Offences not shown in excerpt
+F3267,drugs;theft_fraud,HIGH,Possession for trafficking methamphetamine and possession of property from crime
+F3268,assault,HIGH,Aggravated assault of inmate
+F3269,sexual;other,HIGH,Sexual assault and extortion
+F3270,assault,HIGH,Assault causing bodily harm
+F3271,sexual,HIGH,Sexual interference
+F3272,theft_fraud,HIGH,Fourteen counts of theft over investor funds
+F3273,sexual,HIGH,Sexual offences against step granddaughter
+F3274,weapons,HIGH,Unauthorized possession of a firearm
+F3275,none,LOW,Breach of conditional sentence order; underlying offence unclear
+F3276,assault;other,HIGH,Assault and two breaches of probation
+F3277,none,LOW,Offence not shown in excerpt
+F3278,sexual,HIGH,Indecent assault and sexual assault of nieces

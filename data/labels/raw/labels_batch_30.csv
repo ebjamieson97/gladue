@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D0853,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed in short endorsement
+D0633,IMPOSES,FULL,HIGH,Reasons for sentence for child pornography possession
+D0954,NOT,NA,HIGH,Murder conviction appeal on jury secrecy
+D0880,NOT,NA,HIGH,Judicial review appeal and vexatious litigation
+D0955,REVIEWS,FULL,HIGH,Drug trafficking sentence appeal dismissed
+D0807,IMPOSES,FULL,HIGH,Sentencing for drug trafficking and related counts
+D0611,REVIEWS,FULL,HIGH,Fraud sentence appeal dismissed regarding restitution orders
+D0707,IMPOSES,FULL,HIGH,Sentence on joint submission for methamphetamine offences
+D0936,REVIEWS,FULL,HIGH,Sentence appeal dismissed on parity
+D0808,IMPOSES,FULL,HIGH,Sentencing on nine charges
+D0584,REVIEWS,FULL,HIGH,Luring conviction dismissed and sentence varied for surcharge
+D0734,IMPOSES,FULL,HIGH,Manslaughter sentence on joint submission
+D0786,IMPOSES,FULL,HIGH,Sentence for break and enter and sexual assault
+D0651,IMPOSES,MINIMAL,LOW,Conviction appeal allowed and appeal court imposes agreed sentence
+D0649,REVIEWS,FULL,HIGH,Crown sentence appeal allowed and sentence increased
+D0572,NOT,NA,HIGH,Conviction appeal allowed new trial
+D0935,NOT,NA,HIGH,Extension of time to appeal conviction adjourned
+D0577,IMPOSES,FULL,HIGH,Sentence of conditional discharge for assault with weapon
+D0519,NOT,NA,HIGH,Conviction appeal dismissed
+D0590,REVIEWS,FULL,HIGH,Joint sentence appeal allowed to reduce sentence
+D0697,REVIEWS,FULL,HIGH,Conviction appeal dismissed and Crown sentence appeal dismissed
+D0829,NOT,NA,HIGH,Supreme Court appeal on manslaughter conviction
+D0874,NOT,NA,HIGH,Conviction appeal dismissed
+D0632,IMPOSES,FULL,HIGH,Sentence for manslaughter
+D0890,NOT,NA,HIGH,Bail pending appeal refused
+D0913,NOT,NA,HIGH,Bail pending appeal revoked and renewed

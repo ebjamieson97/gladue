@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1511,M,N,N,X,X,N,X,X,X,N,HIGH,Gladue report applied and lower end sentence with suspended passing
+M1512,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted judge fully took Gladue into account
+M1513,X,X,X,X,M,N,X,X,X,N,HIGH,IRCA considered among mitigating factors for Black offender
+M1514,M,X,X,X,X,N,X,X,X,N,HIGH,Gladue report and background factors weighed in reducing sentence
+M1515,R,X,X,X,X,X,X,X,X,N,HIGH,Metis heritage had no shown impact on offending
+M1516,N,X,X,X,X,X,X,X,X,N,HIGH,Only general reference to s. 718.2(e)
+M1517,X,X,X,X,X,X,X,N,X,N,HIGH,Offender linked to white supremacist groups not a mitigating factor
+M1518,M,X,X,X,M,M,X,X,X,N,HIGH,Cultural assessment and Gladue mitigated moral blameworthiness but jail imposed
+M1519,M,X,X,X,X,N,X,X,X,N,HIGH,Appeal court held Aboriginal background should mitigate and reduced sentence
+M1520,N,X,X,N,M,M,X,X,X,N,LOW,IRCA and Anderson context accepted as relevant to moral culpability

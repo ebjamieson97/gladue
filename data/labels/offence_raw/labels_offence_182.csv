@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3983,sexual,HIGH,Sexual interference sexual assault and child pornography
+F3984,none,LOW,Break and enter record mentioned; current offences unclear
+F3985,homicide,HIGH,Second degree murder
+F3986,other,HIGH,Criminal harassment x2 of correctional officers
+F3987,theft_fraud,HIGH,Fraud over $5000 with forgery stayed
+F3988,robbery;theft_fraud;driving;assault;other,LOW,Robbery auto theft driving offences bodily harm and property damage
+F3989,robbery,HIGH,Armed robbery of convenience store
+F3990,sexual,HIGH,Sexual assault of niece
+F3991,assault,HIGH,Aggravated assault
+F3992,homicide;robbery;break_enter,HIGH,Manslaughter with firearm robbery and break and enter with robbery
+F3993,sexual,HIGH,Sexual interference of foster children
+F3994,assault,HIGH,Aggravated assault in jail
+F3995,robbery;break_enter;theft_fraud,HIGH,Robbery break-ins and thefts by young offenders
+F3996,homicide,HIGH,Manslaughter
+F3997,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3998,robbery;driving,HIGH,Three armed robberies and dangerous driving
+F3999,drugs,HIGH,Trafficking and possession for trafficking of fentanyl and cocaine
+F4000,sexual,HIGH,Sexual interference invitation to sexual touching and sexual assault
+F4001,other,HIGH,Threatening bodily harm and breaches of bail and probation
+F4002,sexual;robbery,HIGH,Aggravated sexual assault and robbery
+F4003,sexual,HIGH,Sexual assault of 15 year old
+F4004,robbery;assault;other,HIGH,Two robberies assault and failure to appear

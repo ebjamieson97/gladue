@@ -1,0 +1,26 @@
+id,categories,confidence,note
+F4129,drugs,HIGH,Production of marijuana; other counts stayed
+F0123,sexual,HIGH,Sexual exploitation and making child pornography
+F3540,drugs,HIGH,Possession of heroin and cocaine for trafficking
+F4320,driving,HIGH,Dangerous operation of vessel causing bodily harm
+F4821,sexual,HIGH,Sexual assault and voyeurism
+F4434,drugs,HIGH,Possession of cocaine for trafficking
+F3492,driving,HIGH,Dangerous driving causing bodily harm
+F0534,sexual,HIGH,Sexual touching under 16 and child luring; sexual assault stayed
+F4230,driving;theft_fraud,HIGH,Dangerous driving possession of stolen property driving while disqualified
+F4383,other,HIGH,Uttering threats and criminal harassment
+F4748,break_enter,HIGH,Break and enter
+F2808,robbery,HIGH,Two counts of robbery
+F3726,drugs;weapons,HIGH,Possession of marijuana for trafficking and six firearms offences
+F4960,sexual,HIGH,Sexual assault
+F2464,driving;other,HIGH,Fail to stop dangerous driving bodily harm escape custody flight resist arrest
+F0702,driving,HIGH,Impaired driving causing bodily harm
+F0968,sexual,HIGH,Obtaining sexual services of person under 18
+F3882,homicide,HIGH,Second degree murder
+F0410,sexual,HIGH,Sexual offences against eight year old child
+F1952,assault,HIGH,Aggravated assault; assault bodily harm stayed
+F0431,assault,HIGH,Aggravated assault by stabbing
+F1218,homicide,HIGH,Manslaughter
+F0418,sexual,HIGH,Sexual assault
+F2969,sexual;other,HIGH,Multiple child sexual offences child pornography and breaches of undertaking
+F2553,sexual,HIGH,Incest

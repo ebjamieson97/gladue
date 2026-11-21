@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3851,other,HIGH,Failure to comply with probation order
+F3852,assault;other,HIGH,Assault on mother and breach of probation
+F3853,drugs,HIGH,Conspiracy to import and traffic cocaine
+F3854,drugs,HIGH,Seven counts possession for trafficking
+F3855,weapons;drugs,HIGH,Weapon dangerous purpose; possession of morphine and cocaine for trafficking
+F3856,homicide,HIGH,First degree murder youth sentence
+F3857,sexual,HIGH,Sexual touching of two step-daughters
+F3858,sexual,HIGH,Sexual assault
+F3859,driving,HIGH,Impaired driving causing death and bodily harm
+F3860,drugs,HIGH,Producing cannabis and possession for trafficking
+F3861,sexual,HIGH,Possession of child pornography
+F3862,assault;other,HIGH,Assault with weapon and being masked during offence
+F3863,other,HIGH,Participation in criminal organization activity
+F3864,sexual,HIGH,Sexual assault and sexual touching of child
+F3865,driving,HIGH,Two counts impaired driving causing death
+F3866,theft_fraud;other,HIGH,Gold theft; money laundering; breach of trust by public official
+F3867,weapons;drugs;theft_fraud;other,HIGH,Firearms; drugs; stolen identity documents; breach of firearms prohibition
+F3868,robbery;assault;other,HIGH,Armed robbery; assaults; breaches of probation
+F3869,robbery,HIGH,Attempted robbery with knife
+F3870,theft_fraud;driving;break_enter;other,HIGH,Theft; break and enters; vehicle thefts; driving while prohibited; flight; breach
+F3871,drugs,HIGH,Three counts possession for trafficking
+F3872,robbery;theft_fraud;driving;weapons,HIGH,Robbery; theft over; evading police; imitation firearm in robbery

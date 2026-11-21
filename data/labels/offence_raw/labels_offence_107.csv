@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2333,robbery;break_enter,HIGH,Break and enter with robbery objective
+F2334,assault;other,HIGH,Assault and breach of probation
+F2335,drugs,HIGH,Trafficking in cocaine
+F2336,theft_fraud,HIGH,Multiple mortgage frauds
+F2337,none,LOW,Offence not shown; conditional sentence with travel condition
+F2338,theft_fraud;other,HIGH,Public mischief and fraud
+F2339,homicide,HIGH,Counselling murder and conspiracy to commit murder
+F2340,drugs,HIGH,Possession for the purpose of trafficking
+F2341,sexual,HIGH,Invitation to sexual touching and bestiality
+F2342,homicide,HIGH,Manslaughter from truck striking child
+F2343,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F2344,driving;drugs,HIGH,Dangerous operation and evading police and drug possession
+F2345,drugs;weapons,HIGH,Drug possession for trafficking and concealed weapon
+F2346,drugs;assault;other,HIGH,Drug trafficking and assaulting police and resisting arrest
+F2347,other,HIGH,Illegal lottery and betting offences fine
+F2348,robbery;weapons,HIGH,Attempted robbery with firearm and breach of firearm prohibition
+F2349,sexual,HIGH,Luring and sexual assault and sexual interference and invitation
+F2350,sexual,HIGH,Sexual assault and sexual touching of child
+F2351,driving,HIGH,Impaired driving causing bodily harm
+F2352,other,HIGH,Living on avails of prostitution and exercising influence
+F2353,assault,HIGH,Aggravated assault with long-term offender application
+F2354,driving;other,HIGH,Failing to stop after fatal accident and obstructing police

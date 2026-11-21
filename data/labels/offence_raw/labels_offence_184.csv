@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4027,sexual;assault,HIGH,Sexual assault rape and physical abuse of children
+F4028,assault,HIGH,Aggravated assault (dangerous offender application)
+F4029,assault,HIGH,Aggravated assault by stabbing
+F4030,theft_fraud,HIGH,Fraud
+F4031,robbery;other,HIGH,Robbery; uttering threat; breaches of recognizance and peace bond
+F4032,theft_fraud;driving,HIGH,Taking vehicle; possession of stolen property; failing to stop
+F4033,weapons,HIGH,Unlicensed possession of firearms
+F4034,weapons,HIGH,Unlawful possession of a firearm
+F4035,drugs;other,HIGH,Possession for trafficking; resisting arrest; escape custody; perjury
+F4036,drugs,HIGH,Conspiracy to traffic in cocaine
+F4037,sexual,HIGH,Sexual assault (dangerous offender application)
+F4038,break_enter;theft_fraud,HIGH,Break enter and theft from shed
+F4039,drugs;weapons,HIGH,Drug offence and weapons offence
+F4040,homicide;driving;robbery;theft_fraud,HIGH,Attempted murder; dangerous driving; robbery; theft; stolen property
+F4041,homicide;weapons;other,HIGH,Attempted murder; firearms prohibition breaches; recognizance breaches
+F4042,robbery,HIGH,Bank robbery
+F4043,sexual,HIGH,Possession of child pornography
+F4044,drugs,HIGH,Importing heroin
+F4045,assault;driving;theft_fraud,HIGH,Assault police; dangerous driving; failing to stop; stolen property
+F4046,none,LOW,Offences not shown
+F4047,assault;break_enter;other;kidnapping;sexual,HIGH,Assault; break and enter; threats; confinement; sexual assault; breach
+F4048,drugs,HIGH,Three counts of trafficking cocaine

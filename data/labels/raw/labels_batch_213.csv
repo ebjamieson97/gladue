@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3142,NOT,NA,HIGH,Bail pending appeal application
+D1917,NOT,NA,HIGH,Conviction appeal allowed and new trial ordered
+D4769,NOT,NA,HIGH,Disclosure application ruling at trial
+D2091,IMPOSES,FULL,HIGH,Reasons for sentence for sexual interference plus SOIRA ruling
+D3023,REVIEWS,MINIMAL,LOW,Leave to sentence appeal refused as no practical impact
+D2613,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D5100,NOT,NA,HIGH,Murder conviction appeal dismissed
+D2470,NOT,NA,HIGH,Charter challenge to provocation provision
+D1632,IMPOSES,FULL,HIGH,Parole ineligibility set after second degree murder conviction
+D3199,NOT,NA,HIGH,Bail pending appeal review refused
+D1003,NOT,NA,HIGH,Trial verdict on criminal negligence and dangerous driving
+D5921,NOT,NA,HIGH,Conviction appeal on expert evidence
+D4731,NOT,NA,HIGH,Leave to appeal denied on summary conviction appeal
+D4551,NOT,NA,HIGH,Application to withdraw guilty pleas dismissed
+D1051,NOT,NA,HIGH,Summary conviction appeal against conviction dismissed
+D4030,NOT,NA,HIGH,Murder conviction appeal allowed and new trial
+D1751,REVIEWS,MINIMAL,LOW,Extension of time to appeal sentences refused for no merit
+D2000,IMPOSES,FULL,HIGH,Parole ineligibility set at 12 years for second degree murder
+D4655,NOT,NA,HIGH,Acquittal on sexual assault charge
+D1222,NOT,NA,HIGH,Conviction appeal for drug trafficking dismissed
+D2749,RELATED,NA,HIGH,Supplementary reasons correcting custody days in sentence
+D1098,NOT,NA,HIGH,Publication ban ruling on extension of time application
+D5870,NOT,NA,HIGH,Aboriginal fishing rights and attempt to sell
+D1879,REVIEWS,FULL,HIGH,Sentence appeal for aggravated assault dismissed
+D4929,REVIEWS,FULL,HIGH,Sentence appeal for fraud dismissed
+D2373,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal dismissed for card fraud

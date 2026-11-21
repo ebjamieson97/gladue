@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1145,break_enter;theft_fraud;other,HIGH,Break enter theft; theft under; mischief; threats; breach recognizance
+F1146,theft_fraud,HIGH,Theft and fraud as estate trustee
+F1147,break_enter;assault,HIGH,Break and enter and assault
+F1148,drugs,HIGH,Producing marijuana and possession for purpose of trafficking
+F1149,theft_fraud,HIGH,Four counts of fraud over $5000
+F1150,other,HIGH,Procuring and living off avails of prostitution; dangerous offender
+F1151,assault,HIGH,Aggravated assault
+F1152,sexual,HIGH,Possessing and distributing child sexual abuse material
+F1153,assault,HIGH,Two counts of aggravated assault
+F1154,none,LOW,Dangerous offender appeal; offences not shown
+F1155,assault,HIGH,Aggravated assault
+F1156,sexual;kidnapping;weapons,HIGH,Sexual assault; forcible confinement; use of imitation firearm
+F1157,none,LOW,Offences not shown; conditional sentence refused
+F1158,theft_fraud,HIGH,Fraud with restitution order
+F1159,none,LOW,Offences not shown
+F1160,kidnapping;break_enter;other;drugs,HIGH,Kidnapping; break enter with assault; obstruction of justice; drug possession
+F1161,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1162,none,LOW,Offences not shown; violence record mentioned
+F1163,other,HIGH,Breach of recognizance conditions
+F1164,homicide,HIGH,Manslaughter of partner
+F1165,weapons;other,HIGH,Weapons offences; breach of release order
+F1166,robbery;driving,HIGH,Four robberies and driving while disqualified

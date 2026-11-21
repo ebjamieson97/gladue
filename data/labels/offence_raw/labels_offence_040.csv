@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0859,sexual,HIGH,Sexual touching while in position of trust
+F0860,homicide;weapons,HIGH,Attempted murder and use of firearm
+F0861,drugs;assault,HIGH,Trafficking in cocaine; aggravated assault
+F0862,assault,HIGH,Aggravated assault
+F0863,homicide,HIGH,Manslaughter by careless use of firearm
+F0864,homicide,HIGH,First degree murder
+F0865,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0866,homicide,HIGH,Manslaughter
+F0867,drugs,HIGH,Production of cannabis; possession for trafficking
+F0868,other,HIGH,Indecent act in public place
+F0869,theft_fraud,LOW,Possession of forged passport
+F0870,homicide,HIGH,Second degree murder parole eligibility
+F0871,other,HIGH,Criminal harassment
+F0872,sexual,HIGH,Sexual interference; invitation to sexual touching
+F0873,weapons,HIGH,Weapon dangerous purpose; firearm while prohibited
+F0874,driving,HIGH,Impaired driving causing death and bodily harm
+F0875,none,LOW,Excerpt does not show the offences
+F0876,drugs;other,HIGH,Possession for trafficking cocaine; breach of probation
+F0877,sexual,LOW,Intimate images offence; likely sexual category
+F0878,homicide,HIGH,First degree murder
+F0879,assault,HIGH,Assault; driving while disqualified conviction quashed
+F0880,sexual;assault,HIGH,Historical rape; indecent assault; sexual assault; common assault

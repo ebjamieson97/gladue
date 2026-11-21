@@ -1,0 +1,29 @@
+id,label,depth,confidence,note
+D0559,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D0701,REVIEWS,FULL,HIGH,Sentence appeal for sexual exploitation dismissed
+D0717,REVIEWS,FULL,HIGH,Leave to appeal robbery sentence allowed; appeal dismissed
+D0516,NOT,NA,HIGH,Murder conviction appeal dismissed
+D0652,REVIEWS,FULL,HIGH,Sentence appeal for impaired driving causing death dismissed
+D0700,REVIEWS,FULL,HIGH,Leave to appeal consecutive sentence granted; appeal dismissed
+D0617,REVIEWS,FULL,HIGH,Sentence appeal for indecent assault dismissed
+D0558,NOT,NA,HIGH,Jurisdiction ruling on counsel removal appeal
+D0732,IMPOSES,FULL,HIGH,Sentencing of MLA for fraud; nine months custody
+D0513,NOT,NA,HIGH,Trial evidence ruling in Pickton case
+D0765,IMPOSES,FULL,HIGH,Reasons for sentence for manslaughter; seven years
+D0878,NOT,NA,HIGH,Charter s. 8 voir dire on search warrant
+D0663,IMPOSES,FULL,HIGH,Sentence for second degree murder; parole ineligibility set
+D0844,NOT,NA,HIGH,Conviction appeal on conflict of interest
+D0840,NOT,NA,HIGH,Murder conviction appeal on fresh evidence
+D0897,REVIEWS,FULL,HIGH,Sentence appeal for aggravated assault dismissed
+D0834,IMPOSES,FULL,HIGH,Sentence on joint recommendation for drug trafficking
+D0742,IMPOSES,FULL,HIGH,Reasons for sentence for kidnapping and aggravated assault
+D0848,REVIEWS,FULL,HIGH,Murder conviction appeal and parole ineligibility sentence appeal dismissed
+D0875,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal dismissed
+D0562,NOT,NA,HIGH,Murder conviction appeal dismissed
+D0644,REVIEWS,FULL,HIGH,Sentence appeal for sexual assault with weapon dismissed
+D0862,REVIEWS,MINIMAL,HIGH,Conviction appeal and conditional sentence appeal dismissed
+D0889,NOT,NA,LOW,Conviction appeal dismissed; leave to appeal sentence refused
+D0750,REVIEWS,FULL,HIGH,Appeal of long-term offender finding and sentence dismissed
+D0785,RELATED,NA,LOW,Application to reopen appeal dismissed; procedural
+D0723,IMPOSES,FULL,HIGH,Reasons for sentence for fentanyl trafficking
+D0662,REVIEWS,FULL,HIGH,Conviction appeal and seven year sentence appeal dismissed

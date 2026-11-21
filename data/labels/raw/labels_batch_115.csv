@@ -1,0 +1,19 @@
+id,label,depth,confidence,note
+D1812,IMPOSES,FULL,HIGH,Sentencing decision with joint recommendation and ancillary orders
+D1960,NOT,NA,HIGH,Youth application to withdraw guilty plea denied
+D5226,NOT,NA,HIGH,Fitness to stand trial ruling in murder case
+D3896,NOT,NA,HIGH,Review Board appeal dismissed as abandoned
+D5876,IMPOSES,FULL,HIGH,Sentencing for aggravated assault with conditional sentence
+D3700,NOT,NA,HIGH,Conviction appeal allowed and new trial ordered
+D6077,NOT,NA,HIGH,Appeal about identification at trial dismissed
+D3001,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed setting aside probation order
+D2135,REVIEWS,FULL,HIGH,Sentence appeal allowed and sentence reduced for credit
+D1844,REVIEWS,FULL,HIGH,Crown appeal of conditional sentence allowed
+D1434,IMPOSES,FULL,HIGH,Sentencing for sexual assault of young person
+D2543,REVIEWS,FULL,HIGH,Dangerous offender designation set aside on appeal
+D4874,NOT,NA,HIGH,Conviction appeal for theft dismissed
+D4428,NOT,NA,HIGH,Application to review interim release dismissed for jurisdiction
+D4843,RELATED,NA,HIGH,Motion to bifurcate conviction and sentence appeals
+D4269,REVIEWS,FULL,HIGH,Conviction and sentence appeals dismissed
+D2940,RELATED,NA,HIGH,Publication ban ruling during dangerous offender hearing
+D4902,NOT,NA,LOW,Conviction appeal with sentence set aside as consequence

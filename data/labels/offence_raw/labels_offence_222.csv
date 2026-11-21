@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4863,assault,HIGH,Aggravated assault
+F4864,other,HIGH,Uttering threats to kill
+F4865,sexual,HIGH,Sexual assault
+F4866,none,LOW,Sentence appeal; offences not shown
+F4867,assault,HIGH,Assault causing bodily harm
+F4868,none,LOW,Sentence appeal; offences not shown
+F4869,driving,HIGH,Driving while prohibited
+F4870,weapons,HIGH,Possession of loaded prohibited firearm
+F4871,sexual;driving;other,HIGH,Sexual assault; impaired and dangerous driving; obstruction
+F4872,drugs,HIGH,Importing cocaine
+F4873,homicide,HIGH,Manslaughter
+F4874,drugs,HIGH,Production of marijuana
+F4875,sexual;weapons,HIGH,Voyeurism; attempted sexual assault; weapon for dangerous purpose
+F4876,sexual;other,HIGH,Sexual offences and breach of probation
+F4877,other,HIGH,Returning to Canada after deportation
+F4878,homicide;assault,HIGH,Two second degree murders; aggravated assault; assault causing bodily harm
+F4879,weapons;assault,HIGH,Firearm offences and assault
+F4880,drugs;weapons,HIGH,Possession for trafficking and prohibited weapon
+F4881,theft_fraud,HIGH,Welfare fraud
+F4882,driving,HIGH,Impaired care or control causing bodily harm
+F4883,homicide,HIGH,Attempted murder
+F4884,drugs;weapons,HIGH,Possession for trafficking and restricted firearms

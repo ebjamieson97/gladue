@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1051,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in quoted case law on exceptional circumstances
+M1052,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited as general law on conditional sentences
+M1053,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only suggested for later sentencing
+M1054,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for general sentencing principle
+M1055,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) discussed only as restraint principle
+M1056,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue report gave special consideration to Indigenous background
+M1057,R,X,X,X,X,N,X,X,X,N,HIGH,Gladue circumstances found not to diminish moral culpability
+M1058,R,X,X,X,X,X,X,X,X,N,HIGH,Considered 718.2(e) but serious violence limited any reduction
+M1059,R,X,X,X,X,X,X,X,X,N,HIGH,No unique Gladue factors found on evidence
+M1060,M,N,M,X,X,X,X,X,X,N,HIGH,Gladue reduced sentence from 12 to 10 months

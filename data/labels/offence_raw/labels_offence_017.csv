@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0353,kidnapping;other,HIGH,Kidnapping for ransom and extortion
+F0354,homicide,HIGH,Manslaughter and conspiracy to commit murder
+F0355,drugs,HIGH,Possession for trafficking cannabis and production
+F0356,homicide,HIGH,Manslaughter by stabbing
+F0357,none,LOW,Offences not shown in excerpt
+F0358,drugs,HIGH,Production of marihuana
+F0359,sexual,HIGH,Sexual assault
+F0360,sexual;assault,HIGH,Sexual assault causing bodily harm and assault causing bodily harm
+F0361,robbery,HIGH,Armed robbery of convenience store as getaway driver
+F0362,homicide,HIGH,Conspiracy to commit murder
+F0363,drugs;theft_fraud;other,HIGH,Fentanyl and cocaine trafficking; proceeds possession; conspiracy
+F0364,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0365,drugs,LOW,Drug trafficking with firearms ban
+F0366,weapons,HIGH,Possession of prohibited firearm and while prohibited
+F0367,driving,HIGH,Dangerous driving causing bodily harm and failure to remain
+F0368,sexual;other,HIGH,Sexual assault and administering stupefying substance
+F0369,robbery,HIGH,Robbery with apparent lethal weapon
+F0370,sexual,HIGH,Sexual assault of stepdaughter
+F0371,robbery;weapons,HIGH,Attempted armed robbery and possession of weapon for offence
+F0372,driving,HIGH,Over 80 causing death
+F0373,other,HIGH,Wildlife Act offence and order contravention
+F0374,homicide,HIGH,Murder with parole ineligibility appeal

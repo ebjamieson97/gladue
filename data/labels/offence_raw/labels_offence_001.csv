@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0001,assault;weapons;other,HIGH,Assault with weapon and bodily harm; weapon dangerous purpose; threats
+F0002,break_enter;drugs;other,HIGH,Break and enter; possession of marihuana; breach of probation
+F0003,robbery,HIGH,Armed robbery by young offender
+F0004,weapons,HIGH,Firearm possession
+F0005,homicide,HIGH,Attempted murder by shooting
+F0006,sexual,HIGH,Indecent assault; sexual intercourse under 14; gross indecency
+F0007,robbery;driving;other,HIGH,Two robberies; dangerous driving; fail to stop; masked; resisting officer
+F0008,sexual,HIGH,Indecent assault; gross indecency; buggery; sexual assault
+F0009,driving,HIGH,Impaired driving causing death and bodily harm
+F0010,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0011,driving,HIGH,Dangerous driving causing death and bodily harm
+F0012,assault,HIGH,Aggravated assault sentence reviewed; sexual assault conviction quashed
+F0013,sexual;assault,HIGH,Sexual assault and choking to overcome resistance
+F0014,sexual,HIGH,Sexual interference with a 13 year old
+F0015,other,LOW,Criminal harassment of former partner; offences unclear
+F0016,sexual;assault;other,HIGH,Sexual assault; common assault; prostitution offences; breach of recognizance
+F0017,theft_fraud,HIGH,Fraud over $5000 on welfare benefits
+F0018,other,HIGH,Attempt to obstruct justice and breach of no-contact order
+F0019,sexual,HIGH,Sexual interference with a child
+F0020,sexual,HIGH,Sexual assault of two step-children
+F0021,drugs;weapons,HIGH,Drug trafficking and possession for trafficking; careless firearm storage
+F0022,robbery;driving,HIGH,Robbery and evading peace officer while driving

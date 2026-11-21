@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4753,robbery,HIGH,Robbery while using a firearm
+F4754,drugs;theft_fraud,HIGH,Possession for trafficking and possession of property obtained by crime
+F4755,drugs,HIGH,Possession of cocaine and heroin for trafficking
+F4756,robbery,HIGH,Two counts of robbery
+F4757,homicide;driving,LOW,Criminal negligence causing death and bodily harm by driving
+F4758,other,HIGH,Arson endangering life
+F4759,break_enter;robbery;other,HIGH,Unlawfully in dwelling and robbery and masked face
+F4760,homicide,HIGH,Attempted murder of wife
+F4761,assault;other,HIGH,Aggravated assault and obstructing justice
+F4762,homicide,HIGH,Murder of father
+F4763,other,HIGH,Intimidation of justice participant and uttering threats
+F4764,other,HIGH,Sewage system regulatory offences under Health Act
+F4765,drugs,HIGH,Possession of fentanyl for trafficking
+F4766,assault,HIGH,Multiple assaults and assault causing bodily harm
+F4767,drugs;weapons,HIGH,Possession of methamphetamine for trafficking and weapon dangerous purpose
+F4768,assault;weapons,HIGH,Aggravated assault and possessing dangerous weapon
+F4769,none,LOW,Offences not shown in excerpt
+F4770,drugs;weapons,HIGH,Drug possession and trafficking and restricted firearm offences
+F4771,drugs,HIGH,Trafficking and possession of cocaine for trafficking
+F4772,drugs,HIGH,Possession for trafficking cocaine and simple possession fentanyl and methamphetamine
+F4773,assault,HIGH,Assault with belt and assault causing bodily harm
+F4774,weapons,HIGH,Firearms offences including s. 95 possession

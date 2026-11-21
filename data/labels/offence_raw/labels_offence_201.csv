@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4401,homicide,HIGH,Manslaughter (aggravated) by stabbing
+F4402,break_enter;robbery;kidnapping;assault;sexual;weapons,HIGH,Unlawfully in dwelling robbery confinement aggravated assault sexual assault firearms offences
+F4403,other,HIGH,Breach of recognizance (two counts); threat and obstruction acquitted
+F4404,homicide,HIGH,Manslaughter
+F4405,driving,HIGH,Driving while disqualified; threatening withdrawn
+F4406,theft_fraud,HIGH,Theft by conversion of trust funds
+F4407,driving;other,HIGH,Criminal negligence causing bodily harm; disqualified driving; fail to stop; counterfeit mark
+F4408,assault;other,HIGH,Aggravated assault and breach of youth sentence
+F4409,none,LOW,Long-term offender designation; underlying two guilty counts not shown
+F4410,sexual,HIGH,Sexual assault
+F4411,weapons,HIGH,Two counts possession of loaded prohibited firearm
+F4412,homicide,HIGH,Manslaughter
+F4413,driving;homicide,LOW,Criminal negligence causing death in operation of motor vehicle
+F4414,sexual,HIGH,Sexual assault
+F4415,driving,HIGH,Dangerous driving causing death
+F4416,drugs,HIGH,Trafficking cocaine and possession for purpose of trafficking
+F4417,sexual,HIGH,Sexual assault and sexual touching of stepdaughter
+F4418,sexual,HIGH,Child pornography offences bestiality and sexual assault; dangerous offender
+F4419,drugs,HIGH,Possession of and conspiracy to traffic cocaine
+F4420,sexual,HIGH,Repeated sexual assaults of multiple girls
+F4421,drugs,HIGH,Possession of heroin for purpose of trafficking
+F4422,assault,HIGH,Assaulting a peace officer

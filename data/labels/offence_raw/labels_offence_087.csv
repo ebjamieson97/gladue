@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1893,theft_fraud,LOW,Theft as joint enterprise by young person
+F1894,none,LOW,Offences not shown in excerpt
+F1895,break_enter;weapons,LOW,Home invasion and firearm discharge counts among six or seven
+F1896,robbery,HIGH,Robbery
+F1897,theft_fraud,HIGH,Possession of property obtained by crime over $5000
+F1898,drugs,HIGH,Production of marijuana and possession for trafficking
+F1899,homicide,HIGH,Shooting death of community member
+F1900,assault,HIGH,Aggravated assault
+F1901,other,HIGH,Criminal harassment
+F1902,homicide,HIGH,Manslaughter
+F1903,driving;drugs,HIGH,Dangerous operation of conveyance and possession of psilocybin
+F1904,sexual,HIGH,Incest two counts under YCJA
+F1905,sexual;other,HIGH,Sexual assault and uttering threat
+F1906,drugs,HIGH,Trafficking cocaine and possession for trafficking
+F1907,robbery,HIGH,Robbery of gas station clerk
+F1908,drugs,HIGH,Possession for trafficking and possession
+F1909,drugs;weapons,HIGH,Possession for trafficking and prohibited firearm and magazine
+F1910,kidnapping,HIGH,Attempted kidnapping
+F1911,sexual;kidnapping;theft_fraud,HIGH,Sexual assault with weapon and unlawful confinement and theft
+F1912,theft_fraud;other,HIGH,Theft under $5000 and breach of undertaking
+F1913,assault,HIGH,Assault causing bodily harm
+F1914,sexual,HIGH,Gross indecency historical sexual offence against stepdaughter

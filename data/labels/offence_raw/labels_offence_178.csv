@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3895,weapons,LOW,Possession of prohibited firearm and other unspecified charges
+F3896,homicide,HIGH,Manslaughter
+F3897,assault,HIGH,Aggravated assault
+F3898,other,HIGH,Arson with dangerous offender application
+F3899,theft_fraud,HIGH,Uttering forged documents and fraud and conspiracy to commit fraud
+F3900,drugs,HIGH,Trafficking in cocaine
+F3901,weapons;other,HIGH,Discharging firearm and firearms possession offences and breach
+F3902,robbery;weapons,HIGH,Robbery using imitation firearm and wearing disguise
+F3903,break_enter,HIGH,Break and enter residential property
+F3904,sexual,HIGH,Sexual interference and making and possessing child pornography
+F3905,none,LOW,Offence not shown; conditional sentence varied
+F3906,driving,HIGH,Impaired driving causing death and bodily harm
+F3907,sexual,HIGH,Sexual assault; conviction set aside and stayed
+F3908,drugs,HIGH,Possession for trafficking cannabis
+F3909,drugs,HIGH,Conspiracy to traffic in cocaine
+F3910,homicide;other,HIGH,Manslaughter and indignity to human remains
+F3911,drugs,HIGH,Possession for trafficking cocaine
+F3912,robbery,HIGH,Robberies of Clark and Tran
+F3913,robbery;kidnapping;break_enter,HIGH,Armed robbery and forcible confinement and break and enter
+F3914,driving,HIGH,Dangerous operation of a seadoo
+F3915,driving,HIGH,Dangerous driving
+F3916,drugs,HIGH,Cultivation and possession of marihuana for trafficking

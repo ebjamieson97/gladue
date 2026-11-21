@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0621,N,X,X,X,X,X,X,X,X,N,HIGH,Quoted s. 718.2(e) from other case only
+M0622,N,X,X,X,X,X,X,X,X,N,HIGH,General statement of s. 718.2(e)
+M0623,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue report concerns a co-accused
+M0624,N,X,X,X,X,X,X,X,X,N,HIGH,Restraint principle in s. 718.2(e) general
+M0625,R,X,X,X,X,X,X,X,X,N,HIGH,Court declined weight to s. 718.2(e) as not Indigenous
+M0626,M,X,X,X,X,X,X,X,X,N,LOW,Gladue and PSR background led to shorter custody
+M0627,M,X,M,X,X,X,X,X,X,N,HIGH,Gladue factors and residential school family history recognized in sentence
+M0628,R,X,X,X,X,X,X,X,X,N,LOW,No Gladue analysis possible and no error found
+M0629,N,X,X,X,X,X,X,X,X,N,HIGH,Only general restraint under s. 718.2(e)
+M0630,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee quoted and Gladue only in other case

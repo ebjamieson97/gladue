@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0251,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factors weighed
+M0252,N,X,X,X,X,X,X,X,X,N,HIGH,Statutory recital of 718.2(e) only
+M0253,N,N,N,N,X,X,X,X,N,N,HIGH,Residential school and colonial history concern the victim
+M0254,R,X,R,X,X,X,X,X,X,N,HIGH,Court found moral blameworthiness not diminished by Indigenous heritage
+M0255,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted judge gave appropriate Gladue consideration
+M0256,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in comparable case
+M0257,X,X,X,X,X,X,X,X,X,N,HIGH,Gladue appears only as a case name
+M0258,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for proportionality only
+M0259,N,X,X,N,X,X,X,X,X,N,HIGH,Gladue general law and other cases only
+M0260,N,X,X,X,X,X,X,X,N,N,HIGH,Offender not Indigenous and Gladue general law only

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1601,X,X,X,X,X,X,X,X,X,N,HIGH,Personal adversity discussed without Indigenous or race factors
+M1602,M,M,X,X,X,X,X,X,X,N,HIGH,Colonialism legacy and Indigenous heritage supported restraint and suspended sentence
+M1603,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous so section 718.2(e) only stated
+M1604,X,X,X,X,X,X,X,X,X,N,HIGH,Racist skinhead accusation was a pretext in a personal feud
+M1605,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report filed but treatment not shown in excerpt
+M1606,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue and Ipeelee cited as general law only
+M1607,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in other cases reviewed
+M1608,M,M,M,X,X,M,X,X,X,N,HIGH,Colonialism residential school and Gladue factors reduced blameworthiness
+M1609,M,M,X,M,X,X,X,X,X,N,HIGH,Appeal court accepted judge weighed intergenerational colonialism effects
+M1610,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in other cases cited

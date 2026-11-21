@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5540,NOT,NA,HIGH,Summary conviction appeal on adequacy of reasons dismissed
+D2533,NOT,NA,HIGH,Appeal allowed guilty pleas set aside new trial
+D2516,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeal dismissed sentence fit
+D1102,REVIEWS,MINIMAL,LOW,Conviction and sentence appeal dismissed in brief endorsement
+D3408,NOT,NA,HIGH,Trial verdict on sexual assault counts
+D1613,IMPOSES,FULL,HIGH,Sentence on joint recommendation for sexual offences against children
+D4336,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal allowed in part
+D5254,NOT,NA,HIGH,Crown appeal from youth acquittals on privacy
+D3446,NOT,NA,HIGH,Conviction appeal on unreasonable verdict
+D3294,NOT,NA,HIGH,Voir dire ruling excluding evidence acquittal
+D3221,NOT,NA,HIGH,Voir dire ruling on production orders
+D2453,REVIEWS,FULL,HIGH,Leave and sentence appeal for armed robbery
+D1784,REVIEWS,FULL,HIGH,Sentence appeal on enhanced pre-sentence credit allowed
+D1335,NOT,NA,HIGH,Abandoned appeal not reinstated
+D3869,NOT,NA,HIGH,Verdict of guilty on sexual assault
+D4977,REVIEWS,FULL,HIGH,Crown appeal of nominal fine to avoid victim surcharge
+D1126,NOT,NA,HIGH,Conviction appeal on sexual assault dismissed
+D2138,IMPOSES,FULL,HIGH,Sentencing decision conditional sentence for aggravated assault
+D3154,NOT,NA,HIGH,Summary conviction appeal on counsel incompetence
+D4583,NOT,NA,HIGH,Mid-trial ruling on sexual history evidence
+D1321,NOT,NA,HIGH,Voir dire ruling on search warrant
+D2986,NOT,NA,HIGH,Murder conviction appeal on prior record evidence
+D3213,NOT,NA,HIGH,Crown acquittal appeal on confessions allowed
+D5394,NOT,NA,HIGH,Summary conviction appeal on breath demand dismissed
+D4717,NOT,NA,HIGH,Verdict on assault charges
+D1893,NOT,NA,HIGH,Constitutional appeal on party liability for attempted murder

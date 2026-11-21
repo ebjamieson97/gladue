@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1299,sexual,HIGH,Sexual interference of a child
+F1300,drugs,LOW,Two counts apparently drug trafficking
+F1301,assault,HIGH,Assault and assaulting a peace officer
+F1302,drugs,HIGH,Possession of heroin and cocaine for trafficking
+F1303,sexual,HIGH,Sexual assault and sexual interference
+F1304,assault;sexual;kidnapping,HIGH,Assaults; sexual assault; unlawful confinement; dangerous offender
+F1305,assault;sexual,HIGH,Assault and sexual assault
+F1306,drugs,HIGH,Possession for trafficking and conspiracy to import cocaine
+F1307,assault;weapons,HIGH,Aggravated assault and possession of weapon
+F1308,other,HIGH,Attempt to procure; extortion
+F1309,robbery,HIGH,Robbery
+F1310,homicide,HIGH,Second degree murder
+F1311,sexual;other,HIGH,Sexual and prostitution offences; obstruction; breach
+F1312,driving,HIGH,Impaired driving causing death
+F1313,drugs;weapons,HIGH,Trafficking heroin meth GHB; prohibited weapons
+F1314,break_enter;sexual,HIGH,Break and enter and voyeurism
+F1315,homicide,HIGH,Second degree murder
+F1316,driving,HIGH,Impaired driving causing bodily harm; fail to stop
+F1317,sexual,HIGH,Sexual assault
+F1318,break_enter,HIGH,Break and enter with intent to commit sexual assault
+F1319,drugs,HIGH,Marijuana grow operation
+F1320,kidnapping;assault;weapons;other,HIGH,Confinement; aggravated assault; mischief; weapon; threats

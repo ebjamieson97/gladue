@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0791,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) and Ipeelee cited generally
+M0792,M,X,M,X,X,X,X,X,X,N,HIGH,Gladue factors and residential school abuse treated as mitigating
+M0793,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted only
+M0794,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factors for this offender
+M0795,R,X,X,X,X,X,X,X,X,N,LOW,Gladue considered but blameworthiness not significantly reduced
+M0796,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors reduced moral blameworthiness and sentence
+M0797,X,X,X,X,X,X,X,X,X,N,HIGH,Only proportionality principles cited
+M0798,R,X,X,X,X,X,X,X,X,N,LOW,Gladue considered with no effect shown
+M0799,M,X,X,X,M,X,X,X,X,N,HIGH,IRCA anti-Black racism context considered as mitigating
+M0800,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned in constitutional analysis

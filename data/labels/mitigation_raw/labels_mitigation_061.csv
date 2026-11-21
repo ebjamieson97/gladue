@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0601,N,X,X,X,X,X,X,X,X,N,HIGH,Only general statement of restraint principle and s. 718.2(e)
+M0602,M,X,N,X,X,X,X,X,X,N,HIGH,Judge accepted considering Gladue factors as mitigating but gave limited weight
+M0603,N,X,X,X,X,X,X,X,X,N,LOW,Metis ancestry and attenuated Gladue submission but court treatment unclear
+M0604,N,X,X,X,X,X,X,X,X,N,LOW,Appeal court said judge properly considered s. 718.2(e) with no effect shown
+M0605,R,X,X,X,X,X,X,X,X,N,HIGH,Indigenous heritage not advanced as Gladue issue so no effect
+M0606,N,X,X,X,X,X,X,X,X,N,HIGH,General statements of law citing Gladue and Ipeelee
+M0607,N,X,X,X,X,N,X,X,X,N,HIGH,Racism and 718.2(e) mentioned only about another case
+M0608,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report mentioned only in a cited case
+M0609,N,X,X,X,X,X,X,X,X,N,HIGH,General law on restraint and Gladue factors
+M0610,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court found significantly reduced moral blameworthiness under Gladue and reduced sentence

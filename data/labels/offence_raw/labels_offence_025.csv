@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0529,sexual;assault;other,HIGH,Sexual assault and aggravated assaults plus death threat and breach of probation
+F0530,homicide;assault,HIGH,Attempted murder and attempt to overcome resistance by suffocation
+F0531,homicide,HIGH,Manslaughter
+F0532,sexual,HIGH,Making and distributing child pornography
+F0533,assault;other,HIGH,Assault and breach of probation
+F0534,sexual,HIGH,Sexual touching of a minor and luring (sexual assault stayed)
+F0535,theft_fraud,HIGH,Fraud and money laundering
+F0536,weapons,HIGH,Possession of loaded handgun while prohibited
+F0537,assault;weapons,HIGH,Aggravated assault and assault with a weapon and weapons dangerous and common assault
+F0538,other,HIGH,Attempt to obstruct justice and breach of probation
+F0539,theft_fraud,HIGH,Theft of client funds
+F0540,kidnapping;weapons;assault,HIGH,Kidnapping and pointing a firearm and assault causing bodily harm
+F0541,drugs,HIGH,Trafficking in cocaine
+F0542,weapons;other,HIGH,Discharge firearm and possession while prohibited and breach of probation
+F0543,robbery,HIGH,Robbery
+F0544,kidnapping;robbery,HIGH,Counselling to kidnap and counselling to rob
+F0545,break_enter;theft_fraud,HIGH,Break and enter and two thefts over $1000
+F0546,theft_fraud;break_enter;kidnapping;assault;robbery;weapons,HIGH,Stolen vehicle and break and enter and kidnapping and aggravated assault and robbery and weapon
+F0547,sexual,HIGH,Indecent assault and gross indecency and rape (historic)
+F0548,assault,HIGH,Two common assaults on neighbour and father-in-law
+F0549,assault;other,HIGH,Aggravated assault and provoking fear in justice system participant
+F0550,homicide;other,HIGH,Criminal negligence causing death by corporation and OHSA counts for director

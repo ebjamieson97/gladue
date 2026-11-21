@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1101,sexual,HIGH,Sexual assault
+F1102,none,LOW,Offence not shown; sentence of 10 years and credit issue only
+F1103,weapons,HIGH,Possession of loaded prohibited weapon
+F1104,sexual,HIGH,Sexual exploitation; sexual interference; making and possessing child pornography
+F1105,drugs;theft_fraud,HIGH,Possession for trafficking and possession of proceeds of crime
+F1106,assault;robbery;other,HIGH,Threats; assault with weapon; assault causing bodily harm; robbery
+F1107,sexual,HIGH,Sexual assault of spouse; dangerous offender designation
+F1108,break_enter,HIGH,Possession of break-in instruments for motor vehicle
+F1109,homicide,HIGH,Second degree murder
+F1110,driving,HIGH,Driving while disqualified and refusing roadside screening demand
+F1111,assault;weapons;theft_fraud;other,HIGH,Assault with weapon; firearm offences; stolen property; obstruct peace officer
+F1112,weapons;other,HIGH,Careless use and pointing of firearm; threatening
+F1113,sexual;assault,HIGH,Sexual assault; voyeurism; assault
+F1114,homicide;robbery;assault;kidnapping;weapons,HIGH,Attempted murder; bank robbery; aggravated assault; forcible confinement; weapons
+F1115,kidnapping;sexual;other,HIGH,Kidnapping; sexual assault; criminal harassment
+F1116,sexual,HIGH,Sexual assault; sexual interference; invitation to sexual touching
+F1117,sexual;break_enter,HIGH,Sexual assault with weapon; break and enter with sexual assault
+F1118,homicide,HIGH,Manslaughter
+F1119,drugs,HIGH,Possession for purpose of trafficking x4
+F1120,drugs,HIGH,Trafficking marihuana
+F1121,sexual,HIGH,Sexual interference of two stepchildren
+F1122,weapons,HIGH,Possession of loaded restricted firearm and while prohibited

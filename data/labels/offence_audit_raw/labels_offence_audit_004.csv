@@ -1,0 +1,26 @@
+id,categories,confidence,note
+F2645,sexual,HIGH,Invitation to sexual touching and sexual assault of a child
+F2047,theft_fraud,LOW,Property offence implied by restitution order; offences unclear
+F2358,break_enter;theft_fraud;other,HIGH,Attempted break and enter possession of stolen property and break-in instruments
+F2055,other,HIGH,Mischief by obstructing use of bridge
+F4032,theft_fraud;driving,HIGH,Taking vehicle without consent possession of stolen property failing to stop
+F1045,sexual,HIGH,Sexual assault of 16 year old
+F1694,other,HIGH,Arson of occupied house
+F4635,sexual;weapons,HIGH,Sexual assault and use of imitation firearm
+F1701,drugs,HIGH,Trafficking in ecstasy
+F3448,break_enter;assault,HIGH,Break and enter dwelling and assault
+F4688,drugs,HIGH,Production of marijuana and trafficking
+F4824,weapons;theft_fraud,HIGH,Firearms possession offences and possession of stolen motor vehicle
+F1536,homicide;assault,HIGH,Manslaughter and aggravated assault
+F3734,weapons;other,HIGH,Firearms and prohibited magazine offences and uttering threats
+F1129,assault,HIGH,Aggravated assault
+F4040,homicide;driving;robbery;theft_fraud,HIGH,Attempted murder dangerous driving failing to stop robbery theft stolen property
+F0577,driving,HIGH,Dangerous and impaired driving causing death and bodily harm
+F0918,drugs,HIGH,Trafficking in cocaine
+F2809,none,LOW,Offence not stated in endorsement
+F3436,homicide,HIGH,Manslaughter
+F4064,drugs,HIGH,Trafficking heroin and fentanyl
+F3674,drugs,HIGH,Conspiracy to import importing and possession of heroin for trafficking
+F0073,homicide,HIGH,Second degree murder of common law wife
+F3254,homicide,HIGH,Manslaughter
+F2715,driving,HIGH,Impaired driving causing bodily harm

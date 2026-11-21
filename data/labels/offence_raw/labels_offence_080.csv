@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1739,homicide,HIGH,Manslaughter
+F1740,homicide,HIGH,Attempted murder
+F1741,sexual,HIGH,Sexual assault of child
+F1742,other,HIGH,Obstruct justice by juror
+F1743,homicide,HIGH,Manslaughter
+F1744,theft_fraud,HIGH,Fraud and forgery
+F1745,none,LOW,Excerpt does not show the offences
+F1746,robbery;theft_fraud;other,HIGH,Robbery; masked; stolen property; failing to appear
+F1747,drugs;weapons,HIGH,Drug trafficking; production; unlicensed firearms possession
+F1748,driving;other,HIGH,Driving while prohibited and failing to attend court
+F1749,sexual,HIGH,Two counts of sexual interference
+F1750,theft_fraud,HIGH,Fraud over $1000
+F1751,homicide,HIGH,Second degree murder
+F1752,driving,HIGH,Impaired driving and over 80
+F1753,driving,HIGH,Two counts of refusing breath sample
+F1754,robbery;theft_fraud,HIGH,Seven robberies; stolen property; theft over $5000
+F1755,driving,HIGH,Failing to stop for police and driving while disqualified
+F1756,sexual,HIGH,Invitation to sexual touching and sexual assault
+F1757,homicide,HIGH,First and second degree murder
+F1758,other,HIGH,Interfering with human remains
+F1759,drugs,HIGH,Possession for trafficking cocaine and fentanyl
+F1760,none,LOW,Excerpt does not show the offences

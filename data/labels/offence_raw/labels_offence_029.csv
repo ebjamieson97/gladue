@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0617,homicide;other,HIGH,Two counts of manslaughter and arson
+F0618,drugs,HIGH,Trafficking in oxycodone
+F0619,none,LOW,Young person offence not shown in excerpt
+F0620,sexual,HIGH,Two sexual assaults
+F0621,driving,HIGH,Criminal negligence causing death by impaired driving
+F0622,homicide,HIGH,Manslaughter by failing to provide necessaries of life
+F0623,none,LOW,Offence not identified in excerpt
+F0624,drugs,HIGH,Trafficking cocaine and possession of cannabis for trafficking
+F0625,drugs,HIGH,Production of marihuana grow operation
+F0626,sexual;other,HIGH,Voyeurism and indecent act and prowling at night
+F0627,robbery;weapons;theft_fraud;other,HIGH,Robbery weapons offences possession of stolen property and obstruction
+F0628,drugs,HIGH,Possession of cocaine for the purpose of trafficking
+F0629,drugs;theft_fraud;weapons,HIGH,Drug trafficking and proceeds of crime and prohibited firearm
+F0630,sexual,HIGH,Sexual exploitation of a 13-year-old
+F0631,weapons,HIGH,Firearms and explosives possession and storage offences
+F0632,assault,HIGH,Aggravated assault
+F0633,drugs;driving;other,HIGH,Trafficking methamphetamine and cocaine and dangerous driving and others
+F0634,break_enter;robbery;other,HIGH,Home invasion break and enter and robbery
+F0635,driving,HIGH,Two counts criminal negligence causing death by driving
+F0636,other,HIGH,Criminal harassment and breach of recognizance and probation
+F0637,sexual,HIGH,Indecent acts by exposure
+F0638,assault;weapons;theft_fraud;other,LOW,Assault and weapon and theft and stolen property and breaches

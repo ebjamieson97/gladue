@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0221,N,X,N,X,X,X,X,X,X,N,HIGH,No Gladue factors for this offender; only general law cited
+M0222,M,M,M,N,X,N,X,X,X,N,LOW,Court recognized residential school and colonialism impact but stressed deterrence
+M0223,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors not linked to moral blameworthiness on appeal
+M0224,N,X,N,X,X,X,X,X,X,N,LOW,Residential school described in another case cited
+M0225,N,X,X,X,X,X,N,X,X,Y,HIGH,Mosque shooting motivated by Islamophobia and hatred
+M0226,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only on LTSO breach gravity
+M0227,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors accepted as diminishing blameworthiness
+M0228,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality and parity
+M0229,N,X,N,X,X,X,X,X,X,N,LOW,Gladue report reviewed but weight on sentence unclear
+M0230,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for individualized sentencing

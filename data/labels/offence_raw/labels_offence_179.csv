@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3917,drugs,HIGH,Possession for trafficking cocaine and simple possession of cocaine and MDMA
+F3918,homicide;robbery,HIGH,Second degree murder and robbery (parole ineligibility appeal)
+F3919,homicide,HIGH,First and second degree murder of two victims
+F3920,sexual;other,HIGH,Sexual assault and two breaches of recognizance
+F3921,theft_fraud,HIGH,Credit card fraud conspiracy and identity theft
+F3922,homicide;kidnapping,HIGH,Second degree murder and kidnapping
+F3923,driving,HIGH,Over 80 driving
+F3924,sexual;assault,HIGH,Sexual assault causing bodily harm and choking to overcome resistance
+F3925,other,HIGH,Uttering threats
+F3926,homicide,HIGH,Second degree murder reduced to manslaughter
+F3927,assault,LOW,Beating of victim; offence not named
+F3928,weapons,HIGH,Three gun possession charges including dangerous purpose
+F3929,drugs,HIGH,Drug trafficking
+F3930,none,LOW,Offence not identified in excerpt
+F3931,homicide,HIGH,First degree murder
+F3932,robbery;break_enter;sexual,HIGH,Robbery and break and enter home invasion and sexual assault
+F3933,kidnapping,HIGH,Forcible confinement
+F3934,driving,HIGH,Impaired care and control and driving while prohibited
+F3935,assault,HIGH,Aggravated assault with baseball bat
+F3936,sexual,HIGH,Possession of child pornography
+F3937,other,HIGH,Participation in a riot at correctional centre
+F3938,homicide,HIGH,Manslaughter youth sentence review

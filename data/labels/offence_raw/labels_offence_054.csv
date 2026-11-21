@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1167,assault,HIGH,Aggravated assault by stabbing
+F1168,weapons;drugs,HIGH,Manufacturing restricted firearm; possession for trafficking meth and fentanyl
+F1169,other,HIGH,Customs Act failing to declare imports
+F1170,theft_fraud,HIGH,Fraud over $5000; forgery; impersonation
+F1171,theft_fraud,HIGH,Fraud charges
+F1172,drugs,HIGH,Conspiracy to traffic in cocaine
+F1173,other,HIGH,Criminal contempt
+F1174,robbery;kidnapping,HIGH,Robbery and kidnapping
+F1175,homicide,HIGH,Manslaughter
+F1176,theft_fraud,HIGH,Four counts of fraud and three counts of theft
+F1177,robbery,HIGH,Bank robbery
+F1178,sexual,HIGH,Sexual interference
+F1179,homicide,HIGH,Two counts of first degree murder
+F1180,driving,HIGH,Dangerous operation of vessel causing bodily harm and death
+F1181,sexual,HIGH,Incest and making child pornography
+F1182,drugs,HIGH,Possession for trafficking of drugs including ecstasy
+F1183,robbery,HIGH,Armed robbery
+F1184,sexual,HIGH,Sexual touching of person under 14
+F1185,robbery;weapons,HIGH,Two violent robberies and loaded handgun possession
+F1186,theft_fraud,HIGH,Possession of stolen property (vehicle)
+F1187,driving;theft_fraud,HIGH,Driving offences and possession of stolen property
+F1188,sexual,HIGH,Sexual assault and administering stupefying drug

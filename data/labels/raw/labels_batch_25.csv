@@ -1,0 +1,30 @@
+id,label,depth,confidence,note
+D0525,NOT,NA,HIGH,Jurisdiction over costs after Crown stay
+D0623,REVIEWS,FULL,HIGH,Crown sentence appeal dismissed Gladue deference
+D0698,NOT,NA,HIGH,Bail extension pending appeal of conditional sentence
+D0731,REVIEWS,FULL,HIGH,Manslaughter sentence appeal credit for custody reduced
+D0708,REVIEWS,FULL,HIGH,Crown sentence appeal allowed for tax fraud
+D0926,IMPOSES,FULL,HIGH,Fines imposed on corporation after trial
+D0565,NOT,NA,HIGH,Conviction appeal on search warrant acquittal entered
+D0682,IMPOSES,FULL,HIGH,Dangerous offender designation and indeterminate sentence
+D0944,NOT,NA,HIGH,New trial ordered sentence appeal not reached
+D0794,RELATED,NA,HIGH,No appeal from dismissal of conditional sentence breach
+D0727,IMPOSES,FULL,HIGH,Reasons for sentence child sexual interference five years
+D0631,NOT,NA,HIGH,Release pending conviction appeal refused
+D0984,REVIEWS,MINIMAL,HIGH,Conviction appeal and sentence appeal dismissed briefly
+D0503,NOT,NA,HIGH,Murder conviction appeal dismissed
+D0551,NOT,NA,HIGH,Crown appeal from acquittal dismissed
+D0790,REVIEWS,FULL,HIGH,Robbery sentence appeal dismissed after extension of time
+D0547,NOT,NA,HIGH,Conviction appeal on search warrant validity
+D0911,REVIEWS,FULL,HIGH,Conviction and sentence appeals dismissed sexual offences
+D0544,NOT,NA,HIGH,Conviction appeal dismissed sentence appeal abandoned
+D0763,IMPOSES,FULL,HIGH,Reasons for sentence criminal negligence offences
+D0934,NOT,NA,HIGH,Murder verdict reduced remitted for sentencing
+D0680,REVIEWS,FULL,HIGH,Sentence appeal allowed drug trafficking nine months
+D0965,NOT,NA,HIGH,Bail pending appeal denied
+D0694,IMPOSES,FULL,HIGH,Oral reasons sentencing prison riot offender
+D0515,NOT,NA,HIGH,Murder conviction appeals dismissed
+D0718,IMPOSES,FULL,HIGH,Reasons for sentence sexual interference grandfather
+D0607,REVIEWS,FULL,HIGH,Crown sentence appeal on conditional sentence dismissed
+D0836,NOT,NA,HIGH,Sexual assault conviction set aside unreasonable verdict
+D0931,RELATED,NA,HIGH,Appeal moot on order to fund Gladue report

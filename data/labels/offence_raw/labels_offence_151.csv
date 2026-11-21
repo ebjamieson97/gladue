@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3301,homicide;weapons,HIGH,Manslaughter and possession of restricted weapon
+F3302,none,LOW,Offences not stated; conditional sentence suspension issue only
+F3303,assault;weapons,HIGH,Aggravated assault with firearm and pointing a firearm
+F3304,homicide;driving;theft_fraud,HIGH,Criminal negligence causing death; failing to stop; theft of vehicle
+F3305,sexual;assault,HIGH,Sexual assault and choking
+F3306,break_enter;other,HIGH,Break and enter of vessels; breach of recognizance
+F3307,sexual,HIGH,Invitation to sexual touching
+F3308,sexual,HIGH,Historical sexual assault
+F3309,assault,HIGH,Aggravated assault of a small child
+F3310,homicide;driving,HIGH,Criminal negligence causing death; hit and run
+F3311,other,HIGH,Human smuggling under immigration act
+F3312,sexual,HIGH,Possession of child pornography
+F3313,homicide,HIGH,Manslaughter
+F3314,other;driving;assault,HIGH,Mischief; dangerous driving; assault with a weapon car
+F3315,break_enter;assault;other,HIGH,Break and enter; aggravated assault; mischief; breach of undertaking
+F3316,sexual,HIGH,Sexual assault causing bodily harm dangerous offender application
+F3317,homicide,HIGH,Manslaughter
+F3318,homicide,HIGH,Second degree murder
+F3319,other;theft_fraud,HIGH,Arson; arson for fraud; attempted fraud
+F3320,homicide,HIGH,Second degree murder and attempted murder
+F3321,homicide;robbery,HIGH,Manslaughter and robbery
+F3322,other;theft_fraud,HIGH,Administering stupefying drug; theft over; theft of motor vehicle

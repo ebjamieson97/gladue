@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1181,R,X,X,X,X,X,X,X,X,N,HIGH,Considered Gladue but custody required given seriousness and no reports
+M1182,M,N,X,X,X,X,X,X,X,N,LOW,Judge gave some Gladue weight and appeal upheld sentence
+M1183,R,X,X,X,X,X,X,X,X,N,HIGH,No exceptional circumstances or reduced blameworthiness from Indigeneity
+M1184,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only as authority
+M1185,M,X,M,M,X,X,X,X,X,N,LOW,Background and Aboriginal heritage modestly attenuated moral culpability
+M1186,N,X,X,N,N,N,X,X,X,N,LOW,Social context discussed generally with Morris quoted
+M1187,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for proportionality only
+M1188,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in comparator case
+M1189,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for individualization only
+M1190,X,X,X,X,X,X,X,X,X,N,HIGH,Keyword matches irrelevant to factors

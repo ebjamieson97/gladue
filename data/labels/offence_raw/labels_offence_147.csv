@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3213,weapons,HIGH,Three firearms offences ss 95 91 86
+F3214,sexual,HIGH,Two counts of sexual assault
+F3215,assault;other,HIGH,Assault causing bodily harm and breach of probation
+F3216,assault,LOW,Stabbing and domestic violence counts; exact offences unclear
+F3217,sexual,LOW,Offence against groomed young complainant; likely sexual
+F3218,driving,HIGH,Impaired driving and flight from police
+F3219,drugs,HIGH,Three counts possession for purpose of trafficking
+F3220,assault,HIGH,Aggravated assault
+F3221,assault;kidnapping;other,HIGH,Assault with weapon threatening death unlawful confinement breach of undertaking
+F3222,none,LOW,Sentence reduced; offences not shown
+F3223,drugs,HIGH,Six counts cocaine trafficking
+F3224,sexual,HIGH,Three counts sexual assault and indecent assault
+F3225,weapons;drugs,HIGH,Firearm trafficking and possession and drug trafficking
+F3226,drugs,HIGH,Possession of cocaine for trafficking and importing
+F3227,drugs,HIGH,Producing and possessing marihuana for trafficking
+F3228,homicide,HIGH,Second degree murder
+F3229,assault,HIGH,Aggravated assault by HIV exposure
+F3230,assault;kidnapping;weapons;other,LOW,Shotgun assault and confinement and breach; counts not named
+F3231,homicide,HIGH,Second murder life sentence
+F3232,homicide;robbery,HIGH,Second degree murder and attempted murder during robbery
+F3233,sexual,HIGH,Sexual assault and sexual interference dangerous offender
+F3234,break_enter,HIGH,Two counts breaking and entering commercial premises

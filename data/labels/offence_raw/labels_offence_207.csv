@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4533,drugs,HIGH,Conspiracy to produce and production of MDMA
+F4534,driving;break_enter;weapons;drugs;other,HIGH,Drug impaired driving; break-ins; firearms; trafficking; breaches
+F4535,break_enter;theft_fraud,HIGH,Break and enter and theft
+F4536,none,LOW,Offences not shown; suspended sentence appeal on credit
+F4537,homicide,HIGH,Second degree murder
+F4538,sexual,HIGH,Rape; indecent assault and incest of daughters
+F4539,drugs;weapons,HIGH,Cocaine and cannabis trafficking and firearms offences
+F4540,other,HIGH,Regulatory waste discharge offence under Waste Management Act
+F4541,drugs,HIGH,Trafficking and possession for trafficking of fentanyl
+F4542,none,LOW,Offences not shown; fine and surcharge issue only
+F4543,homicide,HIGH,Manslaughter with firearm
+F4544,assault,HIGH,Aggravated assault
+F4545,drugs,HIGH,Marihuana production trafficking and possession for trafficking
+F4546,other,HIGH,Arson; mischief; criminal harassment; incendiary material
+F4547,sexual,HIGH,Sexual intercourse with 13 year old in position of trust
+F4548,homicide,HIGH,Second degree murder
+F4549,assault,HIGH,Aggravated assault
+F4550,homicide,HIGH,Manslaughter
+F4551,homicide,HIGH,Manslaughter
+F4552,sexual,HIGH,Possession and accessing child pornography
+F4553,other,HIGH,Breach of long term supervision order
+F4554,sexual,HIGH,Sexual assault; sexual interference; invitation to touching

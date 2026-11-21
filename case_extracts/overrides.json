@@ -1,0 +1,1827 @@
+{
+  "_about": "Hand corrections to the readers' picks, applied by scripts/extracts/render_extracts.py after every round. Key: citation. remove_crime_highlights / remove_rationale_highlights: phrases to drop exactly as the reader gave them.",
+  "2023 ONCA 816": {
+    "remove_crime_highlights": [
+      "the appellant was rummaging in the area between the door and the seat"
+    ],
+    "why": "Filler highlight: an investigative detail, not a serious act (the old minimum of 3 highlights forced it). Fixed 2026-11-21 at the project author's request."
+  },
+  "1999 BCCA 448": {
+    "remove_crime_highlights": [
+      "He told the clerk to take him to the back door."
+    ],
+    "source": "filler check",
+    "why": "order to go to back door is incidental"
+  },
+  "2006 BCCA 380": {
+    "remove_crime_highlights": [
+      "He also had in his possession a detailed score sheet showing previous one ounce sales and over $900 in cash"
+    ],
+    "source": "filler check",
+    "why": "score sheet and cash are investigative detail"
+  },
+  "2009 BCCA 166": {
+    "remove_crime_highlights": [
+      "Mr. Loring began a search for Trevor Reese"
+    ],
+    "source": "filler check",
+    "why": "search for Reese is background"
+  },
+  "2009 BCCA 534": {
+    "remove_crime_highlights": [
+      "Including the subject conviction, the appellant's record includes four sexual assaults",
+      "the latter also related to an historical sexual assault"
+    ],
+    "source": "filler check",
+    "why": "criminal record background not the offence"
+  },
+  "2010 BCCA 9": {
+    "remove_crime_highlights": [
+      "Police observed both adults and youths coming and going from the house.",
+      "The offence took place in Mr. Bodaly's home, which was across the street from a community park where youths often gathered."
+    ],
+    "source": "filler check",
+    "why": "location and police observation are incidental"
+  },
+  "2013 BCCA 153": {
+    "remove_crime_highlights": [
+      "It was later discovered she had cashed the cheque."
+    ],
+    "source": "filler check",
+    "why": "later discovery is investigative detail"
+  },
+  "2013 BCCA 160": {
+    "remove_crime_highlights": [
+      "He was 25 years old at the time of his death."
+    ],
+    "source": "filler check",
+    "why": "age of victim is not an act",
+    "drop_tags": [
+      "Intergenerational trauma"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2014 BCCA 84": {
+    "remove_crime_highlights": [
+      "The two lived together as husband and wife for several years after the birth of their son"
+    ],
+    "source": "filler check",
+    "why": "later cohabitation is background, not a serious act or harm",
+    "add_rationale_paras": [
+      31
+    ],
+    "add_rationale_highlights": [
+      "Indian residential schools have had a profound effect on the people",
+      "colonization and the cumulative impacts of the Alberni residential school"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2015 BCCA 414": {
+    "remove_crime_highlights": [
+      "Ms. Florence did not tell Ms. Burt she had stabbed Mr. Milne"
+    ],
+    "source": "filler check",
+    "why": "what she did not tell a witness is incidental"
+  },
+  "2016 BCCA 397": {
+    "remove_crime_highlights": [
+      "Mr. Wheatley did board the bus to Vancouver, but became emotionally distressed as he neared the city",
+      "he instead went to the Downtown Eastside, where he remained for two days"
+    ],
+    "source": "filler check",
+    "why": "travel details are incidental to the breach"
+  },
+  "2016 BCCA 61": {
+    "remove_crime_highlights": [
+      "He told some members of his family that he had beaten up Ms. Scow"
+    ],
+    "source": "filler check",
+    "why": "telling family afterward is not a serious act"
+  },
+  "2017 BCCA 258": {
+    "remove_crime_highlights": [
+      "He gave her money and cigarettes",
+      "J.L.M. told S. he was going to hire someone"
+    ],
+    "source": "filler check",
+    "why": "hiring remark and giving cigarettes are incidental"
+  },
+  "2019 BCCA 135": {
+    "remove_crime_highlights": [
+      "While before the courts on those offences, he committed the same offence between October 1, 2013, and January 5, 2014."
+    ],
+    "source": "filler check",
+    "why": "procedural timing of offence, not a serious act"
+  },
+  "2019 BCCA 244": {
+    "remove_crime_highlights": [
+      "He smelled strongly of alcohol."
+    ],
+    "source": "filler check",
+    "why": "smell of alcohol is incidental"
+  },
+  "2019 BCCA 404": {
+    "remove_crime_highlights": [
+      "Mr. Garnot (then on probation) approached them"
+    ],
+    "source": "filler check",
+    "why": "approach and probation status is background"
+  },
+  "2020 BCCA 373": {
+    "remove_crime_highlights": [
+      "he sneaked out of the house in the early morning hours and entered a nearby residence"
+    ],
+    "source": "filler check",
+    "why": "sneaking out is background to offence"
+  },
+  "2021 BCCA 399": {
+    "remove_crime_highlights": [
+      "Mr. Mero was not authorized to possess the firearm.",
+      "The heroin had a street value of about $5,500."
+    ],
+    "source": "filler check",
+    "why": "authorization and street value are incidental"
+  },
+  "2021 BCCA 71": {
+    "remove_crime_highlights": [
+      "He was 26 years of age at the time of the offence and the victim, herself Indigenous, was 13.",
+      "Mr. Alfred, an Indigenous man, was a friend of the victim's older brothers, and to a certain degree, a family friend."
+    ],
+    "source": "filler check",
+    "why": "background about relationship and ages"
+  },
+  "2023 BCCA 2": {
+    "remove_crime_highlights": [
+      "Mr. Kehoe yelled and then threw eggs at the young men from his balcony"
+    ],
+    "source": "filler check",
+    "why": "throwing eggs is minor precursor",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCCA 448": {
+    "remove_crime_highlights": [
+      "he ignored the command of a RCMP officer to stop"
+    ],
+    "source": "filler check",
+    "why": "ignoring police command is investigative detail",
+    "add_rationale_paras": [
+      14
+    ],
+    "add_rationale_highlights": [
+      "lost during his mother's upbringing at residential school",
+      "Mr. Harry was born into the cycle of community trauma and intergenerational cultural violence that colonial policies have caused"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 BCCA 183": {
+    "remove_crime_highlights": [
+      "Mr. Attachie had been at the victim's home the night before and returned that morning with two masked men",
+      "Ms. Ludwig was in the shower during the bedroom confrontation, but observed injuries to the victim's face when she came out of the bathroom"
+    ],
+    "source": "filler check",
+    "why": "background and observation of injuries after the fact"
+  },
+  "2008 BCSC 1126": {
+    "remove_crime_highlights": [
+      "Mr. Johnny continued to drive the cab until it was disabled by a spike belt that was laid on the highway in his path of travel."
+    ],
+    "source": "filler check",
+    "why": "flight in cab after the offence, not a serious act of harm"
+  },
+  "2010 BCSC 1800": {
+    "remove_crime_highlights": [
+      "you committed the crimes in question in broad daylight, that is the robbery in particular, while apparently sober"
+    ],
+    "source": "filler check",
+    "why": "broad daylight and sobriety is background, not a serious act",
+    "add_rationale_paras": [
+      72
+    ],
+    "add_rationale_highlights": [
+      "your mother is a survivor of the Indian residential school system"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2012 BCSC 1134": {
+    "remove_crime_highlights": [
+      "He left the scene of the accident and purposefully consumed alcohol at his house before returning to the scene of the accident.",
+      "Robinson knew that the statement about how much alcohol he had to drink would put the investigation of his level of impairment off track."
+    ],
+    "source": "filler check",
+    "why": "post-accident drinking and statements are investigative detail"
+  },
+  "2013 BCSC 1044": {
+    "remove_crime_highlights": [
+      "Ms. Cordone had been dead for a few days at the time of the autopsy"
+    ],
+    "source": "filler check",
+    "why": "post-offence cleanup and autopsy timing are not serious acts (cleanup/burying the knife restored at the project author's request)"
+  },
+  "2013 BCSC 1145": {
+    "remove_crime_highlights": [
+      "Mr. Rommann ran to the apartment manager's suite"
+    ],
+    "source": "filler check",
+    "why": "victim running to manager is incidental"
+  },
+  "2013 BCSC 2321": {
+    "remove_crime_highlights": [
+      "Ms. D. was awakened by a loud sound that she believed to be the sound of a gunshot.",
+      "he noticed two holes on the driver's side"
+    ],
+    "source": "filler check",
+    "why": "awakening and noticing holes are investigative detail"
+  },
+  "2014 BCSC 202": {
+    "remove_crime_highlights": [
+      "Mr. Leon became angry",
+      "Mr. Leon pressed J.M.E. to have sex with him, but she refused."
+    ],
+    "source": "filler check",
+    "why": "pressing for sex and anger are background before the assault"
+  },
+  "2015 BCSC 2536": {
+    "remove_crime_highlights": [
+      "Mr. Cardinal elected to drive because he felt he was the most sober of the group"
+    ],
+    "source": "filler check",
+    "why": "why he chose to drive is background, not a serious act"
+  },
+  "2015 BCSC 926": {
+    "remove_crime_highlights": [
+      "Mr. Rego was able to fight Mr. Eli off and barricade himself in the bedroom where he called 911"
+    ],
+    "source": "filler check",
+    "why": "victim barricading and calling 911 is aftermath, not harm"
+  },
+  "2016 BCSC 161": {
+    "remove_crime_highlights": [
+      "A second was that he often checked at the front living room window to look out for other people when he was committing these acts.",
+      "W.J. placed a towel on the living room carpet at the beginning of his molestations each time they occurred."
+    ],
+    "source": "filler check",
+    "why": "towel and window checking are incidental details",
+    "add_rationale_paras": [
+      19
+    ],
+    "add_rationale_highlights": [
+      "The Gladue considerations support a smaller sentence than would be called for otherwise"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2016 BCSC 171": {
+    "remove_crime_highlights": [
+      "Both men were polite and respectful to the Court, but refused to testify, even after receiving legal advice",
+      "It is very likely both men could have stated who it was that fired that shot."
+    ],
+    "source": "filler check",
+    "why": "witness demeanour and speculation, not offence acts"
+  },
+  "2016 BCSC 2148": {
+    "remove_crime_highlights": [
+      "made the mistake of offering them for sale to a plain-clothes constable of the Vancouver Police Department"
+    ],
+    "source": "filler check",
+    "why": "how the sale to police occurred is incidental"
+  },
+  "2016 BCSC 2497": {
+    "remove_crime_highlights": [
+      "the offender told his son to walk home and to take a black man-purse and a purple bag with him"
+    ],
+    "source": "filler check",
+    "why": "instruction to son is background to discovery"
+  },
+  "2016 BCSC 65": {
+    "remove_crime_highlights": [
+      "Mr. Casimir apparently purchased alcohol for the partygoers",
+      "The complainant became intoxicated and was put to bed by her friend."
+    ],
+    "source": "filler check",
+    "why": "background before the assault"
+  },
+  "2016 BCSC 683": {
+    "remove_crime_highlights": [
+      "the accused was driving his vehicle around Fort Ware with three passengers"
+    ],
+    "source": "filler check",
+    "why": "background before the crash"
+  },
+  "2017 BCSC 1187": {
+    "remove_crime_highlights": [
+      "Mr. Kalelest was identified as the man in the videos by Corporal Matthew Shearer",
+      "a man wearing a mask enters the store again"
+    ],
+    "source": "filler check",
+    "why": "video entry and identification are investigative",
+    "add_rationale_paras": [
+      10
+    ],
+    "add_rationale_highlights": [
+      "with particular attention to aboriginal offenders"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2017 BCSC 1801": {
+    "remove_crime_highlights": [
+      "Mr. Dalke panicked."
+    ],
+    "source": "filler check",
+    "why": "Victim panicking is weak; gun acts kept"
+  },
+  "2017 BCSC 2236": {
+    "remove_crime_highlights": [
+      "He stated that he bought the Handgun from someone on the street sometime before",
+      "Mr. Sellars was the right rear-seat passenger"
+    ],
+    "source": "filler check",
+    "why": "Seating position and purchase background are incidental"
+  },
+  "2017 BCSC 2288": {
+    "remove_crime_highlights": [
+      "As a result, they were unable to complete the Band audit in 2011",
+      "Sandra Andrew, who she knew to be a regular customer, had cashed two bad cheques that bounced"
+    ],
+    "source": "filler check",
+    "why": "Audit delay and bounced cheques are investigative detail"
+  },
+  "2017 BCSC 2463": {
+    "remove_crime_highlights": [
+      "Constable Johns found a large lump on Mr. Abraham's inner left thigh, which was found to be a small",
+      "Constable Patovirta saw a knife on the front passenger seat of the black sedan",
+      "It is not known how much fentanyl was in the heroin",
+      "Mr. Abraham's backpack contained a red address book with notations"
+    ],
+    "source": "filler check",
+    "why": "Police observation and search details; cash and address book are not serious acts"
+  },
+  "2017 BCSC 2485": {
+    "remove_crime_highlights": [
+      "Mr. Narcisse told Mr. K. to go away and tried to shuffle Mr. K. out of the room"
+    ],
+    "source": "filler check",
+    "why": "Telling witness to go away is incidental"
+  },
+  "2018 BCSC 1041": {
+    "remove_crime_highlights": [
+      "The shooter emerged from a vehicle stolen in Prince George",
+      "The shooting took place in the early morning hours (approximately 4:00 a.m.)"
+    ],
+    "source": "filler check",
+    "why": "Stolen vehicle and time of day are background"
+  },
+  "2018 BCSC 132": {
+    "remove_crime_highlights": [
+      "he has had enough and he was relieved to be getting out"
+    ],
+    "source": "filler check",
+    "why": "offender remark about wanting out, not a serious act"
+  },
+  "2018 BCSC 1350": {
+    "remove_crime_highlights": [
+      "The shooter emerged from a vehicle stolen in Prince George"
+    ],
+    "source": "filler check",
+    "why": "stolen vehicle origin is background"
+  },
+  "2018 BCSC 1595": {
+    "remove_crime_highlights": [
+      "Mr. Adolph had the exceptionally high blood-alcohol content of 400 mg% at the time of his death",
+      "Mr. Camille went to the office again at about 11:15 a.m. This time he asked the staff to call 911, telling them that Mr. Adolph appeared to be deceased"
+    ],
+    "source": "filler check",
+    "why": "calling 911 and blood alcohol are incidental"
+  },
+  "2018 BCSC 1995": {
+    "remove_crime_highlights": [
+      "Ms. Bransford had three cellphones and $1,870 in cash wrapped in an elastic band when she was arrested"
+    ],
+    "source": "filler check",
+    "why": "cellphones and cash on arrest are incidental"
+  },
+  "2018 BCSC 2392": {
+    "remove_crime_highlights": [
+      "they were both extremely intoxicated when they did arrive."
+    ],
+    "source": "filler check",
+    "why": "intoxication before arrival is background"
+  },
+  "2018 BCSC 2401": {
+    "remove_crime_highlights": [
+      "overused or taken out of the bottle and sold to other persons"
+    ],
+    "source": "filler check",
+    "why": "Crown inference about missing pills is speculative"
+  },
+  "2018 BCSC 987": {
+    "remove_crime_highlights": [
+      "In these chats, he indicated that his preference was for images of young girls under 12."
+    ],
+    "source": "filler check",
+    "why": "offender stated preference in chats, not a serious act"
+  },
+  "2019 BCSC 1452": {
+    "remove_crime_highlights": [
+      "he admitted the sexual contact as alleged and admitted that he knew the complainant's age"
+    ],
+    "source": "filler check",
+    "why": "investigative detail about police statement"
+  },
+  "2019 BCSC 1619": {
+    "remove_crime_highlights": [
+      "On September 26, 2018, the accused was convicted of one count of sexual interference contrary to s. 151 of the Criminal Code"
+    ],
+    "source": "filler check",
+    "why": "procedural conviction fact"
+  },
+  "2019 BCSC 1717": {
+    "remove_crime_highlights": [
+      "Ms. Sintihakis acknowledged that she had sold controlled substances to Corporal MacIntyre",
+      "Ms. Sintihakis led Corporal MacIntyre west into the alley and around the corner of a building"
+    ],
+    "source": "filler check",
+    "why": "walking to alley and later sentencing acknowledgement are incidental",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2019 BCSC 368": {
+    "remove_crime_highlights": [
+      "Mr. Louie insisted that the clerks accompany him out the front door"
+    ],
+    "source": "filler check",
+    "why": "asking clerks to accompany him is incidental"
+  },
+  "2020 BCSC 1139": {
+    "remove_crime_highlights": [
+      "Mr. Colligan replied that he could call"
+    ],
+    "source": "filler check",
+    "why": "offender saying he could call is incidental"
+  },
+  "2020 BCSC 1397": {
+    "remove_crime_highlights": [
+      "Mr. Morgan advised a police officer after the accident that she had been telling him to slow down."
+    ],
+    "source": "filler check",
+    "why": "passenger telling him to slow down is background",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 BCSC 2086": {
+    "remove_crime_highlights": [
+      "He complied with both demands."
+    ],
+    "source": "filler check",
+    "why": "clerk complied is not a serious act"
+  },
+  "2020 BCSC 2119": {
+    "remove_crime_highlights": [
+      "Mr. Singh became fearful and got out of the taxi"
+    ],
+    "source": "filler check",
+    "why": "driver getting out of taxi is incidental"
+  },
+  "2020 BCSC 213": {
+    "remove_crime_highlights": [
+      "These offences were committed when K.L. was alone with her father"
+    ],
+    "source": "filler check",
+    "why": "circumstance of when offences happened, not an act"
+  },
+  "2020 BCSC 2218": {
+    "remove_crime_highlights": [
+      "A.B. reluctantly obliged out of fear"
+    ],
+    "source": "filler check",
+    "why": "victim reluctance is incidental"
+  },
+  "2020 BCSC 352": {
+    "remove_crime_highlights": [
+      "Complainant Number 1 says that Mr. West was highly intoxicated"
+    ],
+    "source": "filler check",
+    "why": "intoxication note is background"
+  },
+  "2020 BCSC 536": {
+    "remove_crime_highlights": [
+      "Mr. Chappell let the male in.",
+      "The male subsequently left with a duffel bag.",
+      "The police arrested Mr. Chappell shortly before executing the search warrant."
+    ],
+    "source": "filler check",
+    "why": "investigative details and procedural facts"
+  },
+  "2020 BCSC 570": {
+    "remove_crime_highlights": [
+      "J.N.P. took her to a basement room containing old mattresses, clothes and an exercise machine.",
+      "She disclosed the incident to a teacher a couple of weeks later."
+    ],
+    "source": "filler check",
+    "why": "room description and later disclosure are background",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2021 BCSC 1194": {
+    "remove_crime_highlights": [
+      "I convicted Mr. Webber of sexually assaulting S.T.",
+      "Mr. Webber initially tried to blame what happened on his brother"
+    ],
+    "source": "filler check",
+    "why": "conviction procedure and blame-shifting messages are not serious acts",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2021 BCSC 1608": {
+    "remove_crime_highlights": [
+      "Mr. Goodacre was wearing a mask"
+    ],
+    "source": "filler check",
+    "why": "wearing a mask is incidental"
+  },
+  "2021 BCSC 1738": {
+    "remove_crime_highlights": [
+      "B.D.M. took his granddaughters and his young son on vacation to Cache Creek"
+    ],
+    "source": "filler check",
+    "why": "vacation trip is background"
+  },
+  "2021 BCSC 528": {
+    "remove_crime_highlights": [
+      "Mr. Page was taken to the hospital."
+    ],
+    "source": "filler check",
+    "why": "taken to hospital is thin detail"
+  },
+  "2021 BCSC 599": {
+    "remove_crime_highlights": [
+      "All of the sexual abuse occurred in the family home.",
+      "C.C.C. was more than a step-grandparent to the complainant. He was a father figure.",
+      "It ended in January 2019, when the complainant was 11 years old."
+    ],
+    "source": "filler check",
+    "why": "relationship, location and end date are background",
+    "add_rationale_paras": [
+      11
+    ],
+    "add_rationale_highlights": [
+      "spent two years at the Kamloops Indian Residential School"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2021 BCSC 853": {
+    "remove_crime_highlights": [
+      "police officers made observations consistent with Mr. Campbell selling drugs to end users and supplying street-level traffickers"
+    ],
+    "source": "filler check",
+    "why": "police surveillance observations, investigative detail"
+  },
+  "2022 BCSC 2151": {
+    "remove_crime_highlights": [
+      "At trial, Mr. Kazakoff admitted to being in possession of the seized drugs, but maintained they were for his personal use."
+    ],
+    "source": "filler check",
+    "why": "trial procedural fact about offender's denial"
+  },
+  "2022 BCSC 2493": {
+    "remove_crime_highlights": [
+      "Mr. Toop managed to make his way toward the east entrance of the parking lot"
+    ],
+    "source": "filler check",
+    "why": "victim walking away, not an act or harm"
+  },
+  "2023 BCSC 671": {
+    "remove_crime_highlights": [
+      "he kicked the door shut"
+    ],
+    "source": "filler check",
+    "why": "kicking door shut is incidental",
+    "add_rationale_paras": [
+      43
+    ],
+    "add_rationale_highlights": [
+      "intergenerational impacts of colonialism and displacement"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 85": {
+    "remove_crime_highlights": [
+      "it was located shortly thereafter by the police",
+      "no violence ensued"
+    ],
+    "source": "filler check",
+    "why": "no violence and police recovery are not serious acts"
+  },
+  "2023 BCSC 876": {
+    "remove_crime_highlights": [
+      "Mr. Aubie and Ms. Loranger are then observed leaving in a van",
+      "police observe Mr. Aubie continue to engage in drug trafficking activities"
+    ],
+    "source": "filler check",
+    "why": "police observation and van departure are investigative detail"
+  },
+  "2024 BCSC 1099": {
+    "remove_crime_highlights": [
+      "Police opened the trunk and found Mr. Soderberg."
+    ],
+    "source": "filler check",
+    "why": "police opening trunk is investigative detail"
+  },
+  "2024 BCSC 1278": {
+    "remove_crime_highlights": [
+      "This was not self-defence."
+    ],
+    "source": "filler check",
+    "why": "legal conclusion not an act"
+  },
+  "2024 BCSC 1325": {
+    "remove_crime_highlights": [
+      "Mr. Tyabji invited K.C. to his home to look at some photo books. He kissed her for the first time on that occasion."
+    ],
+    "source": "filler check",
+    "why": "invitation and first kiss is background",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 BCSC 1821": {
+    "remove_crime_highlights": [
+      "D.W. told Mr. Walkus that he was not welcome in her apartment and should leave"
+    ],
+    "source": "filler check",
+    "why": "being told to leave is background"
+  },
+  "2024 BCSC 2177": {
+    "remove_crime_highlights": [
+      "Mr. Hooper kicked Moose and Alyssa out of the car"
+    ],
+    "source": "filler check",
+    "why": "kicking others out of car is incidental"
+  },
+  "2024 BCSC 876": {
+    "remove_crime_highlights": [
+      "He attempted to flee.",
+      "Mr. Mcintosh was seen driving a motor vehicle which he was prohibited from doing"
+    ],
+    "source": "filler check",
+    "why": "prohibited driving and flight are incidental, not serious harm"
+  },
+  "2025 BCSC 1296": {
+    "remove_crime_highlights": [
+      "He did this despite knowing she was underage and struggling with substance abuse."
+    ],
+    "source": "filler check",
+    "why": "knowledge of age is background, not a violent act"
+  },
+  "2025 BCSC 1414": {
+    "remove_crime_highlights": [
+      "M.R. called a crisis line and eventually met the police outside the residence and was taken by ambulance to Victoria General Hospital."
+    ],
+    "source": "filler check",
+    "why": "post-offence calls and transport are procedural"
+  },
+  "2025 BCSC 1980": {
+    "remove_crime_highlights": [
+      "S.M.P. told S.S. to come to his bedroom"
+    ],
+    "source": "filler check",
+    "why": "summoning to bedroom is background before the assault"
+  },
+  "2025 BCSC 2302": {
+    "remove_crime_highlights": [
+      "The three males fled, taking property from the home as they did so"
+    ],
+    "source": "filler check",
+    "why": "fleeing with property is incidental",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 BCSC 2353": {
+    "remove_crime_highlights": [
+      "Mr. Christensen had been loitering in the vicinity for about 20 minutes"
+    ],
+    "source": "filler check",
+    "why": "loitering beforehand is background detail"
+  },
+  "2025 BCSC 2460": {
+    "remove_crime_highlights": [
+      "The police located Mr. Budd in the upstairs master bedroom with a black backpack near his feet.",
+      "the police observed Mr. Budd leaving the residence and walking to engage in what appeared to be hand-to-hand interactions with persons that he met in an alley"
+    ],
+    "source": "filler check",
+    "why": "investigative observations, not the trafficking itself"
+  },
+  "2025 BCSC 2550": {
+    "remove_crime_highlights": [
+      "One of those residences, an apartment on Howe Street downtown, was Mr. Trembley's residence."
+    ],
+    "source": "filler check",
+    "why": "location of residence is background"
+  },
+  "2025 BCSC 2574": {
+    "remove_crime_highlights": [
+      "He had a laceration over his left eyebrow"
+    ],
+    "source": "filler check",
+    "why": "minor injury detail among extensive injuries",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 BCSC 2616": {
+    "remove_crime_highlights": [
+      "Constable Howells tackled Mr. Kipp to the ground and handcuffed him"
+    ],
+    "source": "filler check",
+    "why": "arrest procedure detail"
+  },
+  "2025 BCSC 759": {
+    "remove_crime_highlights": [
+      "Mr. Hunter also had a bundle of thousands of dollars of cash in his jacket pocket"
+    ],
+    "source": "filler check",
+    "why": "cash found is investigative detail"
+  },
+  "2025 BCSC 944": {
+    "remove_crime_highlights": [
+      "He did not remove his right hand from a pocket in his hoodie"
+    ],
+    "source": "filler check",
+    "why": "police observation of hand in pocket",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1113": {
+    "remove_crime_highlights": [
+      "Marshall then opened his bedroom door and saw Dorian covered in blood at the bottom of the stairs."
+    ],
+    "source": "filler check",
+    "why": "Bystander seeing blood, incidental"
+  },
+  "2026 BCSC 1120": {
+    "remove_crime_highlights": [
+      "Mr. Frank, then 67, was her grandmother's long-term partner"
+    ],
+    "source": "filler check",
+    "why": "Background relationship detail",
+    "drop_tags": [
+      "Gladue factors",
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1146": {
+    "remove_crime_highlights": [
+      "E.D. awoke and disclosed to Mr. Nicholas' daughter what had occurred"
+    ],
+    "source": "filler check",
+    "why": "Disclosure to daughter is procedural aftermath"
+  },
+  "2026 BCSC 1207": {
+    "remove_crime_highlights": [
+      "C.B. entered the washroom under the pretext of assisting C.M.A. with hygiene."
+    ],
+    "source": "filler check",
+    "why": "Pretext detail, not itself the serious act",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1292": {
+    "remove_crime_highlights": [
+      "Mr. Collier came to Vernon and he and A.L. had arranged to meet at his hotel room"
+    ],
+    "source": "filler check",
+    "why": "Meeting arrangement is background"
+  },
+  "2026 BCSC 1329": {
+    "remove_crime_highlights": [
+      "Mr. Peppin proceeded to place the two suitcases into the bed of the truck and then got into the back seat"
+    ],
+    "source": "filler check",
+    "why": "Investigative observation of loading suitcases"
+  },
+  "2026 BCSC 1377": {
+    "remove_crime_highlights": [
+      "officers recognized Mr. Dubois sleeping in the rear seat with a cellphone in hand and a bat in the footwell"
+    ],
+    "source": "filler check",
+    "why": "Police observation of sleeping in car",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 170": {
+    "remove_crime_highlights": [
+      "The truck came to rest on its roof."
+    ],
+    "source": "filler check",
+    "why": "Truck resting position is incidental",
+    "add_rationale_paras": [
+      24,
+      59
+    ],
+    "add_rationale_highlights": [
+      "experiencing racism, both because of her Indigenous heritage and the fact her mother is Mexican",
+      "places her Gladue factors within the overarching conceptual and historical context of colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1732": {
+    "remove_crime_highlights": [
+      "they left the [Family] home as soon as they were able, to avoid the sexual abuse that happened there"
+    ],
+    "source": "filler check",
+    "why": "Leaving home is background",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 248": {
+    "remove_crime_highlights": [
+      "Mr. Knight was arrested at approximately 10:00 a.m. for possession of a controlled substance"
+    ],
+    "source": "filler check",
+    "why": "arrest detail, not a serious act"
+  },
+  "2026 BCSC 322": {
+    "remove_crime_highlights": [
+      "he hid the knife he had used to kill Ms. Blimkie"
+    ],
+    "source": "filler check",
+    "why": "post-offence concealment of knife"
+  },
+  "2026 BCSC 377": {
+    "remove_crime_highlights": [
+      "Mr. Aronson was searched incidental to arrest"
+    ],
+    "source": "filler check",
+    "why": "how the search began"
+  },
+  "2026 BCSC 591": {
+    "remove_crime_highlights": [
+      "Mr. McCook consumed very large quantities of alcohol and became profoundly intoxicated"
+    ],
+    "source": "filler check",
+    "why": "background intoxication, not an act or harm"
+  },
+  "2026 BCSC 787": {
+    "remove_crime_highlights": [
+      "The man (who was later identified as Mr. Craig) immediately fled the area on foot.",
+      "the pursuing officer was certain that Mr. Craig was the same individual he observed setting the Ford F350 on fire"
+    ],
+    "source": "filler check",
+    "why": "flight and identification details",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2021 NSCA 62": {
+    "remove_crime_highlights": [
+      "Mr. Anderson was arrested and charged with a number of firearms-related offences.",
+      "Rakeem Anderson was stopped by police at a random motor vehicle checkpoint on Highway 102"
+    ],
+    "source": "filler check",
+    "why": "checkpoint stop and arrest are procedural"
+  },
+  "2023 NSCA 53": {
+    "remove_crime_highlights": [
+      "The passenger promptly turned back and called 911."
+    ],
+    "source": "filler check",
+    "why": "passenger calling 911 is incidental"
+  },
+  "2023 NSCA 58": {
+    "remove_crime_highlights": [
+      "In the ninth month of her pregnancy, her mother threw her out of the house."
+    ],
+    "source": "filler check",
+    "why": "mother throwing her out is background"
+  },
+  "2024 NSCA 59": {
+    "remove_crime_highlights": [
+      "The assault was captured on video and witnessed by passers-by."
+    ],
+    "source": "filler check",
+    "why": "video and passers-by is incidental"
+  },
+  "2009 NSPC 28": {
+    "remove_crime_highlights": [
+      "L.S. was lured out to a meeting that he thought would be with H.N."
+    ],
+    "source": "filler check",
+    "why": "how victim was lured is background"
+  },
+  "2012 NSPC 104": {
+    "remove_crime_highlights": [
+      "A.S. knew that Gallant had entered Lavinia Campbell’s bedroom"
+    ],
+    "source": "filler check",
+    "why": "co-offender awareness is not a violent act",
+    "add_rationale_paras": [
+      9
+    ],
+    "add_rationale_highlights": [
+      "The residential schooling system is one example of how assimilationist government policies have had far reaching implications"
+    ],
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2013 NSPC 46": {
+    "remove_crime_highlights": [
+      "Mr. Maloney’s degree of responsibility was substantial"
+    ],
+    "source": "filler check",
+    "why": "generic degree of responsibility statement"
+  },
+  "2016 NSPC 25": {
+    "remove_crime_highlights": [
+      "Leroy David Denny was behind the wheel when stopped by police on 1 August 2015 at 2305hrs and on 24 October 2015 at 0230hrs",
+      "the officers who stopped Mr. Denny believed that his ability to drive was impaired by alcohol and made breath demands"
+    ],
+    "source": "filler check",
+    "why": "traffic stop and police belief are investigative detail",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2016 NSPC 68": {
+    "remove_crime_highlights": [
+      "Dartmouth Metals had paid Mr. Bowser and Mr. Cameron an amount between $8000 and $9000"
+    ],
+    "source": "filler check",
+    "why": "payment received is incidental detail"
+  },
+  "2017 NSPC 48": {
+    "remove_crime_highlights": [
+      "He would pay four or five dollars per Hydromorphone tablet and sell some to his friends for seven dollars",
+      "Mr. Christmas was kneeling by his stove in the kitchen, trying to hide pills"
+    ],
+    "source": "filler check",
+    "why": "hiding pills and resale prices are incidental"
+  },
+  "2018 NSPC 56": {
+    "remove_crime_highlights": [
+      "you, at age 12, at the behest of two older youth became involved in this caper that went badly wrong"
+    ],
+    "source": "filler check",
+    "why": "background about age and involvement, not a serious act",
+    "drop_tags": [
+      "Intergenerational trauma"
+    ],
+    "add_rationale_paras": [
+      9
+    ],
+    "add_rationale_highlights": [
+      "government policies which were racist and harmful to your people",
+      "residential school strategy designed to strip indigenous persons of their cultural, linguistic, and spiritual identities impacted on your First Nation",
+      "historic mistreatment of them through colonialism and government policies which were racist and harmful to your people"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2018 NSPC 83": {
+    "remove_crime_highlights": [
+      "He got the drugs and walked out of the store, not rushing.",
+      "Mr. Syliboy wanted to be arrested so he would be held at the Burnside Correctional Facility"
+    ],
+    "source": "filler check",
+    "why": "walking out and motive for arrest are not serious acts",
+    "add_rationale_paras": [
+      28,
+      27
+    ],
+    "add_rationale_highlights": [
+      "acting out inter-generational grief resultant from unresolved personal and inter-generational trauma",
+      "adverse impact of many factors continuing to plaque Aboriginal communities post-colonization"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2019 NSPC 13": {
+    "remove_crime_highlights": [
+      "Mr. Lafitte was searched incidental to his arrest and in the front pockets of his sweatpants, police officers located $765 in Canadian currency"
+    ],
+    "source": "filler check",
+    "why": "cash found on search is incidental"
+  },
+  "2019 NSPC 74": {
+    "remove_crime_highlights": [
+      "Mr. Etmanskie was the target; it was his apartment"
+    ],
+    "source": "filler check",
+    "why": "target and apartment ownership is investigative background"
+  },
+  "2019 NSPC 87": {
+    "remove_crime_highlights": [
+      "Mr. A told the child to go back to bed"
+    ],
+    "source": "filler check",
+    "why": "telling child to go back to bed is incidental",
+    "add_rationale_paras": [
+      33,
+      41
+    ],
+    "add_rationale_highlights": [
+      "The traumas suffered by Mr. A’s father in the residential school took a toll on him and his family",
+      "He has personally experienced the adverse impact of many factors continuing to plague the aboriginal communities since colonization"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 NSPC 1": {
+    "remove_crime_highlights": [
+      "She changed her plea to guilty on the trial date",
+      "She was arrested at 5:50 p.m. on March 3, 2018, at Fall River"
+    ],
+    "source": "filler check",
+    "why": "arrest location and plea are procedural"
+  },
+  "2020 NSPC 10": {
+    "remove_crime_highlights": [
+      "After trial Rakeem Anderson was found guilty of the following charges",
+      "Twenty-three-year-old Rakeem Anderson, the driver and lone occupant of a motor vehicle, was stopped at a random checkpoint on 102 Highway at 10 o’clock at night."
+    ],
+    "source": "filler check",
+    "why": "convictions list and checkpoint stop are procedural or investigative",
+    "drop_tags": [
+      "Intergenerational trauma"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 NSPC 63": {
+    "remove_crime_highlights": [
+      "A cell phone extraction and expert report provided evidence to classify Mr. Beals as a petty trafficker."
+    ],
+    "source": "filler check",
+    "why": "expert classification is evidentiary detail"
+  },
+  "2023 NSPC 68": {
+    "remove_crime_highlights": [
+      "The police search of the residence where he sporadically stayed produced $20,000 in Canadian currency"
+    ],
+    "source": "filler check",
+    "why": "cash found at residence is investigative"
+  },
+  "2024 NSPC 45": {
+    "remove_crime_highlights": [
+      "they arrested him, but he took off."
+    ],
+    "source": "filler check",
+    "why": "flight from police is incidental"
+  },
+  "2014 NSSC 463": {
+    "remove_crime_highlights": [
+      "All of the items taken during the break and enter were subsequently recovered and returned to their owners",
+      "Mr. Bernard acknowledged to police that he had committed the break and enter"
+    ],
+    "source": "filler check",
+    "why": "police admission and recovery of items are investigative"
+  },
+  "2017 NSSC 173": {
+    "remove_crime_highlights": [
+      "Mr. Prosper followed"
+    ],
+    "source": "filler check",
+    "why": "merely following the victim, background"
+  },
+  "2019 NSSC 157": {
+    "remove_crime_highlights": [
+      "These incidents occurred when Mr. P. was babysitting his sister at home"
+    ],
+    "source": "filler check",
+    "why": "babysitting circumstance, background"
+  },
+  "2019 NSSC 386": {
+    "remove_crime_highlights": [
+      "Mr. Sudds left the taxi saying he would be back, and he got into the front passenger seat of the Charger"
+    ],
+    "source": "filler check",
+    "why": "getting into a car is incidental",
+    "add_rationale_paras": [
+      29
+    ],
+    "add_rationale_highlights": [
+      "each of those communities has had, and continues to have, its struggles with systemic racism, economic disenfranchisement, and poor educational outcomes"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2021 NSSC 54": {
+    "remove_crime_highlights": [
+      "the police searched Shancy Simmonds and found 0.6 grams of crack cocaine, 4.2 grams of cannabis, a small scale, and $2,035 in cash"
+    ],
+    "source": "filler check",
+    "why": "Initial search on the street is investigative detail"
+  },
+  "2022 NSSC 213": {
+    "remove_crime_highlights": [
+      "acting on impulse, he did have to take steps to act on the impulse"
+    ],
+    "source": "filler check",
+    "why": "Reasoning about impulse, not a serious act or harm"
+  },
+  "2022 NSSC 215": {
+    "remove_crime_highlights": [
+      "He can be seen on the security camera video recording blocking their access to the cell"
+    ],
+    "source": "filler check",
+    "why": "Camera footage detail duplicates the blocking highlight"
+  },
+  "2022 NSSC 90": {
+    "remove_crime_highlights": [
+      "The fact that it was part of a pattern of criminal behaviour over an extended time in a domestic relationship"
+    ],
+    "source": "filler check",
+    "why": "Sentencing commentary rather than an act or harm"
+  },
+  "2022 NSSC 95": {
+    "remove_crime_highlights": [
+      "he was observed to have shoved baggies with white powder residue between the wall and the table in the interview room"
+    ],
+    "source": "filler check",
+    "why": "Concealing baggies in interview room is investigative detail"
+  },
+  "2023 NSSC 317": {
+    "remove_crime_highlights": [
+      "The three of them burned clothing, including some of their own, and other items in a fire pit at the residence. They also burned a blood-soaked mattress.",
+      "They later burned the truck and discarded a severed leg."
+    ],
+    "source": "filler check",
+    "why": "Post-offence disposal and cleanup, not the serious acts",
+    "drop_tags": [
+      "Intergenerational trauma"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 NSSC 412": {
+    "remove_crime_highlights": [
+      "On December 22, 2020, Mr. Wint drove from the Apartment to a Walmart Supercentre located on Damascus Drive in Bedford, Nova Scotia.",
+      "the police also executed a search warrant at Mr. Wint’s Apartment"
+    ],
+    "source": "filler check",
+    "why": "Driving to Walmart and search warrant are investigative details"
+  },
+  "2023 NSSC 85": {
+    "remove_crime_highlights": [
+      "CC again got up in the middle of the night to use the bathroom",
+      "WCC called CC over to watch it with him",
+      "WCC was about 36 years old at the time. CC was about 6 years old."
+    ],
+    "source": "filler check",
+    "why": "Background and setup details, not the serious acts"
+  },
+  "2024 NSSC 208": {
+    "remove_crime_highlights": [
+      "Tyere left Vincent’s house without offering any medical assistance"
+    ],
+    "source": "filler check",
+    "why": "Leaving without aid is post-offence conduct"
+  },
+  "2024 NSSC 217": {
+    "remove_crime_highlights": [
+      "Alex Thomas punched Mr. Whynder-Ewing."
+    ],
+    "source": "filler check",
+    "why": "Victim punch is background provocation, not offender serious act"
+  },
+  "2024 NSSC 33": {
+    "remove_crime_highlights": [
+      "B.J.L. was standing by the TV and said he was going to show her a trick but not to tell anyone."
+    ],
+    "source": "filler check",
+    "why": "incidental grooming remark, not the assault itself"
+  },
+  "2025 NSSC 133": {
+    "remove_crime_highlights": [
+      "Mr. Carvery was on parole and due to attend one of the required drug counselling sessions at the MacDonald Building"
+    ],
+    "source": "filler check",
+    "why": "background about parole and counselling"
+  },
+  "2025 NSSC 156": {
+    "remove_crime_highlights": [
+      "There were two males (Mr. Marsman and Anthony Corradini) inside the vehicle sleeping.",
+      "They located a Chevrolet Cruze parked on Skeena Street with a license plate that had been reported stolen."
+    ],
+    "source": "filler check",
+    "why": "people sleeping and stolen plate are investigative details"
+  },
+  "2025 NSSC 32": {
+    "remove_crime_highlights": [
+      "Mr. Borden told police that whatever they find belongs to him"
+    ],
+    "source": "filler check",
+    "why": "statement to police, not a serious act"
+  },
+  "2026 NSSC 25": {
+    "remove_crime_highlights": [
+      "Devyn Dennis and Darroll Atwell went to Darroll Atwell’s place and got his truck.",
+      "it was not a social visit. It was reasonable to infer that the interaction could well involve violence or threats of violence by one or both sides of that exchange."
+    ],
+    "source": "filler check",
+    "why": "inference about visit and fetching a truck are filler"
+  },
+  "2008 ONCA 623": {
+    "remove_crime_highlights": [
+      "the appellant had been drinking and taking drugs for many hours prior to the offence",
+      "the offence was not planned and deliberate but rather committed on spur of the moment"
+    ],
+    "source": "filler check",
+    "why": "mitigating context, not serious acts or harm"
+  },
+  "2009 ONCA 114": {
+    "remove_crime_highlights": [
+      "The Sudbury region was locked down and all cars leaving the city were searched."
+    ],
+    "source": "filler check",
+    "why": "police response, not the offender's act or harm"
+  },
+  "2011 ONCA 383": {
+    "remove_crime_highlights": [
+      "The trial judge also erred in treating this offence as a breach of trust.",
+      "the use of oxycontin, which was the cause of the offence in this case, is pervasive in the community"
+    ],
+    "source": "filler check",
+    "why": "community context and legal error, not serious facts"
+  },
+  "2013 ONCA 177": {
+    "remove_crime_highlights": [
+      "Johnson was arrested for weapons offences",
+      "Johnson was sitting alone in the backseat"
+    ],
+    "source": "filler check",
+    "why": "seating position and arrest are incidental"
+  },
+  "2016 ONCA 843": {
+    "remove_crime_highlights": [
+      "Surveillance officers were present in the parking lot, saw the transaction and arrested both Dawson and the appellant."
+    ],
+    "source": "filler check",
+    "why": "surveillance and arrest are investigative detail"
+  },
+  "2018 ONCA 1029": {
+    "remove_crime_highlights": [
+      "The occupant of that vehicle tried to roll up the window."
+    ],
+    "source": "filler check",
+    "why": "victim rolling up window is incidental",
+    "add_rationale_paras": [
+      7
+    ],
+    "add_rationale_highlights": [
+      "the survivor of intergenerational suffering"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2021 ONCA 208": {
+    "remove_crime_highlights": [
+      "The appellant pled guilty to both the May and September offences"
+    ],
+    "source": "filler check",
+    "why": "guilty plea is procedural"
+  },
+  "2022 ONCA 863": {
+    "remove_crime_highlights": [
+      "She was returning from St. Maarten, travelling alone"
+    ],
+    "source": "filler check",
+    "why": "travel details are incidental"
+  },
+  "2023 ONCA 599": {
+    "remove_crime_highlights": [
+      "The crimes are undoubtedly very serious"
+    ],
+    "source": "filler check",
+    "why": "conclusion not an act"
+  },
+  "2023 ONCA 808": {
+    "remove_crime_highlights": [
+      "the respondent had engaged in his drug trafficking to support his own drug addiction issues"
+    ],
+    "source": "filler check",
+    "why": "background motive not a serious act"
+  },
+  "2026 SCC 32": {
+    "remove_crime_highlights": [
+      "Mr. Cope’s prolonged and brutal assault was captured by a nearby surveillance video"
+    ],
+    "source": "filler check",
+    "why": "surveillance video capture is investigative detail, not a serious act or harm"
+  },
+  "2022 BCSC 718": {
+    "remove_crime_highlights": [
+      "Mr. Lypowich acknowledged that the drugs and money were his"
+    ],
+    "source": "filler check",
+    "why": "Post-arrest acknowledgment is procedural, not a serious act"
+  },
+  "2023 BCSC 1026": {
+    "remove_crime_highlights": [
+      "He later collided with a second police vehicle and was apprehended"
+    ],
+    "source": "filler check",
+    "why": "Collision with second police vehicle and apprehension is incidental",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 1031": {
+    "remove_crime_highlights": [
+      "Another video showed Mr. Hue crying as he recited a memory about his grandmother."
+    ],
+    "source": "filler check",
+    "why": "Recitation of a memory is not a serious act",
+    "add_rationale_paras": [
+      139,
+      96
+    ],
+    "add_rationale_highlights": [
+      "Islamophobia, and racism",
+      "life as young Black men growing up in Canada"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 1722": {
+    "remove_crime_highlights": [
+      "The pharmacy is soon choked in haze and floating embers."
+    ],
+    "source": "filler check",
+    "why": "Haze and embers is descriptive filler"
+  },
+  "2023 BCSC 2342": {
+    "remove_crime_highlights": [
+      "she had to move a laundry basket that was propped up against the door"
+    ],
+    "source": "filler check",
+    "why": "Moving laundry basket is incidental detail"
+  },
+  "2023 BCSC 2474": {
+    "remove_crime_highlights": [
+      "It was not long after this incident that the complainant moved out of the home"
+    ],
+    "source": "filler check",
+    "why": "Moving out of home is background, not the act",
+    "add_rationale_paras": [
+      36
+    ],
+    "add_rationale_highlights": [
+      "His Indigeneity engages s. 718.2(e) of the Criminal Code and the sentencing principles articulated in the leading cases of R. v. Gladue"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2012 BCSC 780": {
+    "add_rationale_paras": [
+      56
+    ],
+    "add_rationale_highlights": [
+      "Gladue and Ipeelee which I have considered as well"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2013 BCSC 2335": {
+    "add_rationale_paras": [
+      3
+    ],
+    "add_rationale_highlights": [
+      "Both of the accused's parents are residential school survivors"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2014 BCSC 2597": {
+    "add_rationale_paras": [
+      19
+    ],
+    "add_rationale_highlights": [
+      "Pre-Sentence Report, covering the Gladue factors"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2015 BCSC 1032": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2016 BCSC 1449": {
+    "add_rationale_paras": [
+      23
+    ],
+    "add_rationale_highlights": [
+      "racially antipathetic to aboriginal persons"
+    ],
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2016 BCSC 2291": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2016 NSPC 83": {
+    "add_rationale_paras": [
+      45,
+      8
+    ],
+    "add_rationale_highlights": [
+      "whose conduct is linked closely to systemic discrimination",
+      "were victims of residential schooling"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2017 BCCA 227": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2017 BCCA 389": {
+    "add_rationale_paras": [
+      12
+    ],
+    "add_rationale_highlights": [
+      "intergenerational effects of residential schools",
+      "racism and systemic discrimination"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2017 BCSC 1054": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2018 BCCA 339": {
+    "add_rationale_paras": [
+      14
+    ],
+    "add_rationale_highlights": [
+      "the appellant's parents both attended residential school"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2018 BCSC 1405": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2019 BCSC 1039": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2019 BCSC 1960": {
+    "add_rationale_paras": [
+      42
+    ],
+    "add_rationale_highlights": [
+      "intergenerational effects of the residential school experience suffered by his mother and his grandparents have exacerbated his social isolation",
+      "The intergenerational effects of the residential school experience suffered by his mother and his grandparents"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2019 BCSC 2068": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 BCSC 1395": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 BCSC 1420": {
+    "add_rationale_paras": [
+      44,
+      50
+    ],
+    "add_rationale_highlights": [
+      "Mr. Poorman experienced racism at school",
+      "experienced sexual abuse in the residential school he attended"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 BCSC 907": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 NSSC 265": {
+    "add_rationale_paras": [
+      4
+    ],
+    "add_rationale_highlights": [
+      "Mr. Murphy identifies as both African Nova Scotian and Mi’kmaq"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 ONCA 786": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2021 BCSC 1004": {
+    "add_rationale_paras": [
+      10
+    ],
+    "add_rationale_highlights": [
+      "His mother suffered extensive physical and sexual abuse in her childhood"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2022 BCSC 1397": {
+    "add_rationale_paras": [
+      13
+    ],
+    "add_rationale_highlights": [
+      "His father attended a Residential School, as had his grandfather"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2022 BCSC 1773": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2022 BCSC 2348": {
+    "add_rationale_paras": [
+      22
+    ],
+    "add_rationale_highlights": [
+      "experiencing his Indigenous heritage in the form of the impacts of colonization"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2022 BCSC 641": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2022 BCSC 658": {
+    "add_rationale_paras": [
+      15
+    ],
+    "add_rationale_highlights": [
+      "maternal and paternal grandparents attended Indian residential school"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2022 NSPC 59": {
+    "add_rationale_paras": [
+      18
+    ],
+    "add_rationale_highlights": [
+      "directly felt the harm caused by the Indian Day Schools",
+      "the long history of colonization which has oppressed Indigenous people"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCCA 65": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 1810": {
+    "add_rationale_paras": [
+      111,
+      42
+    ],
+    "add_rationale_highlights": [
+      "intergenerational impacts of colonialism and displacement",
+      "Her father's mother is Indigenous and may have been a residential school survivor"
+    ],
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 2236": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 2288": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 2309": {
+    "add_rationale_paras": [
+      31
+    ],
+    "add_rationale_highlights": [
+      "the significant likelihood that the intergenerational trauma encompassed by Gladue considerations had a role to play in his being before the court"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 377": {
+    "add_rationale_paras": [
+      7
+    ],
+    "add_rationale_highlights": [
+      "complex harm that colonization and discrimination have inflicted on Aboriginal peoples"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 753": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 999": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 BCSC 1022": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 BCSC 1191": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 BCSC 1204": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 BCSC 1313": {
+    "add_rationale_paras": [
+      74
+    ],
+    "add_rationale_highlights": [
+      "break the vicious cycle of intergenerational trauma",
+      "inflicted on Indigenous people because of colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 BCSC 575": {
+    "add_rationale_paras": [
+      22
+    ],
+    "add_rationale_highlights": [
+      "all four of M.K.M.'s grandparents, who are now deceased, attended residential schools"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 BCSC 947": {
+    "add_rationale_paras": [
+      63
+    ],
+    "add_rationale_highlights": [
+      "His mother and father were Indian Residential School (IRS) survivors"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2024 NSPC 31": {
+    "drop_tags": [
+      "Other prejudice"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 BCCA 214": {
+    "add_rationale_paras": [
+      14
+    ],
+    "add_rationale_highlights": [
+      "Mr. Izzard's mother identified as Black and lived in a Black community in Toronto"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 BCSC 2418": {
+    "add_rationale_paras": [
+      22
+    ],
+    "add_rationale_highlights": [
+      "impact on the culture and social organization resulting from factors associated with colonization of both the community and nation"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 BCSC 394": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 BCSC 735": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 ONCA 51": {
+    "add_rationale_paras": [
+      109
+    ],
+    "add_rationale_highlights": [
+      "Several of the appellant’s relatives attended residential schools"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCCA 273": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1446": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1477": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1767": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 1783": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 2194": {
+    "add_rationale_paras": [
+      12
+    ],
+    "add_rationale_highlights": [
+      "Mr. Arnet is an intergenerational survivor of the Indian residential school system"
+    ],
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 BCSC 856": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 NSSC 330": {
+    "add_rationale_paras": [
+      47,
+      113
+    ],
+    "add_rationale_highlights": [
+      "the intergenerational trauma experienced by his family and community played a significant role",
+      "burdened by the transgenerational harms inflicted by residential school"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2026 ONCA 113": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  }
+}

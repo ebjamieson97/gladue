@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3499,driving,HIGH,Driving while disqualified and failing to stop for police
+F3500,weapons;other,HIGH,Firearm possession offences and breach of prohibition orders
+F3501,drugs,HIGH,Possession of cocaine for trafficking and trafficking
+F3502,theft_fraud,HIGH,Possession of stolen property
+F3503,driving;break_enter;theft_fraud,LOW,Dangerous driving plus property offences including break and enter
+F3504,homicide,HIGH,Second degree murder
+F3505,homicide,HIGH,Manslaughter during home invasion
+F3506,drugs,HIGH,Possession of cocaine and heroin for trafficking
+F3507,theft_fraud;assault;driving,HIGH,Theft over and criminal negligence causing bodily harm and leaving scene
+F3508,sexual,HIGH,Sexual assault predicate offence for dangerous offender designation
+F3509,drugs,HIGH,Trafficking in cocaine
+F3510,none,LOW,Offences not shown; only credit for custody
+F3511,kidnapping;break_enter,HIGH,Attempted child abduction and unlawfully in dwelling
+F3512,assault;other,HIGH,Aggravated assault and breach of probation by youth
+F3513,sexual,HIGH,Sexual assault and invitation to sexual touching
+F3514,assault,HIGH,Aggravated assault
+F3515,assault;kidnapping;other;break_enter;theft_fraud,HIGH,Aggravated assaults and confinement and threats and B&E and thefts
+F3516,theft_fraud,HIGH,Fraud over and uttering forged document
+F3517,assault,HIGH,Aggravated assault by stabbing
+F3518,assault;weapons,HIGH,Aggravated assault and weapon possession for dangerous purpose
+F3519,none,LOW,Offence not shown; jurisdiction appeal
+F3520,theft_fraud,HIGH,Fraud and possession of stolen property

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0411,N,X,N,X,X,X,X,X,X,N,HIGH,Gladue factors mentioned only in other cases and law
+M0412,M,X,X,X,X,X,X,X,X,N,HIGH,Failure to apply Gladue led to reduced sentence
+M0413,X,X,X,X,M,N,X,X,X,N,HIGH,Judge recognized anti-Black racism as mitigating but outweighed
+M0414,M,M,M,M,X,X,X,X,X,N,HIGH,Colonization and residential school trauma reduced moral blameworthiness
+M0415,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but little information so no significant weight
+M0416,R,X,X,X,X,X,X,X,X,N,LOW,Aboriginal status unclear and 718.2(e) not applied
+M0417,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for restraint principle
+M0418,M,M,M,X,X,N,X,X,X,N,HIGH,Gladue and colonialism impacts considered for Indigenous offender
+M0419,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for proportionality
+M0420,M,X,X,X,X,X,X,X,X,N,HIGH,Judge applied aboriginal sentencing principles in imposing conditional term

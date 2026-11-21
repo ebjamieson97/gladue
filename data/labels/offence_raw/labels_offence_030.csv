@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0639,homicide,HIGH,Murder with parole ineligibility review
+F0640,drugs;theft_fraud,HIGH,Fentanyl possession for trafficking and possession of proceeds of crime
+F0641,weapons;other,HIGH,Discharging firearm with intent and firearm possession and breach of probation
+F0642,theft_fraud,HIGH,Fraud over $5000 and uttering forged documents
+F0643,break_enter,LOW,Break enter and theft but conviction quashed on appeal
+F0644,drugs;other,HIGH,Conspiracy to import cocaine and breach of trust
+F0645,sexual,LOW,Offence unclear; s. 161 order suggests sexual offence against child
+F0646,theft_fraud;other,HIGH,Forged document and attempted fraud and attempted obstruct justice
+F0647,theft_fraud,HIGH,Fraud and conspiracy to defraud Government of Canada
+F0648,other,HIGH,Fisheries Act offences
+F0649,robbery;weapons;assault;other,HIGH,Robberies with imitation firearm and masked face and assault
+F0650,homicide,HIGH,Second degree murder
+F0651,drugs,HIGH,Importing cocaine
+F0652,sexual,LOW,Exploitation of young teenage girls sale of sexual services
+F0653,robbery,HIGH,Robbery
+F0654,homicide,HIGH,Manslaughter with a firearm
+F0655,assault,HIGH,Assault and assault of peace officer
+F0656,break_enter;sexual,HIGH,Break and enter and sexual assault
+F0657,sexual,HIGH,Sexual touching and invitation to sexual touching
+F0658,drugs,HIGH,Possession of heroin for the purpose of trafficking
+F0659,sexual;assault,HIGH,Sexual assault and assault
+F0660,theft_fraud,HIGH,Forgery

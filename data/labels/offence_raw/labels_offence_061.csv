@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1321,drugs;theft_fraud;other,HIGH,Marihuana production; mischief; theft of electricity
+F1322,drugs;other,HIGH,Trafficking heroin; possession heroin; breach of recognizance
+F1323,homicide,HIGH,Manslaughter of aunt
+F1324,driving,HIGH,Impaired driving causing bodily harm x2
+F1325,drugs,HIGH,Importing cocaine; possession for purpose of trafficking
+F1326,theft_fraud,LOW,Possession of stolen goods; conditional sentence
+F1327,homicide,HIGH,Manslaughter during armed home invasion robbery
+F1328,weapons;other,HIGH,Restricted firearm possession; breach of prohibition orders; breach of release order
+F1329,assault,HIGH,Aggravated assault on mother
+F1330,sexual,HIGH,Sexual exploitation and sexual interference of daughter
+F1331,sexual,HIGH,Sexual interference with 14-year-old
+F1332,drugs,HIGH,Possession for purpose of trafficking crack cocaine
+F1333,none,LOW,Excerpt does not show the offences
+F1334,homicide,HIGH,Second degree murder
+F1335,none,LOW,Abandoned appeal; offences not shown
+F1336,none,LOW,Sentence appeal; offences not shown
+F1337,homicide;other,HIGH,Manslaughter and arson
+F1338,assault;other,HIGH,Assault with a weapon x3; uttering death threats x2
+F1339,none,LOW,Sentence appeal; offences not shown
+F1340,sexual,HIGH,Sexual assault of a minor
+F1341,homicide;assault,HIGH,Manslaughter and aggravated assault; dangerous offender
+F1342,assault,LOW,Vicious unprovoked attack causing serious injuries

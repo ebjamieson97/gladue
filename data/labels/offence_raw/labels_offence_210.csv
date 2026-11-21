@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4599,drugs;weapons,HIGH,Possession of drugs for trafficking and prohibited device taser
+F4600,break_enter;sexual,HIGH,Residential break and enters with sexual element
+F4601,drugs,HIGH,Conspiracy to export ecstasy
+F4602,other,HIGH,RCMP Act offence of evading regulation by lying
+F4603,break_enter;theft_fraud;driving;other,HIGH,Break and enter stolen vehicle driving prohibited and mischief
+F4604,sexual,HIGH,Sexual assault by grabbing breast
+F4605,weapons,HIGH,Possession of prohibited rifle and for dangerous purpose
+F4606,assault,LOW,Assaults described only as serious charges
+F4607,theft_fraud,LOW,Substantive offences including fraud cheques and habitual criminal
+F4608,none,LOW,Offence unclear; firearms prohibition order issue
+F4609,assault;driving;other,HIGH,Assault peace officer dangerous driving threats and mischief
+F4610,break_enter;theft_fraud;other,HIGH,Break and enter theft and breach of conditional sentence
+F4611,sexual;other,HIGH,Sexual assault and breach of probation dangerous offender
+F4612,other,HIGH,Wilfully promoting hatred against Jewish people
+F4613,none,LOW,Excerpt does not show offences
+F4614,other;assault,HIGH,Criminal harassment and serious assault of partner
+F4615,assault,LOW,Dangerous offender domestic violence offences unspecified
+F4616,assault,HIGH,Aggravated assault
+F4617,homicide,HIGH,First degree murder youth adult sentence
+F4618,sexual;assault;other,HIGH,Sexual assault obstruct justice assault with weapon and assault
+F4619,drugs;theft_fraud,HIGH,Trafficking crack cocaine and theft under $5000
+F4620,assault,HIGH,Aggravated assault dangerous offender application

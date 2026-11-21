@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4460,NOT,NA,HIGH,Voir dire ruling on statement voluntariness
+D4859,NOT,NA,HIGH,Leave to appeal mischief conviction dismissed
+D2923,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D5388,NOT,NA,HIGH,SCC conviction appeal dismissed
+D1179,NOT,NA,HIGH,Verdict in sexual assault trial
+D4466,REVIEWS,FULL,HIGH,Sentence appeal allowed and reduced to eight months
+D5068,NOT,NA,HIGH,Conviction appeal new trial ordered
+D2356,REVIEWS,FULL,LOW,Conviction appeal and sentence appeal for armed robbery
+D1955,REVIEWS,FULL,HIGH,Conviction and sentence appeal with probation conditions varied
+D3501,NOT,NA,HIGH,Ruling on voir dire application
+D2624,REVIEWS,MINIMAL,HIGH,Sentence reduced for immigration consequences
+D4416,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed and sentence appeal dismissed
+D2606,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal abandoned
+D1926,NOT,NA,LOW,SCC summary contempt procedure conviction quashed
+D1453,REVIEWS,FULL,HIGH,Sentence appeal dismissed for fifteen month sentence
+D1687,IMPOSES,FULL,HIGH,Parole ineligibility set after second degree murder
+D4007,NOT,NA,HIGH,Ruling on conflict of interest application
+D3491,NOT,NA,HIGH,Summary conviction appeal allowed acquittal
+D5610,NOT,NA,HIGH,Verdict of guilty for criminal harassment
+D1766,REVIEWS,FULL,HIGH,Youth sentence appeal custody portion varied
+D5098,NOT,NA,HIGH,Trial decision excluding breathalyzer results
+D3411,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed to correct order terms
+D4294,REVIEWS,FULL,HIGH,Sentence reduced for immigration consequences
+D3358,NOT,NA,HIGH,Conviction appeal dismissed
+D5006,REVIEWS,MINIMAL,HIGH,Conviction appeal and sentence appeal dismissed
+D2615,REVIEWS,MINIMAL,HIGH,Dangerous offender appeal with indeterminate sentence upheld

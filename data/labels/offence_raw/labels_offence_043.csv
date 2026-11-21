@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0925,homicide,HIGH,Manslaughter of Tyson Edwards
+F0926,sexual,HIGH,Sexual interference and making child pornography
+F0927,sexual,HIGH,Sexual assault of niece
+F0928,driving,HIGH,Dangerous driving and evading police officer
+F0929,sexual,LOW,Offence unclear; publication ban suggests sexual offence
+F0930,other,HIGH,Counselling false immigration claims by lawyer
+F0931,sexual,HIGH,Child luring
+F0932,weapons;other,HIGH,Firearm offences and breach of undertaking and prohibition
+F0933,drugs,HIGH,Trafficking in fentanyl
+F0934,homicide,HIGH,Second degree murder
+F0935,homicide;robbery;weapons;driving,HIGH,Attempted murder; firearm robbery; discharging firearm; dangerous driving
+F0936,other,HIGH,Arson and failure to comply with undertaking
+F0937,assault,HIGH,Assault causing bodily harm or aggravated assault
+F0938,sexual;other,HIGH,Sexual interference; invitation to touching; breach of recognizance
+F0939,homicide;driving,HIGH,Criminal negligence causing death; dangerous driving; failing to remain
+F0940,sexual,HIGH,Sexual assault of nine-year-old daughter
+F0941,homicide,HIGH,Manslaughter of Thomas Willcocks by four accused
+F0942,other,HIGH,Living off avails of prostitution and directing prostitution
+F0943,other,HIGH,Perjury
+F0944,break_enter,LOW,Break and enter home invasion plus three unclear related charges
+F0945,sexual,HIGH,Four counts of indecent assault
+F0946,sexual,HIGH,Sexual assault of L.M.

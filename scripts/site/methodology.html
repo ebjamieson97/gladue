@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Casebook Methodology</title>
+<meta name="description" content="How the Systemic Factors Casebook was built: the data, how sentencing decisions were identified and read, how extracts were chosen, and its limits.">
+<style>
+  :root { --bg: #f6f5f1; --panel: #ffffff; --ink: #1f1f1f; --muted: #6b6b6b; --line: #e3e1da; --accent: #1f4e79; }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333; --accent: #6aa6dc; }
+  }
+  :root[data-theme="dark"] { --bg: #161616; --panel: #222222; --ink: #ececec; --muted: #a3a3a3; --line: #333333; --accent: #6aa6dc; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { padding: 12px 0; border-bottom: 1px solid var(--line); background: var(--panel); }
+  .bar { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
+  a.back { display: inline-block; text-decoration: none; font-size: 14px; line-height: 1.5; color: var(--ink);
+           background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 5px 12px; box-shadow: 0 2px 0 var(--line); }
+  a.back:active { transform: translateY(2px); box-shadow: none; }
+  main { max-width: 1040px; margin: 0 auto; padding: 28px 24px 60px; }
+  h1 { font: 600 34px/1.2 Georgia, "Times New Roman", serif; margin: 0 0 12px; }
+  h2 { font: 600 24px/1.25 Georgia, "Times New Roman", serif; margin: 38px 0 8px; padding-bottom: 6px; border-bottom: 2px solid var(--line); }
+  .lede { font-size: 18px; }
+  a { color: var(--accent); }
+  ul, ol { padding-left: 22px; } li { margin-bottom: 6px; }
+  .steps { counter-reset: s; list-style: none; padding: 0; display: grid; gap: 10px; margin: 18px 0 6px; }
+  .steps li { counter-increment: s; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px 12px 54px; position: relative; margin: 0; }
+  .steps li::before { content: counter(s); position: absolute; left: 16px; top: 12px; width: 26px; height: 26px; border-radius: 50%;
+                      background: var(--accent); color: #fff; font-weight: 700; font-size: 14px; display: grid; place-items: center; }
+  .steps b { display: block; }
+  table { border-collapse: collapse; width: 100%; background: var(--panel); border: 1px solid var(--line); font-size: 15px; margin: 10px 0; }
+  th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; font-size: 14px; }
+  .n { font-weight: 700; }
+  @media (max-width: 820px) { main { padding: 20px 16px 50px; } .bar { padding: 0 16px; } h1 { font-size: 27px; } }
+</style>
+</head>
+<body>
+<header><div class="bar"><a class="back" id="back" href="index.html">← Back</a></div></header>
+<main>
+  <h1>Methodology</h1>
+
+  <ol class="steps">
+    <li><b>Collect</b>Every criminal decision published in the A2AJ Canadian case law dataset for eight courts.</li>
+    <li><b>Find the sentencing decisions</b>A statistical model picks out the decisions that impose or review a sentence.</li>
+    <li><b>Read every sentencing decision</b>AI readers record the offences, the sentence and the mitigating factors.</li>
+    <li><b>Choose the extracts</b>For cases where a systemic factor was treated as mitigating, the crime and the court's reasons are extracted and highlighted.</li>
+    <li><b>Check and publish</b>Automated checks screen each extract before the case appears on the site.</li>
+  </ol>
+
+  <h2>1. The data</h2>
+  <p>The decisions come from the <a href="https://huggingface.co/datasets/a2aj/canadian-case-law" target="_blank" rel="noopener">A2AJ Canadian
+    case law dataset</a>, an open collection of published court decisions from the Access to Algorithmic Justice project at
+    York University. The casebook uses the criminal decisions of eight courts: the Supreme Court of Canada; the Courts of Appeal
+    of Ontario, British Columbia, Nova Scotia, and Newfoundland and Labrador; the Supreme Courts of British Columbia and
+    Nova Scotia; and the Provincial Court of Nova Scotia. That is <span class="n" data-stat="criminal"></span> criminal
+    decisions (data as of <span data-stat="built"></span>).</p>
+  <p>Only published decisions are included. Most sentences in Canada are delivered orally and never published, so the
+    casebook reflects the decisions courts chose to publish, not every sentence imposed.</p>
+
+  <h2>2. Finding the sentencing decisions</h2>
+  <p>A logistic regression model scores each criminal decision on 41 features of its text:</p>
+  <ul>
+    <li><strong>How often key words and phrases appear (21 counts):</strong> "sentence" or "sentencing" overall, and
+      separately in the heading, the opening, the closing and the last 500 characters; aggravating or mitigating factors;
+      sentencing vocabulary; fitness of sentence; pre-sentence and Gladue reports; operative sentencing words ("I sentence",
+      "I impose"); dispositions of a sentence appeal; appeal wording; appeals against conviction; voir dire; bail; guilty
+      pleas; dangerous offender proceedings; "appellant"; "appeal"; "application"; and sentence orders in the closing
+      (probation, DNA order, months, years);</li>
+    <li><strong>Yes-or-no features of the decision (17):</strong> whether it comes from a trial court; whether its title
+      reads as a trial or an appeal; whether its heading or opening shows an appeal or an application; whether it cites the
+      sentencing principles of the <em>Criminal Code</em> (s. 718); whether its closing disposes of a sentence; whether
+      the appeal was abandoned; bail wording in the opening or closing; a new trial ordered in the closing; a matter not
+      decided; a procedural opening; a chambers hearing; a guilty plea in the opening; and whether it is a Supreme Court of
+      Canada decision;</li>
+    <li><strong>Shape of the text (3):</strong> its length, how densely it mentions sentencing, and how far into the text
+      "sentence" first appears.</li>
+  </ul>
+  <p>Decisions scoring 0.5 or more are treated as sentencing decisions: <span class="n" data-stat="sentencing"></span> in all.</p>
+  <p>The model was trained and tested on two samples of 3,200 decisions (6,084 different decisions), each labelled by AI
+    readers and checked by a second model. On a purely random sample, tested by 5-fold cross-validation, about 95.5% of the
+    decisions it selects are sentencing decisions (precision), and it finds about 94.7% of them (recall). A model was used for this step, rather than AI reading all <span data-stat="criminal"></span> criminal decisions, because a full reading would have used too many tokens; the model needs only the 6,084 labelled examples, and can be re-run on new decisions at no cost.</p>
+  <p>A sentencing decision is marked as a <strong>trial-court sentencing</strong> when it comes from a trial court and its
+    heading shows no appeal; these are the cases where a judge passes sentence on the offender
+    (<span class="n" data-stat="imposes"></span> decisions). This rule is about 98% precise. The other sentencing
+    decisions are mostly appeal courts reviewing a sentence.</p>
+
+  <h2>3. Reading every sentencing decision</h2>
+  <p>Every sentencing decision was read by Sonnet 5.5. Decisions up to 18,000 characters were read in full; longer ones as
+    their opening, closing, and the passages about the sentence, mitigating factors and charges. For each decision the reader
+    recorded:</p>
+  <ul>
+    <li>the offences, in eleven categories (homicide, sexual offences, assault, robbery, kidnapping, break and enter, theft and fraud, drugs, weapons, driving, other);</li>
+    <li>the outcome (sentence imposed, or an appeal upheld, reduced, increased or varied);</li>
+    <li>the sentence: prison time, conditional sentence, probation, fines and other orders, and any placement in a healing lodge or treatment centre;</li>
+    <li>an exact quotation of the sentence;</li>
+    <li>how the court dealt with each systemic factor, and the ordinary mitigating factors it accepted;</li>
+    <li>whether the decision identifies the offender as Indigenous.</li>
+  </ul>
+  <p>The reading was checked in several ways:</p>
+  <table>
+    <tr><th>Check</th><th>Result</th></tr>
+    <tr><td>Opus 5.5 independently re-read 150 random decisions: offence categories the same</td><td>145 of 150</td></tr>
+    <tr><td>Same check: prison time the same</td><td>140 of 150</td></tr>
+    <tr><td>Same check: whether a systemic factor was treated as mitigating</td><td>147 of 150</td></tr>
+    <tr><td>Quotations of the sentence found word for word in the decision</td><td>99.8%</td></tr>
+  </table>
+  <p>Where two separate readings disagreed about systemic factors (250 decisions), Opus 5.5 re-read a longer text and its
+    answer was used.</p>
+
+  <h2>4. Systemic factors treated as mitigating</h2>
+  <p>The systemic factors are: Gladue factors (an Indigenous offender's background and the systemic factors affecting
+    Indigenous people), residential schools, colonialism, intergenerational trauma, anti-Black racism, and other racism or
+    prejudice the offender experienced.</p>
+  <p>A factor counts as <strong>treated as mitigating</strong> only if the court itself gave it weight for this offender:
+    it reduced the offender's moral blameworthiness, was accepted as a mitigating factor, or was a reason for a lower or
+    non-custodial sentence. A court that only quotes the law, describes a report without weighing it, or considers the factor
+    and rejects it does not count. By this test, <span class="n" data-stat="systemic_mitigating"></span> sentencing
+    decisions treat a systemic factor as mitigating. It records that the court gave the factor weight, not how many months it
+    took off: courts rarely say.</p>
+
+  <h2>5. The extracts</h2>
+  <p>For each case where a systemic factor was treated as mitigating, Sonnet 5.5 chose two passages of the court's own
+    paragraphs: one describing the offence, and one giving the court's reasons on the systemic factors. It also chose the
+    phrases to highlight, following rules refined through several rounds of review:</p>
+  <ul>
+    <li>crime highlights show who did what to whom and the harm to the victim, never incidental details or graphic sexual details;</li>
+    <li>the reasons must be the judge's own reasoning; a report's or counsel's words count only if the judge explicitly adopts them;</li>
+    <li>the reasons must show what factor was weighed and the court's conclusion about it;</li>
+    <li>every factor shown as a tag on a case must be visible in its reasons extract.</li>
+  </ul>
+  <p>Named factors such as Gladue, residential schools and colonialism are highlighted automatically. Each extract was then
+    checked automatically for these rules, and failing extracts were re-chosen or left out.</p>
+
+  <h2>6. Which cases appear on the site</h2>
+  <p>A case is shown when the court plainly states the systemic factor's effect and it is
+    either a trial-court sentencing or an appeal where the appeal court corrected how the factors were applied, or upheld a
+    sentence with the crime and a specific factor described. That is <span class="n" data-stat="cases"></span> cases.</p>
+
+  <h2>7. Statistics</h2>
+  <p>The <a href="stats.html">Statistics</a> page shows how many decisions involve systemic factors, and a regression of
+    prison length that compares like with like, with the full model specification.</p>
+
+  <h2>8. Limitations</h2>
+  <ul>
+    <li><strong>Published decisions only.</strong> Unpublished sentences (courts do not publish all sentences) are not covered, and courts and provinces publish at different rates.</li>
+    <li><strong>Eight courts.</strong> Trial-court sentencings come only from British Columbia and Nova Scotia; Ontario is represented by its Court of Appeal only.</li>
+  </ul>
+</main>
+<script src="stats.js"></script>
+<script src="cases.js"></script>
+<script>
+(function () {
+  const S = window.STATS || {};
+  const vals = { criminal: S.criminal, sentencing: S.sentencing, imposes: S.imposes, systemic_mitigating: S.systemic_mitigating,
+                 cases: (window.CASES || []).length, built: S.built };
+  document.querySelectorAll("[data-stat]").forEach(e => {
+    const v = vals[e.dataset.stat];
+    e.textContent = typeof v === "number" ? v.toLocaleString("en-CA") : (v || "–");
+  });
+  try { const l = localStorage.getItem("casebook:last"); if (l) document.getElementById("back").href = "index.html#" + l; } catch (e) {}
+})();
+</script>
+</body>
+</html>

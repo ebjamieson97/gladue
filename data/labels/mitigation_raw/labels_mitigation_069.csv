@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0681,X,X,X,X,N,N,X,X,X,N,LOW,General remarks on racialized groups; cites Anderson for others
+M0682,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue error found but no impact on outcome
+M0683,M,X,X,X,X,X,X,X,X,N,LOW,Difficult upbringing treated as mitigating; appeal dismissed
+M0684,M,X,N,N,X,N,X,X,X,N,HIGH,Gladue status considered as mitigating; report factors described
+M0685,X,X,X,X,X,X,X,X,X,N,HIGH,Only Proulx quote on s 718.2(e)
+M0686,N,X,N,X,X,N,X,X,X,N,LOW,Gladue report described and found considered; no weight shown
+M0687,N,X,X,X,M,X,X,X,X,N,LOW,Racialized youth experience informed but did not diminish accountability
+M0688,R,X,X,X,X,X,X,X,X,N,LOW,Inuit ancestry impact did not outweigh gravity of attack
+M0689,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted careful Gladue consideration; parole ineligibility raised
+M0690,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Aboriginal so s 718.2(e) not engaged

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3653,theft_fraud,HIGH,Attempted fraud over $5000
+F3654,sexual,HIGH,Historical sexual assault; unlawful confinement stayed
+F3655,sexual;kidnapping;other,HIGH,Sexual assaults; unlawful confinement; administering drug; dangerous offender
+F3656,none,LOW,Offence not shown; credit for pretrial custody only
+F3657,other;kidnapping;assault;robbery,LOW,Breach of conditional sentence; underlying confinement assault robbery
+F3658,drugs,HIGH,Trafficking cocaine and carfentanil; possession for trafficking
+F3659,sexual,HIGH,Two counts of sexual assault
+F3660,sexual,HIGH,Sexual assault; sexual interference; indecent assault of children
+F3661,other,HIGH,Criminal harassment; attempt obstruct justice; breach of court orders
+F3662,driving,HIGH,Dangerous driving causing death and bodily harm
+F3663,other,HIGH,Arson of rented home
+F3664,homicide,HIGH,Manslaughter
+F3665,drugs;theft_fraud,HIGH,Possession for trafficking fentanyl; possession of stolen property
+F3666,driving,HIGH,Driving without due care; Criminal Code charges dismissed
+F3667,driving,HIGH,Dangerous driving causing death; failing to remain
+F3668,theft_fraud,HIGH,Possession of stolen vehicle and bicycle
+F3669,kidnapping;assault,HIGH,Conspiracy to kidnap; kidnapping; assault causing bodily harm
+F3670,drugs;theft_fraud,HIGH,Importing heroin; possession for trafficking; proceeds of crime
+F3671,robbery;sexual;break_enter;assault,HIGH,Gunpoint home invasion robberies with sexual assaults; dangerous offender
+F3672,sexual,HIGH,Sexual assault and sexual touching of stepdaughter
+F3673,none,LOW,Sentence appeal dismissed; offence not shown
+F3674,drugs,HIGH,Conspiracy to import heroin; importing; possession for trafficking

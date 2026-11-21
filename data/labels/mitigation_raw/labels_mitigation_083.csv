@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0821,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court upheld low sentence reflecting aboriginal status
+M0822,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue principles only quoted from case law
+M0823,N,X,X,X,N,N,X,X,X,N,HIGH,General law on Gladue and Black offenders no application
+M0824,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted with no application
+M0825,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0826,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue report noted but moral blameworthiness very high
+M0827,R,X,X,X,X,X,X,X,X,N,LOW,Appeal court rejected claim Gladue was ignored
+M0828,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned only as restraint principle
+M0829,M,X,N,X,X,X,X,X,X,N,HIGH,Upbringing and Indigenous background mitigated moral blameworthiness
+M0830,N,X,X,X,X,X,X,X,X,N,HIGH,Indigenous factors discussed as general law only

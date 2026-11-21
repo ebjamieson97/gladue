@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0341,M,X,X,N,X,X,X,X,X,N,HIGH,Indigenous heritage played role and moral blameworthiness reduced
+M0342,M,X,M,X,X,X,X,X,X,N,LOW,Gladue considered and parents residential school trauma noted in youth sentence
+M0343,X,X,X,X,X,X,X,X,X,N,HIGH,Preventive detention case with no relevant factor
+M0344,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but seriousness of manslaughter meant no differential
+M0345,M,X,X,X,X,M,X,X,X,N,LOW,Reduced sentence due to Indigenous and racialized background lowering blameworthiness
+M0346,N,X,N,X,X,X,X,X,X,N,LOW,Appeal court presumed Gladue considered with no error found
+M0347,N,X,X,X,X,X,X,X,X,N,HIGH,General law quoted in contempt sentencing
+M0348,X,X,X,X,X,M,X,X,X,N,LOW,IRCA racism context considered and surcharge waived
+M0349,M,X,X,X,X,X,X,X,X,N,HIGH,Difficult life circumstances mitigated culpability but denunciation took priority
+M0350,N,X,X,X,X,X,X,X,X,N,HIGH,Statutory s 718.2(e) quoted only

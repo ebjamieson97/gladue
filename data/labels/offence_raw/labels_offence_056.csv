@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1211,homicide,HIGH,Second degree murder
+F1212,kidnapping;assault,HIGH,Kidnapping and assault causing bodily harm by young persons
+F1213,sexual;weapons,HIGH,Child luring; invitation to sexual touching; child pornography; weapons dangerous
+F1214,weapons;other,HIGH,Firearm possession; pointing firearm; uttering threats; bear spray
+F1215,theft_fraud,HIGH,Four counts of fraud over $5000
+F1216,break_enter,HIGH,Break and enter with intent to commit sexual assault
+F1217,sexual,HIGH,Sexual assault with a weapon
+F1218,homicide,HIGH,Manslaughter
+F1219,drugs,HIGH,Production of marihuana; possession for purpose of trafficking
+F1220,kidnapping;sexual,HIGH,Trafficking person under 18; procuring; advertising sexual services; child pornography
+F1221,weapons;theft_fraud;break_enter;other,HIGH,Weapons possession; vehicle theft; break-in instruments; personation; breach
+F1222,none,LOW,Offence not shown in excerpt
+F1223,assault,HIGH,Assault causing bodily harm
+F1224,sexual,HIGH,Sexual assault
+F1225,homicide,LOW,Youth sentences and life sentence; offence not named but likely murder
+F1226,homicide,HIGH,Manslaughter
+F1227,other,HIGH,Attempt to obstruct justice; breach of long-term supervision order
+F1228,sexual,HIGH,Possession of child pornography; counselling sexual assault of child
+F1229,none,LOW,Offence not shown in excerpt
+F1230,other,HIGH,Income Tax Act false statements
+F1231,homicide;weapons,HIGH,Two counts attempted murder; possession of explosive substances
+F1232,drugs,HIGH,Production of cannabis; possession for purpose of trafficking

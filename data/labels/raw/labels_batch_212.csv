@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4045,NOT,NA,HIGH,Breath demand refusal conviction appeal
+D5368,NOT,NA,HIGH,Severance application ruling
+D1410,NOT,NA,HIGH,Bail pending appeal application denied
+D1922,IMPOSES,FULL,HIGH,Reasons for sentence for assault causing bodily harm
+D3787,NOT,NA,HIGH,Conviction appeal on delay dismissed
+D1281,NOT,NA,HIGH,Voir dire on youth court records
+D1806,REVIEWS,FULL,HIGH,Crown dangerous offender sentence appeal allowed
+D3709,NOT,NA,HIGH,Conviction appeal dismissed
+D4570,NOT,NA,HIGH,Insanity verdict appeal
+D3556,NOT,NA,HIGH,Voir dire on admissibility of evidence
+D4904,NOT,NA,HIGH,Application for appointment of appeal counsel
+D2281,REVIEWS,FULL,HIGH,Sentence appeal for unlawfully at large allowed
+D1334,NOT,NA,HIGH,Conviction appeal dismissed; sentence leave abandoned
+D5589,REVIEWS,FULL,HIGH,Sentence appeal allowed; eight years reduced to six
+D5585,NOT,NA,HIGH,Verdict of not criminally responsible
+D1162,NOT,NA,HIGH,Voir dire on statement voluntariness
+D2338,REVIEWS,FULL,HIGH,SCC appeal on pre-sentence custody credit dismissed
+D3584,NOT,NA,HIGH,Conviction appeal dismissed
+D5622,IMPOSES,MINIMAL,HIGH,Oral sentence on joint submission for robbery
+D3494,REVIEWS,MINIMAL,LOW,Appeal of probation no-contact condition dismissed
+D3184,NOT,NA,HIGH,Judicial stay for delay
+D3068,REVIEWS,FULL,HIGH,Conviction appeal and firearm sentence appeal dismissed
+D1961,IMPOSES,FULL,HIGH,Sentencing decision after plea withdrawn on one count
+D1323,NOT,NA,HIGH,Conviction appeal allowed; new trial ordered
+D4306,NOT,NA,HIGH,Charter conviction appeals dismissed
+D1988,RELATED,NA,HIGH,Extension of time to appeal sentence denied

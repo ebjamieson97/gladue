@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0701,R,X,X,X,X,X,X,X,X,N,LOW,Gladue considered but community safety required indeterminate sentence
+M0702,M,X,X,X,X,X,X,X,X,N,LOW,Aboriginal background and conditions noted with conditional sentence imposed
+M0703,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0704,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0705,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in a comparison case
+M0706,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted from other case on individualization
+M0707,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned as general law
+M0708,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only on remedy procedure
+M0709,M,X,M,X,X,X,X,X,X,N,HIGH,Parents' residential school abuse and Gladue history reduced sentence
+M0710,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors accepted as mitigating alongside disadvantaged background

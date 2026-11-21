@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4445,weapons,HIGH,Unauthorized possession of loaded prohibited firearms x4
+F4446,robbery;assault,HIGH,Robbery with a firearm and aggravated assault
+F4447,assault,HIGH,Aggravated assault; dangerous offender designation
+F4448,weapons;other,HIGH,Using imitation firearm in forcible entry
+F4449,assault,HIGH,Aggravated assault; long-term offender application
+F4450,driving,HIGH,Driving without due care and attention
+F4451,drugs;theft_fraud;weapons,HIGH,Trafficking; possession of proceeds; loaded handgun
+F4452,sexual;other,HIGH,Two sexual assaults; breach of LTSO; fraudulent personation
+F4453,sexual,HIGH,Multiple sexual assaults; dangerous offender
+F4454,kidnapping;assault;other,HIGH,Kidnapping; aggravated assault; death threats; unlawful confinement
+F4455,kidnapping;assault;other,LOW,Kidnapping; confinement; assault with weapon; other counts
+F4456,drugs,HIGH,Possession for trafficking fentanyl and methamphetamine
+F4457,drugs,HIGH,Possession of hydromorphone for trafficking
+F4458,other;assault,HIGH,Breaches of probation and assault
+F4459,none,LOW,Offence not stated; self-defence excessive force
+F4460,sexual,HIGH,Sexual assault and invitation to sexual touching of daughter
+F4461,drugs,HIGH,Trafficking cocaine multiple transactions
+F4462,break_enter;assault,LOW,Attempted break-in with intent to assault
+F4463,sexual,LOW,Serious offences against victims in position of trust
+F4464,drugs,HIGH,Two counts of drug trafficking
+F4465,homicide,HIGH,Second-degree murder
+F4466,assault;other,LOW,Violent offences against eight victims; obstruct justice

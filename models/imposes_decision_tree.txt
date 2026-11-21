@@ -1,0 +1,25 @@
+|--- head_appeal <= 0.50
+|   |--- trial_court <= 0.50
+|   |   |--- class: False
+|   |--- trial_court >  0.50
+|   |   |--- log_n_close_orders <= 0.90
+|   |   |   |--- statute718 <= 0.50
+|   |   |   |   |--- class: False
+|   |   |   |--- statute718 >  0.50
+|   |   |   |   |--- class: True
+|   |   |--- log_n_close_orders >  0.90
+|   |   |   |--- log_n_open <= 1.50
+|   |   |   |   |--- class: True
+|   |   |   |--- log_n_open >  1.50
+|   |   |   |   |--- class: True
+|--- head_appeal >  0.50
+|   |--- log_n_appeal_phrase <= 0.35
+|   |   |--- log_n_close <= 2.35
+|   |   |   |--- class: False
+|   |   |--- log_n_close >  2.35
+|   |   |   |--- density <= 39.60
+|   |   |   |   |--- class: False
+|   |   |   |--- density >  39.60
+|   |   |   |   |--- class: False
+|   |--- log_n_appeal_phrase >  0.35
+|   |   |--- class: False

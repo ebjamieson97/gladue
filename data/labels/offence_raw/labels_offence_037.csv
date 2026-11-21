@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0793,theft_fraud,HIGH,Fraud over bank loans under small business program
+F0794,assault,HIGH,Assault with a weapon and assault
+F0795,driving,HIGH,Driving over .08 and driving while prohibited
+F0796,driving,HIGH,Five counts of driving while disqualified
+F0797,assault,HIGH,Assault of domestic complainant
+F0798,drugs,HIGH,Marihuana production and possession for trafficking
+F0799,homicide,HIGH,Manslaughter of father
+F0800,sexual;other,HIGH,Possession of child exploitation material and breach of s. 810.1 recognizance
+F0801,homicide;weapons,HIGH,Second degree murder and firearms discharge and possession offences
+F0802,sexual,HIGH,Sexual interference with 15 year old under s. 151
+F0803,break_enter;other,LOW,Break and enter and criminal harassment
+F0804,drugs,HIGH,Possession of cannabis over 3 kg for trafficking
+F0805,sexual,HIGH,Sexual assault causing bodily harm
+F0806,kidnapping;sexual,HIGH,Two counts unlawful confinement and two sexual assault
+F0807,theft_fraud;other,HIGH,Fraud over $5000 and conferring benefit on government employee
+F0808,assault;other,HIGH,Assault causing bodily harm and threats and obstruct peace officers
+F0809,driving,HIGH,Impaired and dangerous driving causing bodily harm and failing to remain
+F0810,homicide;assault,HIGH,Manslaughter and two assaults with a weapon
+F0811,homicide,HIGH,Manslaughter
+F0812,robbery;driving;theft_fraud,HIGH,Robberies and flight from police and possession of stolen property
+F0813,assault,HIGH,Assault causing bodily harm
+F0814,drugs,HIGH,Possession of marihuana and methamphetamine for trafficking

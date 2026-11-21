@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0861,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only when distinguishing another case
+M0862,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e quoted without Indigenous analysis
+M0863,M,X,N,X,X,X,X,X,X,N,LOW,Gladue component and lessened moral culpability noted
+M0864,M,N,N,X,X,X,X,X,X,N,HIGH,Gladue factors reduced moral blameworthiness for manslaughter
+M0865,M,X,M,X,X,X,X,X,X,N,HIGH,Three generations of residential school abuse and Gladue lowered parole ineligibility
+M0866,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for restraint principles
+M0867,M,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal background listed as mitigating factor
+M0868,M,N,M,X,X,X,X,X,X,N,LOW,Gladue report and residential school experience considered
+M0869,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted only for individualized sentencing
+M0870,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report received and conditional sentence imposed

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0771,X,X,X,X,M,X,X,X,X,N,HIGH,Court accepted anti-Black racism evidence as connected and mitigating responsibility
+M0772,M,X,X,X,X,X,X,X,X,N,HIGH,Moral blameworthiness reduced by systemic and background factors
+M0773,M,N,N,M,X,X,X,X,X,N,HIGH,Intergenerational trauma and difficult upbringing treated as mitigating
+M0774,M,X,X,X,X,X,X,X,X,N,LOW,Aboriginal heritage a valid consideration but impact reduced
+M0775,R,X,X,X,X,X,X,X,X,N,LOW,Aboriginal status given no effect on firearm prohibition
+M0776,X,X,X,X,X,N,X,X,X,N,HIGH,Reported racism from others noted as trigger not mitigating
+M0777,R,X,R,X,X,N,X,X,X,N,HIGH,Appeal court found Gladue emphasis misplaced and raised sentence
+M0778,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in cited cases and statute
+M0779,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous; Gladue only in other cases
+M0780,N,X,X,X,X,X,X,X,X,N,LOW,Court must consider Gladue but weight not shown in excerpt

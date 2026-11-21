@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2113,weapons,HIGH,Occupying vehicle with firearm s. 94
+F2114,assault,HIGH,Assault with a weapon stabbing
+F2115,driving;other,HIGH,Dangerous driving causing bodily harm and failure to attend court
+F2116,theft_fraud;other,HIGH,Possession of stolen truck escape custody and obstruction
+F2117,sexual,HIGH,Sexual assault causing bodily harm and child pornography possession
+F2118,driving,LOW,Driving-related offences with driving prohibition; offence not specified
+F2119,weapons;drugs,HIGH,Firearm possession careless storage and possession of marihuana for trafficking
+F2120,drugs;weapons,HIGH,Possession for trafficking methamphetamine and ecstasy and firearms offences
+F2121,other,HIGH,Uttering threat while in custody
+F2122,assault,HIGH,Common assault domestic choking and head-butting
+F2123,homicide;other,HIGH,Manslaughter of wife and breach of recognizance
+F2124,driving,HIGH,Impaired driving causing bodily harm
+F2125,other,HIGH,Mischief under $5000 at temple
+F2126,robbery;sexual;kidnapping;other,HIGH,Robbery sexual assault with weapon confinement and threats; dangerous offender
+F2127,break_enter;theft_fraud,HIGH,Two break enter and theft counts
+F2128,homicide,HIGH,Attempted murder of police shooting victim
+F2129,assault,HIGH,Assault causing bodily harm and choking
+F2130,kidnapping,HIGH,Conspiracy to kidnap and kidnapping
+F2131,homicide,HIGH,Attempted murder by shooting
+F2132,homicide,HIGH,Attempted murder in courtroom attack
+F2133,drugs,HIGH,Possession of ketamine for purpose of trafficking
+F2134,theft_fraud,HIGH,Theft of motorcycle

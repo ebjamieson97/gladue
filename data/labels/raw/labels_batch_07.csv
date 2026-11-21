@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D340,NOT,NA,HIGH,Conviction appeal allowed for ineffective counsel; new trial
+D135,NOT,NA,HIGH,Appeal of murder conviction; guilty plea withdrawal refused
+D431,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence found fit and appeal dismissed
+D390,REVIEWS,FULL,HIGH,Sentence appeal allowed for manslaughter; Gladue and intoxication errors
+D361,REVIEWS,MINIMAL,HIGH,Leave granted; sentence appeal dismissed
+D353,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D039,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal not pursued
+D243,REVIEWS,FULL,HIGH,Dangerous offender appeal; indeterminate sentence replaced with determinate plus LTSO
+D208,REVIEWS,FULL,HIGH,Sentence appeal for failing to remain dismissed
+D223,REVIEWS,FULL,HIGH,Sentence appeal for breach of LTSO dismissed
+D275,IMPOSES,FULL,HIGH,Sentencing for break and enter and threats; Indigenous offender; probation
+D291,NOT,NA,HIGH,Bail pending appeal application granted
+D081,NOT,NA,HIGH,Voir dire ruling excluding evidence under s. 24(2)
+D450,RELATED,NA,HIGH,Ruling on defence counsel withdrawal before sentencing; adjourned
+D474,NOT,NA,HIGH,Youth transfer to adult court appeal dismissed
+D455,NOT,NA,HIGH,Conviction appeal on voluntariness of confession
+D397,REVIEWS,MINIMAL,HIGH,Crown-consented sentence appeal allowed; sentence increased to two years
+D159,REVIEWS,FULL,HIGH,Conviction appeal in part; sentence reduced to forty months
+D089,NOT,NA,HIGH,Conviction appeal on jury secrecy dismissed
+D342,NOT,NA,HIGH,Capital murder conviction appeal dismissed
+D191,IMPOSES,FULL,HIGH,Sentencing for assault causing bodily harm; suspended sentence and probation
+D464,NOT,NA,HIGH,Summary conviction appeal allowed; sentence not appealed
+D014,NOT,NA,HIGH,Summary conviction appeal on assault; new trial ordered
+D435,IMPOSES,FULL,HIGH,Sentencing for attempted murder; 16 years
+D296,IMPOSES,FULL,HIGH,Sentencing of nurse; 18 month conditional sentence
+D306,IMPOSES,FULL,HIGH,Sentencing of accessory after the fact; four years

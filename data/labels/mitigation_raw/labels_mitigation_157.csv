@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1561,R,X,X,X,X,X,X,X,X,N,HIGH,Metis heritage mentioned in passing and given no 718.2(e) weight
+M1562,R,X,R,X,X,X,X,X,X,N,HIGH,Gladue factors considered but no link to offending; no mitigating factors
+M1563,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) only quoted via case law
+M1564,R,X,X,X,X,X,X,X,X,N,LOW,Appeal court found Gladue properly considered; high sentence upheld
+M1565,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for long-term supervision objectives
+M1566,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors only in other cases cited by defence
+M1567,N,N,N,X,X,X,X,X,X,N,HIGH,Colonialism and residential schools concern Indigenous youth victims
+M1568,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) cited as general restraint principle
+M1569,M,X,X,M,X,N,X,X,X,N,HIGH,Gladue report and intergenerational trauma supported non-custodial sentence
+M1570,X,X,X,X,M,X,X,X,X,N,HIGH,Racism as Black man attenuated blameworthiness per IRCA

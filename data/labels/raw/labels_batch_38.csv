@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D0967,NOT,NA,HIGH,Supreme Court rape conviction appeal dismissed
+D0508,NOT,NA,HIGH,Retrial verdict on murder and attempted murder
+D0752,IMPOSES,FULL,HIGH,Youth sentence for second degree murder
+D0630,NOT,NA,HIGH,Bail pending appeal granted
+D0947,NOT,NA,HIGH,Extension of time to appeal conviction refused
+D0970,NOT,NA,HIGH,Search warrant conviction appeal dismissed
+D0813,REVIEWS,FULL,HIGH,Crown sentence appeal allowed firearms sentences increased
+D0658,NOT,NA,HIGH,Supreme Court on prior inconsistent statement admissibility
+D0893,IMPOSES,FULL,HIGH,Reasons for sentence for robbery and aggravated assault
+D0748,REVIEWS,FULL,HIGH,Dangerous offender appeal allowed with dissent
+D0635,IMPOSES,FULL,HIGH,Parole ineligibility set after second degree murder
+D0568,NOT,NA,HIGH,Conviction appeal allowed for reasonable doubt instruction
+D0751,IMPOSES,FULL,LOW,Sentence for contempt of court by refusing to testify
+D0722,RELATED,NA,LOW,Leave denied on how pre-sentence custody is recorded
+D0597,REVIEWS,FULL,HIGH,Summary conviction appeal of plea withdrawal and sentence dismissed
+D0589,REVIEWS,FULL,HIGH,Dangerous offender indeterminate sentence appeal dismissed
+D0621,REVIEWS,FULL,HIGH,Sentence appeal allowed and reduced to four months
+D0776,REVIEWS,FULL,HIGH,Supreme Court on conditional sentence for dangerous offender
+D0995,REVIEWS,FULL,HIGH,Drug conviction appeal and sentence appeal dismissed
+D0817,IMPOSES,FULL,HIGH,Long-term offender finding and sentence for sexual assault
+D0869,NOT,NA,HIGH,Youth conviction appeal allowed new trial ordered
+D0586,IMPOSES,FULL,HIGH,Sentence after mandatory minimum held unconstitutional
+D0703,REVIEWS,FULL,HIGH,Youth conviction and sentence appeals dismissed
+D0949,NOT,NA,HIGH,Bail detention review dismissed
+D0683,IMPOSES,FULL,HIGH,Sentence for robbery and other offences
+D0921,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed no reason to interfere with sentence

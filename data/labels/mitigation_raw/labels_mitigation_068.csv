@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0671,R,X,R,X,X,X,X,X,X,N,HIGH,Gladue considered but residential school abuse given no effect
+M0672,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only about another case
+M0673,M,X,X,M,X,X,X,X,X,N,LOW,Gladue challenges and intergenerational impact acknowledged
+M0674,N,X,X,X,X,X,X,X,X,N,HIGH,Offender does not identify as Aboriginal; report not provided
+M0675,R,X,X,X,X,X,X,X,X,N,HIGH,No error in treatment of Gladue report given offences
+M0676,N,X,X,X,X,X,X,X,X,N,LOW,Trial judge should have addressed Gladue; no interference
+M0677,M,M,M,M,X,X,X,X,X,N,HIGH,Colonialism effects and intergenerational trauma reduced moral blameworthiness
+M0678,X,X,X,X,X,X,X,X,X,N,HIGH,Only general reference to s 718.2(e) restraint
+M0679,M,M,X,M,X,X,X,X,X,N,HIGH,Strong Gladue factors diminished culpability supporting conditional sentence
+M0680,X,X,X,X,X,X,X,X,N,Y,HIGH,Terrorism with antisemitic hatred by offender

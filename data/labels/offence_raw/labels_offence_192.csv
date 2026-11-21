@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4203,drugs;theft_fraud,HIGH,Conspiracy to traffic marijuana and possession of proceeds of crime
+F4204,homicide,HIGH,Brutal killing of former partner with parole ineligibility
+F4205,drugs;weapons,HIGH,Possession for trafficking cocaine and morphine and weapons offences
+F4206,sexual;other,HIGH,Child luring child pornography and breaches of conditions
+F4207,sexual,HIGH,Sexual interference of four-year-old niece
+F4208,assault;other,LOW,Assault causing bodily harm and disguise; third offence unclear
+F4209,robbery;other,HIGH,Armed robbery and masked with intent
+F4210,theft_fraud,HIGH,Fraud over $5000
+F4211,robbery,HIGH,Four counts of robbery
+F4212,assault;weapons,HIGH,Assault with weapon assault and possession of weapon for dangerous purpose
+F4213,drugs,HIGH,Possession of oxycodone for trafficking
+F4214,drugs,HIGH,Two counts possession for trafficking cocaine and heroin
+F4215,driving,HIGH,Dangerous driving offences to avoid arrest
+F4216,theft_fraud;other,HIGH,Theft and mischief as aider
+F4217,drugs,HIGH,Trafficking cocaine
+F4218,robbery;driving,HIGH,Robbery and failing to stop for police
+F4219,sexual,HIGH,Sexual assault
+F4220,other,HIGH,Tax evasion and failure to remit GST
+F4221,other,HIGH,Attempt to obstruct justice
+F4222,theft_fraud,HIGH,Fraud over $5000 with forged bank draft
+F4223,break_enter;other,HIGH,Break and enter and possession of break-in tool
+F4224,homicide,LOW,Apparent attempted murder of wife with tire iron

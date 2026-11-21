@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3807,theft_fraud;break_enter,HIGH,Possession of stolen property and break and enter
+F3808,homicide,HIGH,Manslaughter
+F3809,sexual;kidnapping,HIGH,Sexual assault with weapon and forcible confinement
+F3810,weapons;driving;drugs,HIGH,Firearm discharge and possession and dangerous driving and drug possession
+F3811,assault,HIGH,Aggravated assault
+F3812,weapons;driving,HIGH,Loaded firearm possession and impaired driving
+F3813,none,LOW,Plea appeal and dangerous offender process; offences not shown
+F3814,sexual,HIGH,Child luring and obtaining sexual services from minor
+F3815,homicide,HIGH,Second degree murder
+F3816,drugs,HIGH,Cultivation and possession for trafficking of marihuana
+F3817,sexual,HIGH,Sexual touching and sexual assault of stepdaughter
+F3818,robbery;other,HIGH,Robbery and failing to attend court
+F3819,sexual;other,HIGH,Sexual assault and breach of recognizance
+F3820,other;theft_fraud,HIGH,Extortion and theft
+F3821,kidnapping,HIGH,Two counts of child abduction
+F3822,kidnapping;other;assault;robbery,HIGH,Attempted kidnapping and confinement and harassment and robbery
+F3823,theft_fraud,HIGH,Six counts of welfare fraud
+F3824,robbery;weapons,HIGH,Robbery with restricted firearm and prohibition breach
+F3825,homicide,HIGH,Murder
+F3826,other,HIGH,Contempt for refusing to testify
+F3827,drugs,HIGH,Conspiracy to possess cannabis for trafficking
+F3828,theft_fraud,HIGH,Welfare fraud over $5000

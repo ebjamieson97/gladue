@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2135,assault,HIGH,Aggravated assault with knife on brother
+F2136,homicide,HIGH,Manslaughter of husband
+F2137,sexual,HIGH,Two counts of sexual assault by psychiatrist
+F2138,assault;other,HIGH,Aggravated assault and breach of recognizance; long term offender
+F2139,drugs,HIGH,Trafficking heroin
+F2140,assault,HIGH,Aggravated assault
+F2141,sexual,HIGH,Sexual assault sexual interference and sexual exploitation of niece
+F2142,homicide;weapons,HIGH,Criminal negligence causing death and pointing a firearm
+F2143,drugs,HIGH,Trafficking marijuana
+F2144,assault,LOW,Offence unstated; argument with complainant and domestic violence programs suggest assault
+F2145,sexual,HIGH,Possession of child pornography
+F2146,sexual,HIGH,Sexual interference of two young girls
+F2147,sexual;other,HIGH,Sexual assault of 13 year old and breach of probation
+F2148,homicide;assault;other,HIGH,Attempted murder aggravated assault and uttering threat; dangerous offender
+F2149,sexual,HIGH,Sexual assault of 11 year old boy; dangerous offender application
+F2150,break_enter;kidnapping,HIGH,Break and enter and unlawful confinement
+F2151,robbery;kidnapping;weapons,HIGH,Armed robbery unlawful confinement and imitation firearm dangerous purpose
+F2152,sexual,HIGH,Indecent assault and sexual assault of adolescent males
+F2153,robbery;break_enter;weapons;other,HIGH,Robbery break and enter knife possession and wearing mask
+F2154,kidnapping;sexual;assault,HIGH,Unlawful confinement sexual assault aggravated assault and assault with weapon
+F2155,theft_fraud,HIGH,Fraud and uttering forged documents re property transfer
+F2156,robbery,HIGH,Bank robbery

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4049,homicide,HIGH,Manslaughter
+F4050,driving,HIGH,Impaired driving fourth offence
+F4051,theft_fraud,HIGH,Fraud
+F4052,break_enter;robbery;weapons,HIGH,B&E stealing firearm; attempted robbery; prohibited weapon possession
+F4053,other;weapons,HIGH,Uttering threats; pointing firearm; breach of undertaking
+F4054,sexual,HIGH,Indecent assault and gross indecency
+F4055,other,HIGH,Criminal harassment and breach of conditional sentence
+F4056,other;theft_fraud,HIGH,Export restriction offences; customs offences; forgery
+F4057,sexual,HIGH,Sexual assault and indecent assault
+F4058,weapons,HIGH,Firearm possession offences and concealed weapon
+F4059,break_enter;sexual,HIGH,Break and enter and sexual assault
+F4060,drugs,HIGH,Possession of marijuana for purpose of trafficking
+F4061,sexual,HIGH,Sexual interference
+F4062,theft_fraud,HIGH,Fraud over $5000 two counts
+F4063,robbery;weapons,HIGH,Two bank robberies and possession of dangerous weapon
+F4064,drugs,HIGH,Trafficking heroin and fentanyl
+F4065,homicide,HIGH,Manslaughter
+F4066,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4067,assault;other,HIGH,Assault causing bodily harm; bail breaches; failure to appear
+F4068,drugs;other,HIGH,Possession of marijuana for trafficking; breach of probation
+F4069,robbery,HIGH,Robbery with knife
+F4070,other,HIGH,Obstructing justice

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1111,N,X,X,X,X,X,X,X,X,N,LOW,Only general statement that s 718.2(e) applies to youth sentencing
+M1112,N,X,N,X,X,X,X,X,X,N,LOW,Father residential school history reported with no sign of weight
+M1113,M,X,X,M,X,X,X,X,X,N,HIGH,Indigenous background and intergenerational factors treated as mitigation
+M1114,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M1115,X,X,X,X,X,N,X,X,X,N,LOW,Trial judge noted racism against offender but appeal turned on youth law
+M1116,M,X,M,X,X,X,X,X,X,N,HIGH,Gladue factors and residential school reduced moral blameworthiness
+M1117,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) cited generally for alternatives to jail
+M1118,M,X,N,N,X,X,X,X,X,N,LOW,Gladue report considered; residential school history only described
+M1119,X,X,X,X,X,R,X,X,X,N,LOW,Third party racism claim noted and court doubted it
+M1120,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue and s 718.2(e) quoted as general law

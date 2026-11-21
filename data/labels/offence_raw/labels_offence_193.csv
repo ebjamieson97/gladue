@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4225,weapons,HIGH,Loaded prohibited firearm possession and weapons prohibition breach
+F4226,break_enter,LOW,Break and enter plus 10 unspecified summary offences
+F4227,drugs;weapons,HIGH,Drug trafficking and possession of ammunition while prohibited
+F4228,sexual;assault;break_enter;other;drugs,HIGH,Sexual assaults assaults break and enter threat cannabis trafficking
+F4229,sexual,HIGH,Sexual interference and communicating to facilitate sexual offence
+F4230,driving;theft_fraud,HIGH,Dangerous driving stolen property and driving while disqualified
+F4231,theft_fraud,HIGH,Fraud over 5000 and fraudulent personation
+F4232,theft_fraud;break_enter;weapons;assault,HIGH,Taking vehicle break and enter with weapon and assault with weapon
+F4233,assault,HIGH,Assault causing bodily harm to infant son
+F4234,homicide,HIGH,Second degree murder of son
+F4235,homicide;weapons,HIGH,Attempted murder with a firearm
+F4236,drugs,HIGH,Trafficking in cocaine and fentanyl
+F4237,other,HIGH,Tobacco tax and Excise Act and unstamped tobacco offences
+F4238,sexual,HIGH,Sexual assault
+F4239,robbery,HIGH,Robbery
+F4240,robbery,HIGH,Two counts of robbery
+F4241,homicide,HIGH,Second degree murder as driver
+F4242,assault,HIGH,Aggravated assault
+F4243,other,HIGH,Breach of bail and probation orders and threatening
+F4244,drugs,HIGH,Selling chemicals to produce methamphetamine
+F4245,other,HIGH,Arson of inhabited property
+F4246,weapons;theft_fraud,HIGH,Stolen firearms storage prohibited weapons stolen property identity theft

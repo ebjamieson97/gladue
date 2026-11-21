@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3319,IMPOSES,FULL,HIGH,Reasons for sentence for assault causing bodily harm
+D3345,REVIEWS,FULL,HIGH,Sentence appeal on consecutive sentences dismissed
+D3748,NOT,NA,HIGH,Conspiracy appeals dismissed as abandoned
+D4577,REVIEWS,FULL,HIGH,Sentence appeal seeking conditional sentence dismissed
+D2140,RELATED,NA,LOW,Crown appeal of stay for post-verdict delay before sentence
+D2346,RELATED,NA,HIGH,Application for DNA order after sentence refused for jurisdiction
+D3216,NOT,NA,HIGH,Murder conviction appeal on jury charge dismissed
+D3369,NOT,NA,HIGH,Trial ruling on s. 278 records application
+D1367,NOT,NA,HIGH,Manslaughter conviction appeal new trial ordered
+D5570,REVIEWS,FULL,HIGH,Sentence appeal allowed and conditional sentence substituted
+D2309,IMPOSES,FULL,HIGH,Dangerous offender designation and indeterminate sentence imposed
+D2173,REVIEWS,FULL,HIGH,Sentence appeal with Charter challenge to conditional sentence bar
+D4605,NOT,NA,HIGH,Trafficking conviction appeal dismissed
+D5449,NOT,NA,HIGH,Firearm definition appeal dismissed
+D5144,NOT,NA,HIGH,GST fraud trial verdict of guilty
+D1616,REVIEWS,FULL,HIGH,Conviction appeals dismissed and sentence appeal dismissed
+D5856,NOT,NA,HIGH,Voluntariness voir dire ruling on police statement
+D4536,REVIEWS,FULL,HIGH,Youth sentence appeal dismissed
+D1439,IMPOSES,FULL,HIGH,Reasons for sentence for fraud
+D4763,REVIEWS,FULL,HIGH,Sentence appeal for vehicle theft dismissed
+D5584,NOT,NA,HIGH,Vukelich hearing on Charter notice
+D2026,IMPOSES,FULL,HIGH,Reasons for sentence for manslaughter
+D2866,NOT,NA,HIGH,Corporate criminal liability appeals dismissed
+D1485,RELATED,NA,HIGH,Appeal quashed re lifetime SOIRA order jurisdiction
+D5329,RELATED,NA,HIGH,Application for appointment of counsel on sentence appeal
+D2618,NOT,NA,HIGH,Murder trial verdict all charges dismissed

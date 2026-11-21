@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3273,NOT,NA,HIGH,Supplementary reasons on dissent grounds
+D1730,NOT,NA,HIGH,Withdrawal of guilty plea appeal
+D3097,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed as within range
+D3689,NOT,NA,HIGH,Breath sample evidence exclusion
+D4028,NOT,NA,HIGH,Bail pending appeal
+D5514,NOT,NA,HIGH,Trial verdict sexual exploitation
+D5326,NOT,NA,HIGH,SCC murder conviction appeal
+D4483,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D2529,REVIEWS,FULL,HIGH,Dangerous offender designation appeal dismissed
+D2554,NOT,NA,HIGH,Bail pending appeal denied
+D6070,NOT,NA,HIGH,NCR application dismissed
+D3109,REVIEWS,FULL,HIGH,Crown sentence appeal allowed drug trafficking
+D5111,NOT,NA,HIGH,Fraud trial verdict
+D2815,NOT,NA,HIGH,Manslaughter conviction appeal
+D3322,NOT,NA,HIGH,Summary conviction appeal allowed new trial
+D2224,REVIEWS,FULL,HIGH,Sentence appeal on rejected joint submission dismissed
+D4555,NOT,NA,HIGH,Appeal on preliminary inquiry committal
+D2925,REVIEWS,MINIMAL,HIGH,Summary conviction appeal of conviction and penalty dismissed
+D1283,NOT,NA,HIGH,Disclosure ruling at trial
+D2698,REVIEWS,FULL,HIGH,Conviction appeal and parole ineligibility appeal dismissed
+D4912,REVIEWS,MINIMAL,LOW,Conviction dismissed; prohibition order varied on appeal
+D5928,NOT,NA,HIGH,Summary conviction appeal conviction dismissed
+D1085,NOT,NA,HIGH,Bail pending appeal granted
+D1213,NOT,NA,HIGH,Extension of time to appeal conviction denied
+D3206,NOT,NA,HIGH,Conviction appeals
+D1835,REVIEWS,FULL,HIGH,Conviction and cross sentence appeals driving offence

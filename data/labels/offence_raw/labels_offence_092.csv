@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2003,driving;other,HIGH,Dangerous driving and breach of recognizance
+F2004,theft_fraud,HIGH,Money laundering of drug proceeds
+F2005,drugs;weapons;assault;theft_fraud,HIGH,Drug conspiracy and weapons and conspiracy to assault and laundering
+F2006,other,HIGH,Criminal harassment and threats and breach of probation
+F2007,none,LOW,Offences not shown in excerpt
+F2008,robbery;theft_fraud,HIGH,Robbery and possession of stolen property
+F2009,other,HIGH,Criminal contempt
+F2010,theft_fraud,HIGH,Fraud and fine in lieu of forfeiture
+F2011,homicide,HIGH,Unlawful act manslaughter of child
+F2012,break_enter;theft_fraud;weapons;drugs,HIGH,Break and enter and stolen property and firearms and drug possession
+F2013,none,LOW,Offences not shown in excerpt
+F2014,drugs;weapons;other,HIGH,Drug trafficking and firearms offences and breach of order
+F2015,none,LOW,Offences not shown in excerpt
+F2016,drugs;theft_fraud;other,HIGH,Marijuana production and trafficking and theft of electricity and mischief
+F2017,assault;other,HIGH,Aggravated assault and breach of probation
+F2018,drugs,HIGH,Trafficking in cocaine
+F2019,drugs,HIGH,Possession for trafficking cocaine and heroin
+F2020,homicide;assault;other,HIGH,Attempted murder and aggravated assault and threats and breach
+F2021,homicide,HIGH,Second degree murder
+F2022,sexual;other,HIGH,Sexual interference and obstructing police
+F2023,theft_fraud,HIGH,Fraud and forgery and uttering forged documents
+F2024,weapons,HIGH,Firearm possession while prohibited

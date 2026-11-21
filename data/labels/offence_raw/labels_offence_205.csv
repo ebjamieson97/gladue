@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4489,homicide;assault,HIGH,Manslaughter and assault
+F4490,kidnapping,HIGH,Enticing child under 14 away; dangerous offender
+F4491,theft_fraud,LOW,21 mainly property-related offences
+F4492,none,LOW,Adjournment ruling; offences not shown
+F4493,none,LOW,Brief endorsement; offences not shown
+F4494,sexual,HIGH,Sexual assault
+F4495,drugs;weapons,HIGH,Possession for trafficking and prohibited weapon bear spray
+F4496,sexual,HIGH,Gross indecency and sexual assault of teenage boys
+F4497,drugs,HIGH,Cocaine trafficking
+F4498,homicide,HIGH,First degree murder
+F4499,homicide,HIGH,Manslaughter
+F4500,break_enter;kidnapping;robbery,HIGH,Break and enter; unlawful confinement and robbery in home invasions
+F4501,drugs,HIGH,Possession for trafficking of methamphetamine cocaine fentanyl
+F4502,robbery;weapons;other,HIGH,Robbery; knife possession; wearing face mask
+F4503,sexual;other,HIGH,Sexual assault and uttering death threats
+F4504,other,HIGH,Loud exhaust noise Motor Vehicle Act regulation
+F4505,sexual;other,HIGH,Sexual assault causing bodily harm; disobeying court order
+F4506,assault,HIGH,Aggravated assault with pool cue; dangerous offender
+F4507,weapons,HIGH,Discharge of restricted firearm; loaded firearm; possession while prohibited
+F4508,other,HIGH,Arson
+F4509,none,LOW,Offences not shown in endorsement
+F4510,robbery;theft_fraud;weapons;other,HIGH,Two robberies; fraud; forgery; masked; knife; breaches

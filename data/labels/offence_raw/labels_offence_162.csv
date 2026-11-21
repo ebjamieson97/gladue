@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3543,drugs,HIGH,Importing cocaine
+F3544,none,LOW,Conditional sentence terms only; offence not shown
+F3545,sexual,HIGH,Two historical counts of sexual assault on daughters
+F3546,assault,LOW,Administering noxious substance to child; conviction set aside
+F3547,break_enter;other,HIGH,Break and enter and breach of probation
+F3548,drugs,HIGH,Importing cocaine
+F3549,none,LOW,Sentence reduction only; offences not shown
+F3550,theft_fraud,HIGH,Fraud over and under $5000 using stolen credit cards
+F3551,sexual,HIGH,Two counts of sexual assault of stepdaughters
+F3552,homicide,HIGH,Second degree murder parole ineligibility
+F3553,weapons;driving;drugs,HIGH,Prohibited firearm; dangerous driving; flight; marijuana trafficking
+F3554,driving;homicide;assault,HIGH,Impaired causing death; criminal negligence causing death; bodily harm
+F3555,weapons;assault;other,HIGH,Loaded restricted weapon; aggravated assault; firearm use
+F3556,assault,HIGH,Assault with a weapon
+F3557,assault,HIGH,Assault with a weapon on stepson
+F3558,sexual,HIGH,Sexual interference and making child pornography
+F3559,driving,HIGH,Over 80 care or control of vehicle
+F3560,homicide,HIGH,Manslaughter
+F3561,homicide,HIGH,Second degree murder
+F3562,sexual,LOW,Dangerous offender sentence; index offence not clearly shown
+F3563,sexual,HIGH,Sexual interference with dangerous offender designation
+F3564,driving,HIGH,Three counts of dangerous driving causing bodily harm

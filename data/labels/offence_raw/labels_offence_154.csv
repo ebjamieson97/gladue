@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3367,homicide,HIGH,Manslaughter credit for presentence custody
+F3368,none,LOW,Offence not shown in excerpt
+F3369,robbery;other,HIGH,Four robberies and masking face with intent
+F3370,assault,HIGH,Aggravated assault and assault with a weapon
+F3371,sexual;break_enter;robbery,HIGH,Sexual assault causing bodily harm and break enter with robbery
+F3372,drugs,HIGH,Possession of cocaine for trafficking
+F3373,drugs;weapons,HIGH,Possession of methamphetamine for trafficking and loaded restricted firearm
+F3374,weapons;theft_fraud,HIGH,Firearm offences and possession of stolen property
+F3375,driving;weapons;assault,HIGH,Dangerous operation weapon possession aggravated assault
+F3376,homicide,HIGH,Manslaughter
+F3377,assault,HIGH,Assault causing bodily harm
+F3378,none,LOW,Dangerous offender appeal offences not shown
+F3379,homicide,HIGH,Two second degree murders and attempted murder
+F3380,assault,HIGH,Aggravated assault on child with iron
+F3381,sexual,HIGH,Indecent act masturbation in public place
+F3382,none,LOW,Offences not shown in excerpt
+F3383,assault,HIGH,Assault causing bodily harm
+F3384,robbery,HIGH,Robbery of convenience store by young person
+F3385,homicide,HIGH,Manslaughter by driving taxi into pedestrian
+F3386,sexual,HIGH,Sexual assault invitation to touching and incest
+F3387,homicide;other,HIGH,First degree murder and conspiracy to commit murder
+F3388,homicide,HIGH,Second degree murder

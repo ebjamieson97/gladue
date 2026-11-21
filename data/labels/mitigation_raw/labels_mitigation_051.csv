@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0501,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in cited authorities
+M0502,N,X,X,X,X,X,X,X,X,N,HIGH,Counsel invoked Gladue but court did not apply it
+M0503,M,X,X,M,X,X,X,X,X,N,HIGH,Gladue factors and intergenerational effects relevant to accepted joint submission
+M0504,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors considered and informed sentence
+M0505,M,X,M,X,X,X,X,X,X,N,LOW,Gladue factors and parents residential school history recorded and considered
+M0506,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue report supported suspended sentence upheld by majority
+M0507,M,X,X,X,X,X,X,X,X,N,LOW,Gladue applies but mitigating effect tempered by violent offences
+M0508,X,X,X,X,M,X,X,X,X,N,LOW,IRCA on racial trauma described and joint sentence accepted
+M0509,X,X,X,X,M,X,X,X,X,N,HIGH,Racialized first-time offender status supported restraint and shorter sentence
+M0510,M,N,X,M,X,X,X,X,X,N,HIGH,Appeal court found Aboriginal heritage and intergenerational factors reduced blameworthiness

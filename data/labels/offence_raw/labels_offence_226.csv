@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4951,homicide;weapons,HIGH,Attempted murder by letter bomb; possessing explosive substance
+F4952,homicide,HIGH,Counselling murder not committed
+F4953,robbery;theft_fraud;other,HIGH,Robbery with firearm; disguise; stolen property; breach of probation
+F4954,sexual,HIGH,Child pornography possession and multiple sexual assaults
+F4955,sexual,HIGH,Two counts of aggravated sexual assault
+F4956,homicide,HIGH,Second degree murder
+F4957,sexual,HIGH,Two counts of sexual assault
+F4958,assault,HIGH,Assault causing bodily harm; assault with weapon; common assault
+F4959,assault,HIGH,Assault of spouse
+F4960,sexual,HIGH,Sexual assault
+F4961,homicide,HIGH,Second degree murder
+F4962,theft_fraud;other,HIGH,Theft; arson causing damage by fire; mischief
+F4963,drugs,HIGH,Possession of cocaine and marihuana for trafficking
+F4964,sexual,HIGH,Making and distributing child pornography; voyeurism
+F4965,break_enter;robbery;assault;kidnapping;theft_fraud,HIGH,Home invasion; robbery; aggravated assault; confinement; stolen property; credit card fraud
+F4966,homicide,HIGH,Manslaughter with dangerous offender application
+F4967,sexual,LOW,Sexual assault causing bodily harm among four counts; disclosure ruling
+F4968,drugs,LOW,Trafficking marijuana; acquittal entered on appeal
+F4969,robbery;assault;other,HIGH,Two counts robbery; common assault; breach of recognizance
+F4970,other;drugs,LOW,Breach of conditional sentence after drug trafficking sentence
+F4971,homicide,HIGH,Manslaughter
+F4972,drugs,HIGH,Two counts possession of heroin for trafficking

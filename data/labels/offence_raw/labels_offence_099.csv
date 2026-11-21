@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2157,sexual;kidnapping,HIGH,Sexual assault with weapon and unlawful confinement
+F2158,drugs,HIGH,Possession of cocaine for trafficking and simple possession of marihuana
+F2159,theft_fraud,HIGH,Two counts of fraud and one count of theft
+F2160,sexual;drugs;other,HIGH,Invitation to sexual touching; luring; trafficking; bail breaches
+F2161,weapons;other,HIGH,Possession of loaded prohibited firearm and breach of recognizance
+F2162,drugs,HIGH,Possession of cocaine for the purpose of trafficking
+F2163,robbery,HIGH,Two robberies with knife and box cutter
+F2164,drugs;other,HIGH,Possession of hydromorphone for trafficking and breach of probation
+F2165,drugs;theft_fraud,HIGH,Production and trafficking of marihuana; diversion of electricity
+F2166,sexual,HIGH,Sexual touching of children over years
+F2167,drugs;theft_fraud,HIGH,Conspiracy to traffic; possession for trafficking; possession of proceeds
+F2168,sexual,HIGH,Sexual assault of vulnerable victim with breach of trust
+F2169,sexual,HIGH,Sexual assault
+F2170,theft_fraud,HIGH,Fraud over $5000
+F2171,sexual;weapons;other,HIGH,Sexual assault with weapon; weapon possession; forcible entry; breach
+F2172,weapons;other;assault,HIGH,Machete possession; threats; resisting arrest; assault police; assault wife
+F2173,robbery,HIGH,Robbery with screwdriver at ATM
+F2174,sexual,HIGH,Two sexual assaults of young girls
+F2175,sexual,HIGH,Dangerous offender sentence for violent rape with knife
+F2176,theft_fraud;driving;other,HIGH,Stolen property; dangerous driving; escape custody; obstruction
+F2177,sexual,HIGH,Sexual interference with 14 year old
+F2178,sexual,HIGH,Sexual assault of intoxicated passenger

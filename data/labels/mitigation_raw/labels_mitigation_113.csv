@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1121,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M1122,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for general principles
+M1123,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors given significant weight and reduced responsibility
+M1124,M,X,R,X,X,X,X,X,X,N,HIGH,Gladue factors counted but no residential school link found
+M1125,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court held judge failed to weigh Aboriginal status and reduced sentence
+M1126,R,X,N,N,X,X,X,X,X,N,LOW,Not fully Indigenous so Gladue not applied but trauma context noted
+M1127,X,X,N,X,X,X,X,X,X,N,LOW,Residential school attendance noted in background of dangerous offender appeal
+M1128,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in another case
+M1129,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in a comparison case
+M1130,M,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal status and Gladue lowered parole ineligibility period

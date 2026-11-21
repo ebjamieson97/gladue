@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3697,sexual,HIGH,Sexual assault of 13 year old
+F3698,robbery,HIGH,Bank robbery and conspiracy to commit robbery
+F3699,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3700,sexual;other,HIGH,Sexual offences and breach of recognizance
+F3701,theft_fraud,HIGH,Uttering forged documents to insurer
+F3702,other,HIGH,Municipal by-law contraventions
+F3703,homicide,HIGH,Second degree murder and attempted murder
+F3704,drugs;weapons,HIGH,Drug trafficking and prohibited firearm possession
+F3705,weapons,HIGH,Prohibited devices and importing and smuggling firearm
+F3706,driving;other,HIGH,Over 80 driving and breach of undertaking
+F3707,none,LOW,Offences not shown; sentence appeal only
+F3708,drugs,HIGH,Trafficking cocaine and possession for trafficking
+F3709,drugs,HIGH,Trafficking fentanyl
+F3710,break_enter;assault;kidnapping;robbery;theft_fraud;other,HIGH,Break ins with assault confinement robbery threats stolen property
+F3711,break_enter;sexual,HIGH,Break and enter and sexual assault
+F3712,driving;theft_fraud,HIGH,Dangerous driving causing bodily harm while fleeing and theft of vehicle
+F3713,assault;other,HIGH,Assault and breach of no contact order
+F3714,other,HIGH,Breach of long term supervision order
+F3715,other,LOW,Receiving material benefit from sexual services
+F3716,assault,HIGH,Aggravated assault in jail
+F3717,sexual,HIGH,Luring a child
+F3718,assault,HIGH,Assaults and aggravated assault from bar brawl

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3081,homicide,HIGH,Manslaughter
+F3082,break_enter;theft_fraud,HIGH,Break and enter and possession of stolen property
+F3083,sexual,HIGH,Two counts of sexual assault on stepdaughters
+F3084,weapons;assault;other,HIGH,Firearm discharge pointing possession offences common assault resisting peace officer
+F3085,sexual,HIGH,Sexual assault
+F3086,homicide,HIGH,Manslaughter
+F3087,theft_fraud,HIGH,Possession and transport of proceeds of crime
+F3088,weapons,HIGH,Possession of loaded firearm while prohibited and breach of undertaking
+F3089,break_enter;theft_fraud;other,HIGH,Break and enter with theft theft of firearm breach of probation
+F3090,assault;other,HIGH,Assault assault causing bodily harm and breaches of probation
+F3091,drugs,HIGH,Possession of methamphetamine for purpose of trafficking
+F3092,theft_fraud,HIGH,Fraud over $5000
+F3093,drugs,HIGH,Possession for purpose of trafficking cocaine and fentanyl
+F3094,robbery,HIGH,Robbery by young person
+F3095,break_enter,HIGH,Break and enter sentence appeal; contempt conviction set aside
+F3096,none,LOW,Offence not shown; appeal allowed on disclosure
+F3097,break_enter,HIGH,Six counts of break and enter
+F3098,theft_fraud,HIGH,Fraud over $5000
+F3099,assault,HIGH,Aggravated assault
+F3100,homicide,HIGH,Second degree murder
+F3101,theft_fraud,HIGH,Attempted theft of mail
+F3102,drugs;weapons,HIGH,Trafficking in cocaine and carrying concealed weapon

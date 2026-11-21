@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1541,other;assault,HIGH,Living on avails of minors prostitution; assault with weapon
+F1542,assault,HIGH,Aggravated assault and assault with a weapon
+F1543,sexual,HIGH,Historical indecent assault of child
+F1544,drugs,HIGH,Two counts possession for purpose of trafficking
+F1545,drugs,HIGH,Introducing narcotics into a penitentiary
+F1546,robbery;weapons,HIGH,Robbery and use of imitation firearm in robbery
+F1547,theft_fraud,HIGH,Possession of stolen property
+F1548,drugs,HIGH,Trafficking cocaine and possession of cocaine
+F1549,drugs,HIGH,Producing cannabis and possession for purpose of trafficking
+F1550,sexual;kidnapping,HIGH,Two counts sexual assault and unlawful confinement
+F1551,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1552,assault;weapons;other,HIGH,Aggravated assault; firearm offences; attempt to obstruct justice
+F1553,other,HIGH,Four counts breach of probation
+F1554,theft_fraud;other,HIGH,Impersonation; fraud over $5000; failure to comply with recognizance
+F1555,weapons,HIGH,Loaded handgun possession and related gun charges
+F1556,sexual,HIGH,Sexual assault of sleeping complainant
+F1557,homicide,HIGH,Second degree murder
+F1558,sexual,HIGH,Sexual assault and sexual interference of child
+F1559,homicide,HIGH,Murder or manslaughter during planned robbery
+F1560,other,HIGH,Intimidation of justice system participant
+F1561,other,HIGH,Immigration Act misrepresentation and failure to comply by company
+F1562,drugs;other,HIGH,Cocaine possession and trafficking; obstructing peace officer

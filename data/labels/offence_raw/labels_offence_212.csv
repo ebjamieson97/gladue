@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4643,theft_fraud,HIGH,Fraud over $5000 cheque kiting
+F4644,driving,HIGH,Failing to stop after accident and driving while prohibited
+F4645,homicide,HIGH,Two counts of second degree murder
+F4646,sexual,HIGH,Sexual assault
+F4647,assault,HIGH,Aggravated assault and assault with a weapon
+F4648,assault,HIGH,Criminal negligence causing bodily harm to infant
+F4649,sexual,HIGH,Sexual interference invitation to touch and luring
+F4650,break_enter;theft_fraud,HIGH,Break and enter dwelling and theft
+F4651,robbery;assault;weapons,HIGH,Robbery assault and weapons offences
+F4652,none,LOW,Offence not shown in excerpt
+F4653,none,LOW,Offences not shown in excerpt
+F4654,driving,HIGH,Impaired driving causing bodily harm
+F4655,break_enter,HIGH,Break and enters attempt and possession of break-in instruments
+F4656,robbery,HIGH,Four robberies
+F4657,kidnapping;assault;weapons;other,HIGH,Confinement assault weapon possession threats and breach of probation
+F4658,assault,HIGH,Aggravated assault
+F4659,other,HIGH,Speeding with driving prohibition under Motor Vehicle Act
+F4660,robbery;assault;weapons,HIGH,Robbery aggravated assault and discharge firearm with intent
+F4661,sexual;other,HIGH,Sexual assault threats and invitation to sexual touching
+F4662,other,HIGH,Breach of probation no-contact term
+F4663,assault,LOW,Aggravated assault shooting and possibly other counts
+F4664,drugs;theft_fraud,HIGH,Drug trafficking possession for trafficking and proceeds of crime

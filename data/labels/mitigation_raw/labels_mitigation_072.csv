@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0711,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned generally
+M0712,M,R,X,R,X,X,X,X,X,N,LOW,Gladue weighed but little impact due to tenuous nexus
+M0713,X,X,X,X,N,X,X,X,X,N,HIGH,Racism discussed as trial fairness issue not sentencing mitigation
+M0714,R,X,N,X,X,X,X,X,X,N,HIGH,Gladue argued but moral blameworthiness found high
+M0715,X,X,X,X,X,X,X,X,X,Y,HIGH,Racist neo-Nazi motive treated as aggravating
+M0716,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for general principles
+M0717,X,X,X,X,X,X,X,X,X,Y,HIGH,Racist threats against Black neighbour treated as aggravating
+M0718,M,M,X,X,X,X,X,X,X,N,HIGH,Gladue and colonialism lowered moral blameworthiness and sentence
+M0719,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0720,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factor mentioned

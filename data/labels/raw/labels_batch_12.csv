@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D304,REVIEWS,FULL,HIGH,Appeal of probation order length dismissed
+D103,NOT,NA,HIGH,Voir dire ruling on wiretap admissibility
+D469,NOT,NA,HIGH,SCC entrapment appeal dismissed and remitted for sentencing
+D126,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal dismissed
+D224,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal partly allowed
+D214,REVIEWS,FULL,HIGH,Summary conviction appeal and Crown sentence appeal dismissed
+D229,IMPOSES,FULL,HIGH,Sentence for money laundering conditional sentence imposed
+D399,REVIEWS,FULL,HIGH,Appeal from summary conviction court sentence appeal dismissed
+D417,RELATED,NA,HIGH,Forfeiture of house ruling after sentencing
+D288,REVIEWS,FULL,HIGH,Crown sentence appeal for intermittent sentences allowed
+D040,NOT,NA,LOW,Leave to appeal refused on conviction grounds
+D198,REVIEWS,FULL,HIGH,Murder appeals dismissed including parole ineligibility appeal
+D334,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed and sentence found fit
+D149,NOT,NA,HIGH,SCC murder conviction appeal on Vetrovec warning
+D018,NOT,NA,LOW,Conviction appeal for drug trafficking dismissed
+D192,NOT,NA,HIGH,Conviction appeal on delay dismissed
+D401,NOT,NA,HIGH,Bail pending conviction appeal denied
+D393,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed and reduced to eighteen months
+D006,NOT,NA,HIGH,Bail decision during trial
+D351,REVIEWS,FULL,HIGH,Sentence appeal dismissed Morris factors considered
+D209,REVIEWS,FULL,HIGH,Sentence appeal allowed on consent credit varied
+D238,IMPOSES,FULL,HIGH,Sentence for sexual interference and luring imposed
+D271,IMPOSES,FULL,HIGH,Sentence for two bank robberies imposed
+D171,RELATED,NA,HIGH,Leave to re-open summary conviction sentence appeal granted
+D471,NOT,NA,HIGH,Conviction quashed and sentence appeal not reached
+D345,NOT,NA,HIGH,Conviction appeal dismissed

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0901,N,N,N,X,X,N,X,X,X,N,LOW,SCC summary of Gladue law and judicial notice; case specifics not shown
+M0902,M,M,M,X,X,M,X,M,X,N,HIGH,Gladue and racial discrimination causally linked and reduced culpability; conditional sentence
+M0903,N,X,X,N,X,X,X,X,X,N,HIGH,Gladue only mentioned in general law and another case
+M0904,N,X,X,X,X,X,X,X,X,N,LOW,Metis heritage engaged 718.2(e); effect not shown in excerpt
+M0905,X,X,X,X,X,X,X,X,X,N,HIGH,Youth aggravated assault appeal; no relevant factors weighed
+M0906,N,X,X,X,X,X,X,X,X,N,HIGH,Possible Indigenous roots unconfirmed and Gladue not argued
+M0907,M,X,N,X,X,X,X,X,X,N,LOW,Gladue report considered and parents residential school noted; weight unclear
+M0908,M,X,M,X,X,M,X,X,X,N,HIGH,Gladue factors and systemic racism adjusted sentence downward 18 months
+M0909,N,X,X,X,X,X,X,X,X,N,LOW,Recited Gladue law; troubled background mitigating but Gladue weight unclear
+M0910,N,X,X,N,X,X,X,X,X,N,HIGH,Non-Indigenous offender; intergenerational impacts cited only as general principle

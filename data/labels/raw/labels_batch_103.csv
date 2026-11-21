@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D2971,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed and sentence reduced
+D5431,NOT,NA,HIGH,Tax petition procedural application
+D4203,NOT,NA,HIGH,Evidence ruling in jury trial
+D2530,NOT,NA,HIGH,Conviction appeal dismissed with fresh evidence application
+D5717,NOT,NA,HIGH,Voluntariness ruling on statements
+D4010,NOT,NA,HIGH,Summary conviction appeal on driving while prohibited conviction
+D4062,NOT,NA,HIGH,Conviction appeal for sexual assault dismissed
+D2340,REVIEWS,FULL,HIGH,Sentence appeal for driving without due care dismissed
+D2439,IMPOSES,FULL,HIGH,Reasons for sentence on drug offences
+D2156,IMPOSES,FULL,HIGH,Oral reasons for sentence on drug trafficking
+D3386,NOT,NA,HIGH,Conviction appeal; new trial ordered on dangerous driving
+D4119,NOT,NA,HIGH,Medical marijuana Charter challenge and verdict
+D4164,REVIEWS,FULL,HIGH,Dangerous offender indeterminate sentence appeal dismissed
+D6032,IMPOSES,FULL,HIGH,Reasons for sentence for aggravated sexual assault
+D5145,REVIEWS,FULL,HIGH,Dangerous offender designation appeal; rehearing ordered
+D5710,NOT,NA,HIGH,Conviction appeal dismissed
+D5125,NOT,NA,HIGH,Summary conviction appeal on conviction
+D3527,NOT,NA,HIGH,Fisheries conviction appeal dismissed
+D4079,NOT,NA,HIGH,Crown appeal on over 80 conviction
+D1688,REVIEWS,FULL,HIGH,Leave to appeal sentence granted; appeal dismissed
+D1737,REVIEWS,FULL,HIGH,Conviction and sentence appeals dismissed
+D2997,NOT,NA,HIGH,Voir dire on Mr Big confessions
+D5871,NOT,NA,HIGH,Validity of information ruling
+D1392,NOT,NA,HIGH,Excise tax appeal
+D3976,NOT,NA,HIGH,Verdict of second degree murder
+D3065,REVIEWS,FULL,HIGH,Sentence appeal allowed; sentence reduced with credit

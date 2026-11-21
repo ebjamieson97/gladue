@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2267,homicide,HIGH,Second degree murder of wife
+F2268,drugs,HIGH,Conspiracy to traffic hashish
+F2269,robbery;assault,HIGH,Three robberies and an assault
+F2270,other;kidnapping,HIGH,Resisting peace officer and unlawful confinement
+F2271,sexual,HIGH,Indecent assault and gross indecency
+F2272,homicide,HIGH,Second degree murder
+F2273,kidnapping;break_enter;assault;other;drugs,HIGH,Kidnapping and break and enter with assault and obstruction and possession
+F2274,sexual,HIGH,Sexual assault of child
+F2275,weapons,HIGH,Possession of prohibited device gun magazine
+F2276,robbery,HIGH,Robbery
+F2277,drugs,HIGH,Possession of cocaine for trafficking and possession of methamphetamine
+F2278,robbery,HIGH,Robbery
+F2279,other,HIGH,Attempt to obstruct justice
+F2280,break_enter,HIGH,Break and enter to commit assault with weapon
+F2281,kidnapping;other;assault;sexual,HIGH,Kidnapping and confinement and extortion and assaults and sexual assault
+F2282,drugs,HIGH,Possession for purpose of trafficking
+F2283,assault;kidnapping;other;weapons;robbery,HIGH,Aggravated assaults and kidnapping and threats and pointing firearm and robbery
+F2284,assault,LOW,Appeal of three convictions apparently assaults
+F2285,weapons,LOW,Loaded prohibited weapon and other counts unclear
+F2286,robbery,HIGH,Robbery with imitation firearm
+F2287,weapons;drugs;other,HIGH,Firearm and ammunition offences and drug trafficking and false identification
+F2288,other,HIGH,Income tax evasion

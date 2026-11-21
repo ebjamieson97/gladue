@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1805,homicide,HIGH,Second degree murder
+F1806,drugs,HIGH,Producing marihuana
+F1807,assault,HIGH,Aggravated assault
+F1808,robbery;kidnapping;break_enter;weapons;other,HIGH,Armed robbery confinement forcible entry imitation firearm masked breaches
+F1809,robbery;assault;other,HIGH,Armed robbery assault with weapon threats mischief assault police breaches
+F1810,sexual,HIGH,Possession and making available child pornography
+F1811,theft_fraud,HIGH,Fraud and forgery
+F1812,sexual,HIGH,Sexual assault
+F1813,none,LOW,Offence not shown
+F1814,sexual,HIGH,Sexual assault of 15 year old
+F1815,none,LOW,Offences not shown conditional sentence
+F1816,break_enter;weapons,HIGH,Home invasion break and enter and firearms offences
+F1817,sexual,HIGH,Sexual assault of 15 year old
+F1818,drugs,HIGH,Possession of drugs for purpose of trafficking
+F1819,drugs,HIGH,Producing and possessing marihuana for trafficking
+F1820,drugs;other,HIGH,Possession of cocaine for trafficking and release order breaches
+F1821,driving,HIGH,Criminal negligence and impaired driving causing death and over 80
+F1822,robbery;weapons;other,HIGH,Two robberies imitation weapon and masked with intent
+F1823,assault;driving,HIGH,Assault with weapon criminal negligence bodily harm failure to stop
+F1824,assault;other,HIGH,Two aggravated assaults and intimidation
+F1825,assault,HIGH,Aggravated assault
+F1826,theft_fraud;other,HIGH,Possession of stolen property and breach of recognizance

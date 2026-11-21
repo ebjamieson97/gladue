@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2025,homicide;weapons,HIGH,First degree murder; discharge firearm; possess loaded firearm
+F2026,assault;other,HIGH,Assault with a weapon and extortion
+F2027,drugs,HIGH,Possession of heroin and fentanyl for purpose of trafficking
+F2028,sexual,HIGH,Sexual assault
+F2029,homicide,HIGH,Two counts conspiracy to commit murder
+F2030,homicide,HIGH,Second degree murder
+F2031,assault,HIGH,Two counts of assault (lesser included of sexual assault)
+F2032,drugs,HIGH,Trafficking in controlled substance (cocaine)
+F2033,sexual,HIGH,Sexual assault and sexual interference
+F2034,none,LOW,Offences not shown in excerpt
+F2035,sexual,HIGH,Sexual interference (sexual assault conditionally stayed)
+F2036,robbery,LOW,Robbery plus other counts 5 and 6 not identified
+F2037,robbery,HIGH,Robbery with knife (weapon count not proceeded)
+F2038,assault;kidnapping;other,HIGH,Aggravated assault; assault with weapon; confinement; threats; breach
+F2039,none,LOW,Very serious attack; offence not named
+F2040,assault;other,HIGH,Assault; assault with weapon; uttering threats; breaches
+F2041,none,LOW,Offence not shown in excerpt
+F2042,assault,HIGH,Assault causing bodily harm
+F2043,homicide,HIGH,Conspiracy to commit murder (youth)
+F2044,assault,HIGH,Aggravated assault (youth shooting)
+F2045,robbery,HIGH,Four counts of robbery
+F2046,assault,HIGH,Aggravated assault by shooting victim

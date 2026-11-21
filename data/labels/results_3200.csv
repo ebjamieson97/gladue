@@ -1,0 +1,39 @@
+sample,task,method,how_scored,decisions_scored,precision,recall,recall_of_all_imposes
+STRATUM RANDOM SAMPLE (weighted),sentencing,"Starting idea: cites s. 718, or 10+ mentions",whole sample,3200,0.8579,0.7689,
+STRATUM RANDOM SAMPLE (weighted),sentencing,Count only: 3+ mentions,whole sample,3200,0.7191,0.9745,
+STRATUM RANDOM SAMPLE (weighted),sentencing,Count only: 5+ mentions,whole sample,3200,0.794,0.9207,
+STRATUM RANDOM SAMPLE (weighted),sentencing,Count only: 10+ mentions,whole sample,3200,0.8579,0.7637,
+STRATUM RANDOM SAMPLE (weighted),sentencing,"Simple: density 8+, or 16+ mentions",whole sample,3200,0.8683,0.9314,
+STRATUM RANDOM SAMPLE (weighted),sentencing,"Rules v1.0, core",whole sample,3200,0.8805,0.893,
+STRATUM RANDOM SAMPLE (weighted),sentencing,"Rules v1.0, core + brief",whole sample,3200,0.8584,0.942,
+STRATUM RANDOM SAMPLE (weighted),sentencing,"Rules v2.0, core",whole sample,3200,0.9179,0.9116,
+STRATUM RANDOM SAMPLE (weighted),sentencing,"Rules v2.0, core + brief",whole sample,3200,0.9051,0.9385,
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: decision tree,5-fold cross-validation,3200,0.9012,0.9174,
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: logistic regression,5-fold cross-validation,3200,0.9537,0.9499,
+STRATUM RANDOM SAMPLE (weighted),sentencing,Statistical: gradient boosting,5-fold cross-validation,3200,0.9506,0.9576,
+STRATUM RANDOM SAMPLE (weighted),imposes,Trial court,whole sample,1770,0.9038,0.9964,0.973
+STRATUM RANDOM SAMPLE (weighted),imposes,"Trial court, heading shows no appeal",whole sample,1770,0.9756,0.9953,0.972
+STRATUM RANDOM SAMPLE (weighted),imposes,IMPOSES rules v1.0: also needs a sentencing heading or 10+ mentions,whole sample,1770,0.9766,0.985,0.9618
+STRATUM RANDOM SAMPLE (weighted),imposes,"Variant: v1.0, or 2+ sentence terms in the closing",whole sample,1770,0.9768,0.9953,0.972
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: decision tree,5-fold cross-validation,1770,0.988,0.9759,0.953
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: logistic regression,5-fold cross-validation,1770,0.9821,0.9905,0.9673
+STRATUM RANDOM SAMPLE (weighted),imposes,Statistical: gradient boosting,5-fold cross-validation,1770,0.9833,0.9906,0.9674
+RANDOM SAMPLE (unweighted),sentencing,"Starting idea: cites s. 718, or 10+ mentions",whole sample,3200,0.8653,0.7871,
+RANDOM SAMPLE (unweighted),sentencing,Count only: 3+ mentions,whole sample,3200,0.7152,0.9709,
+RANDOM SAMPLE (unweighted),sentencing,Count only: 5+ mentions,whole sample,3200,0.7892,0.9247,
+RANDOM SAMPLE (unweighted),sentencing,Count only: 10+ mentions,whole sample,3200,0.8667,0.7831,
+RANDOM SAMPLE (unweighted),sentencing,"Simple: density 8+, or 16+ mentions",whole sample,3200,0.864,0.9247,
+RANDOM SAMPLE (unweighted),sentencing,"Rules v1.0, core",whole sample,3200,0.8847,0.9016,
+RANDOM SAMPLE (unweighted),sentencing,"Rules v1.0, core + brief",whole sample,3200,0.8703,0.9428,
+RANDOM SAMPLE (unweighted),sentencing,"Rules v2.0, core",whole sample,3200,0.9212,0.9036,
+RANDOM SAMPLE (unweighted),sentencing,"Rules v2.0, core + brief",whole sample,3200,0.9084,0.9257,
+RANDOM SAMPLE (unweighted),sentencing,Statistical: decision tree,5-fold cross-validation,3200,0.8967,0.9237,
+RANDOM SAMPLE (unweighted),sentencing,Statistical: logistic regression,5-fold cross-validation,3200,0.9554,0.9468,
+RANDOM SAMPLE (unweighted),sentencing,Statistical: gradient boosting,5-fold cross-validation,3200,0.9469,0.9498,
+RANDOM SAMPLE (unweighted),imposes,Trial court,whole sample,987,0.9118,1.0,0.9707
+RANDOM SAMPLE (unweighted),imposes,"Trial court, heading shows no appeal",whole sample,987,0.9822,1.0,0.9707
+RANDOM SAMPLE (unweighted),imposes,IMPOSES rules v1.0: also needs a sentencing heading or 10+ mentions,whole sample,987,0.982,0.9879,0.9589
+RANDOM SAMPLE (unweighted),imposes,"Variant: v1.0, or 2+ sentence terms in the closing",whole sample,987,0.9822,1.0,0.9707
+RANDOM SAMPLE (unweighted),imposes,Statistical: decision tree,5-fold cross-validation,987,0.982,0.9909,0.9619
+RANDOM SAMPLE (unweighted),imposes,Statistical: logistic regression,5-fold cross-validation,987,0.991,0.997,0.9677
+RANDOM SAMPLE (unweighted),imposes,Statistical: gradient boosting,5-fold cross-validation,987,0.9851,1.0,0.9707

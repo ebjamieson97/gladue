@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0351,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted as general law only
+M0352,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0353,M,X,X,M,X,X,X,X,X,N,LOW,Gladue report and attenuated moral blameworthiness supported conditional sentence
+M0354,N,X,X,X,X,X,X,X,X,N,LOW,Gladue para 79 quoted with no offender analysis
+M0355,N,X,X,X,X,X,X,X,X,N,HIGH,Statutory s 718.2(e) quoted only
+M0356,M,N,X,M,M,X,X,X,X,N,HIGH,Gladue and Morris factors mitigating but limited by offence gravity
+M0357,N,X,X,X,X,N,X,X,X,N,HIGH,Gladue and racism mentioned only in general legal discussion
+M0358,R,X,X,X,X,X,X,X,X,N,LOW,Metis heritage noted but Indigenous connections not significant
+M0359,X,X,X,X,X,R,X,X,X,N,LOW,Racial discrimination not raised at sentencing so no effect
+M0360,N,X,X,X,X,X,X,X,X,N,HIGH,Statutory s 718.2(e) discussed for interpretation only

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0947,sexual,HIGH,Six counts of indecent assault
+F0948,weapons,HIGH,Imitation weapon dangerous purpose and concealed weapon
+F0949,other;theft_fraud,HIGH,Extortion and theft under and failure to comply
+F0950,robbery;kidnapping;other;theft_fraud;weapons,HIGH,Robbery; confinement; threats; stolen property; imitation firearm use
+F0951,assault,HIGH,Aggravated assault
+F0952,drugs;weapons,HIGH,Conspiracy to traffic heroin and cocaine; breach of weapons prohibition
+F0953,theft_fraud,HIGH,Fraud as party
+F0954,sexual,HIGH,Sexual assault of stepdaughter
+F0955,robbery;assault;sexual,HIGH,Robbery and assault and sexual assault
+F0956,sexual,HIGH,Possession of child pornography
+F0957,homicide,HIGH,Second degree murder
+F0958,drugs,HIGH,Possession of methamphetamine for trafficking
+F0959,sexual,HIGH,Child pornography possession accessing and making available
+F0960,theft_fraud,HIGH,Theft of motor vehicle over $5000
+F0961,assault,HIGH,Assault of wife
+F0962,sexual,HIGH,Sexual assault; dangerous offender application
+F0963,robbery,HIGH,Two robberies
+F0964,homicide;weapons,HIGH,Criminal negligence causing death with firearm; careless firearm use
+F0965,none,LOW,Offences not shown in excerpt
+F0966,break_enter;sexual,HIGH,Break and enter and sexual assault
+F0967,sexual,HIGH,Sexual assault of partner
+F0968,sexual,HIGH,Arranging sexual services of person under 18

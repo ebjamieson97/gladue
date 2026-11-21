@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2729,none,LOW,Sentence appeal; offence not stated
+F2730,homicide;weapons,HIGH,Attempted murder x3 with restricted firearm; discharge firearm; unauthorized possession
+F2731,drugs,HIGH,Trafficking in cocaine
+F2732,homicide;weapons,HIGH,Second-degree murder by youth; weapon offence s. 88
+F2733,sexual,HIGH,Sexual assault
+F2734,robbery,HIGH,Robbery involving home invasion
+F2735,other;sexual,HIGH,Breach s. 161 order; mischief; obstruct peace officer; distribute child pornography
+F2736,kidnapping;other,HIGH,Kidnapping and extortion
+F2737,drugs;theft_fraud,HIGH,Possession for trafficking x2; possession of stolen property
+F2738,assault;other,HIGH,Assault causing bodily harm; breach of recognizance
+F2739,robbery;kidnapping;weapons;other,HIGH,Robbery; imitation firearm; unlawful confinement; wearing disguise
+F2740,drugs,HIGH,Drug trafficking in hashish and cocaine
+F2741,sexual,HIGH,Sexual assault of two complainants
+F2742,weapons,HIGH,Transfer of firearm s. 99(1)(a)
+F2743,drugs,HIGH,Trafficking in cocaine dial-a-dope
+F2744,sexual,HIGH,Sexual offences against seven boys
+F2745,sexual,HIGH,Sexual interference and invitation to sexual touching
+F2746,theft_fraud,HIGH,Fraud; attempted fraud; forgery; uttering forged document
+F2747,other,HIGH,Two breaches of long-term supervision order
+F2748,homicide,HIGH,Accessory after the fact to murder
+F2749,break_enter;other;weapons,HIGH,Break and enter; breaches; mischief; criminal harassment; firearm possession
+F2750,homicide;assault,HIGH,Attempted murder and aggravated assault by youth

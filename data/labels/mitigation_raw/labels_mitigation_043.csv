@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0421,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only quoted from Friesen in prohibition order variation
+M0422,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court found judge properly balanced Gladue factors and upbringing
+M0423,N,X,X,X,X,X,X,X,X,N,LOW,Court cited 718.2(e) law but listed only plea and remorse as mitigating
+M0424,M,X,N,X,X,M,X,X,X,N,HIGH,Gladue background and discrimination significantly attenuated moral blameworthiness
+M0425,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality principle
+M0426,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors mentioned only in general law on Friesen
+M0427,N,X,X,X,N,X,X,X,X,N,LOW,Experience of racism described in reports but weighing not shown
+M0428,R,X,N,X,X,X,X,X,X,N,HIGH,Indigenous link weak and sentence upheld despite Gladue principles
+M0429,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only in constitutional analysis of minimum sentence
+M0430,N,X,X,X,M,X,X,X,X,N,HIGH,Court treated experience of anti-Black racism as relevant to restraint

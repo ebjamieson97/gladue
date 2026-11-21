@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0023,sexual,HIGH,Sexual assault with a weapon
+F0024,sexual,HIGH,Sexual interference with a person under 16
+F0025,robbery,HIGH,Five counts of robbery
+F0026,homicide,HIGH,Manslaughter using a firearm
+F0027,weapons,HIGH,Four counts of careless storage of firearm
+F0028,assault,HIGH,Criminal negligence causing bodily harm by shotgun
+F0029,sexual,HIGH,Two counts of sexual interference with young girls
+F0030,break_enter;theft_fraud,HIGH,Break and enter; stolen credit cards; house breaking tools
+F0031,break_enter;theft_fraud,HIGH,Break enter and theft
+F0032,drugs,HIGH,Trafficking in cocaine
+F0033,assault;weapons,HIGH,Assault causing bodily harm; use of imitation firearm during assault
+F0034,sexual,HIGH,Two counts of sexual assault on boys aged 13 or 14
+F0035,weapons,HIGH,Possession of two loaded handguns
+F0036,assault;other,HIGH,Two counts of assault and criminal harassment
+F0037,drugs,LOW,Apparent drug trafficking; offence not stated in excerpt
+F0038,robbery,HIGH,Robbery with violence
+F0039,drugs,HIGH,Trafficking in substance held out to be cocaine
+F0040,sexual,HIGH,Sexual assault of 13 year old
+F0041,sexual,LOW,Apparent sexual assault; consent at issue
+F0042,none,LOW,Counts not described in excerpt
+F0043,sexual;assault;kidnapping,HIGH,Aggravated sexual assault; choking; unlawful confinement
+F0044,driving;other,HIGH,Impaired driving CSO; breach of conditional sentence

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0731,X,X,X,X,M,X,X,X,X,N,HIGH,Anti-Black racism found to slightly reduce moral culpability
+M0732,N,X,R,X,X,X,X,X,X,N,LOW,Gladue reviewed; residential school effect unclear; no clear weight shown
+M0733,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court found sentence reflected full benefit of Gladue mitigation
+M0734,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) cited for restraint only
+M0735,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0736,X,X,X,X,X,R,X,X,X,N,HIGH,Offender claimed racial profiling; no mitigating factors found
+M0737,N,X,N,X,X,X,X,X,X,N,HIGH,Gladue only in another offender's case
+M0738,M,N,X,N,X,X,X,X,X,N,LOW,Gladue report adopted; colonial and intergenerational points only in report
+M0739,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited for restraint only
+M0740,N,X,X,X,N,X,X,X,X,N,LOW,Gladue report and IRCA mentioned; weighing not visible

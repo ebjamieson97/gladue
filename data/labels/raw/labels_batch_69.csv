@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3205,NOT,NA,HIGH,Verdict only on robbery charges
+D5506,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D5155,NOT,NA,HIGH,Ruling on validity of search warrant
+D4566,NOT,NA,HIGH,Murder acquittal verdict
+D4082,NOT,NA,HIGH,Summary conviction appeal from sexual assault conviction dismissed
+D3085,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeals dismissed with no error in sentence
+D2090,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal dismissed for attempted murder
+D3222,NOT,NA,HIGH,Crown liability civil appeal
+D3253,NOT,NA,HIGH,Conviction appeal dismissed for intimidation
+D3267,NOT,NA,HIGH,Release pending appeal granted
+D5609,NOT,NA,HIGH,Voir dire on voluntariness of statements
+D5687,REVIEWS,FULL,HIGH,Dangerous offender designation appeal dismissed
+D4812,NOT,NA,HIGH,Voir dire on exclusion of evidence
+D4364,NOT,NA,HIGH,Conviction appeal dismissed fraud
+D3378,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal dismissed for manslaughter
+D5720,NOT,NA,HIGH,Leave to appeal refused on trial procedure
+D3967,IMPOSES,FULL,HIGH,Sentencing for impaired driving causing bodily harm
+D2161,IMPOSES,FULL,HIGH,Sentencing for child pornography offences
+D1326,NOT,NA,HIGH,Mens rea for breach of probation
+D3515,RELATED,NA,HIGH,Appeals dismissed for want of prosecution
+D2730,NOT,NA,HIGH,Release pending appeal for dangerous offender
+D2712,REVIEWS,FULL,HIGH,Sentence appeal dismissed for sexual assault Gladue
+D5915,NOT,NA,HIGH,Expropriation compensation appeal
+D1736,RELATED,NA,HIGH,Appeal of firearm forfeiture ancillary order
+D4391,NOT,NA,HIGH,Verdict on cannabis production
+D4263,NOT,NA,HIGH,Conviction appeal dismissed with sentence appeal deferred

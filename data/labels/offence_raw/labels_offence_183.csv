@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4005,other,LOW,Arson (setting fires) and restitution order
+F4006,none,LOW,Offence type not stated
+F4007,robbery,HIGH,Robbery with imitation firearm
+F4008,drugs,HIGH,Possession of crack cocaine for trafficking
+F4009,robbery;assault;driving,HIGH,Robbery; dangerous driving causing bodily harm; assault; leaving scene
+F4010,sexual,HIGH,Sexual assault
+F4011,other,HIGH,Criminal harassment
+F4012,kidnapping;assault,HIGH,Kidnapping and simple assault
+F4013,driving,HIGH,Criminal negligence causing death by vehicle and failing to stop
+F4014,assault,HIGH,Aggravated assault
+F4015,break_enter,HIGH,Two counts of break and enter
+F4016,robbery;weapons,HIGH,Robbery with firearm and unauthorized possession of prohibited firearm
+F4017,driving;assault,HIGH,Dangerous operation causing bodily harm and assault to resist arrest
+F4018,none,LOW,Offence not shown
+F4019,sexual;assault,HIGH,Sexual assault and assault
+F4020,other,HIGH,Occupational health and safety regulatory offences
+F4021,homicide,HIGH,Manslaughter by firearm
+F4022,driving,HIGH,Impaired driving causing death and driving without interlock
+F4023,assault,HIGH,Aggravated assault; assault with weapon; assault causing bodily harm
+F4024,sexual;kidnapping,HIGH,Sexual assault and unlawful confinement
+F4025,assault,HIGH,Assault with a weapon (dangerous offender application)
+F4026,theft_fraud,HIGH,Laundering proceeds of crime and attempted possession of crime proceeds

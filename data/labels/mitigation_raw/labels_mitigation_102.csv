@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1011,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court reduced sentences stressing restorative justice for Aboriginal offenders
+M1012,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors listed among mitigating circumstances balanced in sentence
+M1013,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted only on restorative sentences
+M1014,N,X,X,X,X,X,X,X,X,N,HIGH,Strong Gladue factors belonged to a cited case
+M1015,N,X,X,X,X,N,X,X,X,N,HIGH,General statements on racialized groups and other cases
+M1016,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court found Gladue principles given proper effect
+M1017,X,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) cited only for parity
+M1018,R,X,X,X,X,X,X,X,X,N,LOW,Aboriginal status argued but sentence appeal dismissed
+M1019,M,X,X,X,X,X,X,X,X,N,HIGH,Metis heritage and Gladue factors treated as significant mitigation
+M1020,R,X,N,X,X,X,X,X,X,N,LOW,Gladue considered but parents residential school history not linked to offender

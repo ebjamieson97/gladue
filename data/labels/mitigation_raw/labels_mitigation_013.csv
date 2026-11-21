@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0121,M,X,X,X,X,N,X,X,X,N,LOW,Appeal court upheld trial judge Gladue consideration balanced against aggravating factors
+M0122,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue background diminished moral blameworthiness and led to suspended sentence
+M0123,R,X,X,X,X,X,X,X,X,N,HIGH,No evidence of Gladue factors and Gladue report waived
+M0124,N,X,X,X,X,X,X,X,X,N,LOW,Gladue afterwork worker mentioned only as describing progress
+M0125,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee and Gladue cited only as general law
+M0126,N,N,N,X,X,N,X,X,X,N,LOW,Gladue report and law reviewed but weight not shown in excerpt
+M0127,M,N,X,M,X,X,X,X,X,N,HIGH,Appeal court reduced sentence because Gladue factors and intergenerational trauma
+M0128,R,X,X,X,X,X,X,X,X,N,LOW,Gladue considered but end result did not differ from co-accused
+M0129,N,X,X,X,X,X,X,X,X,N,LOW,Section 718.2e quoted but mandatory minimums left no alternative
+M0130,M,N,X,N,X,X,X,X,X,N,LOW,Indigenous status accepted as factor in assessing fitness of sentence

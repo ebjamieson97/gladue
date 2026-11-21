@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4511,drugs,HIGH,Trafficking and possession for purpose of trafficking
+F4512,assault;other,HIGH,Aggravated assault and failing to provide necessaries of life
+F4513,homicide;kidnapping;robbery;sexual,HIGH,Attempted murder; forcible confinement; robbery; sexual assault
+F4514,drugs,HIGH,Trafficking in cocaine
+F4515,other;theft_fraud;assault,HIGH,Criminal harassment; obstruction; theft over; assault peace officer; breach
+F4516,assault,HIGH,Domestic assault
+F4517,kidnapping,LOW,Multi-count; confinement of five complainants; other counts unclear
+F4518,assault;sexual,HIGH,Assault causing bodily harm and sexual assault on wife
+F4519,sexual,HIGH,Two counts of sexual assault
+F4520,homicide,HIGH,Manslaughter
+F4521,sexual;break_enter,HIGH,Sexual assault with knife; commercial break and enter
+F4522,weapons;drugs,HIGH,Seven firearms offences and simple possession of cocaine
+F4523,drugs,HIGH,Importing marihuana
+F4524,none,LOW,Offence not shown
+F4525,assault,LOW,Offence unclear; wound caused with weapon
+F4526,homicide,HIGH,Second degree murder
+F4527,drugs,HIGH,Production of marihuana
+F4528,none,LOW,Offence not shown; addiction mentioned
+F4529,sexual,HIGH,Sexual interference
+F4530,drugs,HIGH,Production and possession for trafficking of methamphetamine and Ecstasy
+F4531,homicide,HIGH,Second degree murder by youth
+F4532,robbery;weapons,HIGH,Robbery and robbery using imitation firearm

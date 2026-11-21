@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0041,N,X,X,X,X,X,X,X,X,N,HIGH,Only general statement of s. 718.2(e); no Indigenous background
+M0042,R,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal offender but serious murders so same sentence as non-Aboriginal
+M0043,M,X,X,X,X,M,X,X,X,N,HIGH,Gladue factors including racism accepted and appeal court reduced sentence
+M0044,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in other cases and general principles
+M0045,M,X,M,M,X,M,X,X,X,N,HIGH,Gladue background reduced culpability but only modest impact on sentence
+M0046,X,X,X,X,N,X,X,X,X,N,HIGH,Anti-Black racism concerned victims of corporate offence not offender
+M0047,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee only cited for general sentencing principles
+M0048,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but did not alter dangerous offender indeterminate sentence
+M0049,N,X,X,X,M,X,X,X,X,N,HIGH,Impact of racial background reduced moral culpability so youth sentence imposed
+M0050,R,N,N,X,X,N,X,X,X,N,HIGH,Aboriginal heritage considered but unknown impact so minimal effect on sentence

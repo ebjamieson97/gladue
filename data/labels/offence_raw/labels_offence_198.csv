@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4335,assault,HIGH,Aggravated assault in jail with long-term offender application
+F4336,break_enter,HIGH,Home invasion
+F4337,other,HIGH,Extortion attempted extortion and criminal harassment
+F4338,none,LOW,Serious offence with firearm ban but offence unnamed
+F4339,assault,HIGH,Aggravated assault and assault
+F4340,drugs,HIGH,Production of cannabis
+F4341,drugs;weapons,HIGH,Trafficking and firearm transfer and possession
+F4342,sexual;assault,HIGH,Sexual assault and choking to overcome resistance
+F4343,sexual,HIGH,Sexual assault of daughter
+F4344,break_enter;assault,HIGH,Break and entry and two assaults with a weapon
+F4345,assault;weapons;other,HIGH,Aggravated assault firearm discharge extortion and breach of probation
+F4346,drugs,HIGH,Small drug offence
+F4347,robbery;kidnapping;weapons;theft_fraud;other,HIGH,Armed robberies confinement weapon stolen property threats failing to stop
+F4348,sexual,HIGH,Sexual assault
+F4349,homicide,HIGH,Manslaughter
+F4350,weapons;drugs;other,HIGH,Handgun offences marijuana trafficking and production and mischief
+F4351,other,HIGH,Breach of long-term supervision order
+F4352,drugs,HIGH,Possession of fentanyl for purpose of trafficking
+F4353,none,LOW,Offences not shown in excerpt
+F4354,theft_fraud,HIGH,Two counts of theft under 5000
+F4355,robbery;weapons;other,HIGH,Robbery imitation firearm and masking face
+F4356,drugs;assault,HIGH,Drug trafficking and conspiracy and assaults with weapon

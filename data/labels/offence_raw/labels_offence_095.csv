@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2069,drugs,HIGH,Possession of cocaine for the purpose of trafficking
+F2070,driving,HIGH,Impaired and dangerous driving causing death and bodily harm
+F2071,none,LOW,Dangerous offender application; predicate offence not shown
+F2072,homicide;other,HIGH,Second degree murder and interfering with dead body
+F2073,sexual,HIGH,Sexual assault of 13 year old stepbrother
+F2074,homicide,HIGH,Manslaughter
+F2075,sexual,HIGH,Sexual offence against 17 year old by school custodian
+F2076,weapons,HIGH,Loaded restricted firearm; careless handling; possession contrary to prohibition
+F2077,sexual;kidnapping,HIGH,Child pornography; procuring and advertising sexual services of minors
+F2078,break_enter;other,HIGH,Break and enter; escape custody; breaches; obstruct peace officer
+F2079,sexual,LOW,Appeal of conviction apparently for drug-facilitated sexual assault
+F2080,assault,HIGH,Aggravated assault stabbing
+F2081,driving,HIGH,Driving while disqualified and leaving scene of accident
+F2082,theft_fraud;drugs,HIGH,Theft under $1000 and possession of marijuana
+F2083,none,LOW,Sentence appeal on Gladue and credits; offences not shown
+F2084,break_enter;theft_fraud;other,HIGH,Break enter and theft; stolen goods; breach of undertaking
+F2085,assault;kidnapping,HIGH,Aggravated assault and forcible confinement
+F2086,robbery;weapons;assault;other,HIGH,Three robberies; weapon; assault causing bodily harm; mask; breaches
+F2087,sexual,HIGH,Sexual assault and invitation to sexual touching of child
+F2088,theft_fraud,HIGH,Theft under $5000 and possession of stolen car; conviction quashed
+F2089,theft_fraud,HIGH,Theft over $5000 from employer
+F2090,robbery,HIGH,Robbery after NCRMD verdict set aside; resisting arrest sent to new trial

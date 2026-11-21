@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0211,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only cited in list of authorities and general law
+M0212,N,X,N,X,X,X,X,X,X,N,LOW,Parents residential school noted and Gladue law discussed for dangerous offender
+M0213,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted only for conditional sentence principle
+M0214,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue principles applied to favour intermittent sentence
+M0215,M,M,M,M,X,X,X,X,X,N,HIGH,Residential school legacy and colonial history accepted as mitigating
+M0216,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in other cases cited by Crown
+M0217,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only a case name in police brutality discussion
+M0218,R,X,R,R,X,X,X,X,X,N,HIGH,Gladue report considered but judge found no reduced blameworthiness
+M0219,R,X,X,X,X,X,X,X,X,N,LOW,Metis status considered as possible mitigation with serious offence similar
+M0220,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue factors somewhat diminished moral blameworthiness

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4071,drugs;other,HIGH,Trafficking cocaine and failing to appear
+F4072,drugs;other,HIGH,Cocaine trafficking and breach of recognizance
+F4073,homicide,HIGH,Manslaughter
+F4074,assault;weapons,HIGH,Aggravated assault and weapon for dangerous purpose
+F4075,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4076,robbery;theft_fraud,HIGH,Tractor trailer thefts and robberies
+F4077,other,HIGH,Breach of trust by police officer
+F4078,theft_fraud,HIGH,Fraud
+F4079,assault;kidnapping;other,HIGH,Assault; assault causing bodily harm; confinement; breach of probation
+F4080,theft_fraud,HIGH,Fraud under $5000 and fraudulent possession of credit card data
+F4081,sexual,HIGH,Indecent assault of step-daughter
+F4082,theft_fraud,HIGH,Theft
+F4083,sexual,HIGH,Sexual assault
+F4084,drugs,HIGH,Simple possession of cocaine substituted for trafficking
+F4085,driving,HIGH,Dangerous driving causing bodily harm seven counts
+F4086,theft_fraud,HIGH,Theft over $5000; forgery; possession of stolen property
+F4087,other,HIGH,Uttering threats two counts
+F4088,robbery;other,HIGH,Armed robbery; mischief; breach of undertaking
+F4089,sexual;kidnapping;other,LOW,Sexual assault with weapon; unlawful confinement; uttering threats; others unclear
+F4090,sexual,HIGH,Child pornography; sexual assault with weapon; sexual interference
+F4091,sexual,HIGH,Sexual touching of young child
+F4092,homicide,HIGH,Attempted murder

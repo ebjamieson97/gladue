@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2223,drugs,HIGH,Possession of cocaine for the purpose of trafficking
+F2224,robbery;weapons,HIGH,Armed robberies and use of firearm in indictable offence
+F2225,robbery,HIGH,Robbery of pharmacy
+F2226,none,LOW,Offence not shown consent endorsement only
+F2227,homicide,HIGH,Attempted murder with a firearm
+F2228,assault;other;weapons;driving;drugs,HIGH,Assault threats firearm offences dangerous driving cannabis
+F2229,break_enter,HIGH,Break and enter of a residence
+F2230,robbery;weapons,HIGH,Robbery with firearm and firearm and weapon possession
+F2231,other,LOW,Sentence for breach of conditional sentence order
+F2232,robbery;weapons;other,HIGH,Conspiracy to rob weapons dangerous threats explosives
+F2233,kidnapping,LOW,Procuring and controlling movements for prostitution
+F2234,assault;sexual,LOW,Violent crimes and sexual exploitation
+F2235,drugs,HIGH,Possession for trafficking cocaine and methamphetamine
+F2236,robbery,HIGH,Seven bank robberies and one attempted robbery
+F2237,sexual,HIGH,Child luring and sexual interference
+F2238,theft_fraud,HIGH,Two counts of fraud over $5000
+F2239,drugs,HIGH,Importing and possession for trafficking cocaine
+F2240,other,HIGH,Arson
+F2241,robbery,HIGH,Robbery of jewellery store
+F2242,homicide,HIGH,Second degree murder
+F2243,other,HIGH,Two breaches of s. 161 internet prohibition
+F2244,sexual,HIGH,Sexual assault and sexual touching of four relatives

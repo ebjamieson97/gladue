@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1387,sexual,HIGH,Child pornography offences and conspiracy to commit sexual assault
+F1388,break_enter;robbery;weapons;other,HIGH,Break and enter robbery imitation firearm masked face
+F1389,assault,HIGH,Three domestic assaults and assault on police officer
+F1390,sexual;assault,HIGH,Two counts sexual assault and one assault
+F1391,break_enter;sexual;robbery;kidnapping;theft_fraud,HIGH,Home invasion robbery sexual assault confinement proceeds of crime
+F1392,assault;weapons,HIGH,Aggravated assault and weapon for dangerous purpose
+F1393,other,HIGH,Criminal harassment
+F1394,other,HIGH,Forcible entry mischief and uttering threats
+F1395,theft_fraud,HIGH,Theft fraud and falsifying business records
+F1396,driving,HIGH,Dangerous driving and flight from police
+F1397,drugs,HIGH,Possession of cannabis for purpose of trafficking
+F1398,sexual,HIGH,Five counts sexual assault
+F1399,none,LOW,Dangerous offender appeal underlying offence not shown
+F1400,driving,HIGH,Impaired driving causing bodily harm
+F1401,other,HIGH,Fisheries Act offences unlawful fishing and sale of seized fish
+F1402,sexual,HIGH,Four sexual offences against step-daughter
+F1403,robbery;weapons;assault,HIGH,Armed robbery discharging firearm and aggravated assault
+F1404,weapons;drugs;theft_fraud,HIGH,Loaded firearm possession MDMA and stolen property
+F1405,other,LOW,Fisheries licence breach conviction entered sentence pending
+F1406,homicide,HIGH,Manslaughter
+F1407,sexual,HIGH,Sexual assault interference invitation and child pornography
+F1408,break_enter;weapons;assault,HIGH,Break and enters firearm discharge aggravated assault firearm possession

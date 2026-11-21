@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2399,drugs;weapons;theft_fraud;other,HIGH,Drug trafficking; prohibited weapon; proceeds of crime; breaches
+F2400,drugs;other,LOW,Breach of conditional sentence; underlying drug trafficking
+F2401,theft_fraud,HIGH,Fraud of social assistance benefits
+F2402,kidnapping;driving,HIGH,Child abduction; dangerous driving
+F2403,drugs;weapons,HIGH,Possession for trafficking; possession of restricted firearm
+F2404,sexual,HIGH,Sexual assault
+F2405,other,HIGH,Breach of trust by official; attempt obstruct justice
+F2406,homicide,HIGH,Manslaughter
+F2407,sexual;other,HIGH,Sexual assault; voyeurism; breach of probation
+F2408,homicide,HIGH,Second degree murder
+F2409,driving;other,HIGH,Over 80; refusing breath sample; breach of recognizance
+F2410,sexual,LOW,Dangerous offender; predicate offence implied sexual
+F2411,homicide,HIGH,Attempted murder
+F2412,drugs,HIGH,Possession for trafficking methamphetamine; simple possession
+F2413,drugs,HIGH,Offering to traffic MDMA; possession of precursor
+F2414,theft_fraud,HIGH,Possession of stolen mail; forged licences
+F2415,homicide,HIGH,Manslaughter
+F2416,weapons,HIGH,Firearm possession with minimum sentence
+F2417,other,HIGH,Failing to provide necessaries of life
+F2418,homicide,HIGH,Second degree murder
+F2419,other,HIGH,Noise by-law breach
+F2420,sexual,HIGH,Two counts of sexual assault

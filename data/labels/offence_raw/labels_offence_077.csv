@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1673,drugs,HIGH,Possession of methamphetamine for purpose of trafficking
+F1674,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1675,homicide;weapons,HIGH,First degree murder and unlicensed firearm possession
+F1676,drugs,HIGH,Smuggling heroin into correctional facility
+F1677,break_enter;robbery;weapons;drugs,HIGH,B&E robbery imitation firearm use and cocaine trafficking
+F1678,drugs,HIGH,Importing opium and possession for purpose of trafficking
+F1679,driving;drugs;theft_fraud,HIGH,Refusing screening demand drug possession and fraud
+F1680,assault;weapons;other,HIGH,Aggravated assault common assault resisting police weapon dangerous purpose
+F1681,break_enter,HIGH,Two break and enters
+F1682,sexual;assault;kidnapping;other,HIGH,Sexual assault weapon assault confinement and death threat
+F1683,driving,HIGH,Impaired driving causing death
+F1684,sexual,HIGH,Sexual assault of a 15 year old
+F1685,assault;other,HIGH,Aggravated assault with sword and breaches of court orders
+F1686,drugs,HIGH,Production of marihuana and possession
+F1687,drugs,HIGH,Possession of cocaine and heroin for trafficking
+F1688,robbery,HIGH,Armed robbery with handgun
+F1689,homicide,HIGH,Manslaughter by stabbing
+F1690,robbery;assault,HIGH,Robbery and assault causing bodily harm
+F1691,homicide,HIGH,Second degree murder
+F1692,driving,HIGH,Dangerous driving causing death by youth
+F1693,theft_fraud,HIGH,Fraud over $5000 of hospital system
+F1694,other,HIGH,Arson causing damage to occupied house

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2883,assault;other;theft_fraud,HIGH,Aggravated assault plus breach of probation and theft
+F2884,homicide,HIGH,Second degree murder
+F2885,drugs,HIGH,Importing cocaine
+F2886,theft_fraud,HIGH,Theft over $5000 and two frauds
+F2887,theft_fraud;other,HIGH,Theft and mischief of Elections Canada ballot box
+F2888,other,HIGH,Uttering threat to cause bodily harm
+F2889,sexual,HIGH,Indecent assault with conditional sentence breach appeal
+F2890,homicide,HIGH,Manslaughter
+F2891,break_enter;theft_fraud,HIGH,Five break and enters and credit card fraud
+F2892,weapons;drugs,HIGH,Multiple firearms offences and cocaine possession
+F2893,drugs;assault,HIGH,Drug trafficking and assault with weapon and common assaults
+F2894,driving;theft_fraud,HIGH,Impaired driving causing bodily harm and theft of vehicle
+F2895,sexual,HIGH,Sexual assault sexual interference and child pornography
+F2896,kidnapping,HIGH,Child abduction contrary to custody order
+F2897,other,HIGH,Breach of probation and criminal harassment
+F2898,homicide,HIGH,Attempted murder with aggravated assault stayed
+F2899,robbery;assault;other,HIGH,Robbery assault causing bodily harm and breach of undertaking
+F2900,sexual,HIGH,Two counts of sexual assault on children
+F2901,drugs,HIGH,Commercial marijuana grow operation
+F2902,driving,HIGH,Dangerous driving causing death
+F2903,theft_fraud;other,HIGH,Fraud forgery and breach of trust
+F2904,theft_fraud,HIGH,Fraud over $5000 and conspiracy to commit fraud

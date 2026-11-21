@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D1319,NOT,NA,LOW,Appeal dismissed after appellant declined submissions
+D1700,NOT,NA,HIGH,Bail pending appeal denied
+D2418,IMPOSES,FULL,HIGH,Sentencing for drug trafficking conditional sentence
+D1402,NOT,NA,HIGH,Bribery conviction appeal
+D1819,IMPOSES,FULL,HIGH,Sentencing for trafficking and prohibited possession
+D2382,IMPOSES,FULL,HIGH,Sentencing for marijuana production conditional sentence
+D3647,REVIEWS,FULL,HIGH,Sentence appeal for manslaughter allowed
+D1645,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence varied
+D2832,NOT,NA,HIGH,Bail review for youth murder charge
+D1484,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D1228,NOT,NA,HIGH,Crown appeal Charter breathalyzer refusal
+D1125,NOT,NA,HIGH,Manslaughter acquittal for causation
+D1906,REVIEWS,FULL,HIGH,Sentence appeal allowed on fresh evidence
+D5560,IMPOSES,FULL,HIGH,Sentencing for manslaughter joint submission
+D4142,NOT,NA,HIGH,Acquittal on firearm and drug charges
+D4818,IMPOSES,FULL,HIGH,Sentencing for imitation firearm robbery offence
+D4047,NOT,NA,HIGH,Jury verdict irregularity appeal
+D5518,REVIEWS,FULL,HIGH,Sentence appeal for aggravated assault dismissed
+D5032,NOT,NA,HIGH,Crown acquittal appeal dismissed
+D5834,RELATED,NA,HIGH,Abuse of process application before sentence
+D5423,NOT,NA,HIGH,Expert evidence voir dire
+D2661,RELATED,NA,HIGH,Order for post-sentence report in appeal
+D1577,REVIEWS,FULL,HIGH,Sentence appeal allowed conditional sentence substituted
+D6044,IMPOSES,FULL,HIGH,Sentencing for drug trafficking and firearms
+D4851,REVIEWS,FULL,HIGH,Sentence appeal allowed s. 161 order set aside
+D1449,REVIEWS,FULL,HIGH,Sentence appeal allowed pre-sentence credit recalculated

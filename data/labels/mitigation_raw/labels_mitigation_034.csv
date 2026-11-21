@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0331,N,X,X,X,X,X,X,X,X,N,HIGH,Only statutory mention of s 718.2(e) in youth appeal
+M0332,M,X,N,X,X,X,X,X,X,N,HIGH,Court accepted Gladue factors reduced blameworthiness but public protection paramount
+M0333,M,X,X,X,X,X,X,X,X,N,HIGH,Judge recognized impact of Gladue report circumstances and lost Indigenous identity as mitigation
+M0334,N,X,X,X,X,X,X,X,X,N,LOW,Gladue quoted as law with no analysis of offender background
+M0335,N,X,X,X,X,X,X,X,X,N,HIGH,Statutory s 718.2(e) quoted only
+M0336,X,X,N,X,X,X,X,X,X,N,HIGH,Residential school only in hypothetical scenario not offender
+M0337,N,X,X,X,X,X,X,X,X,N,HIGH,Statutory s 718.2(e) quoted only
+M0338,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in comparison case description
+M0339,R,N,X,R,X,X,X,X,X,N,HIGH,Indigeneity remote and no nexus so Gladue given little weight
+M0340,M,M,M,X,X,X,X,X,X,N,HIGH,Colonization and residential school history shaped life and reduced sentence

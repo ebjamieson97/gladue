@@ -1,0 +1,15 @@
+id,categories,confidence,note
+F3389,drugs,HIGH,Production of cannabis
+F3390,drugs,HIGH,Possession for purpose of trafficking methamphetamine and carfentanil
+F3391,sexual,HIGH,Sexual assault
+F3392,weapons,HIGH,Discharging firearm with intent and firearm possession offences
+F3393,robbery,HIGH,Robbery of gas station attendant
+F3394,homicide,HIGH,Second degree murder
+F3395,none,LOW,Offences not shown; driving prohibition and probation mentioned
+F3396,none,LOW,Offences not shown; only pretrial custody credit
+F3397,driving,HIGH,Impaired driving
+F3398,sexual,HIGH,Sexual assaults on daughters
+F3399,homicide,HIGH,First degree murder by youth
+F3400,break_enter;assault;weapons;other,HIGH,Break and enter; aggravated assault; pointing firearm; breach of probation
+F3401,homicide;other,HIGH,Accessory after the fact to murder and interfering with human remains
+F3402,theft_fraud,HIGH,Fraud over $5000

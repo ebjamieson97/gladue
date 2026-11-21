@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2421,homicide,HIGH,Manslaughter
+F2422,driving,HIGH,Impaired driving and driving while prohibited
+F2423,homicide,HIGH,Manslaughter
+F2424,weapons;other,HIGH,Restricted firearm possession and breach of probation
+F2425,theft_fraud;drugs,HIGH,Possession of stolen property and possession for trafficking cocaine and cannabis
+F2426,drugs,HIGH,Possession for purpose of trafficking cocaine hashish marijuana
+F2427,other,HIGH,Accessory after the fact to murder
+F2428,weapons;drugs,HIGH,Firearms possession and methamphetamine and cocaine possession
+F2429,other,HIGH,Obstruction of a peace officer
+F2430,sexual,HIGH,Sexual assault
+F2431,weapons;drugs;theft_fraud,HIGH,Loaded firearm and marijuana trafficking and proceeds of crime
+F2432,robbery,HIGH,Nine bank robberies
+F2433,driving,HIGH,Over 80 care or control and driving while disqualified
+F2434,weapons,HIGH,Loaded restricted firearm and unauthorized possession
+F2435,robbery,HIGH,Bank robbery
+F2436,theft_fraud,HIGH,Theft of cocaine by police exhibit custodian
+F2437,homicide,HIGH,Manslaughter
+F2438,drugs,HIGH,Trafficking in cocaine
+F2439,assault;other,HIGH,Assault and breach of probation
+F2440,driving,LOW,Driving offence implied by driving prohibition only
+F2441,driving;other,HIGH,Dangerous driving causing death and failing to remain and breach of probation
+F2442,robbery;break_enter,HIGH,Two robberies and break and enter

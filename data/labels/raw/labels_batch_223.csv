@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5193,NOT,NA,HIGH,Judicial release pending appeal dismissed
+D4753,NOT,NA,HIGH,Crown appeal from acquittal for over 80
+D1629,RELATED,NA,HIGH,Certiorari challenge to warrant of committal and sentence calculation
+D6061,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D3786,NOT,NA,HIGH,SCC conviction appeal criminal negligence charge to jury
+D1826,RELATED,NA,HIGH,Pre-hearing evidence ruling on s. 745.61 parole ineligibility application
+D3884,NOT,NA,HIGH,Mistrial application dismissed
+D4329,NOT,NA,HIGH,Summary conviction appeal allowed convictions quashed
+D5052,IMPOSES,FULL,HIGH,Reasons for sentence for sexual assault and extortion
+D3234,NOT,NA,HIGH,SCC restores conviction for uttering threat
+D2813,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal dismissed
+D5340,NOT,NA,HIGH,Trial verdict on multiple charges
+D3988,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeals dismissed
+D2236,REVIEWS,FULL,HIGH,Sentence appeal for sexual assault dismissed
+D3998,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal with sentence reduced
+D3220,REVIEWS,FULL,HIGH,Appeal of fine and restitution sentence dismissed
+D2168,IMPOSES,FULL,HIGH,Reasons for sentence for drug and firearm offences
+D2012,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence varied on appeal
+D3361,REVIEWS,FULL,HIGH,Sentence appeal allowed and sentence reduced to four years
+D2750,NOT,NA,HIGH,New trial ordered and sentence appeal not dealt with
+D3362,NOT,NA,HIGH,Crown appeal from acquittal allowed
+D5759,RELATED,NA,HIGH,Extension of time to appeal conviction and sentence granted
+D4619,NOT,NA,HIGH,Voir dire ruling on support animal and screen
+D2909,REVIEWS,FULL,HIGH,Sentence appeal for manslaughter dismissed
+D1386,NOT,NA,HIGH,Costs against Crown in certiorari application
+D2774,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal abandoned

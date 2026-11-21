@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0101,M,X,X,X,X,X,X,X,X,N,LOW,Gladue considered with mitigating factors and conditional sentence imposed
+M0102,R,N,X,X,X,X,X,X,X,N,LOW,Aboriginal background considered but offender disconnected and prison imposed
+M0103,M,M,N,X,X,X,X,X,X,N,HIGH,Colonization was primary mitigating factor and reduced blameworthiness
+M0104,M,N,N,X,X,X,X,X,X,N,HIGH,Gladue factors listed among mitigating factors
+M0105,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only mentioned in comparison case
+M0106,N,N,N,X,X,X,X,X,X,N,LOW,Ipeelee quoted and Gladue report received without stated effect
+M0107,X,X,X,X,M,M,X,X,X,N,HIGH,Systemic racism supported community sentence for Abdullahi
+M0108,M,N,N,N,X,X,X,X,X,N,LOW,Constitutional case with Gladue facts attenuating culpability noted
+M0109,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for general principles only
+M0110,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee discussed for LTSO breach principles only

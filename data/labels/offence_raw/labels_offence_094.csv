@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2047,theft_fraud,LOW,Offence unclear; restitution for unrecovered property
+F2048,sexual,HIGH,Sexual interference and sexual assault
+F2049,weapons,HIGH,Possession of ammunition while prohibited
+F2050,drugs;weapons,HIGH,Possession for trafficking and multiple firearms offences
+F2051,sexual,HIGH,Invitation to sexual touching and sexual interference
+F2052,assault,HIGH,Common assault substituted for assault causing bodily harm
+F2053,drugs;theft_fraud;other,HIGH,Cocaine trafficking; proceeds of crime; criminal organization offence
+F2054,drugs,HIGH,Six counts of trafficking oxycodone
+F2055,other,HIGH,Mischief by obstructing bridge
+F2056,weapons;drugs,HIGH,Multiple firearms and weapons counts; possession of cannabis for trafficking
+F2057,sexual,HIGH,Sexual assault and invitation to sexual touching
+F2058,kidnapping;assault,HIGH,Forcible confinement and assault with a weapon
+F2059,homicide,HIGH,Second degree murder
+F2060,theft_fraud,HIGH,Possession of stolen automobiles
+F2061,other,HIGH,Explosive offence for terrorist group
+F2062,sexual,HIGH,Sexual assault of child
+F2063,drugs;weapons,HIGH,Possession for trafficking and firearm offences
+F2064,none,LOW,Predicate offence not named; dangerous offender
+F2065,none,LOW,Offence not shown; appeal abated
+F2066,driving,HIGH,Over 80 causing bodily harm
+F2067,driving,HIGH,Driving while prohibited
+F2068,sexual,HIGH,Gross indecency and sexual touching

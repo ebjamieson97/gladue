@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0021,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court accepted judge applied Gladue and background drove rehabilitation approach
+M0022,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted as general restraint principle
+M0023,R,X,X,X,X,X,X,X,X,N,HIGH,Appeal court rejected complaint about Gladue report timing
+M0024,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0025,N,X,X,X,X,X,X,X,X,N,LOW,Review board appeal about duty to gather aboriginal information
+M0026,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted as general principle
+M0027,N,X,N,N,X,X,X,X,X,N,LOW,Gladue report described residential school effects but weight not shown
+M0028,M,X,M,X,X,N,X,X,X,N,HIGH,Systemic Gladue factors kept him from worst offender parole ineligibility
+M0029,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only noted in comparison case Parranto
+M0030,X,X,X,X,N,X,X,X,X,N,LOW,IRCA informed court of background but no stated mitigating weight

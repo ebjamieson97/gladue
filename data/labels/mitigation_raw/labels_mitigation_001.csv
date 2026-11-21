@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0001,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only cited as general law and other cases
+M0002,N,X,X,X,N,X,X,X,X,N,LOW,IRCA described African Nova Scotian trauma but weight unclear in dangerous offender ruling
+M0003,M,X,N,X,X,X,X,X,X,N,LOW,Gladue factors listed as mitigating for Richet though not significant
+M0004,R,R,N,X,X,X,X,X,X,N,HIGH,Metis heritage tangential with no colonization impact so no Gladue effect
+M0005,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court applied mitigating impact of Gladue principles
+M0006,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in comparison cases and restraint principle
+M0007,M,X,X,X,X,X,X,X,X,N,HIGH,Judge said sentence would have been higher without Gladue report
+M0008,M,X,N,X,X,X,X,X,X,N,HIGH,Court considered Gladue report and disadvantaged background as mitigating
+M0009,N,X,X,X,N,N,X,X,X,N,LOW,Ipeelee and Morris quoted as general law on moral blameworthiness
+M0010,X,X,X,X,X,X,X,X,X,N,HIGH,Only a firearms case citation matched keywords

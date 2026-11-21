@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0161,N,X,X,X,N,X,X,X,X,N,LOW,Ipeelee and Morris quoted generally with no clear application
+M0162,M,N,X,X,X,X,X,X,X,N,LOW,Gladue factors considered but given limited weight
+M0163,M,X,X,X,X,X,X,X,X,N,HIGH,Sentence reduced six months under 718.2e
+M0164,R,N,N,X,X,X,X,X,X,N,HIGH,Gladue report would not have changed outcome
+M0165,N,X,X,X,X,X,X,X,X,N,HIGH,718.2e and Ipeelee recited only
+M0166,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue and Ipeelee cited as general law
+M0167,M,X,X,N,X,X,X,X,X,N,HIGH,Gladue factors attenuated moral blameworthiness and lowered sentence
+M0168,N,X,X,X,X,N,X,X,X,N,HIGH,Offender not Indigenous and racist attack concerns other offender
+M0169,N,X,X,X,X,X,X,X,X,N,HIGH,Court found no Gladue considerations apply
+M0170,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e quoted as general law

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1915,drugs;theft_fraud;other,HIGH,Cocaine trafficking and customs excise smuggling and selling liquor
+F1916,none,LOW,Offences not shown in excerpt
+F1917,assault,HIGH,Assault police while resisting arrest
+F1918,none,LOW,Absolute discharge appeal and offence not shown
+F1919,assault;robbery,HIGH,Aggravated assault and robbery
+F1920,sexual;assault,HIGH,Sexual assault and attempted choking
+F1921,robbery;other,HIGH,Robbery and three breaches of recognizance
+F1922,drugs;theft_fraud,HIGH,Marihuana production and trafficking and theft of electricity
+F1923,assault,HIGH,Assault causing bodily harm
+F1924,none,LOW,Mandatory victim surcharge challenge and offences unspecified
+F1925,driving,HIGH,Over 80 and driving while prohibited and refusing roadside demand
+F1926,driving;other,HIGH,Three over 80 counts and two breach of bail
+F1927,break_enter;other,HIGH,Four break and enters and masked face
+F1928,theft_fraud,HIGH,Fraud under $5000
+F1929,sexual;assault,HIGH,Sexual assault and common assault
+F1930,drugs;theft_fraud;other,HIGH,Cocaine trafficking and proceeds of crime and breach of probation
+F1931,theft_fraud,HIGH,Fraud over $5000
+F1932,other,HIGH,Breach of recognizance and uttering threat
+F1933,homicide;weapons,HIGH,Attempted murder and pointing and discharging firearm
+F1934,drugs,HIGH,Trafficking cocaine
+F1935,drugs,HIGH,Possession for trafficking on two files
+F1936,homicide,HIGH,Second degree murder

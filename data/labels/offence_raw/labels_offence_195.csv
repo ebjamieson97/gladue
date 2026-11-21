@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4269,theft_fraud,HIGH,Fraud on insurers and using forged documents
+F4270,sexual,HIGH,Sexual assault of 12 year old
+F4271,break_enter,HIGH,Two break and enters and possession of break-in instrument
+F4272,drugs;theft_fraud;other,HIGH,Trafficking cocaine; proceeds of crime; breach of recognizance
+F4273,sexual,HIGH,Sexual interference and child luring
+F4274,homicide,HIGH,Manslaughter with a firearm
+F4275,assault;drugs;theft_fraud,HIGH,Assault causing bodily harm; trafficking; possession of stolen property
+F4276,drugs,HIGH,Trafficking and possession for purpose of trafficking cocaine and heroin
+F4277,robbery;break_enter;weapons;other,HIGH,Armed robbery; home invasion; prohibited weapon; disguise with intent
+F4278,theft_fraud,HIGH,Two frauds
+F4279,assault,HIGH,Aggravated assault stabbing
+F4280,theft_fraud,HIGH,Attempted insurance fraud over $5000
+F4281,sexual,HIGH,Child luring and communicating to obtain sexual services from minor
+F4282,assault,HIGH,Assault choking victim unconscious
+F4283,sexual,HIGH,Sexual interference and sexual assault of young son
+F4284,homicide;assault;other,HIGH,Attempted murder; assault; uttering threats
+F4285,kidnapping,HIGH,Kidnapping and unlawful confinement
+F4286,kidnapping;assault,HIGH,Kidnapping; unlawful confinement; assault causing bodily harm
+F4287,other,HIGH,Occupational health and safety offences after worker death
+F4288,sexual,HIGH,Sexual assault and invitation to sexual touching of child
+F4289,other,HIGH,Recklessly causing damage by fire (arson)
+F4290,sexual,HIGH,Four counts of sexual assault on dental patients

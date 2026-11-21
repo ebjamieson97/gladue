@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D2036,IMPOSES,FULL,HIGH,Reasons for sentence for robbery
+D4478,NOT,NA,HIGH,Bail pending appeal granted
+D2458,REVIEWS,FULL,HIGH,Sentence appeal for manslaughter dismissed
+D5191,REVIEWS,FULL,HIGH,Appeal of dangerous offender designation dismissed
+D1073,NOT,NA,HIGH,Conviction appeal allowed on consent new trial
+D2249,REVIEWS,FULL,HIGH,Crown sentence appeal allowed conditional sentence replaced with custody
+D1941,REVIEWS,FULL,HIGH,Crown sentence appeal allowed fraud sentence increased
+D4804,IMPOSES,FULL,HIGH,Sentencing decision for cocaine possession
+D3544,REVIEWS,FULL,HIGH,Sentence appeal for dangerous driving dismissed
+D5998,NOT,NA,HIGH,Trial verdict on assault and weapon counts
+D4603,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D5873,NOT,NA,HIGH,Fraud conviction appeal dismissed
+D4427,NOT,NA,HIGH,Informant privilege disclosure ruling
+D5463,NOT,NA,HIGH,Constitutional petition about Federal Court Act
+D2617,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed and sentence fit
+D2688,NOT,NA,HIGH,Arson conviction appeal dismissed and sentence appeal abandoned
+D5485,NOT,NA,HIGH,Civil Crown liability appeal
+D5813,NOT,NA,HIGH,Leave to appeal conviction dismissed
+D3759,NOT,NA,HIGH,Charter application dismissed
+D3950,NOT,NA,HIGH,Severance application dismissed
+D5451,NOT,NA,HIGH,Conviction appeal dismissed
+D1377,NOT,NA,HIGH,Civil petition of right against Crown
+D1681,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal dismissed
+D4746,REVIEWS,FULL,LOW,Leave to appeal increased sentence denied
+D5213,NOT,NA,HIGH,Fisheries Act conviction appeal dismissed
+D2514,REVIEWS,FULL,HIGH,Crown appeal allowed conditional sentence replaced with custody

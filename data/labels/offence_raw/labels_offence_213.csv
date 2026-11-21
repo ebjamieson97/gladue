@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4665,none,LOW,Offence not shown; conditional sentence varied on appeal
+F4666,none,LOW,Offence not shown; drug addiction mentioned only
+F4667,sexual,HIGH,Sexual exploitation of young person in position of trust
+F4668,homicide,HIGH,Second degree murder
+F4669,drugs,HIGH,Trafficking heroin and cocaine
+F4670,break_enter;weapons,HIGH,Break and enter with threat; careless firearm storage
+F4671,other,HIGH,Fisheries Act regulatory offences
+F4672,driving,HIGH,Impaired driving causing death
+F4673,break_enter;assault;theft_fraud,HIGH,Break and enter with assault; assault; vehicle theft
+F4674,theft_fraud,HIGH,Fraud over $5000 and uttering forged document
+F4675,break_enter;sexual,HIGH,Break and enter and sexual assault
+F4676,sexual,HIGH,Possession of child pornography
+F4677,homicide,HIGH,Second degree murder
+F4678,assault;robbery;other,LOW,Criminal negligence causing bodily harm; robbery; administering drug for robbery
+F4679,driving,HIGH,Dangerous driving causing death
+F4680,robbery,HIGH,Robbery
+F4681,kidnapping,HIGH,Attempted forcible confinement
+F4682,sexual;kidnapping,HIGH,Sexual assault and unlawful confinement
+F4683,drugs,HIGH,Trafficking cannabis over three kilograms
+F4684,drugs,HIGH,Possession for purpose of trafficking cocaine
+F4685,homicide,HIGH,Murder of youth during unlawful confinement
+F4686,weapons,HIGH,Unauthorized possession of restricted firearm

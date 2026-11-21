@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4181,assault,HIGH,Two assaults on spouse
+F4182,sexual,HIGH,Sexual assault and sexual touching invitation counts
+F4183,break_enter;drugs,HIGH,Break and enter and simple possession of cannabis
+F4184,driving,HIGH,Impaired driving and impaired driving causing bodily harm
+F4185,other;assault,HIGH,Intimidation criminal harassment and two assaults (dangerous offender)
+F4186,driving,HIGH,Impaired driving causing bodily harm failing to remain and failing breath test
+F4187,assault;other;theft_fraud,HIGH,Assault causing bodily harm obstruction and theft under $5000
+F4188,homicide,HIGH,Manslaughter
+F4189,sexual;weapons,HIGH,Child pornography and loaded restricted firearm offences
+F4190,weapons,HIGH,Transferring and importing prohibited weapons
+F4191,sexual,HIGH,Sexual assault of young family member
+F4192,theft_fraud,HIGH,Fraud and uttering forged documents
+F4193,drugs;theft_fraud,HIGH,Marihuana production and possession for trafficking and electricity diversion
+F4194,other,HIGH,Breach of conditional sentence
+F4195,sexual,HIGH,Sexual interference (sexual assault stayed)
+F4196,sexual,HIGH,Historical sexual assault of nephew
+F4197,none,LOW,Only credit for pre-sentence custody; offences not shown
+F4198,theft_fraud;driving,HIGH,Possession of stolen property and dangerous driving
+F4199,assault,HIGH,Assault on young son
+F4200,drugs,HIGH,Possession for trafficking cocaine fentanyl heroin
+F4201,other,HIGH,Mischief and breach of release order
+F4202,homicide,HIGH,Manslaughter with dangerous offender application

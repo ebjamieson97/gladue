@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0141,X,X,X,N,R,X,R,X,X,N,HIGH,Racism experience found not connected to offence and slight weight
+M0142,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue principles supported conditional sentence on appeal
+M0143,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e stated generally
+M0144,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0145,R,X,R,X,X,X,X,X,X,N,HIGH,No Gladue factors reduced blameworthiness and residential school history offset
+M0146,M,X,N,X,X,X,X,X,X,N,LOW,Aboriginal heritage lowers culpability but public protection paramount
+M0147,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court upheld proper Gladue consideration as mitigating
+M0148,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in other cases
+M0149,R,N,X,N,X,N,X,X,X,N,HIGH,Gladue factors did not change risk assessment
+M0150,M,N,X,X,M,N,X,X,X,N,LOW,Sentencing judge properly considered Gladue and IRCA reports

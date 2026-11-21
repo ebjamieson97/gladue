@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2179,theft_fraud;other,HIGH,Fraud; forgery; breach of trust; obstruction of justice by police officer
+F2180,none,LOW,Offence not shown in excerpt
+F2181,none,LOW,Three offences not identified
+F2182,drugs,HIGH,Conspiracy to traffic in cocaine
+F2183,other,HIGH,Unlawful fishing and possession of abalone under Fisheries Act
+F2184,homicide;break_enter;driving;other,HIGH,Attempted murder; break and enter with aggravated assault; dangerous driving; threats
+F2185,robbery;assault;theft_fraud;other,HIGH,Robbery; wounding; disguise; possession of stolen vehicle
+F2186,sexual,HIGH,Indecent assault of stepdaughter
+F2187,assault,HIGH,Assault causing bodily harm to wife
+F2188,homicide,HIGH,Manslaughter
+F2189,driving;weapons;other,HIGH,Dangerous driving; failure to stop; firearm possession; breaches
+F2190,theft_fraud,HIGH,Fraud over $5000 against Canada Revenue Agency
+F2191,weapons,HIGH,Firearm storage; possession of stolen firearm; prohibited firearm
+F2192,sexual,HIGH,Sexual assault of intoxicated sleeping victim
+F2193,none,LOW,Offence not identified; repeat offence
+F2194,drugs,HIGH,Producing marijuana and possession for trafficking
+F2195,none,LOW,Offence not shown in excerpt
+F2196,sexual,LOW,Likely sexual offence given s. 276 application
+F2197,weapons,HIGH,Supplying handgun and ammunition to Hells Angels member; prohibition breach
+F2198,assault;robbery,HIGH,Aggravated assault and robbery
+F2199,other,HIGH,Breach of probation
+F2200,homicide,HIGH,Second degree murder

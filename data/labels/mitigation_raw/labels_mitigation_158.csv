@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1571,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue report absence gave no benefit given mandatory minimum
+M1572,M,X,M,X,X,X,X,X,X,N,LOW,Gladue reports and parents residential school history taken into account
+M1573,M,X,X,X,X,X,X,X,X,N,HIGH,Significant Gladue factors treated as mitigating
+M1574,N,X,X,X,N,X,X,X,X,N,HIGH,Gladue and IRCA appear only in cited cases
+M1575,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in a comparison case
+M1576,M,M,M,M,X,X,X,X,X,N,HIGH,Colonialism residential schools and Sixties Scoop reduced moral blameworthiness
+M1577,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted as statutory text only
+M1578,X,X,X,X,X,X,X,X,X,N,HIGH,Morris cited only for firearms sentencing principles
+M1579,X,X,X,X,M,X,X,X,X,N,HIGH,IRCA considered and afro-centric counselling imposed
+M1580,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted or described from other cases

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3037,sexual;assault,HIGH,Aggravated sexual assault (herpes non-disclosure) and assault
+F3038,sexual,LOW,Likely sexual offence (s. 486 order) but offence not stated
+F3039,drugs;weapons,HIGH,Possession of cocaine for trafficking and unregistered handgun
+F3040,homicide,HIGH,Manslaughter (other counts stayed)
+F3041,homicide,HIGH,Attempted murder by young person
+F3042,assault,HIGH,Aggravated assault and assault with a weapon
+F3043,drugs;driving,HIGH,Possession for trafficking and flight from peace officer
+F3044,robbery;kidnapping;weapons;driving;other,HIGH,Home invasion robberies confinement firearm use threats dangerous driving
+F3045,other,HIGH,Criminal harassment extortion and uttering threats
+F3046,other;assault;sexual;kidnapping,HIGH,Criminal harassment assault mischief extortion sexual assault confinement breach
+F3047,driving,HIGH,Dangerous driving causing death and bodily harm
+F3048,homicide,HIGH,Manslaughter
+F3049,robbery;theft_fraud;weapons;other,HIGH,Robbery false pretences imitation firearm use and breach of probation
+F3050,homicide;weapons,HIGH,Counselling murder and firearms possession and trafficking offences
+F3051,homicide,HIGH,Second degree murder
+F3052,drugs,HIGH,Conspiracy to traffic and possession for trafficking of drugs
+F3053,assault,HIGH,Aggravated assault
+F3054,homicide,HIGH,Manslaughter by two young offenders
+F3055,drugs;weapons,HIGH,Drugs and weapons offences with cash
+F3056,sexual,HIGH,Sexual assault and sexual interference of child
+F3057,robbery;assault,HIGH,Robbery and aggravated assault with knife
+F3058,homicide;weapons,HIGH,Attempted murder and discharging firearm with intent to wound

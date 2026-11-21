@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1233,driving,HIGH,Dangerous operation of vessel causing death
+F1234,drugs;weapons,HIGH,Conspiracy to traffic drugs and firearms offence
+F1235,drugs,HIGH,Trafficking fentanyl and possession for purpose of trafficking
+F1236,robbery;other;sexual;theft_fraud,HIGH,Robbery threat sexual assault and unrelated theft
+F1237,drugs;other,HIGH,Drug trafficking and possession plus youth sentence breaches
+F1238,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1239,break_enter;sexual;homicide;kidnapping;other,HIGH,Break and enter aggravated sexual assault attempt murder confinement threats
+F1240,drugs,HIGH,Possession of cocaine and heroin for trafficking
+F1241,assault,LOW,Assault count plus other unclear young person offences
+F1242,sexual,HIGH,Historical sexual intercourse without consent and indecent assault
+F1243,other,HIGH,Prostitution-related offences including aggravated living off avails
+F1244,homicide,HIGH,Manslaughter with firearm
+F1245,theft_fraud;other,HIGH,Fraud and Excise Tax Act GST offences
+F1246,sexual,HIGH,Sexual offences against child relative
+F1247,drugs,HIGH,Possession of marihuana for purpose of trafficking
+F1248,sexual,HIGH,Sexual interference and child pornography offences
+F1249,homicide,HIGH,Manslaughter
+F1250,assault;kidnapping,HIGH,Assault causing bodily harm forcible seizure and assault
+F1251,sexual,HIGH,Possessing and distributing child pornography
+F1252,drugs;weapons,HIGH,Possession for trafficking and firearms offences
+F1253,weapons,HIGH,Possession of prohibited weapons and careless storage
+F1254,sexual,LOW,Sexual assault (drug charges possibly not sentenced)

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0291,N,N,X,X,X,N,X,X,X,N,LOW,Gladue report factors recited with no weight shown
+M0292,M,X,X,X,X,X,X,X,X,N,HIGH,Powerful Gladue factors attenuated blameworthiness and lowered sentence to 30 months
+M0293,M,X,M,X,X,X,X,X,X,N,LOW,Residential school background acknowledged in accepting joint conditional sentence
+M0294,X,X,X,X,X,N,X,X,N,N,HIGH,Racism mentioned only as legislative history argument
+M0295,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue evidence supported modest reduction of sentence on appeal
+M0296,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in a comparator case
+M0297,R,X,X,X,X,X,X,X,X,N,LOW,Trial judge attenuated Gladue relevance and argument abandoned
+M0298,X,X,X,X,N,R,X,X,X,N,HIGH,Racist remarks on remand considered but no extra credit given
+M0299,N,X,N,X,X,X,X,X,X,N,HIGH,Gladue factors only in comparator cases and none here
+M0300,X,X,X,X,X,R,X,X,X,N,LOW,Racism claim in custody not shown and not racially motivated

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1629,assault;weapons,HIGH,Assault with a weapon and use of imitation firearm
+F1630,sexual,HIGH,Sexual activity with minor and possession of child pornography
+F1631,assault,HIGH,Assault causing bodily harm to a peace officer
+F1632,driving;other,HIGH,Impaired driving causing bodily harm and extortion
+F1633,robbery,HIGH,Five counts of armed robbery
+F1634,none,LOW,Offences not shown in excerpt
+F1635,none,LOW,Offences not shown in excerpt
+F1636,assault;weapons,HIGH,Aggravated assault and possession of firearm without licence
+F1637,drugs,HIGH,Possession of methamphetamine for purpose of trafficking
+F1638,none,LOW,Offences not shown in excerpt
+F1639,theft_fraud,HIGH,Fraud
+F1640,robbery;weapons,HIGH,Robbery and possession of handgun
+F1641,sexual;other,HIGH,Sexual interference and breach of undertaking
+F1642,sexual,HIGH,Sexual assault sexual interference and child pornography
+F1643,homicide,HIGH,Second degree murder
+F1644,robbery;other,HIGH,Three robberies and masked offence
+F1645,sexual,HIGH,Sexual assault
+F1646,assault;other,HIGH,Aggravated assault assault threats obstruct justice mischief
+F1647,sexual,HIGH,Sexual interference
+F1648,homicide,HIGH,Manslaughter
+F1649,drugs,HIGH,Possession of methamphetamine for purpose of trafficking
+F1650,drugs;weapons,HIGH,Drug trafficking and weapons offences

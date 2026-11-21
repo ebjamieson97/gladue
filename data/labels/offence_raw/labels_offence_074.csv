@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1607,theft_fraud,HIGH,Theft under $5000 and possession of stolen property
+F1608,other,LOW,Three Criminal Code convictions including s. 264 criminal harassment
+F1609,weapons,HIGH,Firearms trafficking transfer possession and altered serial numbers
+F1610,driving;other,HIGH,Failing to stop driving while disqualified and attempted obstruction
+F1611,other,LOW,Breach of conditional sentence order underlying offence unclear
+F1612,sexual,HIGH,Sexual assault
+F1613,sexual,HIGH,Sexual interference
+F1614,homicide,HIGH,Manslaughter
+F1615,homicide,HIGH,Attempted murder
+F1616,sexual,HIGH,Making child pornography
+F1617,theft_fraud,HIGH,Theft and possession of credit card obtained by offence
+F1618,assault;robbery,HIGH,Two assaults causing bodily harm and robbery
+F1619,robbery,HIGH,Convenience store robbery with knife
+F1620,drugs,HIGH,Production and possession for trafficking of marihuana
+F1621,homicide,HIGH,Manslaughter of spouse
+F1622,assault;kidnapping,HIGH,Assault causing bodily harm and unlawful confinement
+F1623,other,HIGH,Illegal gaming offence
+F1624,assault;weapons,LOW,Aggravated assault and weapon offences conviction set aside stay
+F1625,kidnapping;other;assault;homicide,HIGH,Kidnapping confinement extortion aggravated assault two manslaughters
+F1626,robbery,HIGH,Robbery with a weapon
+F1627,sexual;assault,HIGH,Indecent assault gross indecency assault causing bodily harm assault
+F1628,drugs;weapons,HIGH,Marihuana production trafficking and unsafe firearm storage

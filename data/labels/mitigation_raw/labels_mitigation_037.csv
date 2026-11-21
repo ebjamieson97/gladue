@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0361,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but not significant enough to reduce sentence
+M0362,M,X,N,X,X,X,X,X,X,N,LOW,Indigenous background described at length and Gladue law applied; weight unclear
+M0363,X,X,X,X,X,M,X,X,X,N,HIGH,Trial judge considered systemic racism effect on appellant; appeal court upheld
+M0364,X,X,X,X,X,N,X,X,X,N,LOW,Racism noted in report; not clearly weighed
+M0365,N,X,N,X,X,X,X,X,X,N,LOW,Aboriginal status and residential school noted; no clear weight given
+M0366,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0367,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors mitigated moral culpability and supported lower end sentence
+M0368,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in other cases cited
+M0369,M,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) attention reduced moral blameworthiness and shaped sentence
+M0370,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in comparator case

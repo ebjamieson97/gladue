@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2641,sexual,HIGH,Sexual interference and sexual assault
+F2642,homicide,HIGH,Manslaughter
+F2643,weapons;drugs,HIGH,Firearm and drug offences
+F2644,robbery;weapons,HIGH,Robbery with weapon and use of imitation firearm
+F2645,sexual,HIGH,Invitation to sexual touching and sexual assault
+F2646,break_enter;assault;other;weapons,HIGH,Home invasion with assault; threats; attempted suffocation; prohibited weapon
+F2647,homicide,HIGH,Second degree murder and attempted murder
+F2648,drugs,HIGH,Possession for purpose of trafficking fentanyl and heroin
+F2649,driving,HIGH,Impaired and dangerous driving causing death or harm; failing to stop
+F2650,sexual,LOW,Application to vary s161 order after historical sexual offence
+F2651,homicide,HIGH,Two counts of second degree murder
+F2652,assault,HIGH,Assault causing bodily harm
+F2653,other;assault,LOW,Surcharge appeals; uttering threats; breach; assault
+F2654,sexual,HIGH,Sexual assault
+F2655,homicide,HIGH,Manslaughter
+F2656,sexual,HIGH,Child luring by telecommunication
+F2657,sexual;other,HIGH,Sexual assaults and breach of trust by official
+F2658,sexual,HIGH,Sexual assault and child pornography offences
+F2659,none,LOW,Sentence error corrected; offences not shown
+F2660,other,HIGH,Failure to comply with SOIRA order
+F2661,sexual,HIGH,Sexual assault of two children
+F2662,sexual,HIGH,Sexual interference and invitation to sexual touching

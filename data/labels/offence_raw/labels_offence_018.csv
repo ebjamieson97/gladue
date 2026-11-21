@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0375,driving,LOW,Apparently driving while suspended with fine
+F0376,drugs;weapons;other,HIGH,Drug trafficking; prohibited weapon; mischief; threats; breaches
+F0377,weapons;drugs,HIGH,Firearm offence with minimum sentence and drug offences
+F0378,sexual,HIGH,Sexual assault
+F0379,sexual,HIGH,Sexual interference; sexual exploitation; sexual assault
+F0380,drugs,HIGH,Possession of cocaine for trafficking
+F0381,driving,HIGH,Driving without due care and attention
+F0382,homicide,LOW,Attempted murder and other charges from shooting
+F0383,assault,HIGH,Assault with a weapon sword
+F0384,weapons;drugs,HIGH,Constructive possession of weapon and marijuana
+F0385,drugs,HIGH,Production of cannabis
+F0386,drugs,HIGH,Conspiracy to traffic in cocaine
+F0387,assault;sexual;kidnapping,HIGH,Assault; sexual assault; unlawful confinement; dangerous offender
+F0388,sexual,HIGH,Sexual assault with weapon; dangerous offender
+F0389,kidnapping;other,HIGH,Kidnapping and extortion
+F0390,theft_fraud,HIGH,Theft over $5000 by priest
+F0391,driving;other,HIGH,Over 80 and impaired driving and mischief
+F0392,sexual;other,HIGH,Sexual interference and breach of probation
+F0393,driving,HIGH,Dangerous driving
+F0394,homicide,HIGH,Unlawful act manslaughter of child
+F0395,drugs,HIGH,Importing cocaine and hashish
+F0396,drugs,HIGH,Possession of marihuana for trafficking

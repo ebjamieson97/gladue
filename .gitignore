@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local tool settings
+.claude/
+
+# Downloaded A2AJ files: re-downloaded by scripts/build_sentencing_data.py
+data/raw/
+data/tmp/
+
+# Text prepared for the AI readers (copies of decision text): re-made by the batch scripts.
+# The readers' answers (*_raw folders) and the sample lists are kept.
+**/*batches*/
+
+# Built website: published separately on the gh-pages branch (built by scripts/site/build_site.py)
+/site/
+
+# Extract pictures: re-drawn from the saved picks by scripts/extracts/render_extracts.py
+case_extracts/*/*.png
+case_extracts/v1/
+case_extracts/v2/
+case_extracts/v3_before_court_rule/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D087,NOT,NA,HIGH,Crown appeal of acquittals allowed; remitted for sentence
+D099,REVIEWS,FULL,HIGH,Long term offender sentence appeal allowed in part
+D215,REVIEWS,FULL,HIGH,Sentence appeal dismissed for firearm and harassment offences
+D033,NOT,NA,HIGH,Conviction appeal dismissed unreasonable verdict
+D136,REVIEWS,FULL,HIGH,Firearm sentence appeal dismissed
+D349,RELATED,NA,LOW,Leave to appeal on proceeding and sentencing in absence
+D332,NOT,NA,HIGH,Appeal to withdraw guilty plea dismissed
+D475,NOT,NA,HIGH,Conviction appeals allowed; sentence appeals abandoned
+D407,NOT,NA,HIGH,New trial ordered; sentence appeal not addressed
+D219,REVIEWS,FULL,HIGH,Conviction appeal and sentence appeal both dismissed
+D111,IMPOSES,FULL,HIGH,Reasons for sentence for first degree murder
+D439,REVIEWS,MINIMAL,LOW,Crown appeal allowed; court disposes of pending sentence appeal
+D152,REVIEWS,FULL,HIGH,Sentence appeal for historic sexual offences dismissed
+D116,REVIEWS,FULL,HIGH,Manslaughter sentence reduced on appeal
+D426,NOT,NA,HIGH,New trial ordered; sentence not addressed
+D118,REVIEWS,FULL,HIGH,Child pornography sentence appeal dismissed; SOIRA reduced
+D179,IMPOSES,FULL,HIGH,Sentencing for property offences on joint submission
+D253,IMPOSES,FULL,HIGH,Sentencing for drug trafficking offences
+D060,NOT,NA,HIGH,Voir dire ruling on lawful arrest
+D172,RELATED,NA,LOW,Conviction appeal dismissed; sentence appeal sent to case management
+D360,REVIEWS,MINIMAL,LOW,Leave to appeal sentence refused after conviction appeal dismissed
+D298,REVIEWS,FULL,HIGH,Crown sentence appeal for GST offences dismissed
+D300,IMPOSES,FULL,HIGH,Sentencing for manslaughter
+D184,NOT,NA,HIGH,Bail pending appeal denied
+D054,NOT,NA,HIGH,Prohibited weapon definition appeal
+D376,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal dismissed

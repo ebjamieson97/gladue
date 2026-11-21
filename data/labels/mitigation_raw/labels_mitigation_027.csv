@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0261,M,X,X,X,X,X,X,X,X,N,LOW,Aboriginal background gave enhanced credit and sentence reduced
+M0262,R,X,X,X,X,X,X,X,X,N,LOW,Gladue discussed but seriousness made denunciation dominant
+M0263,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0264,N,X,X,X,N,X,X,X,X,N,HIGH,Racism concerned the victim and was not found
+M0265,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report not sought and heritage not weighed
+M0266,X,X,X,X,N,X,X,X,X,N,HIGH,Anti-Black racism discussed for conviction not sentence
+M0267,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report supports community supports but weight unclear
+M0268,M,N,N,X,X,X,X,X,X,N,HIGH,Systemic and background factors reduced sentence to 15 months
+M0269,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0270,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for restorative justice

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0381,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court accepted trial judge duly considered Gladue report
+M0382,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in discussion of other case
+M0383,X,X,N,N,X,X,X,X,X,N,LOW,Counselling on intergenerational trauma noted; weight not shown
+M0384,R,X,X,X,X,X,X,X,X,N,HIGH,No Gladue error; no evidence linking Aboriginal background to offending
+M0385,X,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous; section 718.2(e) cited for conditional sentence
+M0386,M,X,N,X,X,X,X,X,X,N,HIGH,Gladue factors did not reduce culpability but were taken into account in sentence
+M0387,X,X,X,X,X,X,X,X,X,N,HIGH,Banishment discussion only
+M0388,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in comparison cases
+M0389,M,X,X,N,X,X,X,X,X,N,LOW,Trial judge gave Gladue factors minor role; hypothetical trauma only
+M0390,M,X,X,X,X,X,X,X,X,N,HIGH,Judge took account of early deprivation tied to aboriginal heritage

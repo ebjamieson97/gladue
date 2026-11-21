@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5546,NOT,NA,HIGH,Trial verdict assault conviction only
+D5964,NOT,NA,HIGH,Disclosure ruling in trial
+D3391,NOT,NA,HIGH,Murder conviction appeal dismissed
+D2943,REVIEWS,FULL,HIGH,Appeal of probation condition allowed in part
+D4546,NOT,NA,HIGH,Conviction appeal allowed new trial
+D4235,NOT,NA,HIGH,Treaty rights hunting conviction appeal
+D2854,REVIEWS,FULL,HIGH,Crown sentence appeal for criminal harassment dismissed
+D5258,NOT,NA,HIGH,Directed verdict application dismissed
+D5894,NOT,NA,HIGH,Conviction appeal only; sentence appeal not pursued
+D1753,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed for enhanced pre-sentence credit
+D3315,NOT,NA,HIGH,Summary conviction appeal on 11(b) delay
+D3113,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal not reached
+D3093,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence appeal dismissed briefly
+D3663,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D3804,NOT,NA,HIGH,Civil Crown liability appeal
+D5200,REVIEWS,FULL,HIGH,Sentence appeal allowed for child luring offences
+D5332,NOT,NA,HIGH,Conviction appeal only dismissed
+D1800,NOT,NA,HIGH,Release pending appeal application dismissed
+D3635,REVIEWS,FULL,LOW,Murder conviction and sentence appeal parole ineligibility
+D3721,NOT,NA,HIGH,Civil claim against Crown
+D1598,REVIEWS,FULL,HIGH,Dangerous offender sentence appeal allowed new hearing
+D4833,NOT,NA,HIGH,Youth court transfer review
+D1642,REVIEWS,FULL,HIGH,Sentence appeal dismissed except added probation condition
+D1350,NOT,NA,HIGH,Liquor possession conviction appeal Charter
+D1260,NOT,NA,HIGH,Unreasonable verdict appeal NCR murder
+D5877,IMPOSES,FULL,HIGH,Sentence for firearms possession on joint submission

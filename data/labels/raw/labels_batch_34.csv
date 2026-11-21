@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D0684,IMPOSES,FULL,HIGH,Sentence for second degree murder with parole ineligibility
+D0507,NOT,NA,HIGH,Trial verdict on robbery counts
+D0827,REVIEWS,FULL,HIGH,Sentence appeal for firearm offence dismissed
+D0686,RELATED,NA,HIGH,Charter challenge to mandatory DNA orders for youth
+D0924,NOT,NA,HIGH,Conviction appeal on wiretap evidence
+D0823,IMPOSES,FULL,HIGH,Reasons for sentence for robbery
+D0940,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence appeal dismissed briefly
+D0910,REVIEWS,FULL,HIGH,Sentence appeal on pretrial custody credit allowed
+D0928,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed as fit
+D0744,REVIEWS,FULL,HIGH,Crown sentence appeal for impaired driving allowed
+D0797,IMPOSES,FULL,HIGH,Reasons for sentence for sexual touching of daughter
+D0745,REVIEWS,FULL,HIGH,Appeal of dangerous offender designation and sentence dismissed
+D0888,REVIEWS,FULL,HIGH,Sentence appeal for home invasion dismissed
+D0539,NOT,NA,HIGH,Old SCC murder appeal on new trial power
+D0510,NOT,NA,HIGH,Conviction appeals on delay and evidence
+D0757,IMPOSES,FULL,HIGH,Reasons for sentence for manslaughter with constitutional challenge
+D0872,NOT,NA,HIGH,Appeal against convictions for disobeying order allowed
+D0552,NOT,NA,HIGH,Jurisdiction over appeal from NCRMD verdicts
+D0650,REVIEWS,FULL,HIGH,Conviction and sentence appeals dismissed
+D0867,NOT,NA,HIGH,Firearms licence refusal reference
+D0919,RELATED,NA,LOW,Extension of time to appeal fine denied
+D0517,RELATED,NA,HIGH,Review of DNA order refusal
+D0983,NOT,NA,HIGH,Release pending appeal denied
+D0904,REVIEWS,MINIMAL,HIGH,Crown appeal strikes invalid probation order
+D0892,REVIEWS,FULL,HIGH,Sentence appeal for fraud dismissed
+D0535,NOT,NA,HIGH,Application to lift publication ban

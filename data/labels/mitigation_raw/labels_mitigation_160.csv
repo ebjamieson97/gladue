@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1591,X,X,X,X,M,X,X,X,X,N,HIGH,Court found African Nova Scotian systemic factors bear on moral blameworthiness
+M1592,N,X,X,X,N,X,X,X,X,N,LOW,Race and culture assessment filed but weight not shown
+M1593,R,X,X,X,X,X,X,X,X,N,HIGH,Fresh evidence of Aboriginal heritage refused as unlikely to affect result
+M1594,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue report of little relevance as no Indigenous connection
+M1595,M,X,X,X,X,X,X,X,X,N,LOW,Court considered Indigenous heritage among factors in setting sentence
+M1596,X,X,X,X,X,X,X,X,X,Y,HIGH,Racist gang killing of Sikh man; hate was aggravating
+M1597,M,X,M,M,X,X,X,X,X,N,HIGH,Residential school effects treated as mitigating tempering blameworthiness
+M1598,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned generally with no Indigenous analysis
+M1599,N,X,X,N,X,X,X,X,X,N,LOW,PSR could not assess ancestry or intergenerational trauma
+M1600,M,X,X,X,X,X,X,X,X,N,LOW,Gladue report informative on mother's Aboriginal experience affecting upbringing

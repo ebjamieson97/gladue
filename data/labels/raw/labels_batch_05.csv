@@ -1,0 +1,26 @@
+id,label,depth,confidence,note
+D445,IMPOSES,FULL,HIGH,Sentence for cocaine possession; conditional discharge or suspended sentence
+D078,NOT,NA,HIGH,SCC jury trial entitlement appeal dismissed
+D201,RELATED,NA,HIGH,Evidence admissibility ruling in dangerous offender hearing
+D210,REVIEWS,FULL,HIGH,Fraud conviction and sentence appeal; forfeiture and fine varied
+D121,REVIEWS,FULL,HIGH,Sentence appeal for criminal harassment dismissed
+D244,IMPOSES,FULL,HIGH,Sentencing for sexual offences against daughter; seven years
+D237,REVIEWS,FULL,HIGH,Sentence appeal dismissed; driving prohibition varied
+D117,NOT,NA,HIGH,Charter s. 8 voir dire on warrants
+D046,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D187,REVIEWS,FULL,HIGH,Crown sentence appeal; conditional sentence replaced with custody
+D480,NOT,NA,HIGH,SCC similar fact evidence conviction appeal
+D199,REVIEWS,FULL,HIGH,Sentence appeal allowed for enhanced presentence custody credit
+D270,IMPOSES,FULL,HIGH,Sentencing for aggravated assault; six months
+D478,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal not reached
+D263,RELATED,NA,LOW,Application for appointment of counsel on appeals; merits assessed
+D366,RELATED,NA,HIGH,Dangerous offender assessment procedure ruling
+D440,REVIEWS,FULL,HIGH,Sentence appeal of conditional sentence dismissed
+D070,NOT,NA,HIGH,Trial verdict on weapons counts
+D222,IMPOSES,FULL,HIGH,Sentencing for multiple robberies; four years
+D327,REVIEWS,FULL,HIGH,Murder conviction and parole ineligibility appeal dismissed
+D226,REVIEWS,FULL,HIGH,Summary conviction sentence appeal allowed; fine increased
+D302,REVIEWS,FULL,HIGH,Fraud sentence appeals dismissed
+D088,NOT,NA,LOW,Murder conviction appeal dismissed on jury instruction
+D217,REVIEWS,FULL,HIGH,Sentence appeal; unlawful probation orders deleted
+D186,RELATED,NA,HIGH,Sex offender registry order decision

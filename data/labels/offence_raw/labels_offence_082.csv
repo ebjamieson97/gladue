@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1783,none,LOW,Offences not identified; custody credit varied
+F1784,sexual,HIGH,Sexual assault; dangerous offender designation
+F1785,sexual;other,HIGH,Voyeurism and breach of probation
+F1786,assault,HIGH,Assault causing bodily harm
+F1787,robbery;driving,HIGH,Robbery and dangerous driving
+F1788,other,HIGH,Criminal harassment of former wife
+F1789,assault,LOW,Assaults on child; breach of trust; unclear
+F1790,sexual,HIGH,Sexual assault
+F1791,sexual,HIGH,Sexual assault
+F1792,sexual,HIGH,Internet exposure to minor; breach of conditional sentence
+F1793,theft_fraud,HIGH,Fraud on public purse
+F1794,sexual;break_enter,HIGH,Break and enter and sexual assault
+F1795,break_enter;sexual,HIGH,Break and enter and sexual assault
+F1796,break_enter;robbery;other;driving;assault;theft_fraud;weapons,HIGH,Many counts including robbery and dangerous driving
+F1797,break_enter,HIGH,Four residential break and enters
+F1798,sexual,HIGH,Sexual exploitation and sexual assault
+F1799,weapons;assault,HIGH,Firearm offences and aggravated assault
+F1800,theft_fraud,HIGH,Theft and possession of stolen money
+F1801,drugs,HIGH,Possession of cocaine for trafficking
+F1802,drugs;weapons,HIGH,Drug trafficking and brass knuckles possession
+F1803,theft_fraud,HIGH,Two counts of fraud
+F1804,weapons;drugs,HIGH,Firearm offences and heroin possession

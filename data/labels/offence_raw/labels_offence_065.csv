@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1409,sexual;other,HIGH,Sexual interference exploitation sexual assault and breach of probation
+F1410,other,HIGH,Criminal harassment by threatening conduct
+F1411,other,HIGH,Criminal contempt for breaching pipeline injunction
+F1412,sexual,HIGH,Sexual assault and sexual interference of niece
+F1413,sexual,HIGH,Sexual interference of 14-year-old
+F1414,theft_fraud,HIGH,Fraud over $5000
+F1415,other,HIGH,Mischief to property and cruelty to animals
+F1416,theft_fraud,HIGH,Two counts of fraud over $5000
+F1417,sexual,HIGH,Sexual interference and invitation to sexual touching
+F1418,sexual;assault;kidnapping;break_enter;weapons;theft_fraud,HIGH,Break and enter sexual assault kidnapping assault firearm pointing and theft
+F1419,robbery;other,HIGH,Three robberies of taxi drivers and obstruct justice
+F1420,drugs;weapons,HIGH,Heroin trafficking conspiracy and firearms and ammunition offences
+F1421,theft_fraud,HIGH,Fraud of about $1.9 million
+F1422,sexual,HIGH,Sexual assault during Indigenous healing session
+F1423,other;theft_fraud,HIGH,Breaches of probation and theft
+F1424,break_enter,LOW,Break and enter among a large number of offences
+F1425,drugs,HIGH,Trafficking and possession for trafficking cocaine and marihuana possession
+F1426,break_enter;assault;other,HIGH,Break and enter assault causing bodily harm and disguising face
+F1427,homicide,HIGH,Second degree murder
+F1428,sexual;assault,HIGH,Sexual assault and common assault
+F1429,other,HIGH,Perjury
+F1430,homicide,HIGH,Second degree murder

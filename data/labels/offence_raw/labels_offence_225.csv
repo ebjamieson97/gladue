@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4929,sexual;kidnapping,HIGH,Four sexual assaults and two unlawful confinements
+F4930,sexual,HIGH,Possession of child pornography and luring
+F4931,homicide,HIGH,Second degree murder
+F4932,drugs,HIGH,Possession for trafficking and importing heroin and conspiracy to import
+F4933,homicide,HIGH,Manslaughter with dangerous offender application
+F4934,drugs;weapons;theft_fraud,HIGH,Possession for trafficking; prohibited device; proceeds of crime
+F4935,drugs,HIGH,Importing heroin
+F4936,drugs,LOW,Possession of fentanyl for trafficking and several other offences
+F4937,assault,LOW,Youth assault plus unspecified summary conviction offences
+F4938,kidnapping,HIGH,Four counts of parental abduction
+F4939,sexual;kidnapping,HIGH,Sexual assault; sexual assault with weapon; unlawful confinement
+F4940,assault;weapons;other;drugs,LOW,Assault with weapon; imitation firearm; threats; firearm; cocaine possession
+F4941,sexual,HIGH,Two counts of historical sexual assault
+F4942,assault;break_enter,HIGH,Unlawfully causing bodily harm and four break and enters
+F4943,theft_fraud,HIGH,Three counts of theft
+F4944,robbery;assault;other,HIGH,Robbery; aggravated assault; breach of youth sentence
+F4945,driving,HIGH,Impaired driving causing death
+F4946,robbery,HIGH,Robbery of a woman's purse
+F4947,sexual,HIGH,Sexual assault and sexual interference of a child
+F4948,assault,HIGH,Aggravated assault with a machete
+F4949,sexual,HIGH,Sexual assault with a weapon
+F4950,robbery;weapons,HIGH,Robbery and use of imitation firearm during robbery

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3147,break_enter,HIGH,Break and enter dwelling with intent to commit theft
+F3148,drugs,HIGH,Three counts possession for purpose of trafficking
+F3149,sexual,HIGH,Sexual interference of daughter
+F3150,drugs,HIGH,Trafficking in heroin mixed with fentanyl
+F3151,sexual,HIGH,Sexual assault
+F3152,assault,HIGH,Aggravated assault
+F3153,homicide;robbery,HIGH,Criminal negligence causing death during robbery
+F3154,drugs;theft_fraud,HIGH,Conspiracy to traffic marijuana; laundering and possessing proceeds of crime
+F3155,break_enter;theft_fraud,HIGH,Break and enter; theft; vehicle theft; possession of stolen property
+F3156,sexual;weapons,HIGH,Sexual assault and possession of weapon for dangerous purpose
+F3157,theft_fraud,HIGH,Fraud over $5000
+F3158,drugs,HIGH,Trafficking in cocaine
+F3159,assault,HIGH,Assault causing bodily harm
+F3160,drugs,HIGH,Importing opium and possession for purpose of trafficking
+F3161,theft_fraud,HIGH,Fraud over $5000
+F3162,homicide,HIGH,Second degree murder
+F3163,break_enter;robbery;assault,HIGH,Unlawful entry to dwelling; robbery; aggravated assault
+F3164,sexual,HIGH,Possession of child pornography
+F3165,drugs,HIGH,Importing cocaine
+F3166,driving,HIGH,Failing to stop after accident causing death
+F3167,sexual,HIGH,Sexual assault of sister-in-law
+F3168,sexual,HIGH,Sexual assault with weapon; causing bodily harm; sexual assault

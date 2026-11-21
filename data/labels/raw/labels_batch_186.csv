@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D2735,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed; enhanced pre-sentence credit applied
+D2269,IMPOSES,FULL,HIGH,Youth sentence after second degree murder conviction
+D4600,REVIEWS,FULL,HIGH,Sentence appeal allowed; conditional sentence substituted for fraud
+D4901,NOT,NA,HIGH,Habeas corpus application about custody and assessment
+D3789,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal abandoned
+D3264,NOT,NA,HIGH,Conviction appeal on mistrial; sentence appeal not pursued
+D1018,NOT,NA,HIGH,Disclosure and delay application before fraud trial
+D4966,NOT,NA,HIGH,Guilty plea set aside and acquittal entered
+D1480,REVIEWS,FULL,HIGH,Crown sentence appeal allowed; conditional sentence replaced by custody
+D2519,REVIEWS,FULL,HIGH,Youth conviction appeal dismissed; sentence reduced to time served
+D1201,NOT,NA,HIGH,Manslaughter conviction restored by SCC
+D4475,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D5836,NOT,NA,HIGH,Impaired driving conviction appeal on border evidence
+D2326,REVIEWS,FULL,HIGH,Sentence appeal for sexual interference dismissed
+D2040,IMPOSES,FULL,HIGH,Reasons for sentence for robbery with imitation firearm
+D4827,NOT,NA,HIGH,Crown appeal on jury instruction; new trial ordered
+D4828,REVIEWS,FULL,HIGH,Leave to appeal sentence refused for lack of merit
+D4613,NOT,NA,HIGH,Conviction appeal for child pornography dismissed
+D1527,REVIEWS,FULL,HIGH,Sentence appeal for robbery and firearm offences dismissed
+D4626,RELATED,NA,LOW,Appeal limited to s. 161 internet prohibition order
+D3421,NOT,NA,HIGH,Charter s. 24(2) ruling on cellphone evidence
+D3290,NOT,NA,HIGH,Conviction appeal allowed; new trial ordered
+D1299,NOT,NA,HIGH,Release pending new trial application
+D3049,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence appeal dismissed as fit
+D3617,NOT,NA,HIGH,Verdict of guilty on care and control charge
+D1867,REVIEWS,FULL,HIGH,Murder conviction appeal dismissed; parole ineligibility upheld

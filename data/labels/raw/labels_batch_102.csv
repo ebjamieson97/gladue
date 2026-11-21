@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3366,REVIEWS,FULL,HIGH,Sentence appeal for riot allowed; conditional sentence substituted
+D5181,NOT,NA,HIGH,Application to strike civil petition
+D2918,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence held fit
+D2323,REVIEWS,FULL,LOW,Summary conviction appeal on mandatory minimum for child pornography
+D1636,IMPOSES,FULL,HIGH,Reasons for sentence for prohibited weapon with conditional sentence
+D5817,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed for pre-sentence custody credit
+D2751,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed for enhanced custody credit
+D5885,NOT,NA,HIGH,Verdict on false pretences
+D4618,NOT,NA,HIGH,Appeal from refusal to set aside guilty plea
+D4978,REVIEWS,FULL,HIGH,Sentence appeal for drug offences totality dismissed
+D1142,RELATED,NA,LOW,Appeal on firearms prohibition order deleted
+D1957,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed for abuse offences
+D3695,REVIEWS,FULL,HIGH,Crown sentence appeal for sexual assault allowed
+D3799,IMPOSES,FULL,HIGH,Reasons for sentence for accessory after murder
+D1874,IMPOSES,FULL,HIGH,Sentencing decision with conditional sentence for drug offences
+D5567,NOT,NA,HIGH,Appeal quashed on estreat of recognizance
+D2954,NOT,NA,HIGH,Crown appeal on Lobbying Act conviction
+D2778,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed on consent
+D2616,NOT,NA,HIGH,Extension of time application for murder conviction appeal
+D1492,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence reduced
+D3941,NOT,NA,HIGH,Youth conviction appeal dismissed
+D3594,NOT,NA,HIGH,Verdict on drug and firearm charges
+D5176,NOT,NA,HIGH,Murder conviction appeal; new trial ordered
+D2620,NOT,NA,HIGH,Chambers application to stay unrelated charges
+D5978,NOT,NA,HIGH,Directed verdict ruling
+D2579,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; victim surcharge quashed

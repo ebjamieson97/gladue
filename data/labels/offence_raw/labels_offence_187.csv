@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4093,drugs,HIGH,Conspiracy to traffic in heroin and cocaine
+F4094,break_enter,HIGH,Two residential break and enters
+F4095,robbery,LOW,Robbery with serious injury to victim; other counts unclear
+F4096,sexual,HIGH,Sexual interference and sexual assault (stayed); breach acquitted
+F4097,weapons;driving,HIGH,Loaded firearm possession; dangerous operation; flight; drive disqualified; fail to stop
+F4098,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4099,sexual;other,HIGH,Sexual assaults; administering stupefying drug; making child pornography; dangerous offender
+F4100,weapons;other,HIGH,Firearms offences and mischief over $5000
+F4101,assault,LOW,Long-term domestic abuse of family; specific counts unclear
+F4102,robbery,HIGH,Robbery; conditional sentence breach
+F4103,driving,HIGH,Dangerous operation of a motor vehicle
+F4104,weapons,HIGH,Serious firearms offences
+F4105,none,LOW,Offences unspecified; serious crimes only
+F4106,drugs,HIGH,Production of cannabis and possession for trafficking
+F4107,drugs,HIGH,Possession for trafficking cocaine and methamphetamine; simple possession heroin
+F4108,sexual,HIGH,Incest; sexual assault; invitation to sexual touching
+F4109,other,HIGH,Contempt of court for refusing to testify
+F4110,homicide,HIGH,Second degree murder parole ineligibility
+F4111,sexual,HIGH,Sexual assault
+F4112,robbery,HIGH,Robbery
+F4113,assault;weapons,HIGH,Aggravated assault and firearms offences
+F4114,other,HIGH,Failure to file income tax returns

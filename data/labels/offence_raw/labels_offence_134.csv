@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2927,weapons,HIGH,Possession of loaded prohibited firearm
+F2928,driving,HIGH,Driving without due care after refusing breath sample charge
+F2929,homicide,HIGH,Second degree murder
+F2930,none,LOW,Offence not shown; moot pandemic sentence appeal
+F2931,theft_fraud;other;robbery;kidnapping;weapons;driving,HIGH,Theft; harassment; mischief; robbery; kidnapping; imitation firearm; flight from police
+F2932,weapons,HIGH,Discharging firearm with intent to endanger life
+F2933,other,HIGH,Breach of conditional sentence order after assault
+F2934,homicide,HIGH,Manslaughter by punch
+F2935,kidnapping;other,HIGH,Human trafficking; procuring; intimidation of justice participant
+F2936,break_enter,HIGH,Break and enter
+F2937,sexual,HIGH,Historical rape of niece
+F2938,other,HIGH,Uttering death threat to officer
+F2939,homicide;break_enter,HIGH,Attempted murder and break and enter
+F2940,sexual,HIGH,Sexual assault of three granddaughters
+F2941,robbery,HIGH,Robbery with BB gun
+F2942,driving;other,HIGH,Driving offences and breach of probation
+F2943,other,HIGH,Breach of undertaking by consuming alcohol
+F2944,sexual;assault,HIGH,Sexual assault and overcoming resistance by choking
+F2945,homicide,HIGH,Second degree murder
+F2946,sexual,HIGH,Obtaining sexual services of minors
+F2947,none,LOW,Offence not shown; credit appeal only
+F2948,drugs,HIGH,Importing cocaine and possession for trafficking

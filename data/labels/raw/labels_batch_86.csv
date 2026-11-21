@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5427,NOT,NA,HIGH,Verdict of guilty for removing child from Canada
+D5127,IMPOSES,FULL,HIGH,Sentencing for assault causing bodily harm
+D1176,NOT,NA,HIGH,Summary conviction appeal of conviction dismissed
+D4639,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal not pursued
+D4349,NOT,NA,HIGH,Crown appeal from acquittals dismissed
+D2701,NOT,NA,HIGH,Bail pending appeal denied
+D4521,REVIEWS,FULL,HIGH,Crown sentence appeal allowed for fraud conditional sentence
+D4602,NOT,NA,HIGH,Conviction appeal dismissed
+D4445,NOT,NA,HIGH,Conviction appeal partly allowed
+D5113,NOT,NA,HIGH,Conviction appeal for cocaine possession dismissed
+D2391,RELATED,NA,HIGH,Application to reopen abandoned sentence appeal refused
+D4307,NOT,NA,HIGH,Bail pending appeal denied
+D1327,NOT,NA,LOW,Summary conviction appeal on refusing breath demand dismissed
+D1149,NOT,NA,HIGH,Conviction appeal allowed and new trial ordered
+D1080,NOT,NA,HIGH,Conviction appeal for fraud dismissed
+D3444,NOT,NA,HIGH,Informant privilege ruling at trial
+D1217,NOT,NA,HIGH,Voir dire ruling on admissibility of recordings
+D4745,NOT,NA,HIGH,Acquittal on sexual offence charges
+D5454,NOT,NA,HIGH,Appeal dismissed on unreasonable verdict
+D3280,IMPOSES,FULL,HIGH,Reasons for sentence for theft and fraud conditional sentence
+D1197,REVIEWS,MINIMAL,LOW,Crown appeal restoring firearms prohibition order
+D4872,RELATED,NA,HIGH,Order for psychiatric assessment for dangerous offender application
+D1458,NOT,NA,HIGH,Application to reopen conviction appeal refused
+D4660,NOT,NA,HIGH,Ruling on validity of search warrant information
+D5234,IMPOSES,FULL,HIGH,Reasons for sentence for fraud
+D2286,REVIEWS,FULL,HIGH,Sentence appeal dismissed for assault and threat

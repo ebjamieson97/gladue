@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2619,assault,HIGH,Assault causing bodily harm on infant
+F2620,none,LOW,Offences not identified in excerpt
+F2621,drugs;theft_fraud,HIGH,Possession for trafficking and possession of stolen property
+F2622,none,LOW,Offence not shown; conditional sentence appeal
+F2623,weapons;drugs,HIGH,Prohibited firearm and possession for trafficking
+F2624,drugs,HIGH,Possession of cocaine and GHB for trafficking
+F2625,none,LOW,Offence not shown; conditional discharge on appeal
+F2626,assault;break_enter,HIGH,Assault with weapon assault causing bodily harm unlawfully in dwelling
+F2627,weapons,HIGH,Trafficking in firearms
+F2628,other,HIGH,Five counts of arson
+F2629,assault,HIGH,Aggravated assault stabbing
+F2630,break_enter;kidnapping;assault;other,HIGH,Break and enter forcible confinement assault disguise face
+F2631,drugs;theft_fraud,HIGH,Possession for trafficking and possession of proceeds of crime
+F2632,theft_fraud,HIGH,Possession of stolen property
+F2633,sexual,HIGH,Sexual interference with child
+F2634,theft_fraud,HIGH,Fraud and unlawful use of debit card
+F2635,sexual;other,HIGH,Sexual interference exploitation touching and breach
+F2636,drugs,HIGH,Possession of cocaine and ecstasy for trafficking
+F2637,drugs,HIGH,Trafficking in cocaine
+F2638,homicide;weapons;assault,HIGH,Second degree murder weapon possession assault with weapon
+F2639,drugs,HIGH,Marihuana production
+F2640,homicide,HIGH,Manslaughter

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4016,NOT,NA,HIGH,Disclosure application
+D3739,RELATED,NA,HIGH,Stay of fishing licence suspension pending appeal
+D4411,NOT,NA,HIGH,Child luring conviction appeal allowed
+D2780,RELATED,NA,LOW,Conviction appeal dismissed; leave to appeal sentence denied for no grounds
+D4001,NOT,NA,HIGH,SCC on lost evidence and disclosure
+D2214,IMPOSES,FULL,HIGH,Reasons for sentence for sexual assault
+D5237,IMPOSES,FULL,HIGH,Reasons for sentence on joint submission for sexual assaults
+D4275,NOT,NA,HIGH,Leave to appeal summary conviction decision denied
+D3193,NOT,NA,HIGH,Appeals from breach convictions dismissed
+D3866,NOT,NA,HIGH,SCC on threat offence conviction
+D1196,NOT,NA,HIGH,Conviction appeal allowed new trial ordered
+D1450,NOT,NA,HIGH,Civil trial dismissing abuse claims
+D1423,NOT,NA,HIGH,Appeal on withdrawal of guilty plea
+D5093,NOT,NA,HIGH,Review board disposition appeal dismissed
+D3397,NOT,NA,HIGH,Summary conviction appeal allowed new trial
+D1672,NOT,NA,HIGH,Forfeiture of bail recognizance
+D2211,IMPOSES,FULL,HIGH,Reasons for sentence for manslaughter
+D4899,REVIEWS,FULL,HIGH,Sentence appeal allowed for pre-sentence custody credit
+D2936,NOT,NA,HIGH,Automatism and conviction appeals
+D6001,NOT,NA,HIGH,Conviction appeal adjourned pending constitutional ruling
+D4103,IMPOSES,FULL,HIGH,Dangerous offender designation and indeterminate sentence
+D4774,NOT,NA,HIGH,Crown appeal of acquittal allowed
+D4345,REVIEWS,FULL,HIGH,Sentence appeal dismissed except victim surcharges quashed
+D2446,REVIEWS,FULL,HIGH,Crown appeal allowed against conditional sentences
+D4507,NOT,NA,HIGH,Murder conviction appeal
+D3943,NOT,NA,HIGH,Release pending appeal application dismissed

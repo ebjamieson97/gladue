@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5678,NOT,NA,HIGH,Acquittal on luring charges
+D5863,IMPOSES,FULL,HIGH,Sentencing on joint recommendation for drug offences
+D4360,NOT,NA,HIGH,Verdict of guilty for possession for trafficking
+D1405,NOT,NA,HIGH,Reopening of conviction appeal
+D6053,NOT,NA,HIGH,Counsel appointment for parking bylaw appeal
+D1663,REVIEWS,FULL,HIGH,Conviction and sentence appeal dismissed
+D1719,REVIEWS,FULL,HIGH,Murder appeal with parole ineligibility sentence appeal dismissed
+D2852,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal adjourned
+D5019,NOT,NA,HIGH,No jurisdiction for conviction appeal
+D4168,NOT,NA,HIGH,Crown acquittal appeal; new trial ordered
+D3254,NOT,NA,HIGH,Costs endorsement in civil matter
+D1333,NOT,NA,HIGH,New trial ordered for manslaughter
+D4896,REVIEWS,FULL,HIGH,Sentence appeal for sexual assault dismissed
+D2612,NOT,NA,HIGH,Appointment of counsel for appeals
+D2185,REVIEWS,FULL,HIGH,Youth sentence appeals dismissed
+D1055,NOT,NA,HIGH,Voir dire on hearsay admissibility
+D2078,REVIEWS,FULL,HIGH,Convictions dismissed; sentence appeal on remand credit allowed
+D5579,RELATED,NA,HIGH,Constitutional challenge to SOIRA registration
+D1306,NOT,NA,HIGH,New trial ordered
+D5184,NOT,NA,HIGH,Verdicts on firearms offences
+D2151,RELATED,NA,LOW,Counsel appointment application for appeals
+D3013,NOT,NA,HIGH,Conviction appeal after guilty plea dismissed
+D5400,IMPOSES,FULL,HIGH,Sentencing for firearm possession offences
+D3518,NOT,NA,HIGH,Summary conviction appeal allowed; acquittal
+D5950,NOT,NA,HIGH,Tax assessment appeal
+D1846,IMPOSES,FULL,HIGH,Sentence for manslaughter on joint submission

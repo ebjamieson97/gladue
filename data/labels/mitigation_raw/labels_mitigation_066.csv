@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0651,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in a comparison case
+M0652,N,X,X,X,X,X,X,X,X,N,HIGH,Only notes no Gladue report was provided
+M0653,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted as general law
+M0654,X,X,X,X,M,X,X,X,X,N,HIGH,Difficult history as visible minority and IRCA accepted as mitigating
+M0655,N,X,X,X,M,X,X,X,X,N,HIGH,IRCA systemic and background factors attenuated moral culpability
+M0656,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e noted as unavailable to this offender
+M0657,N,X,X,X,N,X,X,X,X,N,LOW,Aboriginal and African Nova Scotian status concerns comparison case
+M0658,R,X,X,N,X,X,X,X,X,N,LOW,Contempt sentencing judge gave Gladue no effect; counsel appointed to argue
+M0659,M,N,M,M,X,X,X,X,X,N,LOW,Gladue and residential school harm weighed toward reduced culpability
+M0660,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in Crown description of outlier cases

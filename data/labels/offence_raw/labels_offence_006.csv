@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0111,homicide,LOW,Publication ban ruling; first degree murder trial; no sentence imposed
+F0112,driving,HIGH,Driving without due care after drinking
+F0113,theft_fraud,HIGH,Fraud against bank of $375000
+F0114,assault;other,HIGH,Assault on elderly mother and uttering threats
+F0115,robbery;weapons,HIGH,Robberies with imitation firearm; use of firearm during indictable offence
+F0116,robbery,HIGH,Robbery with a knife at liquor store
+F0117,homicide,HIGH,Second degree murder; parole ineligibility
+F0118,assault,HIGH,Aggravated assault by stabbing
+F0119,other;assault,HIGH,Breaches of release and probation orders; assault
+F0120,sexual,LOW,Sexual offence inferred from consent defence; drugged complainant
+F0121,assault;weapons,HIGH,Aggravated assault and possession of explosive substance
+F0122,homicide,HIGH,Manslaughter
+F0123,sexual,HIGH,Sexual exploitation of young person and making child pornography
+F0124,drugs;weapons;theft_fraud,HIGH,Possession for trafficking; dangerous weapon; possession of property from offence
+F0125,theft_fraud,HIGH,Three counts of fraud under $5000
+F0126,sexual,HIGH,Possession of child pornography for distribution and sexual assault
+F0127,homicide;weapons,HIGH,Manslaughter; concealed weapon; prohibited firearm possession
+F0128,drugs,HIGH,Possession of fentanyl for purpose of trafficking
+F0129,theft_fraud,HIGH,Fraud and two counts of forgery
+F0130,weapons;robbery,HIGH,Discharging firearm at dwelling; armed robbery in companion case
+F0131,other,HIGH,Accessory after fact to murder; failing to attend court
+F0132,homicide,HIGH,Second degree murder and two attempted murders

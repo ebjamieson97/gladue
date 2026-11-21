@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1277,robbery;theft_fraud;other,HIGH,Two robberies; thefts; threats; breach of undertaking
+F1278,assault;other,HIGH,Assault causing bodily harm; threats; arson; mischief
+F1279,sexual;kidnapping,HIGH,Sexual interference; confinement; exposure; incest
+F1280,none,LOW,Sentence illegal probation; underlying offence not shown
+F1281,sexual,HIGH,Sexual assault and anal intercourse
+F1282,theft_fraud,HIGH,Four counts of fraud
+F1283,homicide;other,HIGH,Manslaughter and arson
+F1284,theft_fraud;other,HIGH,Possessing proceeds of crime; resisting arrest
+F1285,theft_fraud;driving,HIGH,Possession of stolen property; dangerous driving
+F1286,sexual,HIGH,Two counts of sexual assault
+F1287,robbery;weapons,HIGH,Four bank robberies; firearms offences
+F1288,sexual,HIGH,Historical indecent assault of a child
+F1289,weapons;other,HIGH,Firearm and weapon possession; breach of order
+F1290,sexual;assault,HIGH,Sexual assault and common assault
+F1291,none,LOW,Only weapons prohibition order varied; offence not shown
+F1292,other,HIGH,Arson causing damage to dwelling house
+F1293,driving,HIGH,Dangerous driving causing death and bodily harm
+F1294,sexual,HIGH,Sexual assault; confinement acquitted
+F1295,theft_fraud,HIGH,Fraud over $5000 on elderly victim
+F1296,assault;weapons,HIGH,Aggravated assault; weapon for dangerous purpose
+F1297,other,HIGH,Criminal harassment
+F1298,theft_fraud,HIGH,Identity theft and fraud over $5000

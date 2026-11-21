@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0851,M,X,M,X,X,X,X,X,X,N,HIGH,Aboriginal status and family residential school history supported conditional sentence
+M0852,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e recited as general law only
+M0853,M,X,X,X,X,X,X,X,X,N,LOW,Supreme Court upheld reduced sentence based on Indigenous factors
+M0854,M,X,X,X,X,X,X,X,X,N,LOW,Judge acknowledged serious Gladue factors but denunciation dominated
+M0855,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only about another offender
+M0856,M,X,M,M,X,X,X,X,X,N,HIGH,Residential school legacy and Indigenous factors reduced blameworthiness and sentence
+M0857,X,X,X,X,R,X,X,X,X,N,LOW,Defence race and systemic racism submissions apparently given little weight
+M0858,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in describing another case
+M0859,X,X,X,X,X,X,X,X,X,N,HIGH,Only restraint principle of s 718.2e cited
+M0860,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for individualized sentencing

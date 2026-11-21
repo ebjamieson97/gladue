@@ -1,0 +1,8 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1671,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue not shown to change fit sentence given record
+M1672,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report considered but effect on ineligibility unclear
+M1673,X,X,X,X,X,R,X,X,X,N,HIGH,Morris factors not raised so no effect
+M1674,M,X,X,X,X,X,X,X,X,N,HIGH,Appeal court found Gladue factors properly taken into account
+M1675,M,X,N,X,X,X,X,X,X,N,HIGH,Aboriginal background reduced moral culpability; victim was school survivor
+M1676,N,X,X,X,X,N,X,X,X,N,HIGH,Indigenous and racism mentions concern other cases and general law
+M1677,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only on mental illness

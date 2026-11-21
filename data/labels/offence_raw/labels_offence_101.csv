@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2201,robbery;theft_fraud;other,HIGH,Attempted robbery theft possession of property breaches
+F2202,theft_fraud;other,HIGH,Fraud and two counts of income tax evasion
+F2203,homicide;weapons,HIGH,Attempted murder and firearms offences
+F2204,sexual;kidnapping;other,HIGH,Sexual assault and interference exploitation procuring trafficking
+F2205,none,LOW,Offence not shown only unlawful probation and fine combination
+F2206,assault,HIGH,Aggravated assault
+F2207,assault;kidnapping;other,HIGH,Assault with weapon bodily harm kidnapping harassment threats
+F2208,sexual,HIGH,Two counts of sexual touching of a person under 16
+F2209,assault,HIGH,Two aggravated assaults and two assaults with a weapon
+F2210,assault,HIGH,Youth serious assault
+F2211,sexual,HIGH,Sexual assault
+F2212,drugs,HIGH,Production of marihuana
+F2213,assault;weapons;other,HIGH,Assault restricted weapon possession breach of undertaking
+F2214,drugs,HIGH,Trafficking fentanyl
+F2215,sexual,HIGH,Sexual assault
+F2216,none,LOW,Offence not shown only pre-sentence credit error
+F2217,break_enter,HIGH,Break and enter of dwelling with intent to steal
+F2218,sexual,HIGH,Sexual assault and sexual interference
+F2219,kidnapping;assault;other,HIGH,Kidnapping extortion aggravated assault choking
+F2220,drugs;other,HIGH,Possession of methamphetamine trafficking and breach of recognizance
+F2221,driving,HIGH,Impaired or over 80 driving offence
+F2222,weapons,LOW,Firearm offence and possibly other convictions

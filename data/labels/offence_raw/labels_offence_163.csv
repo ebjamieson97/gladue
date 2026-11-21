@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3565,robbery;assault,HIGH,Robbery and aggravated assault
+F3566,sexual,HIGH,Sexual intercourse with 14-year-old stepdaughter
+F3567,drugs,HIGH,Possession of marihuana for purpose of trafficking
+F3568,homicide;assault,HIGH,Attempted murder and aggravated assault
+F3569,assault,HIGH,Assaulting a peace officer
+F3570,weapons,HIGH,Firearm possession offences and breach of weapons prohibition
+F3571,drugs;weapons,HIGH,Possession for trafficking and loaded firearm offences
+F3572,drugs;theft_fraud;other,HIGH,Marijuana production and theft of utilities and injury to property
+F3573,break_enter;assault,HIGH,Break and enter and commit assault
+F3574,sexual,HIGH,Sexual interference with a person under 16
+F3575,sexual,HIGH,Historical sexual exploitation of stepdaughter
+F3576,weapons,HIGH,Firearms offences including prohibited firearm and sawed-off rifle
+F3577,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3578,weapons,HIGH,Six firearms offences
+F3579,sexual,HIGH,Sexual interference and sexual assault of child
+F3580,other,HIGH,24 counts of breach of probation
+F3581,assault;weapons,HIGH,Assault with a weapon and carrying concealed weapon
+F3582,other,HIGH,Criminal contempt of court
+F3583,assault;driving,HIGH,Criminal negligence causing bodily harm and failing to remain at boating accident
+F3584,assault,HIGH,Aggravated assault and assault with a weapon; dangerous offender
+F3585,assault,LOW,Violent stabbing offence not specified
+F3586,drugs,HIGH,Multiple drug trafficking offences

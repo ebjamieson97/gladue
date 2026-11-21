@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0461,N,X,X,X,X,X,X,X,X,N,LOW,Aboriginal background acknowledged but appeal decided on rehabilitation
+M0462,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) discussed only as general law
+M0463,N,X,X,X,X,X,X,X,X,N,LOW,Offender not Indigenous and no Gladue report requested
+M0464,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0465,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue quoted only on restorative justice law
+M0466,N,X,N,X,X,X,X,X,X,N,LOW,Gladue factors listed as considered with no weight shown
+M0467,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue principles discussed generally in dangerous offender scheme
+M0468,M,M,X,X,X,X,X,X,X,N,HIGH,Gladue report on repression and relocation informed very light sentence
+M0469,R,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) considered but serious violence made no difference
+M0470,N,X,N,X,X,X,X,X,X,N,HIGH,Indigenous background concerns victim and not offender

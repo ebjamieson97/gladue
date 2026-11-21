@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4907,weapons;drugs;driving,HIGH,Loaded firearm; possession for trafficking cocaine; dangerous driving
+F4908,homicide,HIGH,Six counts second degree murder
+F4909,sexual;robbery,HIGH,Sexual assault and robbery; dangerous offender
+F4910,drugs,HIGH,Producing marihuana
+F4911,drugs,HIGH,Trafficking cocaine
+F4912,theft_fraud;other,HIGH,Theft of semi-tractor and trailer; mischief damage
+F4913,break_enter;assault;other,HIGH,Break and enter; assault; mischief; threats; breach of probation
+F4914,none,LOW,Appeal of probation order only; offences not shown
+F4915,sexual;other,HIGH,Sexual interference; exposure; uttering threats
+F4916,assault,HIGH,Assault causing bodily harm and assault with weapon
+F4917,drugs,HIGH,Producing cannabis; possession of hydromorphone for trafficking
+F4918,break_enter;theft_fraud,LOW,Break enter and theft of keys; preventive detention
+F4919,break_enter,HIGH,Break and enter
+F4920,none,LOW,Conditional sentence appeal; offence not shown
+F4921,other,HIGH,Criminal harassment
+F4922,drugs;weapons,HIGH,Trafficking fentanyl meth cocaine; homemade gun and stun gun
+F4923,none,LOW,Appeal; offences not shown
+F4924,drugs;other,HIGH,Trafficking in substance held out as cocaine; breach of recognizance
+F4925,homicide,HIGH,First degree murder
+F4926,drugs;weapons,HIGH,Possession of cocaine for trafficking; prohibited firearm possession
+F4927,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4928,assault,HIGH,Aggravated assault

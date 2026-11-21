@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1717,drugs,HIGH,Trafficking methamphetamine
+F1718,sexual,HIGH,Sexual interference with child; sexual assault stayed
+F1719,sexual,HIGH,Two counts of sexual assault
+F1720,drugs,HIGH,Possession; possession for trafficking; production of marihuana
+F1721,homicide,HIGH,Three counts of second degree murder
+F1722,drugs;theft_fraud,HIGH,Drug trafficking and possession of proceeds of crime
+F1723,assault,HIGH,Assault; assault causing bodily harm; assault by choking
+F1724,drugs,HIGH,Conspiracy to import and traffic; importing; trafficking cocaine
+F1725,robbery;break_enter;theft_fraud;weapons;other,HIGH,Robbery; break and enter; vehicle theft; weapon; disguise; breach
+F1726,other,HIGH,Three counts of uttering threats
+F1727,break_enter;other,HIGH,Possession of break-in instruments and prowling at night
+F1728,drugs;weapons,HIGH,Possession for trafficking drugs and restricted firearm
+F1729,none,LOW,Excerpt does not show the offences
+F1730,homicide,HIGH,Manslaughter by young person
+F1731,homicide,HIGH,Manslaughter
+F1732,break_enter;theft_fraud;weapons,HIGH,Break and enter; theft; stolen handguns; firearm possession
+F1733,homicide,HIGH,Second degree murder
+F1734,homicide,HIGH,Manslaughter
+F1735,robbery,HIGH,Robbery with firearm
+F1736,robbery,HIGH,Three counts of robbery
+F1737,sexual,LOW,Repeated exploitive breaches of trust against son; likely sexual
+F1738,sexual,HIGH,Indecent assault and sexual assault

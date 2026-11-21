@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0191,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors mentioned only as general principle in quoted law
+M0192,M,X,X,X,X,X,X,X,X,N,HIGH,Personal and systemic background found mitigating for Wesley
+M0193,X,X,X,X,R,R,X,X,X,N,HIGH,Court accepted principles but no link shown so culpability not reduced
+M0194,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors only in other cases cited by defence
+M0195,M,M,M,X,X,M,X,X,X,N,HIGH,Indigenous factors residential school harms colonialism and racism reduced sentence
+M0196,M,X,X,X,X,X,X,X,X,N,HIGH,Systemic factors reduced culpability and led to suspended sentence
+M0197,N,X,X,X,M,X,X,X,X,N,HIGH,IRCA social context treated as mitigating and sentence reduced
+M0198,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality principle
+M0199,R,X,X,X,X,X,X,X,X,N,HIGH,Serious violent offence so aboriginal descent made no difference
+M0200,R,X,X,X,X,X,X,X,X,N,HIGH,Fresh Aboriginal evidence too vague to affect sentence

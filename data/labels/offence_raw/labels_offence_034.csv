@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0727,homicide,HIGH,Second degree murder
+F0728,drugs,HIGH,Trafficking in cocaine
+F0729,robbery;break_enter;weapons;assault,LOW,Violent home invasion with firearm discharge
+F0730,assault;other,HIGH,Assault causing bodily harm and mischief
+F0731,drugs,HIGH,Importing precursor and possession for trafficking of drugs
+F0732,robbery,HIGH,Robbery
+F0733,sexual,HIGH,Possessing and making child pornography
+F0734,robbery;theft_fraud;weapons;break_enter;other,HIGH,Robbery stolen car weapon break and enter and YCJA breach
+F0735,sexual;assault,HIGH,Sexual assaults and assault of wife
+F0736,assault;other,HIGH,Assault with weapon mischief and failing to comply with undertaking
+F0737,sexual;assault;kidnapping;other,HIGH,Sexual assault weapon assault confinement threats and breaches
+F0738,break_enter;other,HIGH,Break and enter and breach of recognizance
+F0739,sexual,HIGH,Sexual assault of child
+F0740,drugs,HIGH,Production and possession for trafficking of marihuana
+F0741,homicide,HIGH,Second degree murder
+F0742,theft_fraud;other,HIGH,Fraud forgery personation and attempting to obstruct justice
+F0743,sexual,HIGH,Four counts of sexual assault on boys
+F0744,other;weapons,HIGH,Threats to police and firearms offences
+F0745,drugs;weapons,HIGH,Trafficking cocaine and prohibited weapons offences
+F0746,other;sexual,HIGH,Extortion child pornography luring and criminal harassment
+F0747,drugs;other,HIGH,Trafficking cocaine and breach of undertaking
+F0748,break_enter;assault;kidnapping,HIGH,Break and enter assault with weapon attempted kidnapping

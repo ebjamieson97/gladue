@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4247,sexual,HIGH,Sexual assault and sexual touching of child
+F4248,sexual,HIGH,Sexual assault of stepdaughter and child pornography possession
+F4249,robbery,LOW,Apparent robbery sentence reduced for strip search breach
+F4250,sexual;assault;other,HIGH,Sexual assault with weapon threat and choking to commit sexual assault
+F4251,homicide;driving,LOW,Criminal negligence causing death with driving prohibition
+F4252,break_enter;theft_fraud,HIGH,Break enter and theft charges
+F4253,sexual,HIGH,Sexual assault by fake healer
+F4254,robbery;kidnapping;assault,HIGH,Robbery unlawful confinement and aggravated assault
+F4255,sexual;drugs;theft_fraud,HIGH,Sexual assaults sexual services from minors trafficking and personation
+F4256,assault,HIGH,Aggravated assault stabbing
+F4257,kidnapping;assault;other,HIGH,Forcible confinement assault criminal harassment and death threat
+F4258,robbery;other,HIGH,Robbery and breach of probation
+F4259,drugs,HIGH,Possession for purpose of trafficking of four substances
+F4260,robbery;other,HIGH,Convenience store robbery and breach of probation
+F4261,sexual,HIGH,Three counts of sexual assault
+F4262,kidnapping;other,HIGH,Kidnapping and extortion with conspiracy
+F4263,driving,HIGH,Impaired driving causing death
+F4264,assault,HIGH,Aggravated assault and assault causing bodily harm
+F4265,theft_fraud,HIGH,Fraud over 5000 through tax evasion software
+F4266,weapons,HIGH,Possession of loaded prohibited firearm
+F4267,theft_fraud,HIGH,Attempted fraud and fraud of the public
+F4268,weapons,HIGH,Dozens of firearms offences including trafficking possession

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5035,NOT,NA,HIGH,Verdict on refusal of breath sample charge
+D3187,NOT,NA,HIGH,Bail pending appeal dismissed
+D5548,NOT,NA,HIGH,Murder trial acquittal
+D1308,NOT,NA,HIGH,Voir dire on admissibility of statement
+D5307,NOT,NA,HIGH,Aggravated assault acquittal on self-defence
+D4992,REVIEWS,FULL,HIGH,Sentence appeal for aggravated assault dismissed
+D2033,REVIEWS,FULL,HIGH,Crown sentence appeal for sexual assaults allowed
+D3219,NOT,NA,HIGH,Murder conviction appeal dismissed
+D3158,NOT,NA,HIGH,Bail application denied
+D5593,NOT,NA,HIGH,Civil land dispute appeal
+D1130,NOT,NA,HIGH,Conviction appeal dismissed
+D5853,NOT,NA,HIGH,Murder conviction appeal dismissed
+D3882,REVIEWS,MINIMAL,HIGH,Dangerous offender sentence appeal dismissed
+D3002,REVIEWS,FULL,HIGH,Conviction dismissed; sentence appeal allowed for pre-trial credit
+D1013,NOT,NA,HIGH,Conviction appeal dismissed
+D2400,REVIEWS,FULL,HIGH,Crown youth sentence appeal allowed
+D4970,RELATED,NA,HIGH,Extension of time for sentence appeal granted
+D1372,NOT,NA,HIGH,Conviction appeal dismissed
+D3422,NOT,NA,HIGH,Expert evidence admissibility appeal
+D1001,NOT,NA,HIGH,Wiretap review appeal jurisdiction
+D4006,NOT,NA,HIGH,Conviction appeal dismissed
+D4730,NOT,NA,HIGH,Murder appeal allowed new trial
+D4739,NOT,NA,HIGH,Crown appeal of delay stay dismissed
+D5443,NOT,NA,HIGH,Conviction appeal on lawful arrest
+D3057,NOT,NA,HIGH,Bail pending appeal denied
+D3723,REVIEWS,FULL,LOW,Appeal of fine and forfeiture order dismissed

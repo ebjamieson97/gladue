@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3455,theft_fraud;other,HIGH,Tax fraud and Excise Tax Act evasion
+F3456,driving,HIGH,Over 80 impaired driving
+F3457,robbery;assault,HIGH,Robbery and aggravated assault
+F3458,drugs,HIGH,Trafficking cocaine and possession for trafficking
+F3459,homicide;kidnapping,HIGH,First degree murder and kidnapping
+F3460,drugs,HIGH,Conspiracy to traffic cocaine
+F3461,assault,HIGH,Assault causing bodily harm
+F3462,other,HIGH,Environmental protection act offences
+F3463,assault;robbery;other;kidnapping;theft_fraud,HIGH,Assault robbery extortion confinement aggravated assault theft over
+F3464,sexual,HIGH,Sexual interference child luring child pornography
+F3465,sexual,HIGH,Sexual assault
+F3466,assault,HIGH,Aggravated assault
+F3467,assault,LOW,Violence against partner and infant daughter
+F3468,sexual;kidnapping;other;weapons,LOW,Breach of conditional sentence for sexual assault confinement threats firearm
+F3469,drugs;theft_fraud;other,HIGH,Production and trafficking marihuana theft of electricity and mischief
+F3470,homicide,HIGH,Second degree murder
+F3471,sexual,HIGH,Indecent exposure
+F3472,sexual,HIGH,Sexual interference and invitation to touching
+F3473,sexual,HIGH,Sexual assault
+F3474,sexual,HIGH,Sexual interference youth
+F3475,drugs,HIGH,Importing cannabis resin
+F3476,other,HIGH,Extortion

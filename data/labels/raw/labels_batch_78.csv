@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D1269,NOT,NA,HIGH,Crown appeal on search warrants
+D5271,NOT,NA,HIGH,Conviction appeal dismissed and sentence appeal abandoned
+D3089,NOT,NA,HIGH,New trial ordered without comment on sentence
+D4807,NOT,NA,HIGH,Charter s. 24(2) ruling and acquittal
+D1524,IMPOSES,FULL,HIGH,Reasons for sentence imposing conditional sentence
+D4503,NOT,NA,HIGH,Tax evasion acquittal appeal
+D1771,REVIEWS,FULL,HIGH,Conviction appeal dismissed and leave to appeal sentence denied
+D4376,NOT,NA,HIGH,Bail review application
+D1328,NOT,NA,HIGH,Summary conviction appeal on distracted driving acquittal
+D4093,IMPOSES,FULL,HIGH,Reasons for sentence imposing conditional sentence for trafficking
+D5878,NOT,NA,HIGH,Third party records disclosure application
+D1273,NOT,NA,HIGH,Convictions set aside new trial
+D1664,REVIEWS,FULL,HIGH,Conviction appeal dismissed and sentence appeal ruled on
+D4367,NOT,NA,HIGH,Crown appeal of acquittals
+D3102,REVIEWS,MINIMAL,HIGH,Sentence appeal for pre-sentence custody credit allowed
+D1442,REVIEWS,FULL,HIGH,Sentence reduced by one day for immigration reasons
+D5385,REVIEWS,FULL,HIGH,Manslaughter sentence appeal dismissed
+D3188,NOT,NA,HIGH,Similar fact evidence voir dire
+D1079,NOT,NA,HIGH,Language rights conviction appeal
+D3640,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed in part for remorse and credit
+D4683,NOT,NA,HIGH,Charter evidence exclusion ruling
+D5575,IMPOSES,FULL,HIGH,Parole ineligibility set after murder conviction
+D4513,NOT,NA,HIGH,Conviction appeal dismissed
+D1433,NOT,NA,LOW,Appeal against conviction after guilty plea dismissed
+D5130,NOT,NA,HIGH,Crown acquittal appeal new trial
+D2795,NOT,NA,HIGH,Conviction appeal dismissed sentence appeal abandoned

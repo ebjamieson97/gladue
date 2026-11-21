@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5439,NOT,NA,HIGH,Trial verdict; not guilty of sexual assault
+D3508,NOT,NA,HIGH,Bail review dismissed
+D5688,IMPOSES,FULL,HIGH,Sentence for assault with weapon after contested hearing
+D3533,NOT,NA,HIGH,Conviction appeal allowed; new trial
+D5955,NOT,NA,HIGH,Voir dire ruling on statements
+D3377,NOT,NA,HIGH,Conviction appeal dismissed
+D3095,NOT,NA,HIGH,Conviction appeal allowed; sentence appeal not addressed
+D4584,NOT,NA,HIGH,Voir dire on voluntariness of confession
+D4634,NOT,NA,HIGH,Disclosure ruling in impaired driving case
+D2817,REVIEWS,FULL,HIGH,Sentence appeal dismissed; conditional sentence refused
+D2474,RELATED,NA,HIGH,Ruling on ameliorative evidence before retrial
+D1204,NOT,NA,HIGH,Publication ban application
+D1653,IMPOSES,FULL,HIGH,Life sentence for second degree murder
+D3185,NOT,NA,HIGH,Trial verdict; acquittal
+D2162,REVIEWS,FULL,HIGH,Conviction appeals; sentence on alcohol counts varied
+D2819,REVIEWS,FULL,HIGH,Sentence appeal dismissed for sexual offences
+D3566,NOT,NA,HIGH,Application to cross-examine wiretap affiant
+D2515,REVIEWS,FULL,HIGH,Sentence appeal dismissed for sexual assaults
+D1120,NOT,NA,HIGH,Summary conviction appeal; guilty plea withdrawn
+D5163,NOT,NA,HIGH,Third party records application
+D1558,NOT,NA,HIGH,Appeal of stay of proceedings
+D1643,NOT,NA,HIGH,Verdict; sentencing adjourned for report
+D1483,IMPOSES,FULL,HIGH,Sentence for drug trafficking; conditional sentence refused
+D1114,NOT,NA,HIGH,Young person conviction appeal allowed
+D3783,NOT,NA,HIGH,Crown appeal from acquittal allowed
+D5017,REVIEWS,FULL,HIGH,Sentence appeal for driving while disqualified dismissed

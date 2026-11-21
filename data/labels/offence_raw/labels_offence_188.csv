@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4115,assault,HIGH,Assault causing bodily harm
+F4116,driving,HIGH,Dangerous driving
+F4117,robbery;break_enter;other;theft_fraud,HIGH,Robbery; break and enter; death threat; theft under
+F4118,homicide,HIGH,Manslaughter
+F4119,weapons;sexual,HIGH,Unlicensed firearm; making child pornography; sexual interference
+F4120,homicide,HIGH,Manslaughter
+F4121,drugs,HIGH,Possession of cocaine and fentanyl for trafficking
+F4122,sexual,HIGH,Sexual assault and sexual interference
+F4123,other,HIGH,Canada Shipping Act safety offence by corporation
+F4124,robbery,HIGH,Robbery
+F4125,none,LOW,Offences not shown
+F4126,none,LOW,Six unspecified criminal offences
+F4127,robbery,HIGH,Two counts of bank robbery
+F4128,weapons;drugs;other,HIGH,Firearms offences; possession for trafficking cocaine; fail to comply
+F4129,drugs,HIGH,Production of marihuana
+F4130,other,HIGH,Breach of trust and obstruct justice
+F4131,homicide,HIGH,Attempted murder
+F4132,sexual,HIGH,Two sexual assaults and sexual touching
+F4133,drugs,HIGH,Production of marihuana
+F4134,sexual,HIGH,Indecent assault
+F4135,kidnapping;assault,HIGH,Unlawful confinement and two aggravated assaults
+F4136,other,HIGH,Possession of contraband cigarettes under Excise Act

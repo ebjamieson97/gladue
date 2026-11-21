@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1827,theft_fraud,HIGH,Welfare fraud
+F1828,none,LOW,Offence not shown
+F1829,none,LOW,Dangerous offender designation offences not shown
+F1830,driving,LOW,Motor Vehicle Act offences including driving while suspended
+F1831,theft_fraud,HIGH,Fraud over 5000
+F1832,sexual;assault;weapons;other,HIGH,Sexual assault assault pointing firearm and death threat
+F1833,driving;weapons,LOW,Driving while prohibited and weapons charges
+F1834,drugs,HIGH,Importing cocaine
+F1835,robbery;kidnapping;assault;other,HIGH,Robbery confinement assault threats and extortion
+F1836,sexual;other,HIGH,Sexual touching sexual assault and uttering threats
+F1837,robbery;other,HIGH,Robbery and masked with intent
+F1838,assault,HIGH,Aggravated assault
+F1839,sexual;kidnapping;other,HIGH,Sexual assault with weapon confinement and uttering threats
+F1840,sexual,HIGH,Three counts aggravated sexual assault
+F1841,theft_fraud,HIGH,Fraud over 5000
+F1842,sexual,LOW,Likely sexual assault of child
+F1843,drugs,LOW,Likely drug production from hydro warrant
+F1844,drugs;weapons,HIGH,Producing and trafficking marihuana and careless firearm storage
+F1845,other;driving,HIGH,Arson bail breach and over 80 driving
+F1846,drugs,HIGH,Conspiracy to export marihuana
+F1847,sexual,HIGH,Sexual assault and sexual touching of child
+F1848,sexual;assault,HIGH,Sexual assault causing bodily harm and assaults

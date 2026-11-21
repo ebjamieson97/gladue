@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4122,NOT,NA,HIGH,Fraud conviction appeal dismissed
+D5353,REVIEWS,FULL,HIGH,Leave granted; sentence appeal for break and enters dismissed
+D4481,REVIEWS,FULL,HIGH,Extortion sentence reduced to two years on appeal
+D5572,NOT,NA,HIGH,Voir dire ruling on recordings at trial
+D2319,IMPOSES,FULL,HIGH,Sentencing for cocaine trafficking
+D5268,IMPOSES,FULL,HIGH,Sentencing for marihuana production and trafficking
+D3239,NOT,NA,HIGH,Application for release of court exhibit
+D4921,NOT,NA,HIGH,Summary conviction appeal on breath samples dismissed
+D5418,NOT,NA,HIGH,Murder conviction appeal allowed new trial
+D5942,REVIEWS,FULL,HIGH,Sentence appeal allowed for departure from joint position
+D3792,NOT,NA,HIGH,Application for televised appeal coverage
+D5497,NOT,NA,HIGH,Murder conviction appeal
+D5053,NOT,NA,HIGH,Standing to challenge search ruling
+D4909,REVIEWS,FULL,HIGH,Conviction and sentence appeal; sentence not unfit
+D1655,REVIEWS,FULL,HIGH,Crown sentence appeal allowed; sentence increased
+D4183,NOT,NA,HIGH,Release pending appeal application dismissed
+D4310,REVIEWS,FULL,HIGH,Sentence appeal on pre-sentence credit for long term offender
+D2371,REVIEWS,FULL,HIGH,Sentence appeal; conditional sentence substituted
+D2092,IMPOSES,FULL,HIGH,Sentencing for drug trafficking and weapons
+D2295,IMPOSES,FULL,HIGH,Sentencing for cocaine trafficking
+D4658,NOT,NA,LOW,Appeal dismissed on police jurisdiction issue
+D5753,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed; sentence within range
+D5684,REVIEWS,MINIMAL,HIGH,Appeal allowed reducing sentence by one day
+D1563,REVIEWS,FULL,HIGH,Conditional sentence appeal dismissed for fraud
+D3546,NOT,NA,HIGH,Fitness to stand trial ruling
+D4102,NOT,NA,HIGH,Class action late claimant applications dismissed

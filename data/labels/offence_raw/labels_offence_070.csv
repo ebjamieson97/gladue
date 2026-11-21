@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1519,drugs;other,HIGH,Possession for trafficking cocaine and breach of recognizance
+F1520,assault;robbery;other,HIGH,Two assaults and robbery and breach of probation
+F1521,homicide;other,HIGH,Criminal negligence causing death and bodily harm by company
+F1522,assault;other,HIGH,Assault causing bodily harm and criminal negligence bodily harm and threat
+F1523,homicide;weapons,HIGH,Two manslaughters and manufacturing restricted firearms
+F1524,homicide,HIGH,Manslaughter
+F1525,drugs,HIGH,Possession for purpose of trafficking cocaine and heroin
+F1526,assault,HIGH,Aggravated assault
+F1527,weapons,HIGH,Firearms possession and prohibition breach and storage offences
+F1528,assault;kidnapping;other;weapons,HIGH,Common assault and kidnapping and assault with weapon and extortion and firearm
+F1529,drugs,HIGH,Conspiracy to traffic methamphetamine and trafficking MDMA
+F1530,other,HIGH,Arson
+F1531,other,HIGH,Counselling misrepresentation under immigration act
+F1532,drugs,HIGH,Trafficking rock cocaine
+F1533,sexual,HIGH,Sexual assault
+F1534,homicide;assault,HIGH,Manslaughter and assault
+F1535,drugs;weapons,HIGH,Marijuana trafficking and production and firearms storage and possession
+F1536,homicide;assault,HIGH,Manslaughter and aggravated assault
+F1537,theft_fraud;break_enter;driving;other,HIGH,Possession of stolen property and break and enter and driving and breaches
+F1538,sexual,HIGH,Sexual assault causing bodily harm
+F1539,theft_fraud,HIGH,Fraud over $5000
+F1540,robbery,HIGH,Robbery

@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D5284,NOT,NA,HIGH,Leave to appeal conviction dismissed
+D5031,NOT,NA,HIGH,Sentence appeal dismissed as abated by death
+D1987,REVIEWS,FULL,HIGH,Sentence appeal allowed and conditional sentence substituted
+D5393,NOT,NA,HIGH,Conviction appeal dismissed
+D5440,NOT,NA,HIGH,Rebuttal evidence ruling at trial
+D2337,REVIEWS,FULL,HIGH,Sentence appeal for aggravated assault dismissed
+D5207,REVIEWS,FULL,HIGH,Crown sentence appeal allowed and sentence increased
+D3756,NOT,NA,HIGH,Leave to appeal application dismissed on conflict
+D5830,NOT,NA,HIGH,SCC delay appeal under s. 11(b)
+D5367,NOT,NA,HIGH,Verdict for aggravated assault
+D3191,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeal dismissed briefly
+D2274,REVIEWS,FULL,HIGH,Leave granted and sentence appeal dismissed
+D4759,NOT,NA,HIGH,Conviction appeal from summary conviction court
+D5881,REVIEWS,FULL,HIGH,Crown appeal allowed and dangerous offender declared
+D5436,NOT,NA,HIGH,Informer privilege procedure appeal
+D1701,IMPOSES,FULL,HIGH,Sentencing of police officer for assault
+D3449,IMPOSES,FULL,HIGH,Sentence for failing to stop after fatal accident
+D2983,REVIEWS,MINIMAL,HIGH,Leave to appeal sentence denied
+D1400,NOT,NA,HIGH,Summary conviction appeal against conviction dismissed
+D5993,NOT,NA,HIGH,Sexual assault conviction appeal dismissed
+D2064,REVIEWS,FULL,HIGH,Firearms sentence appeal dismissed
+D1369,NOT,NA,HIGH,Conviction appeal allowed with acquittal
+D6054,NOT,NA,HIGH,Search warrant voir dire ruling
+D4477,NOT,NA,HIGH,Bail review in murder case
+D1580,REVIEWS,FULL,HIGH,Robbery sentence reduced for immigration reasons
+D1871,IMPOSES,FULL,HIGH,Parole ineligibility set for second degree murder

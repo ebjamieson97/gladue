@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D3984,NOT,NA,HIGH,Conviction appeal on drug and firearm offences
+D5734,NOT,NA,HIGH,Production motion in Crown appeal of stay
+D4728,NOT,NA,HIGH,Motion on disclosure in fraud conviction appeal
+D5987,REVIEWS,FULL,HIGH,Sentence appeal for harassment allowed in part
+D5496,NOT,NA,HIGH,Bail pending appeal denied
+D4975,REVIEWS,MINIMAL,HIGH,Sentence varied on consent for presentence credit
+D3727,NOT,NA,HIGH,Conviction appeal for sexual assault dismissed
+D2556,NOT,NA,HIGH,Provocation instruction on murder appeal
+D1002,NOT,NA,HIGH,Abuse of process application dismissed
+D4953,REVIEWS,MINIMAL,LOW,Appeal dismissed from firearms convictions and sentence
+D5460,NOT,NA,HIGH,Conviction appeal allowed with new trial
+D5240,NOT,NA,HIGH,Appeal on wiretap evidence dismissed
+D2637,RELATED,NA,HIGH,Evidence admissibility ruling in sentencing proceedings
+D3463,NOT,NA,HIGH,Bail pending appeal denied
+D3977,IMPOSES,FULL,HIGH,Reasons for sentence for drug trafficking
+D5428,NOT,NA,HIGH,Evidence editing ruling in murder trial
+D3870,NOT,NA,HIGH,Murder conviction appeal dismissed
+D1124,NOT,NA,HIGH,Crown appeal on sexual assault acquittal
+D4542,NOT,NA,HIGH,Videotape evidence constitutional appeal
+D3174,NOT,NA,HIGH,Detention review bail hearing
+D3915,IMPOSES,FULL,HIGH,Reasons for sentence for sexual offences
+D1408,RELATED,NA,HIGH,Application for assigned counsel on appeal
+D2279,IMPOSES,FULL,HIGH,Reasons for sentence for sexual interference
+D5999,NOT,NA,HIGH,Crown appeal on psychiatric evidence conviction
+D3148,REVIEWS,MINIMAL,HIGH,Sentence varied on Crown concession
+D1152,NOT,NA,HIGH,Crown appeal on substituted conviction

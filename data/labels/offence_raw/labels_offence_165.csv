@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3609,theft_fraud;weapons,HIGH,Possession of stolen property and firearms storage and prohibited possession
+F3610,robbery;kidnapping;other,HIGH,Robbery kidnapping and threatening
+F3611,sexual,HIGH,Sexual interference and sexual assault
+F3612,sexual,HIGH,Sexual assault (confinement conviction stayed)
+F3613,weapons,HIGH,Four firearms possession offences
+F3614,drugs,HIGH,Possession of cocaine and fentanyl for trafficking
+F3615,assault,HIGH,Assault causing bodily harm
+F3616,drugs,HIGH,Heroin trafficking
+F3617,other,HIGH,Unlawfully at large
+F3618,assault;weapons;other,HIGH,Assault police firearms offences arson device threats and breaches
+F3619,sexual,HIGH,Sexual assault
+F3620,break_enter;robbery;assault;kidnapping;other,HIGH,Home invasion robbery assault bodily harm confinement and mask
+F3621,drugs,HIGH,Marihuana production and possession for trafficking
+F3622,assault;other,HIGH,Assaults death threats and probation breaches
+F3623,homicide,HIGH,Second degree murder and attempted murder
+F3624,homicide,HIGH,Second degree murder
+F3625,homicide,HIGH,Second degree murder
+F3626,assault,HIGH,Common assault by young offender
+F3627,break_enter;theft_fraud,HIGH,Break and enters and thefts by young offender
+F3628,driving;other,HIGH,Dangerous driving failing to remain driving disqualified and breach
+F3629,drugs;theft_fraud;weapons,HIGH,Trafficking heroin stolen identification and careless ammunition storage
+F3630,sexual,HIGH,Sexual assault and sexual exploitation

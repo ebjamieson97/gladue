@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3741,none,LOW,Four offences not identified in excerpt
+F3742,driving,HIGH,Failing to remain at scene of fatal accident
+F3743,theft_fraud,HIGH,Uttering forged documents
+F3744,drugs,HIGH,Heroin importing or possession large amount
+F3745,sexual;other,HIGH,Luring and obtaining sexual services from minors plus breach
+F3746,driving,HIGH,Driving while prohibited dangerous operation and flight from police
+F3747,other,LOW,Breach of conditional sentence order; original offences unclear
+F3748,weapons,HIGH,Firearms trafficking for criminal organization
+F3749,theft_fraud,HIGH,Fraud on employer health care plan
+F3750,driving;theft_fraud,HIGH,Impaired driving driving while prohibited and theft
+F3751,sexual,HIGH,Obtaining sexual services from person under 18
+F3752,weapons,HIGH,Loaded prohibited firearm and prohibited possession
+F3753,sexual,HIGH,Sexual assault child pornography sexual interference and invitation
+F3754,weapons,HIGH,Firearm offence with mandatory minimum
+F3755,other,HIGH,Arson causing bodily harm and property damage
+F3756,homicide,HIGH,Manslaughter
+F3757,sexual;assault;kidnapping,HIGH,Sexual offences assaults and unlawful confinement of children
+F3758,assault,HIGH,Wounding and assault
+F3759,theft_fraud,HIGH,Fraud
+F3760,break_enter;other;weapons,LOW,Break and enter with arson; firearm offences also referenced
+F3761,sexual,HIGH,Sexual assault
+F3762,driving,HIGH,Failing to stop after accident

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2443,assault,HIGH,Aggravated assault with long-term offender application
+F2444,assault;kidnapping;other,HIGH,Assault causing bodily harm and unlawful confinement and resisting and breach of probation
+F2445,sexual,HIGH,Aggravated sexual assault
+F2446,theft_fraud,HIGH,Six counts of fraud
+F2447,assault,HIGH,Aggravated assault in jail
+F2448,drugs,HIGH,Conspiracy to traffic and trafficking drugs
+F2449,drugs,HIGH,Possession for trafficking and production of marihuana
+F2450,assault,HIGH,Assault with a weapon and aggravated assault
+F2451,homicide,HIGH,Manslaughter
+F2452,drugs,HIGH,Conspiracy to import and traffic cocaine
+F2453,assault;break_enter,HIGH,Assault and break and enter to commit assault
+F2454,homicide;other,HIGH,Second degree murder and interference with human remains
+F2455,drugs,LOW,Possession of cocaine and other counts unclear
+F2456,driving,HIGH,Over 80 driving while revoked
+F2457,assault;other,HIGH,Assault causing bodily harm and obstructing peace officer
+F2458,drugs,HIGH,Possession for trafficking marijuana and fentanyl
+F2459,none,LOW,Offence not shown
+F2460,sexual,HIGH,Indecent assault and gross indecency
+F2461,none,LOW,Offences not shown
+F2462,none,LOW,Offences not shown
+F2463,homicide,HIGH,Conspiracy to commit murder
+F2464,driving;other,HIGH,Dangerous driving causing bodily harm and fail to stop and escape and resisting

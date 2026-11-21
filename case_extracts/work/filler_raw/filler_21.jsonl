@@ -1,0 +1,15 @@
+{"id":"F301","drop":[2],"reason":"background about age and involvement, not a serious act"}
+{"id":"F302","drop":[2,3],"reason":"walking out and motive for arrest are not serious acts"}
+{"id":"F303","drop":[1],"reason":"cash found on search is incidental"}
+{"id":"F304","drop":[],"reason":""}
+{"id":"F305","drop":[1],"reason":"target and apartment ownership is investigative background"}
+{"id":"F306","drop":[2],"reason":"telling child to go back to bed is incidental"}
+{"id":"F307","drop":[1,3],"reason":"arrest location and plea are procedural"}
+{"id":"F308","drop":[1,2],"reason":"convictions list and checkpoint stop are procedural or investigative"}
+{"id":"F309","drop":[],"reason":""}
+{"id":"F310","drop":[],"reason":""}
+{"id":"F311","drop":[],"reason":""}
+{"id":"F312","drop":[],"reason":""}
+{"id":"F313","drop":[3],"reason":"expert classification is evidentiary detail"}
+{"id":"F314","drop":[],"reason":""}
+{"id":"F315","drop":[3],"reason":"cash found at residence is investigative"}

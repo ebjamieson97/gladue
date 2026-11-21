@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4549,NOT,NA,HIGH,Crown summary conviction appeal from acquittal; new trial
+D5981,IMPOSES,FULL,HIGH,Sentence for second degree murder with parole ineligibility
+D1090,NOT,NA,HIGH,Conviction appeal allowed; new trial ordered
+D1311,NOT,NA,HIGH,Crown appeal from directed acquittal for murder
+D3861,IMPOSES,FULL,HIGH,Youth sentence with intensive rehabilitative custody order
+D1587,RELATED,NA,LOW,Chambers leave to appeal sentence granted and extension ruling
+D5074,NOT,NA,HIGH,Conviction appeal for sexual offences dismissed
+D2442,IMPOSES,FULL,HIGH,Sentence for conspiracy to traffic cannabis resin
+D5655,NOT,NA,HIGH,Application to amend notice on voir dire
+D3282,NOT,NA,HIGH,Conviction appeal for criminal harassment dismissed
+D2942,IMPOSES,FULL,HIGH,Conditional discharge granted for impaired driving
+D4864,NOT,NA,HIGH,Verdict of guilty for sexual assault
+D2204,IMPOSES,FULL,HIGH,Sentencing decision for sexual assault convictions
+D5026,REVIEWS,FULL,HIGH,Crown sentence appeal allowed; sentences increased
+D1353,NOT,NA,HIGH,Conviction appeal for harassing communications dismissed
+D3670,NOT,NA,HIGH,Application to adjourn trial dismissed
+D5411,NOT,NA,HIGH,Manslaughter appeal; new trial ordered
+D2526,NOT,NA,HIGH,Hearsay admissibility appeal dismissed
+D3954,NOT,NA,HIGH,Conviction appeal for dangerous driving dismissed
+D2566,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed; sentence within range
+D4348,NOT,NA,HIGH,Conviction appeal on inconsistent verdicts dismissed
+D1360,NOT,NA,HIGH,Conviction appeal allowed; new trial ordered
+D5653,NOT,NA,HIGH,Occupational safety charge; not guilty
+D4151,NOT,NA,HIGH,Appeal on jury instruction; new trial affirmed
+D1011,NOT,NA,HIGH,Voir dire on statement voluntariness and Charter
+D4958,NOT,NA,HIGH,Disclosure ruling on third-party records

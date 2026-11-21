@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4379,sexual,HIGH,Six counts sexual offences against step-granddaughters
+F4380,robbery;weapons;other,HIGH,Robbery disguise with intent imitation firearm possession
+F4381,other,HIGH,Animal protection regulatory offences
+F4382,break_enter;other,HIGH,Break and enter and obstructing police
+F4383,other,HIGH,Uttering threats and criminal harassment
+F4384,other,HIGH,Breach of long-term supervision order
+F4385,other,HIGH,Customs Act false statement and evading duties
+F4386,none,LOW,Endorsement does not show offences
+F4387,theft_fraud,HIGH,Two counts fraud tax returns
+F4388,none,LOW,Endorsement does not show offences
+F4389,sexual,HIGH,Sexual assault of niece
+F4390,assault;kidnapping;other,HIGH,Aggravated assault confinement and extortion
+F4391,sexual,HIGH,Sexual assault while choking
+F4392,break_enter;other;assault,LOW,Break and enter and breaches; other counts unclear
+F4393,sexual,LOW,Breach of conditional sentence for sexual assault
+F4394,sexual,LOW,Brutal degrading offences unclear but likely sexual
+F4395,drugs,HIGH,Possession of cannabis for trafficking
+F4396,homicide,HIGH,Second degree murder
+F4397,break_enter;theft_fraud;driving;other,HIGH,Break and enter stolen vehicle driving prohibited mischief
+F4398,driving,HIGH,Impaired driving curative discharge
+F4399,drugs,HIGH,Three counts possession for trafficking
+F4400,drugs,HIGH,Trafficking cocaine and possession for trafficking

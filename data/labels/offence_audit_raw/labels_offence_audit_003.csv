@@ -1,0 +1,26 @@
+id,categories,confidence,note
+F1192,homicide,HIGH,Second degree murder
+F4019,sexual;assault,HIGH,Sexual assault and assault of former boyfriend
+F0175,drugs,HIGH,Trafficking fentanyl and possession of carfentanil for trafficking
+F1873,assault,HIGH,Aggravated assault and assault with a weapon
+F1501,homicide,HIGH,Second degree murder
+F3661,other,HIGH,Criminal harassment attempt to obstruct justice and breaches of court order
+F1579,none,LOW,Offence not stated in endorsement
+F2882,drugs,HIGH,Trafficking in cocaine
+F4409,none,LOW,Long-term offender designation on two unspecified counts
+F0933,drugs,HIGH,Trafficking in fentanyl
+F2140,assault,HIGH,Aggravated assault
+F4396,homicide,HIGH,Second degree murder
+F2093,assault;break_enter;other,LOW,Fourteen domestic abuse offences including assaults breach of bail and break-in
+F3129,assault,HIGH,Assault of wife
+F4578,drugs,HIGH,Possession of psilocybin LSD and cannabis for trafficking
+F1755,driving,HIGH,Failing to stop for police and driving while disqualified
+F3344,sexual;other,HIGH,Sexual assault and breach of undertaking
+F0185,break_enter,HIGH,Break and enter and theft
+F3075,kidnapping,HIGH,Abduction of child in contravention of custody order
+F4665,none,LOW,Offence not stated in reasons
+F2791,other,LOW,Unspecified offence and criminal organization charge
+F1977,weapons,LOW,Possession of a weapon among unspecified offences
+F2305,theft_fraud;other,HIGH,Fraud over 5000 and failing to comply with undertaking
+F4872,drugs,HIGH,Importing cocaine
+F3439,homicide,HIGH,Second degree murder

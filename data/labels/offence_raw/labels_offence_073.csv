@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1585,other;kidnapping;assault,HIGH,Extortion unlawful confinement assault causing bodily harm assault with weapon
+F1586,drugs,HIGH,Possession of cocaine
+F1587,weapons;other,HIGH,Loaded firearm possession while prohibited and Customs Act false statement
+F1588,weapons;other,HIGH,Pointing firearm firearm possession attempted obstruct justice
+F1589,sexual,HIGH,Two counts of sexual interference
+F1590,sexual,HIGH,Sexual assault sexual interference invitation to sexual touching
+F1591,drugs;theft_fraud,HIGH,Producing cannabis possession for trafficking theft of electricity
+F1592,theft_fraud;other,HIGH,Youth theft and multiple breaches of release conditions
+F1593,theft_fraud,HIGH,Fraud over $5000 and theft over $5000
+F1594,homicide;robbery,HIGH,Manslaughter and robbery with a firearm
+F1595,homicide,HIGH,Manslaughter
+F1596,sexual;other,HIGH,Sexual offences child pornography luring and recognizance breaches
+F1597,driving,HIGH,Dangerous driving causing death
+F1598,break_enter;theft_fraud,HIGH,Break and enter and possession of stolen property
+F1599,weapons;kidnapping;assault,HIGH,Firearm discharge offences unlawful confinement assault with bat
+F1600,drugs,HIGH,Trafficking in oxycodone
+F1601,assault;weapons,HIGH,Aggravated assault and three firearm offences
+F1602,homicide;weapons,HIGH,Second degree murder and unauthorized firearm possession
+F1603,assault;break_enter,HIGH,Aggravated assault and break and enter with robbery
+F1604,break_enter,LOW,Home invasion two counts offences not fully shown
+F1605,homicide,HIGH,Second degree murder
+F1606,homicide;break_enter,HIGH,Criminal negligence causing death and break and enter

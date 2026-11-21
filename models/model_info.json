@@ -1,0 +1,80 @@
+{
+  "trained_on": 6084,
+  "sklearn_version": "1.9.1",
+  "feature_names": [
+    "log_n_sentenc",
+    "log_n_head",
+    "log_n_open",
+    "log_n_close",
+    "log_n_close500",
+    "log_n_aggmit",
+    "log_n_vocab",
+    "log_n_fit",
+    "log_n_reports",
+    "log_n_operative",
+    "log_n_dispo",
+    "log_n_appeal_phrase",
+    "log_n_conv_appeal",
+    "log_n_voirdire",
+    "log_n_bail",
+    "log_n_guilty_plea",
+    "log_n_do",
+    "log_n_appellant",
+    "log_n_appeal",
+    "log_n_application",
+    "log_n_close_orders",
+    "trial_court",
+    "title_trial",
+    "title_appeal",
+    "statute718",
+    "dispo_close",
+    "abandoned",
+    "bail_open",
+    "bail_close",
+    "newtrial_close",
+    "not_decided",
+    "proc_open",
+    "chambers",
+    "scc",
+    "head_appeal",
+    "open_appeal",
+    "open_application",
+    "open_guilty",
+    "log_chars",
+    "density",
+    "first_pos"
+  ],
+  "imposes_models_trained_on": "labelled decisions selected by sentencing_logistic_regression",
+  "models": {
+    "sentencing_decision_tree": {
+      "training_rows": 6084,
+      "positives": 2597,
+      "selected_in_collection": 9694
+    },
+    "sentencing_logistic_regression": {
+      "training_rows": 6084,
+      "positives": 2597,
+      "selected_in_collection": 10096
+    },
+    "sentencing_gradient_boosting": {
+      "training_rows": 6084,
+      "positives": 2597,
+      "selected_in_collection": 10133
+    },
+    "imposes_decision_tree": {
+      "training_rows": 2579,
+      "positives": 805,
+      "selected_in_collection": 3458
+    },
+    "imposes_logistic_regression": {
+      "training_rows": 2579,
+      "positives": 805,
+      "selected_in_collection": 3522
+    },
+    "imposes_gradient_boosting": {
+      "training_rows": 2579,
+      "positives": 805,
+      "selected_in_collection": 3547
+    }
+  }
+}

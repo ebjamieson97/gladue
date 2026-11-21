@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4973,kidnapping;weapons,HIGH,Forcible confinement and possession of prohibited weapon
+F4974,robbery;kidnapping;sexual,HIGH,Robbery kidnapping or confinement and sexual assault dangerous offender
+F4975,kidnapping,HIGH,Abduction of child dangerous offender
+F4976,none,LOW,Youth disposition for unspecified violent offence
+F4977,sexual,LOW,Appears to be s. 156 indecent assault on male
+F4978,homicide,HIGH,Conspiracy to commit murder
+F4979,assault,HIGH,Assault with a weapon
+F4980,assault;other,HIGH,Assaulting peace officer and intimidating justice system participant
+F4981,other,HIGH,Criminal harassment
+F4982,sexual,HIGH,Sexual assault
+F4983,weapons;drugs,HIGH,Possession of loaded handgun and possession of cocaine
+F4984,sexual,HIGH,Sexual assault of child under fourteen
+F4985,sexual,HIGH,Aggravated sexual assault of two-year-old child
+F4986,assault,HIGH,Assault causing bodily harm
+F4987,theft_fraud,HIGH,Six counts of fraud
+F4988,driving,HIGH,Refusing breath sample
+F4989,sexual,HIGH,Indecent assault and rape historical
+F4990,break_enter;theft_fraud,HIGH,Break and enter dwelling and possession of stolen property
+F4991,weapons;drugs,HIGH,Gun offence and hashish charge
+F4992,driving,HIGH,Impaired driving causing accident
+F4993,sexual,HIGH,Indecent assault of young child
+F4994,break_enter;assault,HIGH,Break and enter with assault and assault stayed

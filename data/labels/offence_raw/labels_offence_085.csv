@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1849,drugs,HIGH,Possession of cocaine and hydromorphone
+F1850,none,LOW,Firearms prohibition variation application; underlying offence not shown
+F1851,weapons,HIGH,Loaded prohibited firearm and related weapon possession offences
+F1852,other,HIGH,Aiding persons to enter Canada unlawfully under immigration act
+F1853,none,LOW,Offence not shown; sentence credit error
+F1854,driving;other,HIGH,Dangerous operation causing bodily harm; breach of probation and undertaking
+F1855,theft_fraud,HIGH,Significant commercial fraud
+F1856,break_enter,HIGH,Break and enter into apartment
+F1857,sexual,LOW,Apparent sexual offence against complainant; details unclear
+F1858,other,HIGH,Breach of youth disposition probation order
+F1859,robbery;break_enter,LOW,Home invasion robbery with firearm
+F1860,drugs,HIGH,Possession of marijuana for purpose of trafficking
+F1861,robbery,HIGH,Robbery; weapon count stayed
+F1862,robbery;weapons,HIGH,Robbery and using an imitation firearm
+F1863,sexual,HIGH,Two counts of voyeurism
+F1864,theft_fraud;drugs,HIGH,Possession of proceeds of crime and MDMA trafficking
+F1865,driving,HIGH,Dangerous driving causing bodily harm and failing to stop
+F1866,assault,HIGH,Assault causing bodily harm
+F1867,other,HIGH,Criminal contempt of court injunction breach
+F1868,homicide,HIGH,Second degree murder
+F1869,weapons,HIGH,Possession of prohibited weapon with ammunition
+F1870,sexual;assault,HIGH,Sexual assault and assault

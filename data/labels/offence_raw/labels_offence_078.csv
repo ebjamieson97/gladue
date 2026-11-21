@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1695,drugs,HIGH,Production of cannabis and possession for trafficking
+F1696,other,HIGH,Breach of recognizance and breach of probation
+F1697,break_enter;other,HIGH,Break and enter and arson of pharmacy
+F1698,drugs,HIGH,Importing cocaine and conspiracy to import
+F1699,sexual,HIGH,Sexual interference of a child
+F1700,drugs;theft_fraud,HIGH,Marijuana trafficking and possession of proceeds of crime
+F1701,drugs,HIGH,Trafficking in ecstasy
+F1702,drugs,HIGH,Possession of heroin for purpose of trafficking
+F1703,other,HIGH,Criminal harassment
+F1704,other,HIGH,Breaches of long-term supervision order
+F1705,sexual,HIGH,Sexual assault
+F1706,theft_fraud,HIGH,Two frauds over $5000 as bookkeeper
+F1707,none,LOW,Offence not identified in endorsement
+F1708,homicide,HIGH,Second degree murder
+F1709,weapons;drugs,HIGH,Firearm offences pointing firearm and cocaine trafficking
+F1710,drugs,HIGH,Three counts of trafficking in marihuana
+F1711,sexual,HIGH,Sexual assaults by pastor on multiple victims
+F1712,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1713,homicide,HIGH,Second degree murder parole ineligibility
+F1714,drugs,HIGH,Possession of morphine and heroin for trafficking in prison
+F1715,drugs;weapons;theft_fraud,HIGH,Marihuana production trafficking unsafe firearm storage and electricity theft
+F1716,drugs;other;weapons,HIGH,Cannabis trafficking breach of recognizance and firearm possession

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2289,drugs,HIGH,Possession of marihuana for purpose of trafficking
+F2290,drugs;weapons,HIGH,Fentanyl trafficking GHB possession and prohibited firearm offences
+F2291,drugs;theft_fraud,HIGH,Meth conspiracy cocaine trafficking and possession of proceeds of crime
+F2292,sexual,LOW,Dangerous offender appeal; offences not stated but protects children
+F2293,robbery,HIGH,Robbery of convenience store
+F2294,break_enter;robbery;weapons,HIGH,Break and enter to commit robbery and use of imitation firearm
+F2295,drugs,HIGH,Possession of cocaine for trafficking and possession of marijuana resin
+F2296,drugs,HIGH,Marihuana production and possession for trafficking; forfeiture appeal
+F2297,sexual;break_enter;kidnapping;other,HIGH,Break and enter with sexual assault; confinement; threats
+F2298,sexual,HIGH,Sexual assault
+F2299,drugs,HIGH,Importing cocaine
+F2300,robbery;assault,HIGH,Two counts of robbery and one assault; dangerous offender application
+F2301,none,LOW,Offences not shown; victim 88 year old lady
+F2302,none,LOW,Offences not shown in endorsement
+F2303,sexual;kidnapping,HIGH,Sexual assault and forcible confinement
+F2304,theft_fraud,HIGH,Fraudulently obtaining goods over $5000
+F2305,theft_fraud;other,HIGH,Fraud over $5000 and failing to comply with undertaking
+F2306,assault,HIGH,Assault by police officer
+F2307,drugs,HIGH,Importing hashish
+F2308,sexual,HIGH,Sexual assault
+F2309,drugs,HIGH,Importation of opium and possession for trafficking
+F2310,sexual;assault,LOW,Dangerous offender; violent sexual and other violent offences

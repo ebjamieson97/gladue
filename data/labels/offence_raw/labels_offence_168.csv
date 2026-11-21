@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3675,sexual,HIGH,Sexual assault of cellmate
+F3676,homicide,HIGH,Manslaughter
+F3677,homicide,HIGH,Second degree murder
+F3678,weapons;other,HIGH,Reckless discharge of firearm; obstruction of peace officer
+F3679,homicide,HIGH,Murder and manslaughter in home invasion robbery
+F3680,drugs;weapons,HIGH,CDSA drug offences; possession of prohibited firearm
+F3681,assault,HIGH,Assault with a weapon
+F3682,homicide,HIGH,Conspiracy to commit murder
+F3683,homicide,HIGH,Second degree murder
+F3684,assault,HIGH,Assault causing serious injury
+F3685,assault,HIGH,Aggravated assault
+F3686,assault,HIGH,Assault by choking inmate
+F3687,drugs;weapons,HIGH,Possession for trafficking heroin and cocaine; prohibited weapon
+F3688,sexual,HIGH,Sexual interference of stepdaughter; sexual assault stayed
+F3689,drugs,HIGH,Possession for trafficking MDMA and fentanyl
+F3690,none,LOW,Conspiracy commercial enterprise; offence type not shown
+F3691,drugs,HIGH,Producing cannabis; possession for trafficking
+F3692,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3693,other,HIGH,Terrorism: participating in terrorist group activities
+F3694,sexual,HIGH,Sexual assault of stepdaughter
+F3695,other,HIGH,Failure to comply with municipal order
+F3696,none,LOW,Credit for time served only; offence not shown

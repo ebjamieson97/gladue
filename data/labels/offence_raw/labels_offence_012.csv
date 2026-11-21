@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0243,sexual;assault,HIGH,Rapes beatings threats against former wife dangerous offender
+F0244,robbery;weapons,HIGH,Eleven robberies and weapons offences
+F0245,sexual,HIGH,Sexual assault and sexual exploitation
+F0246,none,LOW,Offence not shown in excerpt
+F0247,theft_fraud;weapons;other,HIGH,Possession of stolen property unstored firearms animal neglect
+F0248,driving;assault;theft_fraud,LOW,Serious driving offences property offences assault
+F0249,other,LOW,Series of offences including breach of court orders
+F0250,none,LOW,Dangerous offender designation; offences not shown
+F0251,assault;sexual,HIGH,Aggravated assault and sexual assault with a weapon
+F0252,drugs;theft_fraud,HIGH,Importing cocaine trafficking possession of proceeds
+F0253,drugs,HIGH,Trafficking in cocaine
+F0254,assault;weapons;other,HIGH,Aggravated assault weapon offences attempting to obstruct justice
+F0255,driving,HIGH,Failing to remain at scene of accident
+F0256,break_enter;other,HIGH,Break and enter and breach of curfew
+F0257,sexual;kidnapping,HIGH,Sexual assault and unlawful confinement
+F0258,assault;other,HIGH,Assault causing bodily harm and fail to comply with probation
+F0259,homicide,HIGH,Attempted murder of two men
+F0260,drugs,HIGH,Production of marihuana
+F0261,sexual,HIGH,Sexual assault
+F0262,assault;other;weapons,HIGH,Aggravated assault intimidation weapon possession contrary to order
+F0263,homicide,HIGH,Manslaughter
+F0264,none,LOW,Offences not shown in excerpt

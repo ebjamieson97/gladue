@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3939,assault;driving;other,HIGH,Assault with weapon on officer and driving offences and obstruction
+F3940,sexual;weapons,HIGH,Sexual assault and sexual assault causing bodily harm and unsafe firearm storage
+F3941,assault,HIGH,Assault substituted for assault with a weapon
+F3942,other,HIGH,Arson
+F3943,robbery,HIGH,Variety store robbery
+F3944,drugs,HIGH,Three counts possession for purpose of trafficking
+F3945,weapons,HIGH,Loaded firearm and prohibited overcapacity magazine
+F3946,drugs,HIGH,Trafficking in cocaine
+F3947,theft_fraud,HIGH,Six counts of fraud
+F3948,assault,HIGH,Assault causing bodily harm on spouse
+F3949,homicide,HIGH,Murder and manslaughter from street fight stabbing
+F3950,none,LOW,Dangerous offender; predicate offence not shown
+F3951,robbery,HIGH,Robbery
+F3952,sexual,HIGH,Possession of child pornography
+F3953,drugs,HIGH,Importing cocaine
+F3954,sexual,HIGH,Sexual assault
+F3955,homicide,HIGH,Manslaughter of child
+F3956,theft_fraud,HIGH,Credit card fraud and possession of forgery instruments
+F3957,assault;other,HIGH,Assault and aggravated assault and uttering threats to property
+F3958,homicide,HIGH,Criminal negligence causing death
+F3959,assault,HIGH,Aggravated assault
+F3960,sexual,HIGH,Sexual assault

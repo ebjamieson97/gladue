@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2971,drugs;theft_fraud,HIGH,Trafficking cocaine and possession of proceeds of crime
+F2972,sexual,HIGH,Historical sexual intercourse with minor and gross indecency
+F2973,none,LOW,Offence not identified in endorsement
+F2974,other,HIGH,Occupational health and safety regulatory offences
+F2975,sexual,HIGH,Three counts of sexual assault
+F2976,drugs,HIGH,Two trafficking counts and possession of drugs
+F2977,sexual,LOW,Likely sexual assault; only lack of consent mentioned
+F2978,assault;sexual,HIGH,Assault causing bodily harm and sexual assault
+F2979,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F2980,other;assault,HIGH,Criminal harassment and assault
+F2981,assault,HIGH,Aggravated assault with baseball bat
+F2982,sexual;break_enter;assault;weapons,HIGH,Break and enter; sexual assault; choking; firearm while prohibited
+F2983,driving,HIGH,Over 80 driving causing serious collision
+F2984,break_enter,HIGH,Break and enter of dwelling
+F2985,sexual;other,LOW,Failure to comply with undertaking; sexual assault conviction quashed
+F2986,assault,HIGH,Aggravated assault on infant daughter
+F2987,sexual,HIGH,Nine counts of sexual assault on patients
+F2988,homicide,HIGH,Second degree murder x2 and attempted murder
+F2989,robbery;weapons;theft_fraud,HIGH,Five robberies; prohibited ammunition; possession of stolen property
+F2990,sexual,HIGH,Sexual assault; dangerous offender designation
+F2991,weapons,HIGH,Possession of loaded restricted firearm and while prohibited
+F2992,break_enter;sexual;assault,HIGH,Break and enter; rape; assault with pillow; dangerous offender

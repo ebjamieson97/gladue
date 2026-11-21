@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4885,drugs,HIGH,Producing marihuana
+F4886,sexual;assault;other,LOW,Dangerous offender application; offences against woman and child; threats to police
+F4887,drugs,HIGH,Possession for purpose of trafficking cocaine and marihuana
+F4888,other;weapons,HIGH,Uttering threats and use of imitation firearm while threatening
+F4889,sexual,HIGH,Sexual assault
+F4890,weapons,HIGH,Firearm possession carrying concealed weapon and related firearm counts
+F4891,none,LOW,Sentence appeal; offences not shown
+F4892,driving,HIGH,Impaired driving
+F4893,driving,HIGH,Impaired driving causing death
+F4894,robbery,HIGH,Robbery as party with imitation handgun
+F4895,drugs,HIGH,Possession for trafficking and simple possession of drugs
+F4896,sexual,HIGH,Sexual interference
+F4897,none,LOW,Legal question on pre-sentence custody; offences not shown
+F4898,theft_fraud,HIGH,Two counts theft and two counts fraud
+F4899,sexual,HIGH,Sexual assault
+F4900,sexual,HIGH,Five counts sexual assault; dangerous offender hearing pending
+F4901,drugs,HIGH,Counselling to commit trafficking marijuana
+F4902,assault;weapons;other,HIGH,Assault; pointing firearm; threats; using firearm; recognizance breaches
+F4903,driving,HIGH,Dangerous driving
+F4904,driving,HIGH,Two counts dangerous driving
+F4905,other,HIGH,Breach of long-term supervision order condition
+F4906,sexual,HIGH,Sexual interference of minor

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0971,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for general sentencing reform history
+M0972,M,X,X,X,X,X,X,X,X,N,LOW,Aboriginal status considered at lower end of range and appeal dismissed
+M0973,N,X,N,X,X,N,X,X,X,N,LOW,Gladue report background described but mitigation listed was other factors
+M0974,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue principles reduced parole ineligibility on appeal
+M0975,N,X,N,X,X,X,X,X,X,N,HIGH,Application about funding Gladue report with no sentencing weight
+M0976,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in quoted case about another offender
+M0977,R,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e considered but conditional sentence rejected for risk
+M0978,M,X,X,X,X,X,X,X,X,N,HIGH,Sentencing judge reduced sentence one year for Gladue factors
+M0979,M,X,X,X,X,X,X,X,X,N,LOW,Aboriginal background taken into account though not weighing heavily
+M0980,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in other cases and report said not relevant

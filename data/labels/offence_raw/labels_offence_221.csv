@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4841,assault;other,LOW,Eight of 26 counts from spousal incidents; assault and probation breaches likely
+F4842,theft_fraud;sexual,HIGH,Theft and possession of child pornography
+F4843,none,LOW,Dangerous offender designation; offences not shown
+F4844,weapons;other,HIGH,Firearm possession offences and breach of probation
+F4845,kidnapping;sexual;homicide;break_enter,HIGH,Attempted kidnapping and sexual assault and murder; break and enter; child pornography
+F4846,sexual,HIGH,Sexual assault
+F4847,drugs,HIGH,Possession of marihuana ecstasy cocaine and ketamine
+F4848,assault;break_enter;other,HIGH,Aggravated assault; break and enter; masked face; common assault
+F4849,sexual,HIGH,Sexual assault
+F4850,none,LOW,Dangerous offender declaration; underlying offences not shown
+F4851,robbery,HIGH,Robbery by purse snatching
+F4852,theft_fraud;other,HIGH,Credit card and identity fraud; immigration offence
+F4853,homicide,HIGH,Conspiracy to commit murder
+F4854,homicide,HIGH,Manslaughter
+F4855,sexual,HIGH,Sexual assault of elderly woman
+F4856,robbery;other,HIGH,Armed robbery; unlawfully at large
+F4857,assault,HIGH,Assault causing bodily harm and assault
+F4858,sexual,HIGH,Sexual interference and invitation to sexual touching
+F4859,drugs,HIGH,Attempted trafficking in crack cocaine
+F4860,drugs,HIGH,Conspiracy to traffic cocaine
+F4861,other,HIGH,Breach of conditional sentence order
+F4862,none,LOW,Attempt count and another count; offences not shown

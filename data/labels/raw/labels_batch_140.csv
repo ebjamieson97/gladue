@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D2342,REVIEWS,FULL,HIGH,Sentence appeal for aggravated assault dismissed
+D5313,NOT,NA,HIGH,Evidence ruling at trial
+D1110,NOT,NA,LOW,Conviction appeal dismissed
+D4892,NOT,NA,HIGH,Jury instruction ruling on bias
+D3999,RELATED,NA,HIGH,Extension of time for sentence appeal leave
+D1320,NOT,NA,HIGH,Conviction appeal dismissed with sentence request withdrawn
+D1804,REVIEWS,FULL,HIGH,Drug sentence appeal dismissed
+D1123,NOT,NA,HIGH,Leave to appeal refused on new trial order
+D5636,NOT,NA,HIGH,Voir dire on text messages
+D5633,RELATED,NA,HIGH,Recusal application at long-term offender sentencing
+D1939,NOT,NA,HIGH,Conviction appeal on Charter issues
+D4535,NOT,NA,HIGH,Intervener application in review board appeal
+D5923,NOT,NA,HIGH,Appeal to withdraw guilty plea dismissed
+D4295,NOT,NA,HIGH,Civil contract case
+D2199,IMPOSES,FULL,HIGH,Reasons for sentence for fraud and theft
+D4976,REVIEWS,FULL,HIGH,Sentence appeal on credit and totality dismissed
+D2965,RELATED,NA,HIGH,Crown sentence appeal adjourned for evidence
+D1738,REVIEWS,FULL,HIGH,Crown appeal of absolute discharge allowed
+D5534,NOT,NA,HIGH,Delay appeal dismissed
+D1521,IMPOSES,FULL,HIGH,Parole ineligibility set for second degree murder
+D2675,NOT,NA,HIGH,Conviction appeal dismissed sentence appeal abandoned
+D4908,NOT,NA,HIGH,Conviction appeal on adjournment dismissed
+D5576,NOT,NA,HIGH,Application to attend conviction appeal
+D3050,NOT,NA,HIGH,Jury challenge appeal from acquittal
+D5920,IMPOSES,FULL,HIGH,Reasons for sentence for drug trafficking
+D4772,NOT,NA,HIGH,Conviction appeal dismissed

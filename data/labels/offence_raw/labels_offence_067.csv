@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1453,homicide,HIGH,Attempted murder with firearm; other counts conditionally stayed
+F1454,none,LOW,Offence not shown; conditional sentence appeal
+F1455,other,HIGH,Refusing to testify at murder trial
+F1456,sexual,HIGH,Sexual interference of child
+F1457,sexual,HIGH,Sexual assault
+F1458,robbery,HIGH,Robbery in parking garage
+F1459,sexual,HIGH,Sexual assault
+F1460,sexual,HIGH,Sexual assault; possessing and making child pornography
+F1461,theft_fraud,HIGH,Ten theft offences from shoplifting scheme
+F1462,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1463,sexual,HIGH,Sexual exploitation by teacher
+F1464,drugs,HIGH,Trafficking cocaine
+F1465,sexual,HIGH,Sexual assault and sexual assault causing bodily harm
+F1466,theft_fraud,HIGH,Large-scale criminal frauds
+F1467,sexual;drugs;other,HIGH,Sexual interference; drug trafficking; breach of recognizance
+F1468,sexual;assault,HIGH,Sexual assault and four counts of assault
+F1469,homicide,HIGH,Manslaughter with dangerous offender designation
+F1470,weapons,HIGH,Possession of loaded prohibited handgun
+F1471,robbery;weapons,HIGH,Sixteen robbery offences including imitation firearm use
+F1472,drugs,HIGH,Possession of drugs for purpose of trafficking
+F1473,theft_fraud,HIGH,Fraud and theft counts
+F1474,homicide;assault;other,HIGH,Attempted murder; assault causing bodily harm; breach of youth probation

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2575,driving,HIGH,Impaired driving causing death
+F2576,break_enter;theft_fraud,HIGH,Break and enter with intent and theft counts
+F2577,assault,HIGH,Common assault
+F2578,sexual,HIGH,Luring a child
+F2579,assault,HIGH,Assault causing bodily harm and assault
+F2580,homicide,HIGH,Second degree murder
+F2581,break_enter;theft_fraud,HIGH,Break and enter and commit indictable offence
+F2582,sexual,HIGH,Sexual interference; dangerous offender
+F2583,break_enter;theft_fraud;other,HIGH,Theft; theft of lobsters; breach of probation
+F2584,weapons;other,HIGH,Firearm possession counts; mischief
+F2585,none,LOW,Offences not shown
+F2586,weapons,HIGH,Possession of sawed off shotgun
+F2587,drugs;weapons,HIGH,Possession for trafficking; firearms offences
+F2588,sexual,HIGH,Sexual touching; invitation to touching; incest
+F2589,sexual,HIGH,Sexual molestation of stepdaughter
+F2590,homicide,HIGH,Conspiracy to commit murder
+F2591,break_enter;other,LOW,Seven offences including attempted break and enter
+F2592,drugs,HIGH,Methamphetamine production; trafficking possession; precursors
+F2593,other,HIGH,Mischief and arson
+F2594,sexual;kidnapping,LOW,Removing child from Canada for sexual marriage
+F2595,other,HIGH,Perjury
+F2596,assault;other,HIGH,Assault causing bodily harm; breach of probation

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4555,assault,HIGH,Assault
+F4556,robbery;kidnapping;sexual,HIGH,Robbery; unlawful confinement; sexual assault
+F4557,driving,HIGH,Impaired driving and driving while prohibited
+F4558,driving,HIGH,Dangerous driving causing death and drug operation causing death
+F4559,theft_fraud,HIGH,GST fraud 37 counts
+F4560,break_enter;robbery;weapons;assault,HIGH,Unlawfully in dwelling; robbery; knife possession; assault
+F4561,other,HIGH,Defamatory libel
+F4562,sexual;assault;kidnapping;other,HIGH,Sexual assault; assaults; forcible confinement; breach of recognizance
+F4563,break_enter,HIGH,Three residential break and enters
+F4564,theft_fraud,HIGH,Fraud of bank
+F4565,assault;other,HIGH,Assault causing bodily harm; threats; harassment; breaches
+F4566,theft_fraud;other,HIGH,Fraud; theft; unauthorized lottery scheme
+F4567,drugs,HIGH,Trafficking crack cocaine
+F4568,drugs;theft_fraud,HIGH,Possession of marihuana for trafficking; hydro theft
+F4569,robbery;weapons,HIGH,Robbery and use of imitation firearm
+F4570,other;drugs,HIGH,Breaches of probation and cannabis possession
+F4571,drugs,HIGH,Production and possession for trafficking of ecstasy and marijuana
+F4572,theft_fraud,HIGH,Fraud on elderly individual
+F4573,sexual,HIGH,Sexual interference and possession of child pornography
+F4574,robbery,HIGH,Robbery
+F4575,assault,HIGH,Assault with weapon and aggravated assault
+F4576,assault,LOW,Three violent offences with serious injury; exact charges unclear

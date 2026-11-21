@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2531,drugs,HIGH,Possession of cocaine for trafficking
+F2532,sexual,HIGH,Sexual interference of child
+F2533,sexual,HIGH,Sexual assault of daughter
+F2534,weapons;drugs,HIGH,Firearm offences and cocaine possession
+F2535,driving,HIGH,Dangerous operation causing bodily harm
+F2536,sexual,HIGH,Incest and indecent assault
+F2537,drugs,HIGH,Possession for trafficking and simple possession
+F2538,drugs;theft_fraud;other,HIGH,Fentanyl and cocaine trafficking; stolen property; breaches
+F2539,drugs,HIGH,Attempted possession of heroin for trafficking
+F2540,sexual,HIGH,Sexual assault
+F2541,other,HIGH,Arson
+F2542,sexual,LOW,Sentence appeal; offence inferred from publication ban
+F2543,sexual,LOW,Likely sexual offence against daughter; not stated
+F2544,homicide,HIGH,Manslaughter with firearm
+F2545,homicide,HIGH,Manslaughter
+F2546,kidnapping;assault;break_enter,LOW,Human trafficking; abduction; assault; break in; five offences
+F2547,other,HIGH,Uttering threats and mischief
+F2548,homicide,HIGH,First degree murder
+F2549,sexual,HIGH,Sexual abuse of young child
+F2550,assault,HIGH,Aggravated assault
+F2551,sexual,HIGH,Possession of child pornography
+F2552,sexual,HIGH,Sexual assault

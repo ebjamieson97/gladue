@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1343,homicide,HIGH,Second degree murder of spouse
+F1344,sexual,HIGH,Sexual interference with niece
+F1345,robbery;weapons,HIGH,Robbery; imitation firearm use; loaded prohibited firearm possession
+F1346,none,LOW,Offences not shown in excerpt
+F1347,driving,HIGH,Impaired driving causing death x2
+F1348,break_enter,LOW,Role in home invasion
+F1349,other,HIGH,Criminal harassment
+F1350,assault,HIGH,Aggravated assault
+F1351,theft_fraud;other;assault,HIGH,Possession of stolen property; fraud; criminal harassment; assault
+F1352,theft_fraud,HIGH,Fraud over $5000; fraud for criminal organization; money laundering
+F1353,sexual;break_enter,HIGH,Four counts break and enter and sexual assault; dangerous offender
+F1354,robbery;weapons;theft_fraud;other,HIGH,Armed bank robbery; weapon carrying; disguise; money laundering
+F1355,theft_fraud,HIGH,Possession and fraud with stolen cheque
+F1356,sexual;other,HIGH,Sexual assault of two girls; four probation breaches
+F1357,drugs,HIGH,Trafficking cocaine
+F1358,none,LOW,Offences not shown in excerpt
+F1359,sexual,HIGH,Sexual interference with stepdaughter; related counts stayed
+F1360,other,HIGH,Occupational health and safety offences by company
+F1361,sexual,HIGH,Sexual exploitation of young person
+F1362,drugs,HIGH,Trafficking cocaine; possession for trafficking cocaine and heroin
+F1363,assault;weapons,LOW,Aggravated assault; rifle discharged
+F1364,sexual,HIGH,Sexual interference

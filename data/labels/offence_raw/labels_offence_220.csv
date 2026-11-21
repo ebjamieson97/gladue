@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F4819,sexual,HIGH,Sexual assault of 15 year old
+F4820,drugs,HIGH,Trafficking cocaine and possession for purpose of trafficking
+F4821,sexual,HIGH,Sexual assault and voyeurism
+F4822,driving,HIGH,Dangerous driving failing to stop and driving while disqualified
+F4823,sexual,LOW,Apparent sexual offence involving minor with SOIRA order
+F4824,weapons;theft_fraud,HIGH,Firearm offences and possession of motor vehicle
+F4825,sexual,HIGH,Sexual interference invitation to touching and position of trust
+F4826,sexual;assault;other,HIGH,Sexual assault assault with weapon threat and criminal harassment
+F4827,kidnapping;assault;other,HIGH,Unlawful confinement assault causing bodily harm and uttering threat
+F4828,homicide,HIGH,Manslaughter
+F4829,sexual,HIGH,Sexual assault of child and invitation to sexual touching
+F4830,theft_fraud;other,HIGH,Theft and breach of trust by official
+F4831,homicide,HIGH,Manslaughter
+F4832,sexual,HIGH,Sexual interference of a 14 year old
+F4833,other,HIGH,Criminal contempt for violating injunction
+F4834,weapons;break_enter;theft_fraud,HIGH,Firearm possession break and enter possession of stolen property vehicle theft
+F4835,other,HIGH,56 counts breach of no-contact order
+F4836,break_enter;other,HIGH,Break and enter with intent and mischief
+F4837,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F4838,theft_fraud,LOW,Offences relating to false passport
+F4839,assault;other,HIGH,Assault and uttering threats
+F4840,sexual,HIGH,Child pornography distribution luring and sexually explicit material to child

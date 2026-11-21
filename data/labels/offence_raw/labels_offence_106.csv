@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2311,drugs;weapons,HIGH,Drug trafficking and possession and prohibited firearm possession
+F2312,homicide,HIGH,Second degree murder
+F2313,homicide,HIGH,Second degree murder
+F2314,robbery,HIGH,Bank robbery
+F2315,theft_fraud;other,HIGH,Credit card fraud forgery possession of stolen property and obstruction
+F2316,assault;break_enter,HIGH,Assault with a weapon and break and enter
+F2317,assault;sexual;other,HIGH,Assault causing bodily harm sexual assault and uttering threat
+F2318,kidnapping;assault;robbery,HIGH,Unlawful confinement robbery and assault
+F2319,weapons;theft_fraud,HIGH,Loaded firearm possession and stolen credit card and identity documents
+F2320,other;weapons,HIGH,Threats to police officers and weapon for dangerous purpose
+F2321,theft_fraud,HIGH,Personation and fraud on social assistance
+F2322,other;sexual,HIGH,Extortion and child pornography possession and distribution
+F2323,drugs,HIGH,Marihuana production and possession for trafficking
+F2324,drugs,HIGH,Fentanyl and carfentanil possession for trafficking
+F2325,theft_fraud,HIGH,Fraud over $5000 on employer
+F2326,drugs,HIGH,Importing cocaine and possession for trafficking
+F2327,other,HIGH,Failing to provide necessaries of life endangering life
+F2328,sexual;other,HIGH,Sexual assault and failure to comply with undertaking
+F2329,robbery,HIGH,Attempted robbery of pharmacy
+F2330,assault,HIGH,Aggravated assault
+F2331,other,HIGH,Extortion
+F2332,assault;theft_fraud;other,HIGH,Assaults with weapon theft mischief and breach of recognizance

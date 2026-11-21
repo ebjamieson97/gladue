@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4462,REVIEWS,FULL,HIGH,Sentence appeal for marihuana production dismissed
+D1648,REVIEWS,FULL,HIGH,Sentence appeal allowed on totality; global sentence reduced
+D5903,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal allowed and varied
+D3098,REVIEWS,MINIMAL,HIGH,Conviction and sentence appeal dismissed; sentence fit
+D2321,REVIEWS,FULL,HIGH,Sentence appeal for robberies dismissed
+D2748,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed by consent; increased pre-sentence credit
+D4631,NOT,NA,HIGH,Conviction appeal; acquittal directed; sentence only background
+D4174,NOT,NA,HIGH,Application to adjourn and reopen trial dismissed
+D3790,IMPOSES,FULL,HIGH,Reasons for sentence for drug and firearm offences
+D2981,RELATED,NA,HIGH,Clarification that sentence is to be served consecutively
+D3785,REVIEWS,FULL,HIGH,Sentence appeal for drug offences; extra credit granted
+D3454,REVIEWS,FULL,HIGH,Sentence appeal for sexual assault; pre-sentence credit adjusted
+D2094,REVIEWS,FULL,HIGH,Crown sentence appeal; leave granted and appeal dismissed
+D5115,NOT,NA,HIGH,Conviction appeal for impaired driving dismissed
+D4665,NOT,NA,HIGH,Verdict of second degree murder; no sentence
+D4781,REVIEWS,FULL,HIGH,Crown sentence appeal allowed; conditional sentence substituted
+D1117,NOT,NA,LOW,Conviction appeal for sexual assault dismissed
+D3350,NOT,NA,HIGH,Charter and voluntariness rulings on evidence
+D6060,REVIEWS,FULL,HIGH,Murder conviction and parole ineligibility appeal dismissed
+D3782,NOT,NA,HIGH,Trial ruling on mental disorder automatism; robbery verdict
+D3616,NOT,NA,HIGH,Murder conviction appeal dismissed
+D1651,REVIEWS,FULL,HIGH,Firearm sentence appeal and Charter appeal dismissed
+D4104,NOT,NA,HIGH,Conviction appeal dismissed on sufficiency of reasons
+D5848,NOT,NA,HIGH,Admissibility of young offender statement; acquittal entered
+D1621,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal dismissed as fit
+D4519,NOT,NA,HIGH,Crown appeal from certiorari on preliminary inquiry

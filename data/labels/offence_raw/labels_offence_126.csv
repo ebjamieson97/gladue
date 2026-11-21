@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2751,break_enter,HIGH,Attempted break and enter to commit theft
+F2752,theft_fraud,HIGH,Fraud over $5000 x11
+F2753,none,LOW,Sentence appeal; offence not stated
+F2754,assault,HIGH,Assault by punching and choking
+F2755,robbery,HIGH,Armed robbery of convenience store
+F2756,weapons;drugs;other,HIGH,Firearm trafficking; drug trafficking; breach of recognizance
+F2757,sexual,HIGH,Production and sale of child pornography
+F2758,weapons;other,HIGH,Discharge firearm into place; mischief endangering life
+F2759,break_enter;assault;weapons,HIGH,Break and enter; aggravated assault; firearm use; discharge firearm
+F2760,homicide,HIGH,Counselling to commit murder x2
+F2761,assault;other,HIGH,Assaults; death threats; criminal harassment; breach of recognizance
+F2762,drugs;theft_fraud;other,HIGH,Possession for trafficking; possession of proceeds; breach of undertaking
+F2763,drugs,HIGH,Possession for trafficking of heroin and fentanyl
+F2764,theft_fraud,HIGH,Theft over $5000; uttering forged document; fraud
+F2765,homicide,HIGH,Second-degree murder
+F2766,sexual,HIGH,Three sexual assaults; dangerous offender
+F2767,sexual;other,HIGH,Sexual assault x2; child pornography x2; disobey court order
+F2768,theft_fraud,HIGH,Possession of stolen property under $5000; fraud over $5000
+F2769,sexual,HIGH,Sexual offences against two stepdaughters
+F2770,drugs,HIGH,Conspiracy to import 100 kilograms of drugs
+F2771,sexual,HIGH,Sexual assault x2 of young teen
+F2772,other,HIGH,Canada Labour Code safety offence causing death

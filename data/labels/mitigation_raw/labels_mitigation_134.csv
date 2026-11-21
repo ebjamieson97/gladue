@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1331,N,X,X,X,X,X,X,X,X,N,HIGH,Supreme Court general statement of Gladue law
+M1332,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for restraint principle
+M1333,M,X,X,X,X,X,X,X,X,N,HIGH,Court accepted Gladue report mitigating factors
+M1334,R,X,X,X,X,N,X,X,X,N,HIGH,Gladue considered but offence gravity required custody
+M1335,N,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous and Gladue only in cited cases
+M1336,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted generally
+M1337,M,X,N,X,X,X,X,X,X,N,LOW,Unfortunate background and youth brought rehabilitation to prominence
+M1338,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) quoted from case law
+M1339,R,X,X,X,X,X,X,X,X,N,HIGH,Aboriginal status noted but violence meant no difference
+M1340,M,X,X,X,X,X,X,X,X,N,HIGH,Judge considered aboriginal background and imposed conditional sentence

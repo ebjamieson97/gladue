@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1079,other,HIGH,Counselling arson and uttering threats
+F1080,weapons;assault,HIGH,Firearms offences and assault
+F1081,sexual,HIGH,Sexual assault and sexual interference of niece
+F1082,break_enter,HIGH,Break and enter
+F1083,sexual,HIGH,Sexual interference invitation to touching and sexual assault
+F1084,other,HIGH,Public mischief hoax call
+F1085,assault,HIGH,Domestic assault against wife
+F1086,sexual,HIGH,Sexual assault and sexual exploitation of disabled person
+F1087,none,LOW,Offences not shown in excerpt
+F1088,drugs,HIGH,Conspiracy to traffic cocaine and marihuana
+F1089,sexual,HIGH,Sexual offences against stepchildren
+F1090,theft_fraud,HIGH,GST refund fraud
+F1091,drugs;weapons;other,HIGH,Cocaine trafficking firearms offences and probation breach
+F1092,assault;other,HIGH,Two assaults and failure to comply with recognizance
+F1093,sexual,HIGH,Sexual assault of stepdaughter
+F1094,drugs,HIGH,Fentanyl trafficking and methamphetamine possession
+F1095,theft_fraud,HIGH,Fraud over two million dollars
+F1096,assault;weapons,HIGH,Assault with weapon bodily harm and concealed weapon
+F1097,other,LOW,Procuring and living on avails of prostitution
+F1098,other,HIGH,Aeronautics Act offences threats on flight
+F1099,sexual;other,HIGH,Child luring arrangement and breach of probation
+F1100,sexual,HIGH,Sexual interference

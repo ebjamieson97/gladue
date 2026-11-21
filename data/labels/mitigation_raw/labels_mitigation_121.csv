@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1201,N,X,X,X,X,X,X,X,X,N,HIGH,Only general s. 718.2(e) restraint principle cited; offender not Indigenous
+M1202,M,X,M,X,X,X,X,X,X,N,HIGH,Gladue background and family residential school history gave lesser incarceration
+M1203,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality principle
+M1204,M,X,X,X,X,X,X,X,X,N,LOW,Court noted important impact of Gladue factors in fixing sentence
+M1205,N,X,X,X,M,X,X,X,X,N,HIGH,Impact of Race and Culture Assessment gave significant mitigating factors
+M1206,M,X,X,X,X,X,X,X,X,N,HIGH,Indigenous experiences mitigated against long incarceration and lowered sentence
+M1207,N,X,X,N,X,X,X,X,X,N,LOW,Appeal allowed on conviction; Gladue principles recited and sentence not decided
+M1208,N,X,X,X,X,X,X,X,X,N,HIGH,Court stated not a Gladue case; quoted principles generally
+M1209,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only on restraint and remedial provisions
+M1210,X,X,X,X,N,X,X,X,X,N,LOW,Relevance of race and culture evidence discussed; outcome not shown

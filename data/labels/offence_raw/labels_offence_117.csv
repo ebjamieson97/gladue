@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2553,sexual,HIGH,Incest counts involving family members
+F2554,assault;weapons,HIGH,Assault; use of firearm in assault; unsafe firearm storage
+F2555,homicide,HIGH,Second degree murder
+F2556,homicide;assault,HIGH,Manslaughter; assault causing bodily harm; assault with weapon
+F2557,other,HIGH,Criminal harassment and uttering threats
+F2558,sexual,LOW,Voyeurism; other offences not specified
+F2559,assault;weapons;other,HIGH,Aggravated assault; prohibited weapon; firearm; assault peace officer; release breach
+F2560,break_enter;theft_fraud,HIGH,Break and enter and theft
+F2561,sexual,HIGH,Aggravated sexual assault
+F2562,other;break_enter,HIGH,Criminal harassment; threats; break in; mischief; breaches
+F2563,drugs,HIGH,Possession for trafficking of marihuana and cocaine
+F2564,sexual;kidnapping,HIGH,Sexual assault; sexual assault with weapon; unlawful confinement
+F2565,homicide,HIGH,Second degree murder
+F2566,weapons,HIGH,Firearms and explosive possession; prohibition breach
+F2567,other,HIGH,Breach of probation; undertaking breaches; disturbance; mischief
+F2568,homicide,HIGH,Manslaughter
+F2569,other,HIGH,Arson causing bodily harm
+F2570,other,HIGH,Criminal harassment; threats; attempted extortion
+F2571,driving,HIGH,Over 80 causing death and bodily harm
+F2572,homicide,HIGH,Two counts of second degree murder
+F2573,theft_fraud;other,HIGH,Fraud; misuse of taxpayer information; tax evasion
+F2574,sexual;other,HIGH,Sexual assault; breach of trust by public officer

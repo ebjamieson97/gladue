@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0721,M,N,N,X,N,X,X,X,X,N,LOW,Viewed circumstances through Gladue lens for conditional sentence; cultural assessment only listed
+M0722,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0723,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue appears only in summary of another case
+M0724,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue appears only in comparable case discussion
+M0725,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue appears only in another offender's case
+M0726,R,X,X,X,X,X,X,X,X,N,HIGH,Offender not Indigenous so Gladue not applied
+M0727,X,X,X,X,X,N,X,X,X,N,LOW,Report notes co-accused suffered racism with no weight shown
+M0728,N,X,N,N,X,X,X,X,X,N,LOW,Quoted general material on residential schools and Aboriginal offenders
+M0729,M,N,M,X,X,X,X,X,X,N,HIGH,Gladue principles and reduced moral responsibility shaped sentence
+M0730,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2685,sexual;other,HIGH,Sexual interference and sexual assault of two victims; breach of probation
+F2686,other,HIGH,Wilfully promoting hatred s. 319(2)
+F2687,drugs,HIGH,Possession of 10 kg cocaine for purpose of trafficking
+F2688,assault;weapons;other,HIGH,Assault with metal pipe; weapon dangerous purpose; breach of probation and CSO
+F2689,drugs,HIGH,Simple possession of cocaine and heroin; possession of methamphetamine for trafficking
+F2690,theft_fraud,HIGH,Seven counts of fraud and possession of property obtained by crime
+F2691,sexual,LOW,Continuous sexual abuse of young complainant; offence not named
+F2692,theft_fraud,HIGH,Theft over $5000 from employer
+F2693,sexual;assault,HIGH,Sexual assault causing bodily harm and choking with intent; dangerous offender
+F2694,drugs;weapons;theft_fraud,HIGH,Trafficking meth and cocaine; trafficking firearm; possession of proceeds
+F2695,drugs;weapons,HIGH,Possession of controlled substances and firearms offences
+F2696,robbery,HIGH,Two counts of robbery of store clerks
+F2697,homicide,HIGH,Manslaughter by stabbing
+F2698,other,LOW,Termination of conditional sentence for breach; underlying offences unclear
+F2699,other,HIGH,Extortion without use of firearm
+F2700,sexual,HIGH,Luring a child
+F2701,weapons,HIGH,Nine counts of firearms and prohibited device possession
+F2702,assault,HIGH,Assault causing bodily harm to young child
+F2703,break_enter;kidnapping;robbery;weapons,HIGH,Break and enter with confinement; robbery; firearm possession
+F2704,homicide;weapons,HIGH,Unlawful act manslaughter with firearm; careless use of firearm
+F2705,sexual,HIGH,Sexual assault of granddaughter
+F2706,drugs,HIGH,Drug trafficking under CDSA

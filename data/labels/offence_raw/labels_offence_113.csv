@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2465,other;weapons,HIGH,Extortion and possession of prohibited handguns
+F2466,drugs,HIGH,Possession of cocaine for the purpose of trafficking
+F2467,sexual;theft_fraud;other,HIGH,Sexual assault; possession of stolen property; endangering morals
+F2468,sexual,HIGH,Sexual assault
+F2469,sexual,HIGH,Seven counts of sexual assault
+F2470,assault,HIGH,Aggravated assault
+F2471,sexual,HIGH,Historical indecent assault
+F2472,none,LOW,Offence not identified; very serious planned offence
+F2473,sexual,HIGH,Sexual assault with a weapon and aggravated sexual assault
+F2474,sexual,HIGH,Historical sexual assault
+F2475,drugs,HIGH,Seven drug charges possession for trafficking
+F2476,none,LOW,Offences not shown; Ottawa charges and drug addiction
+F2477,robbery;weapons;other,HIGH,Robbery; imitation firearm use; masked indictable offence
+F2478,drugs,HIGH,Trafficking in marihuana
+F2479,theft_fraud,HIGH,Theft under $5000 counts
+F2480,driving,HIGH,Two refusals of breath demand
+F2481,sexual,HIGH,Sexual interference
+F2482,sexual;assault,HIGH,Sexual assault and assaults on wife and sons
+F2483,robbery,HIGH,Robbery of elderly man in home
+F2484,weapons,HIGH,Discharging firearm with intent and loaded firearm possession
+F2485,other,HIGH,Criminal harassment and uttering threats
+F2486,sexual,HIGH,Sexual assault

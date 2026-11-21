@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3587,sexual;assault;other,HIGH,Sexual assault and incest and assault with weapon and threat
+F3588,sexual,HIGH,Incest and sexual touching of child
+F3589,homicide,HIGH,Second degree murder
+F3590,drugs,HIGH,Production of cannabis
+F3591,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F3592,sexual,HIGH,Two counts of sexual exploitation
+F3593,driving,HIGH,Driving without due care and failing to remain and driving while prohibited
+F3594,theft_fraud,HIGH,Forged documents and identity offences and possession of property obtained by crime
+F3595,theft_fraud;drugs;other,HIGH,Identity theft and stolen property and trafficking drugs and obstruction
+F3596,homicide,HIGH,Manslaughter youth sentence review
+F3597,homicide,HIGH,Manslaughter
+F3598,drugs;assault;driving,HIGH,Drug trafficking and assaulting police with weapon and failing to stop
+F3599,drugs,HIGH,Conspiracy to import and traffic cocaine and possession for trafficking
+F3600,drugs;other,HIGH,Cocaine importation conspiracy and breach of trust and accepting benefit
+F3601,robbery;break_enter;weapons;assault;other,HIGH,Robbery and break and enter and weapon and assault and threats and breaches
+F3602,other,LOW,Offence relating to police officer unclear
+F3603,homicide,HIGH,Second degree murder and manslaughter
+F3604,weapons;assault,HIGH,Pointing firearm and assault with weapon and firearm possession while prohibited
+F3605,other;drugs,HIGH,Breaches and failure to appear and unlawfully at large and cocaine possession
+F3606,robbery;weapons;other,HIGH,Two robberies and firearm offences and breach of release order
+F3607,sexual;assault;kidnapping;other,HIGH,Sexual assault with weapon and assaults and confinement and threats and obstruction
+F3608,sexual,HIGH,Gross indecency and obtaining sexual services of person under 18

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0177,drugs,HIGH,Marijuana grow operation
+F0178,homicide,HIGH,Murder with NCR finding
+F0179,break_enter;weapons;other,HIGH,Break and enter; prohibited weapon; breach of release order; failure to appear
+F0180,theft_fraud,HIGH,Possession of stolen property (car)
+F0181,homicide,HIGH,Manslaughter by shooting
+F0182,none,LOW,Offences not shown; only place of serving sentence
+F0183,sexual,HIGH,Multiple sexual offences against students
+F0184,drugs,HIGH,Marihuana grow operation
+F0185,break_enter;theft_fraud,HIGH,Break and enter and theft
+F0186,theft_fraud;other,HIGH,Breach of trust by public officer and theft
+F0187,sexual,HIGH,Sexual assault
+F0188,homicide,HIGH,Manslaughter by stabbing
+F0189,other,HIGH,Municipal bylaw offence
+F0190,sexual;other,HIGH,Sexual interference and breach of probation
+F0191,other,HIGH,Masked with intent; failing to comply with undertaking
+F0192,assault,LOW,Criminal negligence causing bodily harm to infant
+F0193,homicide,HIGH,Manslaughter with a firearm
+F0194,drugs,HIGH,Trafficking and possession of marihuana
+F0195,homicide,HIGH,First degree murder and attempted murder
+F0196,break_enter,HIGH,Break and enter
+F0197,sexual,HIGH,Sexual assault of a child
+F0198,other,HIGH,Breach of probation

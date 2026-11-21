@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D1043,NOT,NA,HIGH,Conviction appeal on s. 276 evidence
+D3169,NOT,NA,HIGH,Bail pending appeal application dismissed
+D2766,NOT,NA,HIGH,Murder conviction appeal on causation
+D1596,NOT,NA,HIGH,Bail hearing decision
+D4813,NOT,NA,HIGH,Conviction appeal dismissed
+D4322,NOT,NA,HIGH,Charter evidence admissibility appeal
+D4800,NOT,NA,HIGH,Civil lease appeal
+D4580,NOT,NA,HIGH,Trial verdict on kidnapping and proceeds of crime
+D4129,NOT,NA,HIGH,Appeal on further evidence on conviction
+D5508,NOT,NA,HIGH,Dangerous operation conviction appeal
+D4926,NOT,NA,HIGH,Conviction appeal on inconsistent verdicts
+D1347,NOT,NA,LOW,Conviction appeal for robberies; sentence not discussed
+D5864,NOT,NA,HIGH,Appeal on refused process and adjournment
+D4124,NOT,NA,HIGH,Summary conviction appeal for impaired driving
+D1554,NOT,NA,HIGH,Bail pending appeal and counsel application
+D3108,NOT,NA,HIGH,Voir dire on search warrant
+D3028,NOT,NA,HIGH,Convictions quashed and new trial ordered
+D6065,NOT,NA,HIGH,Summary conviction appeal on weapon offence
+D5464,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed for enhanced pre-sentence credit
+D5995,NOT,NA,HIGH,Unfit accused constitutional challenge
+D1066,NOT,NA,HIGH,Crown appeal on credibility and misdirection
+D2924,NOT,NA,HIGH,Application for appeal counsel dismissed
+D1240,NOT,NA,HIGH,Conviction appeal allowed new trial
+D1993,REVIEWS,FULL,HIGH,Sentence appeal for sexual assault dismissed
+D5893,NOT,NA,HIGH,Release pending appeal granted
+D1787,REVIEWS,FULL,HIGH,Sentence appeal for dangerous driving dismissed

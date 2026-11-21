@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2597,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F2598,assault;other,HIGH,Assault and breach of probation (youth)
+F2599,homicide,HIGH,Second degree murder parole ineligibility
+F2600,sexual,HIGH,Sexual assault of 15-year-old
+F2601,sexual,HIGH,Possession of child pornography
+F2602,drugs,HIGH,Two counts trafficking fentanyl
+F2603,assault,HIGH,Aggravated assault
+F2604,drugs;weapons,HIGH,Possession of fentanyl for trafficking and loaded firearm
+F2605,drugs,HIGH,Two counts possession for purpose of trafficking
+F2606,drugs,HIGH,Trafficking in marihuana
+F2607,theft_fraud,HIGH,Two counts of uttering forged document
+F2608,homicide,HIGH,Second degree murder
+F2609,homicide,HIGH,Second degree murder of mother
+F2610,assault,HIGH,Assault causing bodily harm
+F2611,theft_fraud;driving,HIGH,Possession of stolen property dangerous driving and theft
+F2612,theft_fraud,HIGH,Fraud against OHIP
+F2613,assault;other;theft_fraud;weapons,HIGH,Assault causing bodily harm breach stolen property bear spray
+F2614,none,LOW,Offences not shown; nine year global sentence
+F2615,assault,HIGH,Aggravated assault
+F2616,other;driving,HIGH,Resisting breach dangerous driving driving while prohibited
+F2617,homicide,HIGH,Manslaughter
+F2618,none,LOW,Offences of young persons not shown

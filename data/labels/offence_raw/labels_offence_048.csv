@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1035,drugs,HIGH,Possession of fentanyl for trafficking weapon count stayed
+F1036,homicide,HIGH,Second degree murder attempted murder and conspiracy to commit murder
+F1037,assault;other,HIGH,Riot assault and assault of peace officer
+F1038,sexual;assault,HIGH,Sexual assault sexual interference and assault on daughter
+F1039,none,LOW,Probation order set aside offence not shown
+F1040,none,LOW,Prohibition order appeal underlying offence not shown
+F1041,robbery;assault;weapons;driving,HIGH,Robberies assault with weapon imitation firearm and dangerous driving
+F1042,sexual,HIGH,Sexual assault
+F1043,none,LOW,Offence unclear involving one machine fine
+F1044,other,HIGH,Breach of probation for unpaid restitution
+F1045,sexual,HIGH,Sexual assault of 16 year old
+F1046,other,HIGH,Unlawfully at large
+F1047,drugs,HIGH,Cultivation trafficking and possession of cocaine
+F1048,drugs,HIGH,Possession of marihuana for purpose of trafficking
+F1049,assault,HIGH,Two counts of assault
+F1050,sexual,HIGH,Four counts of sexual assault
+F1051,weapons,HIGH,Careless storage unlicensed possession and occupying vehicle with firearm
+F1052,drugs,HIGH,Possession for purpose of trafficking cocaine ecstasy methamphetamine
+F1053,kidnapping;other,HIGH,Four counts of forcible confinement and extortion
+F1054,drugs,HIGH,Importation of cocaine
+F1055,drugs,HIGH,Possession for trafficking cocaine and possession of marijuana
+F1056,driving,HIGH,Dangerous driving causing death

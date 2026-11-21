@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0771,other,HIGH,Seven counts of arson
+F0772,none,LOW,Excerpt does not show the offences
+F0773,drugs,HIGH,Trafficking heroin and fentanyl mixture
+F0774,robbery;assault;other,HIGH,Robbery; assault of second victim; obstructing peace officer
+F0775,drugs,HIGH,Producing marihuana
+F0776,drugs;theft_fraud,HIGH,Drug trafficking conspiracy and possession of proceeds of crime
+F0777,drugs;other,HIGH,Cocaine trafficking possession; failing to appear; breach of bail
+F0778,sexual,HIGH,Procuring person under 18 and making child pornography
+F0779,drugs,HIGH,Trafficking cocaine and possession for purpose of trafficking
+F0780,other;assault,HIGH,Uttering threat and assault
+F0781,other,HIGH,Customs Act smuggling conspiracy and breach of trust
+F0782,break_enter,HIGH,Break and enter into dwelling
+F0783,homicide;driving,HIGH,Criminal negligence causing death by impaired driving
+F0784,driving,HIGH,Impaired driving third offence
+F0785,sexual,HIGH,Sexual assault
+F0786,assault,HIGH,Aggravated assault and criminal negligence causing bodily harm
+F0787,assault;weapons,HIGH,Aggravated assault and discharging firearm with intent to wound
+F0788,robbery;sexual,HIGH,Robbery offences and sexual assaults
+F0789,break_enter;theft_fraud,HIGH,Unlawfully in dwelling and possession of stolen property
+F0790,sexual,HIGH,Sexual assault of child with knife
+F0791,drugs,HIGH,Possession of cocaine for trafficking and marihuana possession
+F0792,kidnapping;sexual;other;assault,HIGH,Confinement; sexual assault; threat; assault with weapon; choking

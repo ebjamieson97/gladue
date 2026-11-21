@@ -1,0 +1,7 @@
+sample,measure,repeats,folds,logistic_mean,boosting_mean,logistic_better_folds,boosting_better_folds
+STRATUM RANDOM SAMPLE (weighted),precision,10,50,0.9538,0.9509,34,16
+STRATUM RANDOM SAMPLE (weighted),recall,10,50,0.9494,0.9553,12,38
+STRATUM RANDOM SAMPLE (weighted),F1,10,50,0.9516,0.953,21,29
+RANDOM SAMPLE (unweighted),precision,10,50,0.9557,0.9463,42,8
+RANDOM SAMPLE (unweighted),recall,10,50,0.9455,0.9487,18,28
+RANDOM SAMPLE (unweighted),F1,10,50,0.9505,0.9474,32,18

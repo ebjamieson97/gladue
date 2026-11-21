@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0081,M,X,X,X,X,N,X,X,X,N,HIGH,Appeal court relied on Gladue to uphold conditional sentence
+M0082,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e raised generally and rejected as no error
+M0083,M,M,M,M,X,X,X,X,X,N,HIGH,Colonialism residential schools and intergenerational trauma treated as mitigating
+M0084,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in comparator cases
+M0085,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but dangerous offender status prevailed
+M0086,R,N,N,X,X,X,X,X,X,N,HIGH,No Gladue concerns shown for this offender
+M0087,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in cited case
+M0088,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited for restraint principles only
+M0089,M,X,X,X,X,X,X,X,X,N,HIGH,Many Gladue factors reduced moral blameworthiness
+M0090,X,X,X,X,X,X,X,X,X,N,HIGH,No relevant factor; restraint principle general

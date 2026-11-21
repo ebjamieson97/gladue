@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0221,robbery,HIGH,Two robberies with a knife
+F0222,other,HIGH,Mischief over $5000
+F0223,robbery;driving;other;theft_fraud,HIGH,Robbery failing to stop resisting officer possession of stolen vehicle
+F0224,break_enter;kidnapping;sexual,HIGH,Break and enter kidnapping sexual assault sexual touching
+F0225,homicide,HIGH,Second degree murder
+F0226,weapons;drugs;other,HIGH,Firearms offences cocaine possession resisting arrest
+F0227,homicide;other,HIGH,Second degree murder (manslaughter substituted) and conspiracy to commit arson
+F0228,drugs,HIGH,Trafficking and possession for trafficking cocaine
+F0229,none,LOW,Offence not shown in excerpt
+F0230,driving;drugs;weapons,HIGH,Over 80 drug trafficking and firearm offences
+F0231,other;kidnapping;weapons;assault,HIGH,Obstruction confinement abduction firearms offences assault
+F0232,none,LOW,General credit for pre-sentence custody; offences unclear
+F0233,theft_fraud;other,HIGH,Fraud possession of stolen property obstruction
+F0234,drugs;theft_fraud;weapons,HIGH,Trafficking proceeds of crime unsafe firearm storage
+F0235,sexual,HIGH,Sexual assault by young person
+F0236,sexual,HIGH,Internet luring and transmitting sexual material
+F0237,homicide,HIGH,Second degree murder
+F0238,other,HIGH,Obstruction of justice
+F0239,sexual;other,HIGH,Sexual assault sexual exploitation breaches of court orders
+F0240,sexual;other,HIGH,Sexual exploitation and disobeying court order
+F0241,assault,HIGH,Assault with a weapon and assault causing bodily harm
+F0242,driving,HIGH,Dangerous driving causing bodily harm and failing to remain

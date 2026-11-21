@@ -1,0 +1,92 @@
+id,court,citation,factors,batch
+G001,BCSC,2010 BCSC 1800,Residential schools,1
+G002,BCSC,2012 BCSC 780,Gladue factors,1
+G003,NSPC,2012 NSPC 104,Residential schools;Colonialism,1
+G004,BCCA,2013 BCCA 160,Intergenerational trauma,1
+G005,BCSC,2013 BCSC 2335,Residential schools,1
+G006,BCCA,2014 BCCA 84,Residential schools;Colonialism,1
+G007,BCSC,2014 BCSC 2597,Gladue factors,1
+G008,BCSC,2015 BCSC 1032,Colonialism,1
+G009,BCSC,2016 BCSC 1449,Colonialism;Systemic racism,2
+G010,BCSC,2016 BCSC 161,Gladue factors,2
+G011,BCSC,2016 BCSC 2291,Colonialism,2
+G012,NSPC,2016 NSPC 25,Colonialism,2
+G013,NSPC,2016 NSPC 83,Residential schools;Systemic racism,2
+G014,BCCA,2017 BCCA 227,Colonialism,2
+G015,BCCA,2017 BCCA 389,Intergenerational trauma;Systemic racism,2
+G016,BCSC,2017 BCSC 1054,Colonialism,2
+G017,BCSC,2017 BCSC 1187,Gladue factors,3
+G018,BCCA,2018 BCCA 339,Gladue factors,3
+G019,BCSC,2018 BCSC 1405,Colonialism,3
+G020,NSPC,2018 NSPC 56,Residential schools;Colonialism;Intergenerational trauma;Systemic racism,3
+G021,NSPC,2018 NSPC 83,Colonialism;Intergenerational trauma,3
+G022,ONCA,2018 ONCA 1029,Intergenerational trauma,3
+G023,BCSC,2019 BCSC 1039,Colonialism,3
+G024,BCSC,2019 BCSC 1717,Colonialism,3
+G025,BCSC,2019 BCSC 1960,Residential schools;Intergenerational trauma,4
+G026,BCSC,2019 BCSC 2068,Colonialism,4
+G027,NSPC,2019 NSPC 87,Residential schools;Colonialism,4
+G028,NSSC,2019 NSSC 386,Anti-Black racism,4
+G029,BCSC,2020 BCSC 1395,Colonialism,4
+G030,BCSC,2020 BCSC 1397,Colonialism,4
+G031,BCSC,2020 BCSC 1420,Residential schools;Systemic racism,4
+G032,BCSC,2020 BCSC 570,Colonialism,4
+G033,BCSC,2020 BCSC 907,Colonialism,5
+G034,NSPC,2020 NSPC 10,Intergenerational trauma,5
+G035,NSSC,2020 NSSC 265,Gladue factors,5
+G036,ONCA,2020 ONCA 786,Colonialism,5
+G037,BCSC,2021 BCSC 1004,Gladue factors,5
+G038,BCSC,2021 BCSC 1194,Colonialism,5
+G039,BCSC,2021 BCSC 599,Residential schools,5
+G040,BCSC,2022 BCSC 1397,Residential schools,5
+G041,BCSC,2022 BCSC 1773,Colonialism,6
+G042,BCSC,2022 BCSC 2348,Colonialism,6
+G043,BCSC,2022 BCSC 641,Colonialism,6
+G044,BCSC,2022 BCSC 658,Residential schools,6
+G045,NSPC,2022 NSPC 59,Residential schools;Colonialism,6
+G046,BCCA,2023 BCCA 2,Colonialism,6
+G047,BCCA,2023 BCCA 448,Residential schools;Colonialism,6
+G048,BCCA,2023 BCCA 65,Colonialism,6
+G049,BCSC,2023 BCSC 1026,Colonialism,7
+G050,BCSC,2023 BCSC 1031,Anti-Black racism;Islamophobia,7
+G051,BCSC,2023 BCSC 1810,Residential schools;Colonialism;Intergenerational trauma,7
+G052,BCSC,2023 BCSC 2236,Colonialism,7
+G053,BCSC,2023 BCSC 2288,Colonialism,7
+G054,BCSC,2023 BCSC 2309,Intergenerational trauma,7
+G055,BCSC,2023 BCSC 2474,Gladue factors,7
+G056,BCSC,2023 BCSC 377,Colonialism,7
+G057,BCSC,2023 BCSC 671,Colonialism,8
+G058,BCSC,2023 BCSC 753,Colonialism,8
+G059,BCSC,2023 BCSC 999,Colonialism,8
+G060,NSSC,2023 NSSC 317,Intergenerational trauma,8
+G061,BCSC,2024 BCSC 1022,Colonialism,8
+G062,BCSC,2024 BCSC 1191,Colonialism,8
+G063,BCSC,2024 BCSC 1204,Colonialism,8
+G064,BCSC,2024 BCSC 1313,Colonialism;Intergenerational trauma,8
+G065,BCSC,2024 BCSC 1325,Colonialism,9
+G066,BCSC,2024 BCSC 575,Residential schools,9
+G067,BCSC,2024 BCSC 947,Residential schools,9
+G068,NSPC,2024 NSPC 31,Other prejudice,9
+G069,BCCA,2025 BCCA 214,Anti-Black racism,9
+G070,BCSC,2025 BCSC 2302,Colonialism,9
+G071,BCSC,2025 BCSC 2418,Colonialism,9
+G072,BCSC,2025 BCSC 2574,Colonialism,9
+G073,BCSC,2025 BCSC 394,Colonialism,10
+G074,BCSC,2025 BCSC 735,Colonialism,10
+G075,BCSC,2025 BCSC 944,Colonialism,10
+G076,ONCA,2025 ONCA 51,Residential schools,10
+G077,BCCA,2026 BCCA 273,Colonialism,10
+G078,BCSC,2026 BCSC 1120,Gladue factors;Colonialism,10
+G079,BCSC,2026 BCSC 1207,Colonialism,10
+G080,BCSC,2026 BCSC 1377,Colonialism,10
+G081,BCSC,2026 BCSC 1446,Colonialism,11
+G082,BCSC,2026 BCSC 1477,Colonialism,11
+G083,BCSC,2026 BCSC 170,Colonialism;Systemic racism,11
+G084,BCSC,2026 BCSC 1732,Colonialism,11
+G085,BCSC,2026 BCSC 1767,Colonialism,11
+G086,BCSC,2026 BCSC 1783,Colonialism,11
+G087,BCSC,2026 BCSC 2194,Residential schools;Colonialism,11
+G088,BCSC,2026 BCSC 787,Colonialism,11
+G089,BCSC,2026 BCSC 856,Colonialism,12
+G090,NSSC,2026 NSSC 330,Residential schools;Intergenerational trauma,12
+G091,ONCA,2026 ONCA 113,Colonialism,12

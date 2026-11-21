@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1189,homicide,HIGH,Conspiracy to commit murder and attempted murder
+F1190,driving;other,HIGH,Criminal harassment; breach of recognizance; impaired driving; death threat
+F1191,driving,HIGH,Dangerous driving
+F1192,homicide,HIGH,Second degree murder
+F1193,other,HIGH,Breach of conditional sentence order
+F1194,assault,HIGH,Aggravated assault; dangerous offender assessment
+F1195,weapons;theft_fraud;other,HIGH,Firearm possession; property obtained by crime; breach of prohibition orders
+F1196,theft_fraud,HIGH,Fraud over $5000
+F1197,sexual;robbery;weapons;assault;other,HIGH,Sexual assault with weapon; robbery; prohibited weapon; choking; resisting arrest
+F1198,theft_fraud,HIGH,Fraud over $5000
+F1199,robbery;weapons;assault,HIGH,Robbery; firearm use; aggravated assault
+F1200,drugs,HIGH,Possession for purpose of trafficking cocaine MDMA cannabis
+F1201,sexual,HIGH,Sexual assault
+F1202,weapons;driving,HIGH,Loaded prohibited firearm; careless handling; failing to remain; refusing breath sample
+F1203,robbery,HIGH,Robbery
+F1204,weapons,LOW,Firearms and contraband in car; offences not fully specified
+F1205,sexual,HIGH,Sexual touching; invitation to sexual touching of children
+F1206,homicide,HIGH,Second degree murder
+F1207,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F1208,theft_fraud,HIGH,Proceeds of crime; instruments of forgery; counterfeit money
+F1209,theft_fraud,HIGH,Fraud
+F1210,driving,HIGH,Impaired driving causing death; driving while prohibited

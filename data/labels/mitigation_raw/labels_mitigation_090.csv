@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0891,N,X,N,X,X,X,X,X,X,N,HIGH,Residential school only in cited case
+M0892,N,X,X,X,X,X,X,X,X,N,HIGH,718.2(e) quoted as general law
+M0893,M,N,N,X,X,X,X,X,X,N,HIGH,SCC accepted Metis Gladue factors as mitigating
+M0894,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue diminished culpability to a degree
+M0895,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors given little impact given tenuous heritage
+M0896,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in quoted law
+M0897,X,X,X,X,M,X,X,X,X,N,HIGH,Challenging background in IRCA treated as mitigating
+M0898,R,X,N,X,X,X,X,X,X,N,LOW,Indigenous heritage did not displace denunciation and deterrence
+M0899,M,X,M,X,X,X,X,X,X,N,HIGH,Gladue factors and residential school lessened culpability
+M0900,M,X,M,X,X,X,X,X,X,N,HIGH,Gladue factors considered in moral blameworthiness; non-jail sentence

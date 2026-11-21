@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D4471,RELATED,NA,HIGH,Appointment of counsel and leave to appeal sentence
+D4819,NOT,NA,HIGH,Murder conviction appeal
+D3919,NOT,NA,HIGH,Appeal dismissed for failure to surrender
+D2886,NOT,NA,HIGH,Conviction appeals; sentence appeal abandoned
+D4065,NOT,NA,HIGH,Release pending appeal application
+D3666,NOT,NA,HIGH,Crown appeal of stay for delay
+D2856,NOT,NA,HIGH,Murder conviction appeal dismissed
+D4834,NOT,NA,HIGH,Contempt conviction appeal
+D5698,REVIEWS,FULL,HIGH,Sentence appeal on banishment probation condition allowed
+D2700,REVIEWS,MINIMAL,HIGH,Conviction dismissed; sentence varied for illegal combination
+D5513,NOT,NA,HIGH,Third party records disclosure ruling
+D5286,RELATED,NA,HIGH,Forfeiture application under CDSA
+D2959,REVIEWS,MINIMAL,HIGH,Appeal with pre-sentence custody credit granted
+D5358,REVIEWS,MINIMAL,HIGH,Sentence appeal on custody credit dismissed
+D5483,RELATED,NA,LOW,Appeal on forfeiture order remitted
+D3215,NOT,NA,HIGH,Firearms conviction appeal dismissed
+D5359,REVIEWS,FULL,HIGH,Robbery sentence appeal mostly dismissed
+D5659,NOT,NA,HIGH,Crown appeal from acquittal
+D1891,IMPOSES,FULL,HIGH,Sentencing for sexual assault with SOIRA issue
+D4879,NOT,NA,HIGH,Conviction appeal Charter search
+D2407,RELATED,NA,LOW,Constitutional challenge to murder parole ineligibility provisions
+D2343,IMPOSES,FULL,HIGH,Sentencing for firearm and drug offences
+D2575,RELATED,NA,LOW,Murder verdict disposition to forensic hospital
+D2571,REVIEWS,FULL,HIGH,Parole ineligibility appeal dismissed
+D1231,NOT,NA,HIGH,Corporate indictment appeal
+D2635,REVIEWS,MINIMAL,LOW,Conviction and sentence appeals dismissed

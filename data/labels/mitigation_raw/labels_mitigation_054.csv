@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0531,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited for general sentencing law
+M0532,N,X,X,X,X,X,X,X,X,N,LOW,Sentencing circle referral; Gladue discussed as law not weighed
+M0533,N,X,X,X,X,X,X,X,X,N,HIGH,718.2(e) quoted from Proulx
+M0534,M,X,M,M,X,X,X,X,X,N,HIGH,Residential school legacy background lessened moral culpability
+M0535,N,X,X,X,X,X,X,X,X,N,LOW,Sentencing judge referred to 718.2(e) without detail
+M0536,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for parity
+M0537,X,X,X,X,R,R,X,X,X,N,HIGH,Appellant racism claim had no factual basis
+M0538,N,X,X,M,X,X,X,X,X,N,LOW,Gladue not relied on; intergenerational trauma background credited
+M0539,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned regarding another case
+M0540,N,X,X,X,X,X,X,X,X,N,HIGH,718.2(e) quoted as statute only

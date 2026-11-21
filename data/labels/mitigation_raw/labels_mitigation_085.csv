@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0841,R,N,N,X,X,X,X,X,X,N,LOW,Gladue report noted but few mitigating factors and sentence stepped up
+M0842,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue mentioned only in review of other cases
+M0843,X,X,X,X,X,N,X,X,X,N,HIGH,Racism mention concerns complainant not offender
+M0844,X,X,X,X,X,R,X,X,X,N,HIGH,Court found no racial discrimination in offender background
+M0845,M,X,M,M,X,X,X,X,X,N,LOW,Gladue report on residential school trauma applied in sentencing
+M0846,N,X,X,X,X,X,X,X,X,N,HIGH,Crown said no Gladue factors and only restraint law cited
+M0847,M,N,M,M,X,X,X,X,X,N,HIGH,Gladue factors and residential school legacy weighed with restraint
+M0848,M,X,X,X,X,X,X,X,X,N,LOW,Gladue factors accepted in joint submission for transgender Indigenous offender
+M0849,M,X,M,X,X,X,X,X,X,N,HIGH,Appeal court reduced sentence for residential school upbringing
+M0850,X,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality

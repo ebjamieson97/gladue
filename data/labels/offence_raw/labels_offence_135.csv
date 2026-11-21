@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2949,assault,HIGH,Assault causing bodily harm
+F2950,none,LOW,Offences not shown; sexual offence likely but unstated
+F2951,assault;other,HIGH,Aggravated assault substituted for robbery; breach of probation x3
+F2952,sexual,HIGH,Sexual assault of unconscious friend
+F2953,other,HIGH,Obstructing justice by disposing of knife
+F2954,assault,HIGH,Aggravated assault by two offenders
+F2955,robbery;kidnapping,HIGH,Robbery and kidnapping
+F2956,assault;other,HIGH,Assault causing bodily harm and escaping lawful custody
+F2957,drugs,HIGH,Importing controlled substances
+F2958,robbery;kidnapping;other,HIGH,Home invasion robbery; unlawful confinement; breach of recognizance
+F2959,homicide,HIGH,Manslaughter of wife
+F2960,theft_fraud,HIGH,Obtaining fuel by false pretences and possession of stolen plate
+F2961,drugs,HIGH,Trafficking cocaine
+F2962,sexual;other,HIGH,Sexual interference; sexual assault; failing to comply with recognizance
+F2963,break_enter;robbery;theft_fraud;other,HIGH,Break and enter; robbery; theft; failure to comply
+F2964,drugs,HIGH,Possession for purpose of trafficking cocaine and ecstasy
+F2965,sexual,HIGH,Sexual assault causing bodily harm
+F2966,assault;kidnapping,HIGH,Aggravated assault and kidnapping
+F2967,homicide;assault;weapons,HIGH,Attempted murder; aggravated assault; discharging firearm with intent
+F2968,assault;other,HIGH,Aggravated assault; resisting arrest and obstruction
+F2969,sexual;other,HIGH,Sexual offences and child pornography; breach of undertaking
+F2970,drugs,HIGH,Six counts of possession of controlled substances

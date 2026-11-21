@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0301,X,X,X,X,R,X,X,X,X,N,HIGH,Anti-Black racism accepted as context but no evidence it lowered blameworthiness
+M0302,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only as general law on restorative sentencing
+M0303,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue and Ipeelee upbringing reduced moral culpability
+M0304,M,X,X,X,X,X,X,X,X,N,HIGH,Indigenous status and cultural reconnection supported six month reduction
+M0305,X,X,X,X,N,X,X,X,X,N,HIGH,Race and culture assessment mentioned only in comparison case
+M0306,M,X,N,X,X,N,X,X,X,N,HIGH,Gladue factors taken into account to equalize sentence with co-contemnor
+M0307,X,X,X,X,X,X,X,X,X,N,HIGH,Colonial style boarding school mentioned only as background
+M0308,N,X,X,N,X,X,X,X,X,N,HIGH,Indigenous intergenerational effects only in distinguished case
+M0309,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue noted as irrelevant here and in cited cases
+M0310,X,X,X,N,X,X,X,X,X,N,HIGH,Intergenerational trauma refers to harm drug trade causes families

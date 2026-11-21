@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1091,M,X,X,X,X,X,X,X,X,N,LOW,Appeal court reduced sentence under new sentencing provisions
+M1092,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue report supported rehabilitative and restorative goals
+M1093,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors diminished moral culpability supporting conditional sentence
+M1094,M,X,X,X,X,X,X,X,X,N,HIGH,Sentence set lower in light of Gladue factors
+M1095,M,X,M,M,X,X,X,X,X,N,HIGH,Intergenerational residential school trauma underlay intoxication and reduced sentence
+M1096,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue analysis prevented same sentence as co-accused
+M1097,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue considered but serious offences and record kept sentence fit
+M1098,M,M,X,X,X,X,X,X,X,N,HIGH,Colonial impacts in Gladue report taken into account
+M1099,M,X,M,M,X,X,X,X,X,N,HIGH,Intergenerational trauma from grandmother residential school listed as mitigating
+M1100,M,X,M,X,X,X,X,X,X,N,HIGH,Residential school trauma and Gladue factors diminished blameworthiness

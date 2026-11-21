@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2993,assault;other,HIGH,Aggravated assault and breach of undertaking
+F2994,homicide;weapons,HIGH,Attempted murder discharge firearm with intent and firearms offences
+F2995,assault,HIGH,Aggravated assault on intimate partner
+F2996,drugs,HIGH,Trafficking in cannabis
+F2997,assault,HIGH,Assault causing laceration (DNA order appeal)
+F2998,drugs,HIGH,Trafficking and possession for purpose of trafficking several drugs
+F2999,homicide,HIGH,Six counts first degree murder and conspiracy to commit murder
+F3000,sexual,HIGH,Sexual interference (touching person under 16) and sexual assault stayed
+F3001,driving,HIGH,Dangerous driving causing bodily harm
+F3002,driving,HIGH,Dangerous driving causing death
+F3003,sexual,HIGH,Sexual assault of child (fellatio)
+F3004,sexual,HIGH,Historic sexual assaults
+F3005,break_enter,HIGH,Break and enter
+F3006,driving,HIGH,Failing to remain at scene of accident involving death
+F3007,sexual;other,HIGH,Sexual offences against children and failure to comply with undertaking
+F3008,other,HIGH,Arson
+F3009,sexual,HIGH,Sexual assault (brief touching)
+F3010,homicide;assault,HIGH,Manslaughter and two counts aggravated assault
+F3011,drugs,HIGH,Trafficking and possession for purpose of trafficking hydromorphone and marihuana
+F3012,homicide,HIGH,Manslaughter and accessory after the fact to manslaughter
+F3013,homicide,HIGH,Manslaughter
+F3014,drugs,HIGH,Possession of marijuana for purpose of trafficking

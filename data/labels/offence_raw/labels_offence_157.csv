@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3433,theft_fraud;other,HIGH,Fraud and forgery plus breach of conditional sentence
+F3434,robbery;other,HIGH,Robbery s.344 and s.145(3) breach
+F3435,other,HIGH,Uttering threats to person and property
+F3436,homicide,HIGH,Manslaughter
+F3437,break_enter;weapons;other,HIGH,B&E with intent and weapon dangerous plus mischief harassment threats breach
+F3438,theft_fraud;driving;other,HIGH,Thefts and failure to stop plus pry bar and threats
+F3439,homicide,HIGH,Second degree murder parole ineligibility
+F3440,sexual,HIGH,Sexual assault
+F3441,driving,HIGH,Impaired driving causing death and bodily harm
+F3442,robbery,HIGH,Robbery
+F3443,assault;other,HIGH,Assault with weapon threats and obstruction of justice
+F3444,sexual,HIGH,Aggravated sexual assault
+F3445,kidnapping,HIGH,Child abduction contrary to court order
+F3446,assault;break_enter,HIGH,Aggravated assault and unlawfully in dwelling
+F3447,robbery,HIGH,Two bank robberies
+F3448,break_enter;assault,HIGH,Break and enter dwelling and assault
+F3449,none,LOW,Excerpt does not show offences
+F3450,theft_fraud;break_enter;other,HIGH,Theft B&E possession of stolen goods and counselling perjury
+F3451,weapons,HIGH,Firearm offences
+F3452,other,HIGH,Criminal harassment and uttering threats
+F3453,none,LOW,Offences not shown; long term offender designation
+F3454,other,HIGH,Criminal harassment and breach of probation

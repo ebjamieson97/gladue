@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2245,sexual,HIGH,Sexual assault of a child
+F2246,drugs,HIGH,Possession of crack cocaine for purpose of trafficking
+F2247,sexual,HIGH,Several sexual offences against complainant over many years
+F2248,drugs,HIGH,Possession and production of marijuana for trafficking
+F2249,kidnapping,HIGH,Forcible confinement of victim held for ransom
+F2250,none,LOW,Dangerous offender appeal; predicate offence not shown
+F2251,other,HIGH,Breach of long term supervision order condition
+F2252,assault;other,HIGH,Assaults and assault causing bodily harm and uttering threats
+F2253,homicide,HIGH,Second degree murder
+F2254,break_enter,HIGH,Break and enter at auto sales lot
+F2255,assault,HIGH,Aggravated assault
+F2256,drugs;theft_fraud,HIGH,Marihuana production and trafficking and theft of electricity
+F2257,homicide,HIGH,Manslaughter
+F2258,assault;other,HIGH,Assault with weapon on officer and uttering threats and release breaches
+F2259,sexual,HIGH,Sexual interference and internet luring
+F2260,robbery;weapons;kidnapping,HIGH,Robbery and firearm offences and hostage taking
+F2261,assault;break_enter,HIGH,Aggravated assault and four break and enters with theft
+F2262,drugs,HIGH,Drug trafficking with mandatory minimum Charter challenge
+F2263,theft_fraud,HIGH,Fraud over $5000 and uttering forged documents
+F2264,drugs;theft_fraud,HIGH,Possession of cocaine for trafficking and proceeds of crime
+F2265,other,HIGH,Communicating to obtain sexual services
+F2266,drugs;weapons,HIGH,Drug trafficking and firearm offences

@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F1013,other,HIGH,Breach of undertaking only after other convictions quashed
+F1014,assault;other,HIGH,Two counts of assault and uttering death threats
+F1015,robbery;weapons,HIGH,Firearm in robbery and discharging firearm with intent to wound
+F1016,sexual,HIGH,Multiple historical sexual offences against three children
+F1017,sexual;other,HIGH,Child pornography distribution possession luring and breach of order
+F1018,weapons,HIGH,Discharge firearm with intent and firearm possession offences
+F1019,assault,HIGH,Assault and assault causing bodily harm
+F1020,assault,HIGH,Aggravated assault
+F1021,sexual;other,HIGH,Sexual assault of 13 year old and breach of recognizance
+F1022,sexual,HIGH,Sexual assault
+F1023,driving,HIGH,Impaired driving causing bodily harm and dangerous driving causing bodily harm
+F1024,homicide,HIGH,First degree murder by youth adult sentence issue
+F1025,break_enter;theft_fraud,HIGH,Two break and enters and possession of stolen property
+F1026,driving;assault,HIGH,Impaired causing death and harm refusing breath and assaulting officer
+F1027,driving,HIGH,Impaired driving causing death
+F1028,break_enter;robbery;kidnapping;other,HIGH,Break and enter with robbery confinement masked and breach of recognizance
+F1029,homicide,HIGH,Attempted murder
+F1030,sexual,HIGH,Sexual assault
+F1031,sexual,HIGH,Sexual assault of young nephew
+F1032,drugs,HIGH,Crack cocaine drug offence
+F1033,assault;other,HIGH,Assaults aggravated assault and breach of undertaking
+F1034,assault,HIGH,Assault with a weapon dangerous offender application

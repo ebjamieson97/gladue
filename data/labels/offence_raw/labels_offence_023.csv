@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0485,drugs,HIGH,Possession for purpose of trafficking marihuana
+F0486,driving,HIGH,Impaired driving
+F0487,theft_fraud;driving;weapons;assault,HIGH,Stolen property and prohibited driving and firearms and assault
+F0488,none,LOW,Only proceeds fine appeal; underlying offence not shown
+F0489,assault,HIGH,Two counts of common assault
+F0490,theft_fraud,HIGH,Possession of stolen property
+F0491,robbery;kidnapping;weapons;assault;other,HIGH,Home invasion robbery and confinement and firearm offences
+F0492,other,LOW,Harassing calls and breach of probation; details unclear
+F0493,theft_fraud;assault,HIGH,Attempt fraud and assault peace officer and personation
+F0494,homicide,HIGH,First degree murder and attempted murder
+F0495,drugs,HIGH,Possession of cocaine for purpose of trafficking
+F0496,break_enter;assault;other,HIGH,Break and enter with assault and uttering threats
+F0497,break_enter;theft_fraud,HIGH,Break and enter theft and attempt and theft
+F0498,driving,HIGH,Refusing breath demand after accident causing death
+F0499,homicide,HIGH,Second degree murder
+F0500,sexual,HIGH,Sexual assault
+F0501,sexual,HIGH,Incest involving two half-sisters
+F0502,homicide,HIGH,Second degree murder
+F0503,kidnapping;other,HIGH,Trafficking benefit and advertising sexual services and threat
+F0504,assault;other,HIGH,Aggravated assault and breaches of recognizance
+F0505,driving;other,HIGH,Dangerous driving and criminal negligence causing bodily harm
+F0506,sexual,HIGH,Sexual assault causing bodily harm

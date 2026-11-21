@@ -1,0 +1,30 @@
+id,label,depth,confidence,note
+D0923,NOT,NA,HIGH,Recusal application before trial
+D0811,REVIEWS,FULL,HIGH,Sentence appeal for sexual assault dismissed
+D0899,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence varied to conditional sentence
+D0564,NOT,NA,HIGH,Conviction appeal allowed and acquittals entered
+D0997,REVIEWS,FULL,HIGH,Murder conviction appeal dismissed; parole ineligibility reduced
+D0648,RELATED,NA,HIGH,Evidence admissibility ruling at sentencing hearing
+D0885,NOT,NA,LOW,SCC jurisdiction over leave to appeal
+D0801,RELATED,NA,HIGH,Appeal about SOIRA order
+D0951,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence reduced for excess over maximum
+D0483,NOT,NA,HIGH,Evidence admissibility ruling at trial
+D0677,REVIEWS,FULL,HIGH,Conviction appeal dismissed; leave to appeal sentence denied
+D0561,NOT,NA,HIGH,Section 11(b) delay appeal
+D0810,REVIEWS,FULL,HIGH,Appeal of convictions and dangerous offender designation
+D0529,NOT,NA,HIGH,Acquittal on self-defence
+D0956,NOT,NA,HIGH,Conviction appeal on delay dismissed; bail terms
+D0666,RELATED,NA,HIGH,Application for post-sentence report in sentence appeal
+D0925,NOT,NA,HIGH,Summary conviction appeals about certificate evidence
+D0498,NOT,NA,HIGH,Pretrial ruling on editing of statements
+D0915,NOT,NA,HIGH,Civil malicious prosecution appeal
+D0799,IMPOSES,FULL,HIGH,Reasons for sentence for sexual offences against child
+D0833,NOT,NA,HIGH,Murder conviction appeal on jury instructions
+D0530,NOT,NA,LOW,Conviction appeal dismissed; no sentence discussion
+D0500,NOT,NA,HIGH,Highway Traffic Act information quashing appeal
+D0528,NOT,NA,HIGH,Conviction appeal dismissed; sentence appeal abandoned
+D0838,NOT,NA,HIGH,Release pending appeal application dismissed
+D0996,REVIEWS,MINIMAL,HIGH,Youth disposition appeal on consecutive term allowed
+D0832,REVIEWS,FULL,HIGH,Sentence appeal for impaired driving; sentence reduced slightly
+D0772,REVIEWS,FULL,HIGH,Summary conviction sentence appeal for child pornography
+D0669,NOT,NA,HIGH,Conviction appeal for unlawfully at large allowed

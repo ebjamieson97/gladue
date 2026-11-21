@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F2377,assault,HIGH,Assault causing bodily harm
+F2378,sexual;other,HIGH,Dangerous offender; predicate sexual assault and breach of probation
+F2379,assault;other,HIGH,Assaults; resisting police; failing to attend court
+F2380,robbery;assault,HIGH,Robbery; attempt robbery; assault causing bodily harm; assaults
+F2381,homicide,HIGH,Second degree murder
+F2382,driving,HIGH,Failing to stop for police; dangerous driving; driving while revoked
+F2383,homicide;assault,HIGH,Four attempted murders; aggravated assault
+F2384,none,LOW,Offences not shown in excerpt
+F2385,theft_fraud,HIGH,Theft under $5000
+F2386,assault,HIGH,Assault with a weapon (vehicle)
+F2387,theft_fraud;other,HIGH,Fraud; false pretences; breach of probation; failing to attend court
+F2388,kidnapping;drugs,HIGH,Hostage-taking; possession for trafficking; producing drug
+F2389,assault;weapons,HIGH,Assault causing bodily harm; pointing a firearm
+F2390,theft_fraud,HIGH,Theft and fraud from elderly mother
+F2391,break_enter;weapons,HIGH,Break and enter; firearm use; prohibited weapons; attempt break and enter
+F2392,drugs;other;driving,HIGH,Possession for trafficking; resisting police; driving while prohibited
+F2393,homicide,HIGH,Manslaughter after MDMA sale
+F2394,none,LOW,Offences not shown in excerpt
+F2395,other,HIGH,Immigration Act offences and forged passport use
+F2396,other;assault,HIGH,Two counts extortion; aggravated assault
+F2397,drugs,HIGH,Trafficking cocaine; possession of drugs for trafficking
+F2398,drugs,LOW,Drug courier offence; type implied

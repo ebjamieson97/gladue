@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F3279,theft_fraud,LOW,NCR finding after theft under charge; review board disposition
+F3280,none,LOW,Offence not shown in excerpt
+F3281,assault;other,HIGH,Assault offences and uttering threats against partner and infant son
+F3282,drugs,HIGH,Conspiracy to import cocaine
+F3283,sexual;kidnapping;weapons,HIGH,Sexual assault with weapon confinement weapon possession; dangerous offender
+F3284,kidnapping;robbery,HIGH,Unlawful confinement and robbery
+F3285,robbery,HIGH,Attempted robbery
+F3286,drugs,HIGH,Three counts trafficking cocaine
+F3287,drugs,HIGH,Two counts trafficking cocaine
+F3288,assault,HIGH,Assault causing bodily harm
+F3289,drugs,HIGH,Production of marihuana
+F3290,sexual,HIGH,Making available child pornography
+F3291,weapons,HIGH,Eleven weapons offences including prohibition breach
+F3292,homicide,HIGH,Manslaughter by stabbing
+F3293,break_enter;assault,HIGH,Home invasion and assault causing bodily harm on taxi driver
+F3294,homicide,HIGH,Manslaughter
+F3295,weapons;other,HIGH,Loaded firearm possession plus threatening and mischief
+F3296,homicide,HIGH,Manslaughter and two counts of second degree murder
+F3297,drugs;weapons;driving,HIGH,Drug trafficking weapons offences and failing to stop
+F3298,none,LOW,Offence not shown in excerpt
+F3299,driving,HIGH,Impaired and dangerous driving causing death
+F3300,none,LOW,Offence not shown in excerpt

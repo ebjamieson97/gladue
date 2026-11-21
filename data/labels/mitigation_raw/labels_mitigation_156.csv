@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M1551,M,X,X,X,X,X,X,X,X,N,HIGH,Indigenous background and early substance abuse agreed as mitigating
+M1552,M,N,N,X,X,X,X,X,X,N,HIGH,Court found Indigenous background warranted certain mitigation
+M1553,N,X,X,X,X,X,X,X,X,N,HIGH,General statements of law about Gladue and other cases
+M1554,N,X,X,X,X,X,X,X,X,N,LOW,Gladue factors only listed in guidance for youth analysis
+M1555,N,X,X,X,X,X,X,X,X,N,LOW,Crown and defence Gladue submissions described only
+M1556,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited for general proportionality principle
+M1557,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited only for individualized sentencing
+M1558,N,X,X,X,X,X,X,X,X,N,HIGH,Statutory and Ipeelee references general only
+M1559,X,X,X,X,X,X,X,X,N,Y,HIGH,Offence involved racial animus against Asian victims
+M1560,N,X,X,X,X,X,X,X,X,N,HIGH,General reference to 718.2(e) in conditional sentence context

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0811,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report read but joint submission and no stated weight
+M0812,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue only in quoted case law
+M0813,R,X,X,X,X,X,X,X,X,N,HIGH,Gladue report considered but restorative aims did not outweigh denunciation
+M0814,X,X,X,X,X,N,X,X,X,N,HIGH,Racist remarks by witness only relevant to trial not sentence
+M0815,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2(e) mentioned in YCJA statutory analysis
+M0816,M,X,X,X,M,N,X,X,X,N,HIGH,Background and systemic racism context reduced moral responsibility and record weight
+M0817,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors only in quoted case law
+M0818,R,X,N,N,X,X,X,X,X,N,LOW,Difficulties recognised but minimal community contact and no tailored sentence
+M0819,N,X,X,X,X,N,X,X,X,N,LOW,Gladue considerations in report with no stated weight
+M0820,M,X,X,X,X,X,X,X,X,N,HIGH,Gladue factors reduced moral blameworthiness somewhat

@@ -1,0 +1,11 @@
+id,gladue_factors,colonialism,res_school,intergen_trauma,anti_black_racism,systemic_racism,islamophobia,white_supremacy,other_prejudice,hate_motivated,confidence,note
+M0321,N,X,X,X,X,X,X,X,X,N,LOW,Gladue report obtained but not shown weighed in joint submission
+M0322,N,X,X,X,X,X,X,X,X,N,HIGH,Gladue cited by counsel for restraint with first offenders
+M0323,X,X,X,X,M,X,X,X,X,N,LOW,Race and culture assessment background appears to temper sentence
+M0324,M,X,X,X,X,X,X,X,X,N,HIGH,Failure to consider Aboriginal background led to reduced sentence
+M0325,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee cited only for proportionality
+M0326,M,X,X,X,X,N,X,X,X,N,HIGH,Judge balanced Gladue factors against record and appeal upheld
+M0327,N,X,X,X,X,X,X,X,X,N,HIGH,Section 718.2e quoted as general law
+M0328,N,X,X,X,X,X,X,X,X,N,HIGH,Ipeelee general law and Metis offender in other case
+M0329,M,M,M,N,X,X,X,X,X,N,HIGH,Gladue colonialism and residential school reduced moral blameworthiness
+M0330,M,M,N,X,X,N,X,X,X,N,HIGH,Colonial loss of Metis culture reduced moral blameworthiness

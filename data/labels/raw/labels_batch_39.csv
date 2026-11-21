@@ -1,0 +1,29 @@
+id,label,depth,confidence,note
+D0855,REVIEWS,MINIMAL,HIGH,Appeal of fraud and theft sentences and pleas dismissed
+D0767,IMPOSES,FULL,HIGH,Sentence for manslaughter on joint submission
+D0579,IMPOSES,FULL,HIGH,Sentence for accessory after the fact on joint recommendation
+D0821,REVIEWS,FULL,HIGH,Dangerous offender indeterminate sentence appeal dismissed
+D0881,NOT,NA,HIGH,Application for subpoena in conviction appeal
+D0693,RELATED,NA,HIGH,Crown appeal on judge recusal in dangerous offender rehearing
+D0492,NOT,NA,HIGH,Protection of witnesses and subpoena application
+D0618,RELATED,NA,HIGH,Breach of conditional sentence order disposition
+D0710,REVIEWS,MINIMAL,HIGH,Sentence appeal allowed for enhanced presentence credit
+D0729,IMPOSES,FULL,HIGH,Sentence for robbery with firearm after jury verdict
+D0593,IMPOSES,FULL,HIGH,Sentence for historic sexual offences after trial
+D0634,REVIEWS,FULL,HIGH,Sentence appeal partly allowed for aggravated assault and accessory
+D0610,REVIEWS,FULL,HIGH,Sentence appeal for aggravated assault dismissed
+D0714,NOT,NA,HIGH,Bail pending appeal granted
+D0671,IMPOSES,FULL,HIGH,Sentence for manslaughter after jury verdict
+D0555,NOT,NA,HIGH,Summary conviction appeal reasons address conviction only
+D0681,IMPOSES,FULL,HIGH,Sentence for imitation firearm offences and threats
+D0495,NOT,NA,HIGH,Conviction appeal on Charter search issue
+D0645,NOT,NA,HIGH,Release pending appeal from conviction
+D0486,NOT,NA,HIGH,Crown appeal on care or control acquittal
+D0613,NOT,NA,LOW,Contempt finding and fine for publication ban breach
+D0976,NOT,NA,HIGH,Crown appeal of stay of proceedings
+D0754,NOT,NA,HIGH,Extension of time to appeal convictions refused
+D0504,NOT,NA,HIGH,Conviction appeal allowed and sentence appeal abandoned
+D0898,RELATED,NA,HIGH,Crown appeal adding mandatory firearms prohibition
+D0690,REVIEWS,FULL,HIGH,Conviction and sentence appeals for drug conspiracy dismissed
+D0676,REVIEWS,FULL,HIGH,Crown sentence appeal allowed for illegal concurrent sentence
+D0640,REVIEWS,FULL,HIGH,Crown sentence appeal for sexual assault dismissed

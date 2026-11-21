@@ -1,0 +1,37 @@
+|--- density <= 6.76
+|   |--- log_n_appeal_phrase <= 0.90
+|   |   |--- log_n_close_orders <= 1.50
+|   |   |   |--- density <= 1.54
+|   |   |   |   |--- class: False
+|   |   |   |--- density >  1.54
+|   |   |   |   |--- class: False
+|   |   |--- log_n_close_orders >  1.50
+|   |   |   |--- class: False
+|   |--- log_n_appeal_phrase >  0.90
+|   |   |--- log_n_sentenc <= 2.01
+|   |   |   |--- class: False
+|   |   |--- log_n_sentenc >  2.01
+|   |   |   |--- class: True
+|--- density >  6.76
+|   |--- log_n_close_orders <= 0.90
+|   |   |--- log_n_close500 <= 0.90
+|   |   |   |--- statute718 <= 0.50
+|   |   |   |   |--- class: False
+|   |   |   |--- statute718 >  0.50
+|   |   |   |   |--- class: True
+|   |   |--- log_n_close500 >  0.90
+|   |   |   |--- open_application <= 0.50
+|   |   |   |   |--- class: True
+|   |   |   |--- open_application >  0.50
+|   |   |   |   |--- class: True
+|   |--- log_n_close_orders >  0.90
+|   |   |--- log_n_aggmit <= 0.35
+|   |   |   |--- log_n_application <= 1.24
+|   |   |   |   |--- class: True
+|   |   |   |--- log_n_application >  1.24
+|   |   |   |   |--- class: True
+|   |   |--- log_n_aggmit >  0.35
+|   |   |   |--- log_n_conv_appeal <= 0.35
+|   |   |   |   |--- class: True
+|   |   |   |--- log_n_conv_appeal >  0.35
+|   |   |   |   |--- class: True

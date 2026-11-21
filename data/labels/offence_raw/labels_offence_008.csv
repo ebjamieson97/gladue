@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0155,weapons;assault;other;theft_fraud,HIGH,Pointing firearm; assault with weapon; threats; weapon possession; stolen property
+F0156,drugs;driving;other,LOW,Possession for trafficking; new driving while prohibited and breaches
+F0157,weapons,HIGH,Firing rifle near wife in domestic dispute
+F0158,robbery,HIGH,Two bank robberies
+F0159,other,HIGH,Attempted obstruction of justice by police officer
+F0160,sexual,HIGH,Sexual assaults on patients by chiropractor
+F0161,robbery;kidnapping,HIGH,Two robberies and a kidnapping
+F0162,homicide,HIGH,Manslaughter
+F0163,theft_fraud,LOW,Apparent fraud with restitution order
+F0164,sexual;kidnapping,HIGH,Sexual assault and unlawful confinement
+F0165,assault;other,HIGH,Assaults on ex-wife; uttering threats; stalking
+F0166,other,HIGH,Failing to file income tax returns
+F0167,other,HIGH,Uttering threat to Crown counsel
+F0168,other;assault,HIGH,Criminal harassment; assault; threatening
+F0169,sexual;assault,HIGH,Sexual interference and assault
+F0170,driving,LOW,Provincial failure to yield on left turn
+F0171,sexual,HIGH,Sexual interference; incest; invitation to touching; sexual assault
+F0172,driving,HIGH,Impaired or dangerous driving causing bodily harm
+F0173,other,HIGH,Accepting benefits as government employee
+F0174,drugs,HIGH,Possession of cocaine and ecstasy for trafficking
+F0175,drugs,HIGH,Trafficking fentanyl; possession of carfentanil for trafficking
+F0176,theft_fraud,LOW,Apparent fraud by con-man

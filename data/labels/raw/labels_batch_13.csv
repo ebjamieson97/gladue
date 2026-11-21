@@ -1,0 +1,27 @@
+id,label,depth,confidence,note
+D062,NOT,NA,HIGH,Trial verdict on aggravated assault; sentence deferred
+D330,REVIEWS,FULL,HIGH,Sentence appeal allowed and sentence varied to 18 months
+D141,REVIEWS,FULL,HIGH,Sentence appeal for robberies dismissed as fit
+D097,REVIEWS,MINIMAL,HIGH,Conviction appeal dismissed; sentence varied to joint submission
+D019,NOT,NA,HIGH,Conviction appeal allowed and new trial ordered
+D305,IMPOSES,FULL,HIGH,Reasons for sentence imposing conditional sentence for drug trafficking
+D409,REVIEWS,FULL,HIGH,Conviction and sentence appeal for robbery dismissed
+D352,REVIEWS,MINIMAL,HIGH,Sentence appeal dismissed; 22 months fit for sexual offence
+D290,NOT,NA,LOW,Habeas corpus appeal dismissed; legality of sentence res judicata
+D289,IMPOSES,FULL,HIGH,Dangerous offender application decision after guilty pleas
+D044,NOT,NA,HIGH,Appeal allowed on evidence admissibility; new trial ordered
+D472,REVIEWS,FULL,HIGH,Conviction appeal dismissed; conditional sentence varied on appeal
+D338,NOT,NA,HIGH,Crown appeal from acquittals allowed; new trial
+D465,NOT,NA,HIGH,Conviction appeal on similar fact evidence dismissed
+D076,NOT,NA,HIGH,Leave to appeal summary conviction appeal dismissed
+D207,RELATED,NA,LOW,Extension of time to appeal sentence denied
+D249,RELATED,NA,LOW,Parole revocation habeas corpus appeal dismissed
+D280,IMPOSES,FULL,HIGH,Reasons for sentence for aggravated assault
+D356,NOT,NA,LOW,Conviction appeal reasons for drug conspiracy; sentence appeal separate
+D392,NOT,NA,HIGH,Bail pending appeal denied
+D278,REVIEWS,FULL,HIGH,Sentence appeal for assault causing bodily harm dismissed
+D218,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal dismissed
+D247,REVIEWS,FULL,HIGH,Conviction appeal dismissed; sentence appeal dismissed
+D127,REVIEWS,FULL,HIGH,Leave to appeal sentence denied for lack of merit
+D065,NOT,NA,HIGH,Conviction appeal for historical sexual offences dismissed
+D293,REVIEWS,FULL,HIGH,Crown appeal increased conditional sentence to custody

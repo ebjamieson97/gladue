@@ -1,0 +1,23 @@
+id,categories,confidence,note
+F0089,weapons,HIGH,Possession of loaded prohibited firearm; manslaughter withdrawn
+F0090,robbery;weapons;drugs;other,HIGH,Armed bank robbery; firearm; trafficking cocaine; breach of youth sentence
+F0091,none,LOW,Offence unspecified; described only as very serious
+F0092,none,LOW,Offence unspecified; joint submission miscommunication
+F0093,sexual,HIGH,Indecent assault on a child
+F0094,homicide;assault;weapons,HIGH,Second degree murder; attempted murder; aggravated assault; reckless discharge of firearm
+F0095,theft_fraud;break_enter;driving;other,HIGH,Theft; fraud; break and enter; dangerous driving; breaches of probation
+F0096,assault;driving,HIGH,Assault by stabbing and impaired driving
+F0097,driving,HIGH,Driving while disqualified
+F0098,weapons,HIGH,Possession of firearm; possession while prohibited
+F0099,robbery;weapons;other,HIGH,Robbery with imitation firearm; robbery; weapon possession; disguise with intent
+F0100,other,HIGH,Criminal harassment; threatening death; breach of probation
+F0101,break_enter;kidnapping,LOW,Home invasion with hostage-taking at gunpoint
+F0102,sexual,HIGH,Sexual assault of child; dangerous offender designation
+F0103,weapons;break_enter,HIGH,Possession of loaded firearm; break and enter
+F0104,theft_fraud,HIGH,False GST refund claims under Excise Tax Act
+F0105,assault;other,HIGH,Assault; mischief; breach of probation
+F0106,other,HIGH,Contempt of court for refusing to testify
+F0107,drugs,HIGH,Trafficking cocaine three times
+F0108,drugs,HIGH,Production of cannabis
+F0109,assault,HIGH,Aggravated assault
+F0110,other,HIGH,Extortion
