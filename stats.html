@@ -83,7 +83,7 @@
   .chart .grid line { stroke: var(--line); stroke-width: 1; }
   .chart .axis text { fill: var(--muted); font-size: 11px; font-family: system-ui, sans-serif; }
   .chart .hit { fill: transparent; cursor: default; }
-  .tip { position: absolute; pointer-events: none; background: var(--ink); color: var(--panel); font-size: 12px; line-height: 1.4;
+  .tip { position: absolute; z-index: 5; pointer-events: none; background: var(--ink); color: var(--panel); font-size: 12px; line-height: 1.4;
          padding: 6px 9px; border-radius: 6px; white-space: nowrap; transform: translate(-50%, -110%); opacity: 0; transition: opacity .1s; }
   details.numbers { margin-top: 10px; font-size: 13px; color: var(--muted); }
   details.numbers summary { cursor: pointer; }
@@ -280,7 +280,10 @@
         const val = isPct ? pctOf(d) : d.mitigating;
         tip.innerHTML = `<b>${d.year}${partial && d.year === last ? " (partial)" : ""}</b><br>${fmt(d.mitigating)} of ${fmt(d.sentencing)} sentencing decisions (${pctOf(d).toFixed(1)}%)`;
         const svgBox = svg.getBoundingClientRect(), boxR = box.getBoundingClientRect();
-        tip.style.left = (svgBox.left - boxR.left + cx * sc) + "px";
+        // Keep the tooltip inside its own chart box (it is centred on the point by translate(-50%))
+        const half = tip.offsetWidth / 2, pad = 6;
+        const left = Math.min(Math.max(svgBox.left - boxR.left + cx * sc, half + pad), boxR.width - half - pad);
+        tip.style.left = left + "px";
         tip.style.top = (svgBox.top - boxR.top + 20) + "px";
         tip.style.opacity = 1;
         if (dot) {
