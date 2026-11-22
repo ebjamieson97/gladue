@@ -39,6 +39,9 @@ def main():
         rows = [r for r in rows if (r[0], r[1]) not in done and (r[0], r[1]) in picks]
     else:
         rows = [r for r in rows if r[1] in site]
+    if "--only" in sys.argv:         # --only FILE: also restrict to these citations (one per line)
+        only = set(Path(sys.argv[sys.argv.index("--only") + 1]).read_text(encoding="utf-8").splitlines())
+        rows = [r for r in rows if r[1] in only]
     if not rows:
         print("Nothing new to do.")
         return

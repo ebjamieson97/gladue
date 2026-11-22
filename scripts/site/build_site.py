@@ -41,9 +41,11 @@ OUTCOMES = {"imposed": "Sentence imposed", "appeal_upheld": "Appeal: sentence up
 # Which appeal decisions go on the site (from pipeline/6a_classify_appeals.js; answers in scripts/site/work/raw/).
 # Trial-court sentencings are always included. Of the appeals, only these categories are:
 APPEAL_CATEGORIES_SHOWN = {"corrected"}
-# These are shown only when their two pictures describe the crime AND at least one specific systemic factor in the
-# offender's life (checked by a reader; answers in scripts/site/work/check_raw/, made by make_check_batches.py).
-APPEAL_CATEGORIES_IF_DESCRIBED = {"upheld_considered", "crown_appeal_dismissed"}
+# Every other appeal (upheld, Crown appeal dismissed, reduced or increased for other reasons, ...) is shown only when its
+# two pictures describe the crime AND at least one specific systemic factor in the offender's life (checked by a reader;
+# answers in scripts/site/work/check_raw*/, made by make_check_batches.py). The direction check (below) separately
+# requires the APPEAL court's own view that the factor mitigates.
+APPEAL_CATEGORIES_IF_DESCRIBED = "all other categories"
 APPEAL_WORK = Path(__file__).resolve().parent / "work"
 
 # Rationale pictures must show the court's own reasoning (or text the judge explicitly adopts). Cases whose latest
@@ -142,8 +144,15 @@ def sentence_details(r):
     return {k: v for k, v in out.items() if v is not None and v is not False and v != ""}   # keeps 0 months
 
 
-def write_stats():
-    """site/stats.js: counts for the Statistics page, from the full set of criminal decisions and the sentencing index."""
+def write_stats(shown):
+    """site/stats.js: counts for the Statistics page, from the full set of criminal decisions and the sentencing index.
+
+    "Mitigating" counts only the decisions shown on the site (`shown`, a list of citations): those where the court's
+    reasons CLEARLY treat a systemic factor as mitigating and pass every check. So the Statistics page always matches
+    the casebook.
+    """
+    import pandas as pd
+    casebook = pd.DataFrame({"citation": sorted(set(shown))})            # noqa: F841 (used by name in SQL)
     names = {"british_columbia": "British Columbia", "ontario": "Ontario", "nova_scotia": "Nova Scotia",
              "newfoundland_and_labrador": "Newfoundland and Labrador", "canada": "Canada (Supreme Court)"}
     crim = duckdb.sql(f"""SELECT province, court, count(*) AS criminal, count(*) FILTER (is_sentencing) AS sentencing,
@@ -152,11 +161,11 @@ def write_stats():
                           GROUP BY ALL""").fetchall()
     # Systemic factors (Gladue factors, residential schools, colonialism, intergenerational trauma, anti-Black and other
     # racism or prejudice). Mentioned: a systemic-factor keyword in the text, or the AI reading found the court dealing
-    # with any of them (accepted, rejected or only mentioned). Mitigating: at least one treated as mitigating.
+    # with any of them (accepted, rejected or only mentioned). Mitigating: shown on the site (see the docstring).
     glad = {r[0]: r[1:] for r in duckdb.sql(f"""
         SELECT i.court,
                count(*) FILTER (i.mitigation_keyword OR coalesce(l.any_mentioned, false)),
-               count(*) FILTER (i.mitigating_any_systemic)
+               count(*) FILTER (i.citation IN (SELECT citation FROM casebook))
         FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}') i
         LEFT JOIN (SELECT court, citation,
                           list_has_any([systemic_gladue_factors, systemic_colonialism, systemic_res_school, systemic_intergen_trauma,
@@ -180,12 +189,12 @@ def write_stats():
              "sentencing": sum(p["sentencing"] for p in provinces.values()),
              "systemic_mentioned": sum(v[0] for v in glad.values()), "systemic_mitigating": sum(v[1] for v in glad.values()),
              "built": (info.get("built_at_utc") or "")[:10]}
-    imp = duckdb.sql(f"""SELECT count(*) FILTER (imposes), count(*) FILTER (imposes AND mitigating_any_systemic)
+    imp = duckdb.sql(f"""SELECT count(*) FILTER (imposes), count(*) FILTER (imposes AND citation IN (SELECT citation FROM casebook))
                          FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}')""").fetchall()[0]
     stats["imposes"], stats["imposes_mitigating"] = imp           # trial courts sentencing the offender themselves
     # By year, from 1993 (earlier years have only a handful of decisions in the dataset)
     stats["by_year"] = [{"year": int(y), "sentencing": int(n), "mitigating": int(m)} for y, n, m in duckdb.sql(f"""
-        SELECT year, count(*), count(*) FILTER (mitigating_any_systemic)
+        SELECT year, count(*), count(*) FILTER (citation IN (SELECT citation FROM casebook))
         FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}') WHERE year >= 1993
         GROUP BY year ORDER BY year""").fetchall()]
     (SITE / "stats.js").write_text("window.STATS = " + json.dumps(stats, ensure_ascii=False) + ";\n", encoding="utf-8")
@@ -229,14 +238,12 @@ def main():
         if r["sentence_outcome"] != "imposed":                 # an appeal: keep only the categories shown
             key = (r["court"], r["citation"])
             cat = cats.get(key, {}).get("category", "not classified")
-            if cat in APPEAL_CATEGORIES_IF_DESCRIBED:
-                ok = checks.get(key) == (True, True)
-                tally[f"{cat} ({'shown: crime and factor described' if ok else 'left out: not described'})"] += 1
-                if not ok:
-                    continue
-            else:
+            if cat in APPEAL_CATEGORIES_SHOWN:
                 tally[cat] += 1
-                if cat not in APPEAL_CATEGORIES_SHOWN:
+            else:
+                ok = checks.get(key) == (True, True)
+                tally[f"{cat} ({'shown: crime and factor described' if ok else 'left out: not described or not checked'})"] += 1
+                if not ok:
                     continue
         else:
             tally["trial sentencing"] += 1
@@ -280,7 +287,7 @@ def main():
         shutil.copy2(Path(__file__).with_name(page), SITE / page)
     shutil.copy2(Path(__file__).with_name("README.md"), SITE / "README.md")
     (SITE / ".nojekyll").write_text("", encoding="utf-8")       # GitHub Pages: serve files as they are
-    write_stats()                                                # data for the Statistics page
+    write_stats([c["citation"] for c in cases])                                                # data for the Statistics page
     import sys as _sys                                           # model results for the Statistics page
     _sys.path.insert(0, str(ROOT / "scripts" / "analysis"))
     from sentence_regression import results

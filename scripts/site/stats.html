@@ -172,7 +172,7 @@
     <div class="node court">
       <div class="cname">${esc(c.name)}</div>
       <div class="row"><span>Sentencing decisions</span><b>${fmt(c.sentencing)}</b></div>
-      <div class="row"><span>Systemic factor mitigating</span><b>${fmt(c.systemic_mitigating)} <span style="font-weight:400">(${pct(c.systemic_mitigating, c.sentencing)})</span></b></div>
+      <div class="row"><span>Systemic factor clearly mitigating</span><b>${fmt(c.systemic_mitigating)} <span style="font-weight:400">(${pct(c.systemic_mitigating, c.sentencing)})</span></b></div>
       <div class="meter g"><span style="width:${c.sentencing ? (100 * c.systemic_mitigating / c.sentencing).toFixed(1) : 0}%"></span></div>
     </div>`;
 
@@ -187,7 +187,7 @@
       <div class="what">are sentencing decisions (${pct(S.sentencing, S.criminal)})</div>
     </div>
     <div class="stem"></div>
-    <div class="legend"><span><i style="background:var(--gladue)"></i>share of sentencing decisions where the court treated a systemic factor as mitigating</span></div>
+    <div class="legend"><span><i style="background:var(--gladue)"></i>share of sentencing decisions where the court clearly treated a systemic factor as mitigating</span></div>
     <div class="provinces" style="--n:${provs.length}">
       ${provs.map(p => {
         const mit = p.courts.reduce((n, c) => n + c.systemic_mitigating, 0);
@@ -202,7 +202,7 @@
     </div>
     <div class="node gladue" style="margin-top:30px">
       <div class="mid">${fmt(S.systemic_mitigating)} · ${pct(S.systemic_mitigating, S.sentencing)}</div>
-      <div class="what">of the ${fmt(S.sentencing)} <strong>sentencing decisions</strong> treat a systemic factor as mitigating:
+      <div class="what">of the ${fmt(S.sentencing)} <strong>sentencing decisions</strong> clearly treat a systemic factor as mitigating:
         Gladue factors, residential schools, colonialism, intergenerational trauma, or anti-Black or other racism</div>
     </div>
     <div class="stem"></div>
@@ -210,16 +210,18 @@
       <div class="node gladue">
         <div class="mid">${fmt(S.imposes_mitigating)} · ${pct(S.imposes_mitigating, S.imposes)}</div>
         <div class="what">of the ${fmt(S.imposes)} <strong>trial-court sentencings</strong>, where the judge passes sentence
-          on the offender, treat a systemic factor as mitigating</div>
+          on the offender, clearly treat a systemic factor as mitigating</div>
       </div>
       <div class="node gladue">
         <div class="mid">${fmt(S.systemic_mitigating - S.imposes_mitigating)} · ${pct(S.systemic_mitigating - S.imposes_mitigating, S.sentencing - S.imposes)}</div>
         <div class="what">of the ${fmt(S.sentencing - S.imposes)} <strong>appeals and other sentencing decisions</strong>, mostly
-          appeal courts reviewing a sentence, treat a systemic factor as mitigating</div>
+          appeal courts reviewing a sentence, clearly treat a systemic factor as mitigating</div>
       </div>
     </div>
     <p class="note">Sentencing decisions were identified by a statistical model checked against 6,084 hand-labelled decisions
-      (about 95% accurate). Whether a court treated a factor as mitigating comes from a reading of every sentencing decision by Sonnet 5.5 and Opus 5.5.</p>`;
+      (about 95% accurate). Sonnet 5.5 and Opus 5.5 read every sentencing decision. A decision is counted only when the
+      court's own reasons clearly state that a systemic factor mitigated the sentence; these are exactly the cases in the
+      <a href="catalogue.html">casebook</a>.</p>`;
 
   // Trend charts: one series each, year on the x-axis (no legend needed: the title names the series)
   const Y = (S.by_year || []);
@@ -262,11 +264,11 @@
     const note = partial ? ` ${last} is a partial year.` : "";
     document.getElementById("trend").innerHTML = `
       <div class="charts">
-        ${chart("c-pct", "Share of sentencing decisions with a systemic factor treated as mitigating", "Per cent of sentencing decisions, by year." + note, pctOf, v => v.toFixed(1) + "%", "pct")}
-        ${chart("c-n", "Number of sentencing decisions with a systemic factor treated as mitigating", "Decisions per year." + note, d => d.mitigating, v => v, "count")}
+        ${chart("c-pct", "Share of sentencing decisions with a systemic factor clearly treated as mitigating", "Per cent of sentencing decisions, by year." + note, pctOf, v => v.toFixed(1) + "%", "pct")}
+        ${chart("c-n", "Number of sentencing decisions with a systemic factor clearly treated as mitigating", "Decisions per year." + note, d => d.mitigating, v => v, "count")}
       </div>
       <details class="numbers"><summary>Show the numbers</summary>
-        <table><tr><th>Year</th><th>Sentencing decisions</th><th>Systemic factor mitigating</th><th>Share</th></tr>
+        <table><tr><th>Year</th><th>Sentencing decisions</th><th>Systemic factor clearly mitigating</th><th>Share</th></tr>
         ${Y.map(d => `<tr><td>${d.year}${partial && d.year === last ? " (partial)" : ""}</td><td>${fmt(d.sentencing)}</td><td>${fmt(d.mitigating)}</td><td>${pctOf(d).toFixed(1)}%</td></tr>`).join("")}</table>
       </details>`;
     // Hover: crosshair dot on the line, tooltip on both charts

@@ -191,6 +191,20 @@ hand and automatic corrections. Then redraw the pictures and rebuild the dataset
 .venv\Scripts\python.exe -X utf8 scripts\build_sentencing_data.py --skip-download
 ```
 
+**4e (optional). Second chance with Opus.** Decisions read as mitigating but not on the website (usually because no
+clear passage was found) can be re-picked by Opus and put through every check again. This was done on 2026-11-22 for
+the 200 such decisions: 34 reached the website; the rest stay off it and are not counted on the Statistics page.
+
+```
+make_extract_batches.py --tag TAG_rescue --citations ...        (the citations not on the site)
+Workflow pipeline/4_pick_extracts.js   args: {..., "model": "opus", "note": "This is a second, careful reading..."}
+render_extracts.py, then the checks restricted to the re-picked decisions:
+  make_source_check_batches.py --only KEYS_FILE --tag TAG_rescue_source     (lines "court|citation")
+  make_filler_check_batches.py --new --tag TAG_rescue --only CITATIONS_FILE
+  find_tag_gaps.py --new --tag TAG_rescue,  make_direction_check_batches.py --new --tag TAG_rescue
+  scripts/site/make_check_batches.py --only CITATIONS_FILE --tag TAG_rescue
+```
+
 ### Step 5: decide which new appeal decisions belong on the website
 
 **5a. Classify new appeals.** For each new appeal, the reader records what the appeal court did with the systemic
@@ -201,8 +215,8 @@ factors.
 Workflow pipeline/6a_classify_appeals.js   args: {"tag": "TAG", "from": 1, "to": N}
 ```
 
-**5b. Check the upheld ones.** For appeals that upheld the sentence, a reader checks that the pictures describe the
-crime and at least one specific systemic factor.
+**5b. Check the other appeals.** For every appeal except those that corrected the systemic factors, a reader checks
+that the pictures describe the crime and at least one specific systemic factor.
 
 ```
 .venv\Scripts\python.exe -X utf8 scripts\site\make_check_batches.py --new --tag TAG
@@ -226,7 +240,12 @@ website when all of these hold:
 - **Trial or appeal.** It is either:
   - a trial-court sentencing, or
   - an appeal where the systemic factors were corrected, or
-  - an upheld appeal whose pictures describe the crime and a specific factor.
+  - any other appeal (upheld, Crown appeal dismissed, reduced or increased for other reasons) whose pictures describe
+    the crime and a specific factor (Step 5's content check).
+
+**The Statistics page counts only these cases as "clearly mitigating"** (`write_stats` in `build_site.py`), so it
+always matches the casebook. The dataset column `mitigating_any_systemic` stays the full AI reading, corrected by the
+direction check.
 
 The rules are at the top of [scripts/site/build_site.py](../scripts/site/build_site.py).
 
@@ -267,7 +286,7 @@ sections 10 and 10.8.
 
 | Date | TAG | A2AJ revision | New sentencing decisions | New systemic-factor cases | Cases on website |
 |---|---|---|---|---|---|
-| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 586 total (602 before the direction check, 4d) | 386 |
+| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 420 clearly mitigating (the casebook; 586 read as mitigating) | 420 |
 
 ---
 

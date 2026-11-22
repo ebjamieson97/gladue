@@ -1,4 +1,4 @@
-"""For appeals that upheld a sentence (upheld_considered, crown_appeal_dismissed): the paragraphs shown in their
+"""For appeals other than "corrected" (upheld, Crown appeal dismissed, reduced or increased for other reasons): the paragraphs shown in their
 two pictures, so a reader can check that the crime is described and at least one specific systemic factor is.
 
 Output  scripts/site/work/check_sample.csv and scripts/site/work/check_batches/check_NN.txt
@@ -19,13 +19,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_site import appeal_categories  # noqa: E402
 from make_extract_batches import paragraphs  # noqa: E402
 
-CATEGORIES = {"upheld_considered", "crown_appeal_dismissed"}
 PER_FILE = 12
 
 
 def main():
     cats = appeal_categories()
-    keys = [k for k, a in cats.items() if a.get("category") in CATEGORIES]
+    keys = [k for k, a in cats.items() if a.get("category") != "corrected"]     # every appeal not shown on its category alone
     # --new --tag TAG (updates): only those not yet checked -> check_sample_TAG.csv, check_batches_TAG/ (answers: check_raw_TAG/)
     sample_name, bdir, idp = "check_sample.csv", "check_batches", "C"
     if "--new" in sys.argv:
@@ -33,6 +32,13 @@ def main():
         from build_site import content_checks
         done = set(content_checks())
         keys = [k for k in keys if k not in done]
+        sample_name, bdir, idp = f"check_sample_{tag}.csv", f"check_batches_{tag}", f"{tag}_C"
+    if "--only" in sys.argv:         # --only FILE --tag TAG: the appeals among these citations (one per line), any category but corrected
+        tag = sys.argv[sys.argv.index("--tag") + 1]
+        cits = {l.strip() for l in Path(sys.argv[sys.argv.index("--only") + 1]).read_text(encoding="utf-8").splitlines() if l.strip()}
+        keys = [(c, k) for c, k in duckdb.sql(f"""SELECT court, citation FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}')
+                                                 WHERE sentence_outcome <> 'imposed'""").fetchall()
+                if k in cits and cats.get((c, k), {}).get("category") != "corrected"]
         sample_name, bdir, idp = f"check_sample_{tag}.csv", f"check_batches_{tag}", f"{tag}_C"
     if not keys:
         print("Nothing new to do.")
@@ -56,7 +62,7 @@ def main():
             lines = []
             for k, (court, cit, name, crime, rat, text) in enumerate(rows[b:b + PER_FILE], b + 1):
                 cid = f"{idp}{k:03d}"
-                w.writerow([cid, court, cit, name, cats[(court, cit)]["category"], b // PER_FILE + 1])
+                w.writerow([cid, court, cit, name, cats.get((court, cit), {}).get("category", "not classified"), b // PER_FILE + 1])
                 paras = paragraphs(text)
                 lines.append(f"===== CASE {cid} ===== {cit} | {name}")
                 for label, spec in (("CRIME PICTURE", crime), ("SYSTEMIC FACTORS PICTURE", rat)):

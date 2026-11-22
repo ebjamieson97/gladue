@@ -2117,5 +2117,130 @@
     ],
     "direction_source": "direction check",
     "direction_why": "Majority finds culpability reduced by background, 3 years at low end. Highlights 3-4 are trial judge findings endorsed only by Paciocco's concurrence, extent rejected by majority."
+  },
+  "2016 BCCA 275": {
+    "remove_crime_highlights": [
+      "The restaurant was a busy, public place populated in part by students from the nearby high school."
+    ],
+    "source": "filler check",
+    "why": "Setting description of the restaurant, not an act; shotgun is the key fact"
+  },
+  "2018 BCCA 195": {
+    "remove_crime_highlights": [
+      "he kept it with him at all times because of the gang violence in the area"
+    ],
+    "source": "filler check",
+    "why": "Offender's explanation at trial, not a serious act or harm"
+  },
+  "2020 BCCA 109": {
+    "remove_crime_highlights": [
+      "She said the respondent apologized to her for his conduct and asked her not to tell her mother."
+    ],
+    "source": "filler check",
+    "why": "Apology and request to keep secret is incidental, not the abuse itself"
+  },
+  "2023 BCCA 442": {
+    "remove_crime_highlights": [
+      "He was alone in the vehicle when he delivered the drugs shortly thereafter."
+    ],
+    "source": "filler check",
+    "why": "Investigative detail about being alone in a vehicle"
+  },
+  "2020 BCSC 884": {
+    "remove_crime_highlights": [
+      "the police followed Mr. Desbiens, who made several stops in a vehicle owned and driven by a co-accused in order to sell drugs"
+    ],
+    "source": "filler check",
+    "why": "police surveillance of stops is investigative detail"
+  },
+  "2025 BCSC 2545": {
+    "remove_crime_highlights": [
+      "Mr. H. purchased alcohol for A.L. A.L. became quite intoxicated."
+    ],
+    "source": "filler check",
+    "why": "buying alcohol is background, not a serious act"
+  },
+  "2014 NSPC 86": {
+    "remove_crime_highlights": [
+      "Mr. Smith pulled down a mask on the way in, over his face."
+    ],
+    "source": "filler check",
+    "why": "pulling down mask is incidental; the gun threat is key"
+  },
+  "2025 NSPC 10": {
+    "remove_crime_highlights": [
+      "he operated it in a flagrant and open manner"
+    ],
+    "source": "filler check",
+    "why": "flagrant and open manner is not a violent act or harm",
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 NSSC 339": {
+    "remove_crime_highlights": [
+      "Pat Stay was unarmed."
+    ],
+    "source": "filler check",
+    "why": "victim being unarmed is context, not an act"
+  },
+  "2021 ONCA 680": {
+    "remove_crime_highlights": [
+      "He identified himself as a police officer and told Mr. Morris to stop. Mr. Morris kept running."
+    ],
+    "source": "filler check",
+    "why": "Police pursuit and identification detail, not a serious act"
+  },
+  "2026 ONCA 742": {
+    "remove_crime_highlights": [
+      "the appellant was under a prohibition order arising from a prior firearm conviction"
+    ],
+    "source": "filler check",
+    "why": "prior prohibition order is background, not a serious act of the offence",
+    "drop_tags": [
+      "Anti-Black racism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2016 BCCA 299": {
+    "add_rationale_paras": [
+      12,
+      26
+    ],
+    "add_rationale_highlights": [
+      "subjects of the racism by the dominant culture and by other First Nations",
+      "His grandmother attended residential school.",
+      "direct result of colonization and the assimilation policies carried out by the Canadian Government",
+      "exposed to alcoholism and the intergenerational trauma experienced by our First Nations people"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2023 BCSC 1273": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2025 SCC 16": {
+    "drop_tags": [
+      "Colonialism"
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2018 NSPC 14": {
+    "add_rationale_paras": [
+      131
+    ],
+    "add_rationale_highlights": [
+      "African Nova Scotians have been historically and currently marginalized, isolated and discriminated against and explains how that has impacted N.W."
+    ],
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2020 NSPC 57": {
+    "add_rationale_highlights": [
+      "All justice system stakeholders can and must do better other than conducting business as usual."
+    ],
+    "direction_source": "direction check"
   }
 }

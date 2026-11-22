@@ -1,0 +1,42 @@
+id,court,citation,name,category,batch
+rescue_C001,BCCA,2000 BCCA 374,R. v. Norris,crown_appeal_dismissed,1
+rescue_C002,BCCA,2002 BCCA 67,R. v. Leaney,reduced_other,1
+rescue_C003,BCCA,2014 BCCA 235,R. v. Campbell,reduced_other,1
+rescue_C004,BCCA,2014 BCCA 318,R. v. Sunshine,other,1
+rescue_C005,BCCA,2016 BCCA 275,R. v. Racette,increased,1
+rescue_C006,BCCA,2016 BCCA 299,R. v. Finlay,increased,1
+rescue_C007,BCCA,2017 BCCA 215,R. v. P.E.L.,other,1
+rescue_C008,BCCA,2017 BCCA 218,R. v. Louie,upheld_considered,1
+rescue_C009,BCCA,2017 BCCA 424,R. v. Biwer,upheld_considered,1
+rescue_C010,BCCA,2018 BCCA 195,R. v. Sellars,increased,1
+rescue_C011,BCCA,2020 BCCA 109,R. v. L.S.N.,increased,1
+rescue_C012,BCCA,2021 BCCA 208,R. v. Hagen,reduced_other,1
+rescue_C013,BCCA,2023 BCCA 442,R. v. Desmond,upheld_considered,2
+rescue_C014,BCCA,2024 BCCA 239,R. v. Tom,upheld_considered,2
+rescue_C015,BCCA,2025 BCCA 111,R. v. Davidson,reduced_other,2
+rescue_C016,BCSC,2019 BCSC 396,R. v. Delgren,not classified,2
+rescue_C017,NLCA,2018 NLCA 41,R. v. Andersen,reduced_other,2
+rescue_C018,NLCA,2020 NLCA 30,R. v. Tuglavina,increased,2
+rescue_C019,NLCA,2026 NLCA 2,R. v. Wells,upheld_considered,2
+rescue_C020,NSCA,2025 NSCA 39,R. v. Abdi,upheld_considered,2
+rescue_C021,NSPC,2018 NSPC 14,R. v. N.W.,other,2
+rescue_C022,ONCA,2011 ONCA 695,R. v. Jones,upheld_considered,2
+rescue_C023,ONCA,2013 ONCA 22,R. v. Toulouse,other,2
+rescue_C024,ONCA,2013 ONCA 245,R. v. Jones,upheld_considered,2
+rescue_C025,ONCA,2013 ONCA 50,R. v. Addley,upheld_considered,3
+rescue_C026,ONCA,2020 ONCA 311,R. v. Serré,upheld_considered,3
+rescue_C027,ONCA,2020 ONCA 478,R. v. Sharma,other,3
+rescue_C028,ONCA,2021 ONCA 256,R. v. J.K.,upheld_considered,3
+rescue_C029,ONCA,2021 ONCA 680,R. v. Morris,increased,3
+rescue_C030,ONCA,2021 ONCA 86,R. v. Gray,upheld_considered,3
+rescue_C031,ONCA,2022 ONCA 369,R. v. Desmond-Robinson,reduced_other,3
+rescue_C032,ONCA,2023 ONCA 410,R. v. Wilson,upheld_considered,3
+rescue_C033,ONCA,2024 ONCA 326,R. v. Aiken,upheld_considered,3
+rescue_C034,ONCA,2026 ONCA 300,R v. K.L.,reduced_other,3
+rescue_C035,ONCA,2026 ONCA 521,R. v. George,reduced_other,3
+rescue_C036,ONCA,2026 ONCA 668,R. v. Owusu,upheld_considered,3
+rescue_C037,ONCA,2026 ONCA 686,R. v. Hill,upheld_considered,4
+rescue_C038,ONCA,2026 ONCA 742,R. v. Borden,upheld_considered,4
+rescue_C039,ONCA,C38614,"R. v. H., D.A.",increased,4
+rescue_C040,SCC,2022 SCC 39,R. v. Sharma,other,4
+rescue_C041,SCC,2025 SCC 16,R. v. J.W.,reduced_other,4

@@ -42,8 +42,8 @@ const out = args.out || 'raw'
 const bdir = args.batches || 'batches'
 const pfx = args.prefix || 'extract'
 const res = await parallel(files.map(b => () =>
-  agent(`${PROMPT}\n\nINPUT: ${W}\\${bdir}\\${pfx}_${pad(b)}.txt\nOUTPUT: ${W}\\${out}\\${pfx}_${pad(b)}.jsonl`,
-        { label: `pick:${pad(b)}`, phase: 'Pick', model: 'sonnet' })))
+  agent(`${PROMPT}${args.note ? '\n\nNOTE: ' + args.note : ''}\n\nINPUT: ${W}\\${bdir}\\${pfx}_${pad(b)}.txt\nOUTPUT: ${W}\\${out}\\${pfx}_${pad(b)}.jsonl`,
+        { label: `pick:${pad(b)}`, phase: 'Pick', model: args.model || 'sonnet' })))   // args.model: e.g. 'opus' for a thorough re-pick
 const failed = files.filter((b, i) => !res[i])
 log(`${files.length - failed.length} of ${files.length} files done; failed: ${failed.join(', ') || 'none'}`)
 return { failed }
