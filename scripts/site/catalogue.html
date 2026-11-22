@@ -18,12 +18,30 @@
   header h1 { font: 600 18px/1.2 Georgia, "Times New Roman", serif; margin: 0; flex: 1; }
   header h1 a { color: inherit; text-decoration: none; }
   header h1 small { display: block; font: 400 13px/1.4 system-ui, sans-serif; color: var(--muted); }
-  header .bar { max-width: 1000px; margin: 0 auto; width: 100%; padding: 0 24px; }
-  a.back { display: inline-block; text-decoration: none; font-size: 14px; line-height: 1.5; color: var(--ink);
+  header .bar { max-width: 1000px; margin: 0 auto; width: 100%; padding: 0 24px; display: flex; align-items: center;
+                justify-content: space-between; gap: 12px; }
+  a.back, button.filter { display: inline-block; text-decoration: none; font-size: 14px; line-height: 1.5; color: var(--ink);
            background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 5px 12px;
            box-shadow: 0 2px 0 var(--line); transition: transform .06s ease, box-shadow .06s ease; }
-  a.back:hover { filter: brightness(.97); }
-  a.back:active { transform: translateY(2px); box-shadow: none; }
+  a.back:hover, button.filter:hover { filter: brightness(.97); }
+  a.back:active, button.filter:active { transform: translateY(2px); box-shadow: none; }
+  button.filter { font: inherit; font-size: 14px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+  button.filter .n { color: var(--muted); }
+  /* Filter box */
+  .filterwrap { position: relative; }
+  .filterbox { position: absolute; right: 0; top: calc(100% + 8px); z-index: 10; min-width: 250px; background: var(--panel);
+               border: 1px solid var(--line); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,.12); padding: 12px 14px; }
+  .filterbox[hidden] { display: none; }
+  .filterbox .head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; }
+  .filterbox .head b { font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+  .filterbox .head span { font-size: 13px; }
+  .filterbox .head a { color: var(--accent); cursor: pointer; text-decoration: none; margin-left: 10px; }
+  .filterbox .head a:hover { text-decoration: underline; }
+  .filterbox label { display: flex; align-items: center; gap: 8px; padding: 5px 0; font-size: 15px; cursor: pointer; }
+  .filterbox label input { width: 16px; height: 16px; accent-color: var(--accent); margin: 0; }
+  .filterbox label .c { margin-left: auto; color: var(--muted); font-size: 13px; }
+  .shown { color: var(--muted); font-size: 14px; margin: 0 0 4px; }
+  [hidden] { display: none !important; }
   main { max-width: 1000px; margin: 0 auto; padding: 20px 24px 60px; }
   details { border-bottom: 1px solid var(--line); }
   summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 10px; padding: 12px 0; }
@@ -46,9 +64,17 @@
 </head>
 <body>
 <header>
-  <div class="bar"><a class="back" id="back" href="index.html">← Back</a></div>
+  <div class="bar"><a class="back" id="back" href="index.html">← Back</a>
+    <div class="filterwrap">
+      <button type="button" class="filter" id="filterbtn" aria-expanded="false" aria-controls="filterbox">Filter <span class="n" id="filtern"></span></button>
+      <div class="filterbox" id="filterbox" hidden role="group" aria-label="Show cases with these mitigating factors">
+        <div class="head"><b>Show</b><span><a id="all">All</a><a id="none">None</a></span></div>
+        <div id="factorlist"></div>
+      </div>
+    </div>
+  </div>
 </header>
-<main id="list"><p class="meta">Loading…</p></main>
+<main><p class="shown" id="shown" hidden></p><div id="list"><p class="meta">Loading…</p></div></main>
 <script src="cases.js"></script>
 <script>
 (function () {
@@ -77,10 +103,47 @@
     return `<details class="prov" open><summary>${esc(p)}</summary>` + courts.map(code => {
       const items = byProv.get(p).get(code).slice().sort((a, b) => (b.date || "").localeCompare(a.date || ""));
       return `<details class="court"><summary>${esc(items[0].court)}</summary><ul>` + items.map(c =>
-        `<li><a href="index.html#${esc(c.id)}">${esc(c.name)}, ${esc(c.citation)}</a>
+        `<li data-factors="${esc(JSON.stringify(c.factors || []))}"><a href="index.html#${esc(c.id)}">${esc(c.name)}, ${esc(c.citation)}</a>
            <div class="meta">${esc(c.offence)}${c.factors.length ? " · " + esc(c.factors.join(", ")) : ""}</div></li>`).join("") + "</ul></details>";
     }).join("") + "</details>";
   }).join("");
+
+  // Filter: one checkbox per mitigating-factor tag found in the cases (so new tags appear by themselves), all on by default.
+  // A case is shown when at least one of its tags is checked; empty courts and provinces are hidden.
+  const ORDER = ["Gladue factors", "Residential schools", "Colonialism", "Intergenerational trauma", "Anti-Black racism",
+                 "Systemic racism", "Islamophobia", "White supremacy", "Other prejudice"];
+  const counts = new Map();
+  for (const c of cases) for (const f of (c.factors || [])) counts.set(f, (counts.get(f) || 0) + 1);
+  const factors = [...counts.keys()].sort((a, b) => {
+    const ia = ORDER.indexOf(a), ib = ORDER.indexOf(b);
+    return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b);
+  });
+  const box = document.getElementById("filterbox"), btn = document.getElementById("filterbtn");
+  document.getElementById("factorlist").innerHTML = factors.map(f =>
+    `<label><input type="checkbox" value="${esc(f)}" checked> ${esc(f)} <span class="c">${counts.get(f)}</span></label>`).join("");
+  const boxes = [...box.querySelectorAll("input")];
+  function apply() {
+    const on = new Set(boxes.filter(b => b.checked).map(b => b.value));
+    let n = 0;
+    list.querySelectorAll("li").forEach(li => {
+      const show = JSON.parse(li.dataset.factors).some(f => on.has(f));
+      li.hidden = !show; if (show) n++;
+    });
+    list.querySelectorAll(".court").forEach(d => { d.hidden = !d.querySelector("li:not([hidden])"); });
+    list.querySelectorAll(".prov").forEach(d => { d.hidden = !d.querySelector(".court:not([hidden])"); });
+    const all = on.size === boxes.length;
+    document.getElementById("filtern").textContent = all ? "" : `(${on.size} of ${boxes.length})`;
+    const shown = document.getElementById("shown");
+    shown.hidden = all;
+    shown.textContent = n ? `Showing ${n} of ${cases.length} cases` : "No cases match: check at least one factor.";
+  }
+  boxes.forEach(b => b.addEventListener("change", apply));
+  document.getElementById("all").addEventListener("click", () => { boxes.forEach(b => b.checked = true); apply(); });
+  document.getElementById("none").addEventListener("click", () => { boxes.forEach(b => b.checked = false); apply(); });
+  const toggle = open => { box.hidden = !open; btn.setAttribute("aria-expanded", String(open)); };
+  btn.addEventListener("click", e => { e.stopPropagation(); toggle(box.hidden); });
+  document.addEventListener("click", e => { if (!box.hidden && !box.contains(e.target)) toggle(false); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") toggle(false); });
 })();
 </script>
 </body>
