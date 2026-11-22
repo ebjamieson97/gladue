@@ -52,6 +52,10 @@ HIDE_IF_NOT_COURTS_OWN_WORDS = True
 KEEP_ANYWAY = {"2025 NSSC 426"}    # Caldi: the IRCA passage the project author asked for; the judge called the IRCA "very important to the outcome"
 EXTRACT_WORK = ROOT / "case_extracts" / "work"
 
+# Cases whose reasons picture shows the court NOT treating the systemic factor as mitigating are hidden
+# (direction check: pipeline/5d_check_direction.js, applied by scripts/extracts/apply_direction_check.py).
+DIRECTION_VERDICTS = EXTRACT_WORK / "direction_verdicts.json"
+
 
 def source_checks():
     """{(court, citation): True if the rationale picture is the court's own reasoning}; later checks win."""
@@ -209,6 +213,7 @@ def main():
     cats = appeal_categories()
     checks = content_checks()
     sources = source_checks()
+    direction = json.loads(DIRECTION_VERDICTS.read_text(encoding="utf-8")) if DIRECTION_VERDICTS.exists() else {}
     tally = Counter()
     cases = []
     for r in rows.itertuples(index=False):
@@ -216,6 +221,9 @@ def main():
         if HIDE_IF_NOT_COURTS_OWN_WORDS and sources.get((r["court"], r["citation"])) is False \
                 and r["citation"] not in KEEP_ANYWAY:
             tally["hidden: rationale not the court's own words"] += 1
+            continue
+        if direction.get(r["citation"], {}).get("overall") == "not_mitigating" and r["citation"] not in KEEP_ANYWAY:
+            tally["hidden: court did not treat the factor as mitigating"] += 1
             continue
         if r["sentence_outcome"] != "imposed":                 # an appeal: keep only the categories shown
             key = (r["court"], r["citation"])

@@ -119,7 +119,7 @@ Workflow pipeline/4_pick_extracts.js   args: {"from": 1, "to": N, "batches": "ba
 
 ### Step 4: quality checks on the new pictures
 
-Run all three checks. Each one prepares only pictures that have not been checked before.
+Run all four checks, in order. Each one prepares only pictures that have not been checked before.
 
 **4a. Court's own words.** The reasons picture must show the judge's own reasoning. Counsel's or a report's words
 count only when the judge explicitly accepts them in the picture.
@@ -158,7 +158,23 @@ Workflow pipeline/5c_fill_tag_gaps.js   args: {"tag": "TAG", "to": N}
 .venv\Scripts\python.exe -X utf8 scripts\extracts\apply_tag_gaps.py --tag TAG
 ```
 
-Checks 4b and 4c write their results to [case_extracts/overrides.json](../case_extracts/overrides.json), the file of
+**4d. Mitigating, not the opposite.** Run this last, after 4c has added its highlights. Every reasons picture must show
+the court treating the systemic factor as mitigating, and no highlight may say the opposite (for example "there is
+little evidence that his Aboriginal background lessens his culpability"). Sonnet readers check each picture; Opus
+re-reads every case they flag, and its answer is final.
+
+```
+.venv\Scripts\python.exe -X utf8 scripts\extracts\make_direction_check_batches.py --new --tag TAG
+Workflow pipeline/5d_check_direction.js   args: {"tag": "TAG", "to": N}
+.venv\Scripts\python.exe -X utf8 scripts\extracts\apply_direction_check.py
+```
+
+- **Highlights that argue against the factor** are removed (written to `overrides.json`).
+- **Cases where the court did not treat the factor as mitigating** are listed by the script and hidden from the
+  website automatically (`case_extracts/work/direction_verdicts.json`). Cases marked "unclear" are listed too; look
+  at them, but they stay on the site.
+
+Checks 4b, 4c and 4d write their results to [case_extracts/overrides.json](../case_extracts/overrides.json), the file of
 hand and automatic corrections. Then redraw the pictures and rebuild the dataset:
 
 ```
@@ -197,6 +213,7 @@ website when all of these hold:
 - **Conclusion.** The court plainly states the systemic factor's effect (`extract_conclusion_clear = Y`).
 - **Pictures.** Both pictures exist.
 - **Court's own words.** The reasons picture passed the court's-own-words check.
+- **Mitigating.** The direction check (4d) did not find that the court treated the factor as not mitigating.
 - **Trial or appeal.** It is either:
   - a trial-court sentencing, or
   - an appeal where the systemic factors were corrected, or
@@ -241,7 +258,7 @@ sections 10 and 10.8.
 
 | Date | TAG | A2AJ revision | New sentencing decisions | New systemic-factor cases | Cases on website |
 |---|---|---|---|---|---|
-| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 602 total | 402 |
+| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 602 total | 400 |
 
 ---
 
@@ -261,7 +278,7 @@ Everything else (offences, sentences, mitigating factors, pictures, website chec
 
 | Folder or file | Contents |
 |---|---|
-| [pipeline/](../pipeline/) | The AI instruction files used in updates (steps 2, 4, 5a–c, 6a–b; 7 is the optional offence count) |
+| [pipeline/](../pipeline/) | The AI instruction files used in updates (steps 2, 4, 5a–d, 6a–b; 7 is the optional offence count) |
 | [pipeline/archive/](../pipeline/archive/) | AI instructions used once in the original build (Part B) |
 | `scripts/` | All Python scripts |
 | `data/labels/` | AI answers and merged label files (`decision_labels.csv` is the main one) |

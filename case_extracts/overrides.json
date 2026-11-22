@@ -189,7 +189,12 @@
       "Mr. Johnny continued to drive the cab until it was disabled by a spike belt that was laid on the highway in his path of travel."
     ],
     "source": "filler check",
-    "why": "flight in cab after the offence, not a serious act of harm"
+    "why": "flight in cab after the offence, not a serious act of harm",
+    "remove_rationale_highlights": [
+      "the goals of denunciation and deterrence overtake the mitigating effects of the offender's aboriginal background"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Para 46 says Aboriginal origins reduce the sentence; highlight 2 says denunciation and deterrence overtake the mitigating effect of his background."
   },
   "2010 BCSC 1800": {
     "remove_crime_highlights": [
@@ -285,7 +290,12 @@
       "made the mistake of offering them for sale to a plain-clothes constable of the Vancouver Police Department"
     ],
     "source": "filler check",
-    "why": "how the sale to police occurred is incidental"
+    "why": "how the sale to police occurred is incidental",
+    "remove_rationale_highlights": [
+      "there is little evidence that any unique circumstances in Mr. Smith's Aboriginal background might lessen his culpability for the present offence or reduce the effectiveness of any prison sentence"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Para 38 counts Aboriginal background toward a low-end sentence; highlight 2 says little evidence the background lessens culpability."
   },
   "2016 BCSC 2497": {
     "remove_crime_highlights": [
@@ -384,7 +394,12 @@
       "The shooter emerged from a vehicle stolen in Prince George"
     ],
     "source": "filler check",
-    "why": "stolen vehicle origin is background"
+    "why": "stolen vehicle origin is background",
+    "remove_rationale_highlights": [
+      "the Gladue factors were not a significant consideration in sentencing and I reach the same conclusion with respect to Mr. Richet and Mr. Russell"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court states Gladue factors were not a significant consideration in sentencing; mandatory minimum five years imposed via joint submission, no reduction."
   },
   "2018 BCSC 1595": {
     "remove_crime_highlights": [
@@ -590,7 +605,12 @@
       "At trial, Mr. Kazakoff admitted to being in possession of the seized drugs, but maintained they were for his personal use."
     ],
     "source": "filler check",
-    "why": "trial procedural fact about offender's denial"
+    "why": "trial procedural fact about offender's denial",
+    "remove_rationale_highlights": [
+      "I am not persuaded that Mr. Kazakoff can be fairly characterized as an Indigenous person that would attract the full application of Gladue"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Full Gladue declined, but court accepts intergenerational trauma contributed to his difficult youth, which it weighs seriously as mitigating."
   },
   "2022 BCSC 2493": {
     "remove_crime_highlights": [
@@ -619,7 +639,12 @@
       "no violence ensued"
     ],
     "source": "filler check",
-    "why": "no violence and police recovery are not serious acts"
+    "why": "no violence and police recovery are not serious acts",
+    "remove_rationale_highlights": [
+      "the impact of his Aboriginal heritage on his blameworthiness, as indicated in the case law referred to, only goes so far"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Gladue factors very relevant; Crown sentence faulted for not fulsomely applying them. Highlight 3 limits their impact on blameworthiness."
   },
   "2023 BCSC 876": {
     "remove_crime_highlights": [
@@ -1151,14 +1176,24 @@
       "The fact that it was part of a pattern of criminal behaviour over an extended time in a domestic relationship"
     ],
     "source": "filler check",
-    "why": "Sentencing commentary rather than an act or harm"
+    "why": "Sentencing commentary rather than an act or harm",
+    "remove_rationale_highlights": [
+      "it is not appropriate to ignore the level of moral blameworthiness that attaches to S.F.M.'s actions in this case"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Para 97 says Crown ask ignores IRCA impact and rejects 5-6 years; highlight 2 opens the argument that the background does not reduce blameworthiness."
   },
   "2022 NSSC 95": {
     "remove_crime_highlights": [
       "he was observed to have shoved baggies with white powder residue between the wall and the table in the interview room"
     ],
     "source": "filler check",
-    "why": "Concealing baggies in interview room is investigative detail"
+    "why": "Concealing baggies in interview room is investigative detail",
+    "remove_rationale_highlights": [
+      "I am not satisfied that these factors play a part in mitigating his culpability for these offences"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Para 74 denies mitigation for firearm offences, but CDSA sentence of 2.5 years and breach sentence were set by applying Gladue factors."
   },
   "2023 NSSC 317": {
     "remove_crime_highlights": [
@@ -1297,7 +1332,12 @@
       "The appellant pled guilty to both the May and September offences"
     ],
     "source": "filler check",
-    "why": "guilty plea is procedural"
+    "why": "guilty plea is procedural",
+    "remove_rationale_highlights": [
+      "the impact of the Gladue factors is attenuated"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Judge took systemic issues into account in imposing sentence; highlight 2 says Gladue impact attenuated by seriousness, arguing against the factor."
   },
   "2022 ONCA 863": {
     "remove_crime_highlights": [
@@ -1672,7 +1712,12 @@
     "drop_tags": [
       "Colonialism"
     ],
-    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)",
+    "remove_rationale_highlights": [
+      "I have considered Ryan Crossley's Indigenous heritage, but consider this to be a less significant factor given the seriousness of the offence"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Heritage considered within mitigating drug addiction finding; highlight 3 downplays it as less significant given seriousness of offence."
   },
   "2024 BCSC 1191": {
     "drop_tags": [
@@ -1823,5 +1868,82 @@
       "Colonialism"
     ],
     "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+  },
+  "2006 BCSC 577": {
+    "remove_rationale_highlights": [
+      "But I find there is not much mitigating effect in this, because the nature of this crime puts it in a class where sentences should be similar for Aboriginals and non-Aboriginals."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court lists Aboriginal-linked disadvantaged upbringing among mitigating circumstances, but highlight 3 says not much mitigating effect given crime type."
+  },
+  "2010 BCSC 578": {
+    "remove_rationale_highlights": [
+      "it is not of great significance."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court says Aboriginal status and background have some impact on result; highlight 3 downplays it as not of great significance."
+  },
+  "2014 BCSC 2554": {
+    "remove_rationale_highlights": [
+      "they must, in this case, be given relatively less weight than would often be the case with an aboriginal offender"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court considered Gladue factors and residential school legacy, giving them relatively less (not no) weight; highlight 4 argues reduced weight."
+  },
+  "2014 BCSC 840": {
+    "remove_rationale_highlights": [
+      "While it must have had very serious long-term effects upon him, the aggravating factors far outweigh the mitigating ones."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court calls disadvantaged Aboriginal background the only mitigating factor; highlight 2 says aggravating factors far outweigh it, arguing against its effect."
+  },
+  "2017 BCSC 2433": {
+    "remove_rationale_highlights": [
+      "even when also considering the Gladue factors that I have outlined above"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Para 89(f) lists Aboriginal heritage and its consequences as a mitigating factor; highlight 3 says culpability stays high despite Gladue factors."
+  },
+  "2021 BCSC 1652": {
+    "remove_rationale_highlights": [
+      "The relevance of Stephen's Metis heritage is muted"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court finds Metis heritage relevance muted but accepts the Gladue Report still supports a more controlled sentence; highlight 1 argues reduced weight."
+  },
+  "2025 BCSC 1173": {
+    "remove_rationale_highlights": [
+      "Although I cannot find that these Gladue factors lead to a significant reduction in Mr. Carlson's moral blameworthiness"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Gladue factors held relevant to offending and restraint applied for Indigenous heritage; highlight 2 says no significant reduction in blameworthiness."
+  },
+  "2025 BCSC 2395": {
+    "remove_rationale_highlights": [
+      "These factors do not reduce O.D.'s moral culpability. However, they are relevant to the determination of a fit and appropriate sentence."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Para 75 says Gladue factors reduce culpability somewhat; highlight 3 says systemic factors do not reduce moral culpability, which reads against mitigation."
+  },
+  "2026 BCSC 1289": {
+    "remove_rationale_highlights": [
+      "Mr. Carter's degree of responsibility for the offences is nonetheless high."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court takes experienced racism into account in assessing responsibility; highlight 4 says responsibility nonetheless high, undercutting the factor."
+  },
+  "2008 NSCA 110": {
+    "remove_rationale_highlights": [
+      "Having been adopted into a non-native family, this offender did not experience many of the systemic background factors often uniquely present in the circumstances of aboriginal offenders"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court affirms judge took into account mitigating effect of early deprivation related to aboriginal heritage; highlight 2 says offender lacked systemic background factors."
+  },
+  "2025 ONCA 60": {
+    "remove_rationale_highlights": [
+      "the Gladue and Morris factors in this case did not reduce the appellant’s moral culpability to such a degree to justify a sentence below the three-to-five-year range"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Para 22 says Gladue and Morris factors were mitigating, sentence at bottom of range; highlight 1 states they did not reduce culpability enough."
   }
 }
