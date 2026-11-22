@@ -54,7 +54,7 @@
     case law dataset</a>, an open collection of published court decisions from the Access to Algorithmic Justice project at
     York University. The casebook uses the criminal decisions of eight courts: the Supreme Court of Canada; the Courts of Appeal
     of Ontario, British Columbia, Nova Scotia, and Newfoundland and Labrador; the Supreme Courts of British Columbia and
-    Nova Scotia; and the Provincial Court of Nova Scotia. That is <span class="n" data-stat="criminal"></span> criminal
+    Nova Scotia; and the Provincial Court of Nova Scotia. That is <span class="n" data-stat="criminal_all"></span> criminal
     decisions (data as of <span data-stat="built"></span>).</p>
   <p>Only published decisions are included. Most sentences in Canada are delivered orally and never published, so the
     casebook reflects the decisions courts chose to publish, not every sentence imposed.</p>
@@ -77,13 +77,13 @@
     <li><strong>Shape of the text (3):</strong> its length, how densely it mentions sentencing, and how far into the text
       "sentence" first appears.</li>
   </ul>
-  <p>Decisions scoring 0.5 or more are treated as sentencing decisions: <span class="n" data-stat="sentencing"></span> in all.</p>
+  <p>Decisions scoring 0.5 or more are treated as sentencing decisions: <span class="n" data-stat="sentencing_all"></span> in all.</p>
   <p>The model was trained and tested on two samples of 3,200 decisions (6,084 different decisions), each labelled by AI
     readers and checked by a second model. On a purely random sample, tested by 5-fold cross-validation, about 95.5% of the
-    decisions it selects are sentencing decisions (precision), and it finds about 94.7% of them (recall). A model was used for this step, rather than AI reading all <span data-stat="criminal"></span> criminal decisions, because a full reading would have used too many tokens; the model needs only the 6,084 labelled examples, and can be re-run on new decisions at no cost.</p>
+    decisions it selects are sentencing decisions (precision), and it finds about 94.7% of them (recall). A model was used for this step, rather than AI reading all <span data-stat="criminal_all"></span> criminal decisions, because a full reading would have used too many tokens; the model needs only the 6,084 labelled examples, and can be re-run on new decisions at no cost.</p>
   <p>A sentencing decision is marked as a <strong>trial-court sentencing</strong> when it comes from a trial court and its
     heading shows no appeal; these are the cases where a judge passes sentence on the offender
-    (<span class="n" data-stat="imposes"></span> decisions). This rule is about 98% precise. The other sentencing
+    (<span class="n" data-stat="imposes_all"></span> decisions). This rule is about 98% precise. The other sentencing
     decisions are mostly appeal courts reviewing a sentence.</p>
 
   <h2>3. Reading every sentencing decision</h2>
@@ -150,7 +150,7 @@
 <script>
 (function () {
   const S = window.STATS || {};
-  const vals = { criminal: S.criminal, sentencing: S.sentencing, imposes: S.imposes, systemic_mitigating: S.systemic_mitigating,
+  const vals = { criminal_all: S.criminal_all, sentencing_all: S.sentencing_all, imposes_all: S.imposes_all, systemic_mitigating: S.systemic_mitigating,
                  cases: (window.CASES || []).length, built: S.built };
   document.querySelectorAll("[data-stat]").forEach(e => {
     const v = vals[e.dataset.stat];

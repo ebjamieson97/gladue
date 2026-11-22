@@ -144,6 +144,9 @@ def sentence_details(r):
     return {k: v for k, v in out.items() if v is not None and v is not False and v != ""}   # keeps 0 months
 
 
+GLADUE_DATE = "1999-04-23"    # R. v. Gladue: the Data section of the Statistics page counts decisions from this date on
+
+
 def write_stats(shown):
     """site/stats.js: counts for the Statistics page, from the full set of criminal decisions and the sentencing index.
 
@@ -158,6 +161,7 @@ def write_stats(shown):
     crim = duckdb.sql(f"""SELECT province, court, count(*) AS criminal, count(*) FILTER (is_sentencing) AS sentencing,
                                  count(*) FILTER (imposes) AS imposes
                           FROM read_parquet('{(ROOT / "data" / "processed" / "criminal_decisions_signals.parquet").as_posix()}')
+                          WHERE decision_date >= DATE '{GLADUE_DATE}'
                           GROUP BY ALL""").fetchall()
     # Systemic factors (Gladue factors, residential schools, colonialism, intergenerational trauma, anti-Black and other
     # racism or prejudice). Mentioned: a systemic-factor keyword in the text, or the AI reading found the court dealing
@@ -173,6 +177,7 @@ def write_stats(shown):
                                         systemic_white_supremacy, systemic_other_prejudice], ['M', 'R', 'N']) AS any_mentioned
                    FROM read_csv_auto('{(ROOT / "data" / "labels" / "decision_labels.csv").as_posix()}', all_varchar=true)) l
                USING (court, citation)
+        WHERE i.decision_date >= DATE '{GLADUE_DATE}'
         GROUP BY i.court""").fetchall()}
     provinces = {}
     for prov, court, n_crim, n_sent, n_imp in crim:
@@ -188,10 +193,15 @@ def write_stats(shown):
              "criminal": sum(p["criminal"] for p in provinces.values()),
              "sentencing": sum(p["sentencing"] for p in provinces.values()),
              "systemic_mentioned": sum(v[0] for v in glad.values()), "systemic_mitigating": sum(v[1] for v in glad.values()),
-             "built": (info.get("built_at_utc") or "")[:10]}
+             "built": (info.get("built_at_utc") or "")[:10], "since": GLADUE_DATE}
     imp = duckdb.sql(f"""SELECT count(*) FILTER (imposes), count(*) FILTER (imposes AND citation IN (SELECT citation FROM casebook))
-                         FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}')""").fetchall()[0]
-    stats["imposes"], stats["imposes_mitigating"] = imp           # trial courts sentencing the offender themselves
+                         FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}')
+                         WHERE decision_date >= DATE '{GLADUE_DATE}'""").fetchall()[0]
+    stats["imposes"], stats["imposes_mitigating"] = imp
+    # All years (for the Methodology page, which describes the whole dataset)
+    stats["criminal_all"], stats["sentencing_all"], stats["imposes_all"] = duckdb.sql(f"""
+        SELECT count(*), count(*) FILTER (is_sentencing), count(*) FILTER (imposes)
+        FROM read_parquet('{(ROOT / "data" / "processed" / "criminal_decisions_signals.parquet").as_posix()}')""").fetchall()[0]           # trial courts sentencing the offender themselves
     # By year, from 1993 (earlier years have only a handful of decisions in the dataset)
     stats["by_year"] = [{"year": int(y), "sentencing": int(n), "mitigating": int(m)} for y, n, m in duckdb.sql(f"""
         SELECT year, count(*), count(*) FILTER (citation IN (SELECT citation FROM casebook))
