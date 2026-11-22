@@ -232,8 +232,10 @@ def main():
                 and r["citation"] not in KEEP_ANYWAY:
             tally["hidden: rationale not the court's own words"] += 1
             continue
-        if direction.get(r["citation"], {}).get("overall") in ("not_mitigating", "unclear") and r["citation"] not in KEEP_ANYWAY:
-            tally["hidden: direction check (not mitigating, or no effect stated)"] += 1
+        # Shown only with a "mitigating" answer from the direction check: the deciding court's own view (on an appeal, the
+        # appeal court's, even when it increased the sentence) is that the systemic factor mitigates. Unchecked cases wait.
+        if direction.get(r["citation"], {}).get("overall") != "mitigating" and r["citation"] not in KEEP_ANYWAY:
+            tally["hidden: direction check not passed (not mitigating, no effect stated, or not yet checked)"] += 1
             continue
         if r["sentence_outcome"] != "imposed":                 # an appeal: keep only the categories shown
             key = (r["court"], r["citation"])
