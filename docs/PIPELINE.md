@@ -172,6 +172,9 @@ Workflow pipeline/5d_check_direction.js   args: {"tag": "TAG", "to": N}
 ```
 
 - **Highlights that argue against the factor, or give someone else's view** are removed (written to `overrides.json`).
+- **Highlights that run on into a caveat** ("…as an infant, although that is not conclusive…") are trimmed before
+  it, and **statements of principle** about not perpetuating structural inequities that were missed are added. Phrases
+  listed under `keep_rationale_highlights` in `overrides.json` are never removed.
 - **After changing these rules,** re-check every picture on the site as a new round, which replaces the earlier
   answers: `make_direction_check_batches.py --recheck --tag NAME`, then the workflow with `{"tag": "NAME", "to": N}`.
 - **Cases where the court did not treat the factor as mitigating, or never states its effect ("unclear")** are
@@ -264,7 +267,7 @@ sections 10 and 10.8.
 
 | Date | TAG | A2AJ revision | New sentencing decisions | New systemic-factor cases | Cases on website |
 |---|---|---|---|---|---|
-| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 587 total (602 before the direction check, 4d) | 387 |
+| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 586 total (602 before the direction check, 4d) | 386 |
 
 ---
 

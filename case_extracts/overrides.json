@@ -259,7 +259,12 @@
       "Mr. Cardinal elected to drive because he felt he was the most sober of the group"
     ],
     "source": "filler check",
-    "why": "why he chose to drive is background, not a serious act"
+    "why": "why he chose to drive is background, not a serious act",
+    "remove_rationale_highlights": [
+      "Germane to the analysis is his poor judgment and blameworthiness for what happened"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court says responsibility is impacted by systemic and background factors; highlight 2 stresses blameworthiness, the counterweight, not mitigation."
   },
   "2015 BCSC 926": {
     "remove_crime_highlights": [
@@ -388,10 +393,11 @@
     "source": "filler check",
     "why": "Stolen vehicle and time of day are background",
     "remove_rationale_highlights": [
-      "I conclude that the Gladue factors play a minor role in determining the fit sentence for the firearm offences"
+      "I conclude that the Gladue factors play a minor role in determining the fit sentence for the firearm offences",
+      "the Gladue factors are but one facet to consider within the context of other factors"
     ],
     "direction_source": "direction check",
-    "direction_why": "Sentencing judge lists Gladue factors as mitigating; highlight 4 says they play only a minor role, so it reads as limited weight."
+    "direction_why": "Court lists Gladue factors as mitigating and says they play a minor role; highlight 3 only downplays their weight."
   },
   "2018 BCSC 132": {
     "remove_crime_highlights": [
@@ -677,7 +683,14 @@
       "This was not self-defence."
     ],
     "source": "filler check",
-    "why": "legal conclusion not an act"
+    "why": "legal conclusion not an act",
+    "add_rationale_highlights": [
+      "The mitigating factors I have described are not insignificant"
+    ],
+    "remove_rationale_highlights": [
+      "The mitigating factors I have described are not insignificant, but there is no alternative to a lengthy period of incarceration in this case."
+    ],
+    "direction_source": "direction check"
   },
   "2024 BCSC 1325": {
     "remove_crime_highlights": [
@@ -837,7 +850,12 @@
     "drop_tags": [
       "Colonialism"
     ],
-    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)",
+    "remove_rationale_highlights": [
+      "there is no automatic reduction in sentence by virtue of Indigenous status"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court finds moral blameworthiness modestly attenuated by Gladue factors; highlight 4 is a limiting caveat used to temper the factor's weight."
   },
   "2026 BCSC 1292": {
     "remove_crime_highlights": [
@@ -1355,10 +1373,11 @@
     "source": "filler check",
     "why": "guilty plea is procedural",
     "remove_rationale_highlights": [
-      "the impact of the Gladue factors is attenuated"
+      "the impact of the Gladue factors is attenuated",
+      "the systemic issues that may have affected [the appellant’s] family and [the appellant] himself"
     ],
     "direction_source": "direction check",
-    "direction_why": "Judge took systemic issues into account in imposing sentence; highlight 2 says Gladue impact attenuated by seriousness, arguing against the factor."
+    "direction_why": "Appeal court only reports trial judge took systemic issues into account, impact attenuated; upholds on weight. Highlight 1 is trial judge's words before attenuation caveat."
   },
   "2022 ONCA 863": {
     "remove_crime_highlights": [
@@ -2081,5 +2100,22 @@
     ],
     "direction_source": "direction check",
     "direction_why": "SCC holds background factors diminish culpability and finds lower courts erred by attenuating them; highlight 4 describes lower courts' attenuated view, misleading alone."
+  },
+  "2025 NSSC 225": {
+    "add_rationale_highlights": [
+      "the Gladue factors serve to diminish Mr. Cloud’s moral culpability"
+    ],
+    "remove_rationale_highlights": [
+      "the Gladue factors serve to diminish Mr. Cloud’s moral culpability but only to a degree"
+    ],
+    "direction_source": "direction check"
+  },
+  "2023 ONCA 608": {
+    "remove_rationale_highlights": [
+      "I have little doubt that this part of your early life played a part in this offence",
+      "The reality is that your unique personal circumstances, viewed contextually, diminishes your moral culpability"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Majority finds culpability reduced by background, 3 years at low end. Highlights 3-4 are trial judge findings endorsed only by Paciocco's concurrence, extent rejected by majority."
   }
 }

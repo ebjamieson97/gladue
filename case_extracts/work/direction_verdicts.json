@@ -1,12 +1,12 @@
 {
  "1999 BCCA 448": {
   "overall": "mitigating",
-  "reason": "Appeal judge himself says Gladue requires these factors be taken into account.",
+  "reason": "Court says Gladue requires taking systemic factors into account in fixing sentence.",
   "by": "reader"
  },
  "2001 BCCA 254": {
   "overall": "mitigating",
-  "reason": "Appeal court finds aboriginal circumstances played substantial role and reduces ineligibility period.",
+  "reason": "Court finds circumstances played a substantial role and reduces parole ineligibility.",
   "by": "reader"
  },
  "2001 BCCA 30": {
@@ -16,12 +16,12 @@
  },
  "2002 BCCA 190": {
   "overall": "mitigating",
-  "reason": "Sentence reduced substantially based on circumstances of young aboriginal offender.",
+  "reason": "Sentence reduced substantially based on young aboriginal offender's circumstances.",
   "by": "reader"
  },
  "2004 BCCA 220": {
   "overall": "mitigating",
-  "reason": "Appeal court finds systemic factors underweighted and sentences too high.",
+  "reason": "Court finds systemic factors under-weighted and sentences too high.",
   "by": "reader"
  },
  "2006 BCCA 380": {
@@ -31,7 +31,7 @@
  },
  "2007 BCCA 206": {
   "overall": "mitigating",
-  "reason": "Court says aboriginal background can only mitigate and trial judge gave too little attention.",
+  "reason": "Court says aboriginal background can only lead to mitigation and needed more attention.",
   "by": "reader"
  },
  "2008 BCCA 437": {
@@ -41,72 +41,72 @@
  },
  "2009 BCCA 166": {
   "overall": "mitigating",
-  "reason": "Appeal court itself holds that, given his aboriginal heritage, age and record, the judge erred by not weighing rehabilitation; both highlights are its own view.",
+  "reason": "Appeal court itself holds that, given his aboriginal heritage, age and record, the judge erred by not considering rehabilitation; this shapes the sentence.",
   "by": "verifier"
  },
  "2009 BCCA 215": {
   "overall": "mitigating",
-  "reason": "Appeal court endorses trial judge treating Gladue factors as mitigating.",
+  "reason": "Court agrees judge was alive to systemic factors and treated Gladue as mitigating.",
   "by": "reader"
  },
  "2009 BCCA 534": {
   "overall": "mitigating",
-  "reason": "Court reduces sentence to nine months to reflect Aboriginal circumstances.",
+  "reason": "Sentence tempered and reduced to nine months for Aboriginal circumstances.",
   "by": "reader"
  },
  "2010 BCCA 9": {
   "overall": "mitigating",
-  "reason": "Court says 718.2(e) and background favour conditional sentence.",
+  "reason": "Section 718.2(e) and background favour conditional sentence.",
   "by": "reader"
  },
  "2012 BCCA 129": {
   "overall": "mitigating",
-  "reason": "Appeal court itself says Gladue factors and heritage are reflected in shorter two years less a day sentence; highlight 1 only reports trial judge.",
-  "by": "verifier"
+  "reason": "Court says consideration of disadvantage and heritage is reflected in shorter sentence.",
+  "by": "reader"
  },
  "2013 BCCA 153": {
   "overall": "mitigating",
-  "reason": "Aboriginal background makes rehabilitation weigh more; conditional discharge appropriate.",
+  "reason": "Aboriginal background relevant; conditional discharge appropriate given circumstances.",
   "by": "reader"
  },
  "2013 BCCA 160": {
   "overall": "mitigating",
-  "reason": "Aboriginal background and circumstances significantly reduced moral blameworthiness.",
+  "reason": "Aboriginal background significantly reduced moral blameworthiness; judge under-weighted it.",
   "by": "reader"
  },
  "2013 BCCA 174": {
   "overall": "mitigating",
-  "reason": "Appeal court itself says sentence should reflect Metis background and adversity; H1-H2 quote trial judge whose sentence it found erroneous, not clearly adopted.",
-  "by": "verifier"
+  "reason": "Sentence should have reflected Metis background and difficult upbringing.",
+  "by": "reader"
  },
  "2013 BCCA 202": {
   "overall": "mitigating",
-  "reason": "Court finds disadvantaged Aboriginal background makes custody unfit and shapes the order",
+  "reason": "Disadvantaged aboriginal background renders custody unfit and shapes sentence.",
   "by": "reader"
  },
  "2013 BCCA 41": {
   "overall": "mitigating",
-  "reason": "Appeal court endorses trial judge's conditional sentence, which weighed his Aboriginal background and intergenerational alcoholism; both highlights reflect adopted reasoning.",
-  "by": "verifier"
+  "reason": "Court upholds conditional sentence reflecting offender's Aboriginal background and circumstances.",
+  "by": "reader"
  },
  "2013 BCCA 93": {
   "overall": "mitigating",
-  "reason": "Court treats systemic background as reducing moral blameworthiness and reduces sentence",
+  "reason": "Court finds systemic factors reduce blameworthiness and lowers sentence.",
   "by": "reader"
  },
  "2014 BCCA 337": {
   "overall": "mitigating",
-  "reason": "Appeal court agrees judge treated Gladue factors as lessening moral culpability",
+  "reason": "Appeal court says judge treated Gladue factors as lessening culpability.",
   "by": "reader"
  },
  "2014 BCCA 81": {
   "overall": "mitigating",
-  "reason": "Parole ineligibility reflects Aboriginal status, absent which a longer period may have been imposed",
+  "reason": "Court says sentence reflects Aboriginal status, absent which longer period may have been imposed.",
   "by": "reader"
  },
  "2014 BCCA 84": {
   "overall": "mitigating",
-  "reason": "Court holds Aboriginal background highly relevant to moral blameworthiness and must be weighed",
+  "reason": "Court holds background relevant to moral blameworthiness and judge erred in not weighing it.",
   "by": "reader"
  },
  "2015 BCCA 295": {
@@ -116,47 +116,47 @@
  },
  "2015 BCCA 414": {
   "overall": "mitigating",
-  "reason": "Appeal court finds judge gave weight to Aboriginal heritage, lowering parole ineligibility",
+  "reason": "Court says Aboriginal heritage was given weight and reduced parole ineligibility.",
   "by": "reader"
  },
  "2016 BCCA 397": {
   "overall": "mitigating",
-  "reason": "Failure to consider Gladue factors made sentence too harsh and unfit",
+  "reason": "Court finds sentence too harsh for failing to consider Aboriginal circumstances.",
   "by": "reader"
  },
  "2016 BCCA 61": {
   "overall": "mitigating",
-  "reason": "Reduced culpability from systemic factors; sentence must reflect Aboriginal circumstances",
+  "reason": "Court reduces sentence reflecting systemic factors and Aboriginal circumstances.",
   "by": "reader"
  },
  "2017 BCCA 227": {
   "overall": "mitigating",
-  "reason": "Colonial impacts bear on moral blameworthiness; sentence at high end was error",
+  "reason": "Court finds colonial impacts bear on moral blameworthiness; sentence reduced.",
   "by": "reader"
  },
  "2017 BCCA 258": {
   "overall": "mitigating",
-  "reason": "Failure to weigh systemic disadvantage in culpability; Aboriginal circumstances support community sentence",
+  "reason": "Court says systemic disadvantages reduce culpability and support conditional sentence.",
   "by": "reader"
  },
  "2017 BCCA 389": {
   "overall": "mitigating",
-  "reason": "Court says judge treated background as justifying more lenient sentence",
+  "reason": "Court finds background treated as justifying more lenient sentence.",
   "by": "reader"
  },
  "2018 BCCA 339": {
   "overall": "mitigating",
-  "reason": "Residential school abuse sheds light on blameworthiness; global sentence reduced",
+  "reason": "Court finds residential school abuse mitigates and reduces global sentence.",
   "by": "reader"
  },
  "2019 BCCA 135": {
   "overall": "mitigating",
-  "reason": "Failure to apply Gladue principles led to unfit sentence",
+  "reason": "Court finds failure to apply Gladue led to unfit sentence.",
   "by": "reader"
  },
  "2019 BCCA 244": {
   "overall": "mitigating",
-  "reason": "Appeal court itself says Gladue factors must be considered and reduces sentence.",
+  "reason": "Court says systemic factors must be taken into account and sentence reduced.",
   "by": "reader"
  },
  "2019 BCCA 404": {
@@ -166,28 +166,28 @@
  },
  "2020 BCCA 23": {
   "overall": "mitigating",
-  "reason": "Appeal court confirms judge accepted reduced blameworthiness and found treatment adequate.",
+  "reason": "Court accepts Gladue factors reduced moral blameworthiness though public protection paramount.",
   "by": "reader"
  },
  "2020 BCCA 355": {
   "overall": "mitigating",
-  "reason": "Appeal court says background must have mitigating effect on sentence.",
+  "reason": "Court holds background must have mitigating effect on sentence.",
   "by": "reader"
  },
  "2020 BCCA 373": {
   "overall": "mitigating",
-  "reason": "Appeal court applies Aboriginal disadvantage principles and reduces the supervision order.",
+  "reason": "Disadvantages and Gladue principles support reducing the supervision order.",
   "by": "reader"
  },
  "2020 BCCA 64": {
   "overall": "mitigating",
-  "reason": "Court finds reduced moral culpability and reduces sentence.",
+  "reason": "Reduced moral culpability justifies some sentence reduction.",
   "by": "reader"
  },
  "2021 BCCA 399": {
   "overall": "mitigating",
-  "reason": "Appeal court itself finds Metis heritage reduces moral blameworthiness below trial judge's level; all highlights reflect the appeal court's own view.",
-  "by": "verifier"
+  "reason": "Heritage reduces moral blameworthiness and shapes sentencing objectives.",
+  "by": "reader"
  },
  "2021 BCCA 71": {
   "overall": "mitigating",
@@ -196,17 +196,17 @@
  },
  "2023 BCCA 132": {
   "overall": "mitigating",
-  "reason": "Appeal court confirms judge found reduced blameworthiness from Gladue factors and lowered sentence.",
-  "by": "reader"
+  "reason": "Appeal court finds no merit in challenge, endorsing judge's finding that Gladue factors reduced blameworthiness and lowered the sentence; highlights read as mitigating.",
+  "by": "verifier"
  },
  "2023 BCCA 2": {
   "overall": "mitigating",
-  "reason": "Court finds significantly reduced moral blameworthiness from systemic factors.",
+  "reason": "Significantly reduced moral blameworthiness from colonial history.",
   "by": "reader"
  },
  "2023 BCCA 448": {
   "overall": "mitigating",
-  "reason": "Appeal court agrees judge reduced sentence by a year for colonial impacts.",
+  "reason": "Appeal court affirms reduction for colonial effects on upbringing.",
   "by": "reader"
  },
  "2023 BCCA 65": {
@@ -216,62 +216,62 @@
  },
  "2025 BCCA 113": {
   "overall": "mitigating",
-  "reason": "Court finds markedly diminished blameworthiness and imposes conditional sentence.",
+  "reason": "Markedly diminished culpability supports conditional sentence.",
   "by": "reader"
  },
  "2025 BCCA 183": {
   "overall": "mitigating",
-  "reason": "Court finds Gladue factors substantially attenuated culpability and limit sentence.",
+  "reason": "Gladue factors substantially attenuated culpability.",
   "by": "reader"
  },
  "2025 BCCA 214": {
   "overall": "mitigating",
-  "reason": "Court says history mitigates culpability and justifies shorter sentence.",
+  "reason": "History mitigates moral culpability and justifies shorter sentence.",
   "by": "reader"
  },
  "2026 BCCA 273": {
   "overall": "mitigating",
-  "reason": "Appeal court accepts trial judge found reduced moral blameworthiness from Indigenous factors and upholds it.",
+  "reason": "Appeal court accepts judge found reduced moral blameworthiness.",
   "by": "reader"
  },
  "2001 BCSC 123": {
   "overall": "mitigating",
-  "reason": "Court took Metis heritage into account when setting the sentence range.",
+  "reason": "Court took Metis heritage into account in setting range.",
   "by": "reader"
  },
  "2001 BCSC 688": {
   "overall": "mitigating",
-  "reason": "Gladue principles reduced parole ineligibility from fourteen to twelve years.",
+  "reason": "Gladue principles reduced parole ineligibility period by two years.",
   "by": "reader"
  },
  "2006 BCSC 577": {
   "overall": "mitigating",
-  "reason": "Listed as mitigating circumstance though court says not much mitigating effect.",
-  "by": "reader"
+  "reason": "Court lists Aboriginal-linked disadvantaged upbringing among mitigating circumstances, giving it only modest effect; highlights stop before the caveat.",
+  "by": "verifier"
  },
  "2008 BCSC 1126": {
   "overall": "mitigating",
-  "reason": "Aboriginal origins serve to reduce the sentence.",
+  "reason": "Court concludes aboriginal origins should reduce the sentence.",
   "by": "reader"
  },
  "2008 BCSC 1731": {
   "overall": "mitigating",
-  "reason": "Aboriginal heritage is a mitigating factor taken into account in fixing sentence.",
+  "reason": "Aboriginal heritage taken into account as mitigating in fixing sentence.",
   "by": "reader"
  },
  "2010 BCSC 1800": {
   "overall": "mitigating",
-  "reason": "Sentence tempered in light of Gladue factors and background.",
+  "reason": "Gladue factors tempered the sentence to two years less a day.",
   "by": "reader"
  },
  "2010 BCSC 578": {
   "overall": "mitigating",
-  "reason": "Aboriginal status and background have some impact on result, though not great.",
+  "reason": "Aboriginal status and background have some impact on the result.",
   "by": "reader"
  },
  "2011 BCSC 1363": {
   "overall": "mitigating",
-  "reason": "Gladue factors play significant role in determining sentences.",
+  "reason": "Gladue and systemic factors play significant role in the breach sentences.",
   "by": "reader"
  },
  "2012 BCSC 1134": {
@@ -286,97 +286,97 @@
  },
  "2012 BCSC 155": {
   "overall": "mitigating",
-  "reason": "Gladue circumstances reduced sentence from three to four years down to two.",
+  "reason": "Gladue circumstances reduced sentence from three to four years to two.",
   "by": "reader"
  },
  "2012 BCSC 1755": {
   "overall": "mitigating",
-  "reason": "Aboriginal status circumstances warrant a somewhat lesser parole ineligibility period.",
+  "reason": "Aboriginal circumstances and systemic racism warrant a lesser parole ineligibility period.",
   "by": "reader"
  },
  "2012 BCSC 1980": {
   "overall": "mitigating",
-  "reason": "Sentence reduced by six months under 718.2(e).",
+  "reason": "Sentence reduced six months under 718.2(e) for background.",
   "by": "reader"
  },
  "2012 BCSC 780": {
   "overall": "mitigating",
-  "reason": "Traumatic upbringing including parents residential schools is mitigating.",
+  "reason": "Traumatic upbringing including parents residential school is a mitigating factor.",
   "by": "reader"
  },
  "2012 BCSC 815": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness somewhat less due to disadvantaged background.",
+  "reason": "Disadvantaged background makes moral blameworthiness somewhat less.",
   "by": "reader"
  },
  "2013 BCSC 1044": {
   "overall": "mitigating",
-  "reason": "Sentencing judge finds Aboriginal systemic factors moderate culpability somewhat; highlights 3 and 4 stress culpability remains high, reading as limited weight.",
-  "by": "verifier"
+  "reason": "Systemic factors moderate moral culpability somewhat.",
+  "by": "reader"
  },
  "2013 BCSC 1145": {
   "overall": "mitigating",
-  "reason": "Aboriginal ancestry listed as mitigating; Gladue applies regardless of seriousness.",
+  "reason": "Aboriginal ancestry listed as mitigating; Gladue factors applied.",
   "by": "reader"
  },
  "2013 BCSC 1894": {
   "overall": "mitigating",
-  "reason": "Court itself calls adoption-related Aboriginal factors valid considerations on sentence; highlight 3 stresses their reduced impact on culpability, so drop it.",
-  "by": "verifier"
+  "reason": "Heritage is valid consideration on sentence though impact is lesser.",
+  "by": "reader"
  },
  "2013 BCSC 1918": {
   "overall": "mitigating",
-  "reason": "Systemic factors impact degree of responsibility; court weighs Aboriginal circumstances in sentence.",
+  "reason": "Systemic factors impact degree of responsibility; sentence crafted weighing them.",
   "by": "reader"
  },
  "2013 BCSC 2121": {
   "overall": "mitigating",
-  "reason": "Aboriginal heritage is a mitigating factor rendering misconduct less blameworthy.",
+  "reason": "Court calls Aboriginal heritage mitigating and says it renders misconduct less blameworthy.",
   "by": "reader"
  },
  "2013 BCSC 2321": {
   "overall": "mitigating",
-  "reason": "Factors reduce overall culpability somewhat.",
+  "reason": "Gladue factors reduce somewhat overall culpability.",
   "by": "reader"
  },
  "2013 BCSC 2335": {
   "overall": "mitigating",
-  "reason": "Factors render accused less blameworthy; court applies Gladue in dangerous offender setting.",
+  "reason": "Deprivation of culture renders accused less blameworthy.",
   "by": "reader"
  },
  "2013 BCSC 2445": {
   "overall": "mitigating",
-  "reason": "Gladue factors lead to lesser period of incarceration.",
+  "reason": "Lesser incarceration imposed because of Gladue factors.",
   "by": "reader"
  },
  "2014 BCSC 1435": {
   "overall": "mitigating",
-  "reason": "Background of neglect is mitigating and impacts moral culpability.",
+  "reason": "Background of neglect treated as mitigating and impacts moral culpability.",
   "by": "reader"
  },
  "2014 BCSC 1639": {
   "overall": "mitigating",
-  "reason": "Gladue considerations listed as significant mitigating factor.",
+  "reason": "Gladue considerations listed among mitigating factors as significant.",
   "by": "reader"
  },
  "2014 BCSC 202": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view under mitigating factors: residential school legacy and unstable, substance-abusing upbringing explain his conduct and lack of remorse; no contrary highlights.",
+  "reason": "Under mitigating factors, the court itself uses his troubled background to temper the Crown's lack-of-remorse point; highlights are the court's own findings.",
   "by": "verifier"
  },
  "2014 BCSC 2198": {
   "overall": "mitigating",
-  "reason": "Aboriginal circumstances a major part of court thinking in sentencing.",
+  "reason": "Aboriginal circumstances a major part of the judge's thinking in sentencing.",
   "by": "reader"
  },
  "2014 BCSC 2554": {
   "overall": "mitigating",
-  "reason": "Gladue factors considered and given relatively less weight but still some effect.",
-  "by": "reader"
+  "reason": "Court links residential school legacy to his upbringing and gives Gladue factors some, though relatively less, weight; highlights state law and the link, none cut against.",
+  "by": "verifier"
  },
  "2014 BCSC 2566": {
   "overall": "mitigating",
-  "reason": "Systemic factors and disadvantaged background considered in fixing fit sentence.",
+  "reason": "Systemic factors and disadvantaged background considered in fixing three years.",
   "by": "reader"
  },
  "2014 BCSC 2597": {
@@ -386,67 +386,67 @@
  },
  "2014 BCSC 552": {
   "overall": "mitigating",
-  "reason": "Court tailors sentence to aboriginal offender status and balances objectives with it.",
+  "reason": "Sentence shortened to reflect aboriginal offender status.",
   "by": "reader"
  },
  "2014 BCSC 625": {
   "overall": "mitigating",
-  "reason": "Systemic factors reduce moral culpability and militate against incarceration.",
+  "reason": "Systemic factors reduce moral culpability and offset aggravating circumstances.",
   "by": "reader"
  },
  "2014 BCSC 840": {
   "overall": "mitigating",
-  "reason": "Aboriginal background called the only mitigating factor, though outweighed by aggravating factors.",
+  "reason": "Disadvantaged Aboriginal background is the court's only mitigating factor, though outweighed.",
   "by": "reader"
  },
  "2015 BCSC 1032": {
   "overall": "mitigating",
-  "reason": "Judge exercises restraint because of Aboriginal heritage and colonialism legacy.",
+  "reason": "Legacy of colonialism calls for restraint; sentence imposed with restraint.",
   "by": "reader"
  },
  "2015 BCSC 1833": {
   "overall": "mitigating",
-  "reason": "Aboriginal background substantially limits moral culpability.",
+  "reason": "Court finds aboriginal background substantially limits moral culpability.",
   "by": "reader"
  },
  "2015 BCSC 1891": {
   "overall": "mitigating",
-  "reason": "Sentence would be longer without Gladue factors.",
+  "reason": "Gladue factors shorten sentence; without them it would be longer.",
   "by": "reader"
  },
  "2015 BCSC 201": {
   "overall": "mitigating",
-  "reason": "Gladue factors shape sentence toward supervision and treatment.",
+  "reason": "Systemic factors shape sentence toward supervision and treatment.",
   "by": "reader"
  },
  "2015 BCSC 2397": {
   "overall": "mitigating",
-  "reason": "Aboriginal heritage a significant sentencing factor with generational effects.",
+  "reason": "Aboriginal heritage called significant factor with real effect on offender.",
   "by": "reader"
  },
  "2015 BCSC 2536": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: systemic and background factors reduce his responsibility; heritage linked to substance abuse; mitigation offset by aggravating factors, not rejected.",
+  "reason": "Court says responsibility is impacted by systemic and background factors; highlight 2 stresses blameworthiness, the counterweight, not mitigation.",
   "by": "verifier"
  },
  "2015 BCSC 354": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: aboriginal background, with plea and mental health, warranted a somewhat lesser sentence; highlight 1 is an acknowledgement, not a rejection.",
+  "reason": "Court counts aboriginal background with other mitigating factors for a lesser sentence; highlight 1 is its own recognition of systemic injustice, limited only by information.",
   "by": "verifier"
  },
  "2015 BCSC 926": {
   "overall": "mitigating",
-  "reason": "Gladue factors underlie behaviour and inform and affect the sentences.",
+  "reason": "Systemic factors underlie behaviour and inform and affect sentence.",
   "by": "reader"
  },
  "2016 BCSC 1424": {
   "overall": "mitigating",
-  "reason": "Gladue factors support low end sentence with treatment.",
+  "reason": "Gladue factors support lowest end of range with treatment.",
   "by": "reader"
  },
  "2016 BCSC 1449": {
   "overall": "mitigating",
-  "reason": "Sentencing judge links residential schools to offender and gives background a modest reduction; highlight 4 stresses only modest impact, reads as limited weight.",
+  "reason": "Court links background to residential schools and says systemic factors have a modest impact on severity; highlights avoid the overwhelm caveat.",
   "by": "verifier"
  },
  "2016 BCSC 161": {
@@ -456,12 +456,12 @@
  },
  "2016 BCSC 171": {
   "overall": "mitigating",
-  "reason": "Gladue factors bring sentence down to match co-accused.",
+  "reason": "Gladue factors reduce sentence to match co-accused.",
   "by": "reader"
  },
  "2016 BCSC 1931": {
   "overall": "mitigating",
-  "reason": "Judge takes aboriginal background into account as part of moral blameworthiness.",
+  "reason": "Aboriginal background taken into account as aspect of moral blameworthiness.",
   "by": "reader"
  },
  "2016 BCSC 2148": {
@@ -471,132 +471,132 @@
  },
  "2016 BCSC 2169": {
   "overall": "mitigating",
-  "reason": "Gladue factors reduce parole ineligibility period.",
+  "reason": "Without Gladue factors and plea, parole ineligibility would be longer.",
   "by": "reader"
  },
  "2016 BCSC 2291": {
   "overall": "mitigating",
-  "reason": "Systemic factors played a role; significant restorative emphasis under Gladue.",
+  "reason": "Systemic factors played a role; sentence emphasizes restorative justice per Gladue.",
   "by": "reader"
  },
  "2016 BCSC 2497": {
   "overall": "mitigating",
-  "reason": "Systemic factors reduce moral culpability; suspended sentence.",
+  "reason": "Court finds systemic factors reduce moral culpability and imposes suspended sentence.",
   "by": "reader"
  },
  "2016 BCSC 2522": {
   "overall": "mitigating",
-  "reason": "Gladue factors reduce moral blameworthiness and mitigate sentence.",
+  "reason": "Court says factors reduce moral blameworthiness and mitigate sentence.",
   "by": "reader"
  },
  "2016 BCSC 2657": {
   "overall": "mitigating",
-  "reason": "Clear nexus; sentence moderated for aboriginal background.",
+  "reason": "Court moderates sentence to reflect aboriginal background.",
   "by": "reader"
  },
  "2016 BCSC 65": {
   "overall": "mitigating",
-  "reason": "Gladue and mitigating factors support sentence outside range.",
-  "by": "reader"
+  "reason": "Court lists Gladue factors and, applying s. 718.2(e) with other mitigating factors, imposes a sentence below the usual range.",
+  "by": "verifier"
  },
  "2016 BCSC 683": {
   "overall": "mitigating",
-  "reason": "Gladue factors listed among mitigating factors.",
+  "reason": "Gladue factors listed as mitigating factors.",
   "by": "reader"
  },
  "2016 BCSC 977": {
   "overall": "mitigating",
-  "reason": "Court itself finds reduced moral blameworthiness from Gladue factors; highlight 2 is a limiting caveat that reads against mitigation.",
-  "by": "verifier"
+  "reason": "Court has regard to reduced moral blameworthiness from Gladue factors; highlight already stops before caveat.",
+  "by": "reader"
  },
  "2017 BCSC 1054": {
   "overall": "mitigating",
-  "reason": "Aboriginal heritage lowers sentence below Crown position.",
+  "reason": "Aboriginal heritage leads court to reject Crown's higher sentence.",
   "by": "reader"
  },
  "2017 BCSC 1187": {
   "overall": "mitigating",
-  "reason": "Background brings rehabilitation to prominence; modest mitigation.",
+  "reason": "Unfortunate background brings rehabilitation to prominence; s.718.2(e) attention.",
   "by": "reader"
  },
  "2017 BCSC 1218": {
   "overall": "mitigating",
-  "reason": "Indigenous disadvantages treated as important mitigating facts.",
+  "reason": "Indigenous heritage and resulting disadvantages are particularly important facts in sentence.",
   "by": "reader"
  },
  "2017 BCSC 1240": {
   "overall": "mitigating",
-  "reason": "Background circumstances reduce moral blameworthiness.",
+  "reason": "Moral blameworthiness reduced by background circumstances.",
   "by": "reader"
  },
  "2017 BCSC 1801": {
   "overall": "mitigating",
-  "reason": "Gladue factors played part and caution against sentence discouraging rehabilitation.",
+  "reason": "Gladue factors considered to caution against discouraging rehabilitation.",
   "by": "reader"
  },
  "2017 BCSC 2203": {
   "overall": "mitigating",
-  "reason": "Court says Gladue factors pull offender back from maximum parole ineligibility.",
+  "reason": "Gladue factors pull offender back from maximum parole ineligibility.",
   "by": "reader"
  },
  "2017 BCSC 2236": {
   "overall": "mitigating",
-  "reason": "Background diminishes moral blameworthiness per the court.",
+  "reason": "Background diminishes moral blameworthiness.",
   "by": "reader"
  },
  "2017 BCSC 2288": {
   "overall": "mitigating",
-  "reason": "Court finds Gladue factors affected offender and sentence accounts for them.",
-  "by": "reader"
+  "reason": "Court accepts joint sentence as accounting for Gladue factors that affected her; report background on residential school trauma is adopted at para 121.",
+  "by": "verifier"
  },
  "2017 BCSC 2433": {
   "overall": "mitigating",
-  "reason": "Aboriginal heritage and its consequences listed as mitigating by the court.",
+  "reason": "Aboriginal heritage consequences listed among mitigating factors.",
   "by": "reader"
  },
  "2017 BCSC 2438": {
   "overall": "mitigating",
-  "reason": "Aboriginal background balanced in sentence and explains the tragedy.",
+  "reason": "Court weighs aboriginal background and circumstances in accepting the sentence.",
   "by": "reader"
  },
  "2017 BCSC 2463": {
   "overall": "mitigating",
-  "reason": "Court considers indigenous background and residential school impact as mitigating.",
+  "reason": "Court expressly considers indigenous background and residential school impact as mitigating.",
   "by": "reader"
  },
  "2017 BCSC 2485": {
   "overall": "mitigating",
-  "reason": "Court sees background as mitigating and tempering blameworthiness.",
+  "reason": "Background seen as mitigating and tempers blameworthiness.",
   "by": "reader"
  },
  "2017 BCSC 2513": {
   "overall": "mitigating",
-  "reason": "Aboriginal background substantially limited moral blameworthiness.",
+  "reason": "Aboriginal background limited moral blameworthiness.",
   "by": "reader"
  },
  "2017 BCSC 877": {
   "overall": "mitigating",
-  "reason": "Court deducts additional amount because of Gladue factors.",
+  "reason": "Slight deduction for Gladue factors.",
   "by": "reader"
  },
  "2017 BCSC 969": {
   "overall": "mitigating",
-  "reason": "Gladue factors not insignificant, relevant; healing village recommended.",
+  "reason": "Gladue factors not insignificant and relevant; healing institution recommended.",
   "by": "reader"
  },
  "2018 BCSC 1033": {
   "overall": "mitigating",
-  "reason": "Sentencing judge finds Gladue background contributed and gives some reduction in culpability; highlight 4 says lack of responsibility tempers that effect.",
-  "by": "verifier"
+  "reason": "Gladue background reduces moral culpability.",
+  "by": "reader"
  },
  "2018 BCSC 1041": {
   "overall": "mitigating",
-  "reason": "Sentencing judge lists Gladue factors as mitigating; highlight 4 says they play only a minor role, so it reads as limited weight.",
+  "reason": "Court lists Gladue factors as mitigating and says they play a minor role; highlight 3 only downplays their weight.",
   "by": "verifier"
  },
  "2018 BCSC 1229": {
   "overall": "mitigating",
-  "reason": "Aboriginal ancestry given primacy leading to mandatory minimum.",
+  "reason": "Aboriginal ancestry given primacy leading to minimum sentence.",
   "by": "reader"
  },
  "2018 BCSC 132": {
@@ -616,42 +616,42 @@
  },
  "2018 BCSC 1405": {
   "overall": "mitigating",
-  "reason": "Court concludes Gladue factors mitigate and reduce moral blameworthiness.",
+  "reason": "Gladue factors mitigate moral culpability.",
   "by": "reader"
  },
  "2018 BCSC 1595": {
   "overall": "mitigating",
-  "reason": "Court says restraint required and offender falls squarely within Gladue category.",
+  "reason": "Gladue background and restraint principle applied.",
   "by": "reader"
  },
  "2018 BCSC 1995": {
   "overall": "mitigating",
-  "reason": "Court applies Gladue principles in setting sentence after noting difficult upbringing.",
+  "reason": "Gladue principles applied in setting sentence.",
   "by": "reader"
  },
  "2018 BCSC 2069": {
   "overall": "mitigating",
-  "reason": "Court finds highly reduced moral blameworthiness from colonial history and linked trauma.",
+  "reason": "Highly reduced moral blameworthiness from colonial history.",
   "by": "reader"
  },
  "2018 BCSC 2168": {
   "overall": "mitigating",
-  "reason": "Court finds background and racism decrease degree of responsibility.",
+  "reason": "Background decreases degree of responsibility.",
   "by": "reader"
  },
  "2018 BCSC 2281": {
   "overall": "mitigating",
-  "reason": "Court accepts Gladue factors diminish blameworthiness and call for restraint.",
+  "reason": "Societal deficits diminish blameworthiness; restraint required.",
   "by": "reader"
  },
  "2018 BCSC 2392": {
   "overall": "mitigating",
-  "reason": "Court treats s. 718.2(e) as statutory mitigating factor and recognizes systemic difficulty in sentence.",
+  "reason": "Court calls First Nations heritage a statutory mitigating factor and says sentence recognizes systemic difficulty.",
   "by": "reader"
  },
  "2018 BCSC 2401": {
   "overall": "mitigating",
-  "reason": "Court finds systemic factors bear on culpability and reduces sentence to ten months.",
+  "reason": "Systemic factors bear on culpability; sentence reduced from 12 to 10 months in light of Gladue.",
   "by": "reader"
  },
  "2018 BCSC 254": {
@@ -661,47 +661,47 @@
  },
  "2018 BCSC 296": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: residential school legacy offsets what would otherwise be more aggravating circumstances versus Johnson; all highlights are the court's own sympathetic findings.",
-  "by": "verifier"
+  "reason": "Court ties her violence to colonization and residential schools and laments lack of options besides jail.",
+  "by": "reader"
  },
  "2018 BCSC 738": {
   "overall": "mitigating",
-  "reason": "Court finds personal challenges and residential school legacy substantially diminish blameworthiness.",
+  "reason": "Personal challenges and residential school legacy substantially diminish moral blameworthiness.",
   "by": "reader"
  },
  "2018 BCSC 937": {
   "overall": "mitigating",
-  "reason": "Court reduces sentence from four to three years for Indigenous background.",
+  "reason": "Indigenous background reduces sentence from four to three years.",
   "by": "reader"
  },
  "2018 BCSC 987": {
   "overall": "mitigating",
-  "reason": "Court says background informs and modestly attenuates moral culpability.",
+  "reason": "Background informs moral culpability, which is modestly attenuated; court treats factors as significant.",
   "by": "reader"
  },
  "2019 BCSC 1039": {
   "overall": "mitigating",
-  "reason": "Court says moral blameworthiness reduced by Indigenous background and colonialism legacy.",
+  "reason": "Court reduces moral blameworthiness because of colonialism and residential school legacy.",
   "by": "reader"
  },
  "2019 BCSC 1452": {
   "overall": "mitigating",
-  "reason": "Court takes Aboriginal background into account and tempers sentence with restraint.",
+  "reason": "Court takes Aboriginal background into account and tempers and restrains the sentence.",
   "by": "reader"
  },
  "2019 BCSC 1619": {
   "overall": "mitigating",
-  "reason": "Court considers difficult upbringing and residential school history in choosing non-custodial outcome.",
+  "reason": "Court considers difficult upbringing and chooses restorative justice instead of incarceration.",
   "by": "reader"
  },
  "2019 BCSC 1717": {
   "overall": "mitigating",
-  "reason": "Court finds reduced moral blameworthiness tied to Metis disconnection.",
+  "reason": "Court recognizes reduced moral blameworthiness linked to loss of Metis heritage.",
   "by": "reader"
  },
  "2019 BCSC 1960": {
   "overall": "mitigating",
-  "reason": "Court says Gladue factors slightly mitigate culpability and adjusts sentence down.",
+  "reason": "Gladue factors slightly mitigate culpability and lower the global sentence.",
   "by": "reader"
  },
  "2019 BCSC 2068": {
@@ -711,37 +711,37 @@
  },
  "2019 BCSC 2084": {
   "overall": "mitigating",
-  "reason": "Court accepts moral blameworthiness significantly attenuated by Indigenous background and residential school legacy.",
+  "reason": "Moral blameworthiness significantly attenuated by disadvantaged, discriminatory background.",
   "by": "reader"
  },
  "2019 BCSC 2151": {
   "overall": "mitigating",
-  "reason": "Court states Gladue factors reduce Eddy moral culpability.",
+  "reason": "Gladue factors operate to reduce moral culpability.",
   "by": "reader"
  },
  "2019 BCSC 229": {
   "overall": "mitigating",
-  "reason": "Aboriginal heritage a mitigating factor lowering sentence and favouring shorter term.",
+  "reason": "Aboriginal heritage taken into account to lower sentence below Crown position.",
   "by": "reader"
  },
  "2019 BCSC 2339": {
   "overall": "mitigating",
-  "reason": "Gladue factors play major role; low moral blameworthiness.",
+  "reason": "Court finds Gladue factors major, moral blameworthiness low.",
   "by": "reader"
  },
  "2019 BCSC 236": {
   "overall": "mitigating",
-  "reason": "Court treats racism and difficult upbringing as relevant, reducing sentence from the maximum.",
+  "reason": "Court treats background and racism as relevant, moderating sentence below maximum.",
   "by": "reader"
  },
  "2019 BCSC 242": {
   "overall": "mitigating",
-  "reason": "Aboriginal heritage and familial trauma support a conditional sentence.",
+  "reason": "Aboriginal heritage supports conditional sentence instead of prison.",
   "by": "reader"
  },
  "2019 BCSC 2499": {
   "overall": "mitigating",
-  "reason": "Systemic factors reduce sentence from 18 to 15 months.",
+  "reason": "Systemic factors reduce sentence to 15 months.",
   "by": "reader"
  },
  "2019 BCSC 2514": {
@@ -751,77 +751,77 @@
  },
  "2019 BCSC 368": {
   "overall": "mitigating",
-  "reason": "Court finds highly reduced moral blameworthiness from colonial history effects.",
+  "reason": "Highly reduced moral blameworthiness from colonial history.",
   "by": "reader"
  },
  "2019 BCSC 559": {
   "overall": "mitigating",
-  "reason": "Systemic background facts affect assessment of culpability and blameworthiness.",
+  "reason": "Systemic background facts affect culpability assessment.",
   "by": "reader"
  },
  "2019 BCSC 774": {
   "overall": "mitigating",
-  "reason": "Background expressly mitigating and lessens moral culpability.",
+  "reason": "Background expressly mitigating, lessens moral culpability.",
   "by": "reader"
  },
  "2020 BCSC 1139": {
   "overall": "mitigating",
-  "reason": "Reduced moral blameworthiness and conditional sentence imposed due to Gladue.",
+  "reason": "Reduced blameworthiness and conditional sentence required by Gladue.",
   "by": "reader"
  },
  "2020 BCSC 1269": {
   "overall": "mitigating",
-  "reason": "Highly reduced moral blameworthiness from disconnection linked to assimilationist policies.",
+  "reason": "Highly reduced moral blameworthiness from disconnection and systemic discrimination.",
   "by": "reader"
  },
  "2020 BCSC 1395": {
   "overall": "mitigating",
-  "reason": "Court finds background mitigating and adopts Gladue report summary.",
+  "reason": "Court says background is mitigating and affects blameworthiness.",
   "by": "reader"
  },
  "2020 BCSC 1397": {
   "overall": "mitigating",
-  "reason": "Court says Indigenous background diminishes moral culpability.",
+  "reason": "Indigenous background diminishes culpability, though somewhat.",
   "by": "reader"
  },
  "2020 BCSC 1420": {
   "overall": "mitigating",
-  "reason": "Sentencing judge lists significant Gladue factors as mitigating, reducing moral blameworthiness; Skani reference is expressly adopted by this court.",
-  "by": "verifier"
+  "reason": "Gladue factors listed as mitigating, reduce moral blameworthiness.",
+  "by": "reader"
  },
  "2020 BCSC 1882": {
   "overall": "mitigating",
-  "reason": "Court agrees moral blameworthiness is diminished by systemic factors.",
+  "reason": "Systemic factors diminish moral blameworthiness.",
   "by": "reader"
  },
  "2020 BCSC 2086": {
   "overall": "mitigating",
-  "reason": "Residential school legacy lessens moral blameworthiness meaningfully.",
+  "reason": "Residential school legacy lessens blameworthiness meaningfully.",
   "by": "reader"
  },
  "2020 BCSC 2119": {
   "overall": "mitigating",
-  "reason": "Court says s. 718.2(e) circumstances demand restoration and rehabilitation role in sentence.",
+  "reason": "Court says Indigenous circumstances demand restoration and rehabilitation play substantial role.",
   "by": "reader"
  },
  "2020 BCSC 213": {
   "overall": "mitigating",
-  "reason": "Court finds Indigenous status reduced moral blameworthiness and reduced sentence.",
+  "reason": "Court finds Indigenous status reduced moral blameworthiness and considers reduced sentence.",
   "by": "reader"
  },
  "2020 BCSC 2218": {
   "overall": "mitigating",
-  "reason": "Gladue background leads to lower sentence than parity co-accused.",
+  "reason": "Gladue analysis reduces sentence from parity comparator.",
   "by": "reader"
  },
  "2020 BCSC 352": {
   "overall": "mitigating",
-  "reason": "Court finds reduced moral blameworthiness from chaotic background.",
+  "reason": "Court finds reduced moral blameworthiness from systemic and background factors.",
   "by": "reader"
  },
  "2020 BCSC 536": {
   "overall": "mitigating",
-  "reason": "Heritage-related instability reduces moral blameworthiness and shapes sentence.",
+  "reason": "Heritage played a role; somewhat reduced moral blameworthiness reflected in sentence.",
   "by": "reader"
  },
  "2020 BCSC 570": {
@@ -831,37 +831,37 @@
  },
  "2020 BCSC 907": {
   "overall": "mitigating",
-  "reason": "Court finds Gladue factors mitigating and reducing culpability.",
+  "reason": "Gladue factors mitigating, reduce culpability, favour restraint and rehabilitation.",
   "by": "reader"
  },
  "2021 BCSC 1004": {
   "overall": "mitigating",
-  "reason": "Colonization is primary mitigating factor; highly reduced blameworthiness.",
+  "reason": "Colonization is primary mitigating factor, highly reduced blameworthiness.",
   "by": "reader"
  },
  "2021 BCSC 1194": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness reduced by colonial disadvantage.",
+  "reason": "Moral blameworthiness reduced by background stemming from colonialism.",
   "by": "reader"
  },
  "2021 BCSC 1391": {
   "overall": "mitigating",
-  "reason": "Court lists Gladue factors as mitigating.",
+  "reason": "Gladue factors expressly mitigating.",
   "by": "reader"
  },
  "2021 BCSC 1518": {
   "overall": "mitigating",
-  "reason": "Court relies on minimal Gladue factors to avoid upper end of range.",
+  "reason": "Minimal Gladue factors still contribute to sentence below upper end of range.",
   "by": "reader"
  },
  "2021 BCSC 1608": {
   "overall": "mitigating",
-  "reason": "Court takes Aboriginal status and systemic impacts into account in sentence.",
+  "reason": "Sentence accepted as taking Aboriginal status into account, focused on rehabilitation.",
   "by": "reader"
  },
  "2021 BCSC 1652": {
   "overall": "mitigating",
-  "reason": "Heritage muted but Gladue report supports more controlled sentence.",
+  "reason": "Gladue report still supports more controlled sentence despite muted relevance.",
   "by": "reader"
  },
  "2021 BCSC 1738": {
@@ -871,22 +871,22 @@
  },
  "2021 BCSC 2036": {
   "overall": "mitigating",
-  "reason": "Gladue factors shape sentence to minimize disruption to family.",
+  "reason": "Gladue factors considered; sentence minimizes disruption to family and community.",
   "by": "reader"
  },
  "2021 BCSC 2147": {
   "overall": "mitigating",
-  "reason": "Intergenerational trauma accepted as reducing moral culpability.",
+  "reason": "Court accepts intergenerational trauma reduces moral culpability.",
   "by": "reader"
  },
  "2021 BCSC 445": {
   "overall": "mitigating",
-  "reason": "Aboriginal background is mitigating though not eliminating blameworthiness.",
+  "reason": "Aboriginal background mitigates but does not eliminate blameworthiness.",
   "by": "reader"
  },
  "2021 BCSC 528": {
   "overall": "mitigating",
-  "reason": "Mitigating factors including mother's Squamish experiences accepted; not upper end.",
+  "reason": "Accepted mitigating factors mean sentence not at upper end.",
   "by": "reader"
  },
  "2021 BCSC 597": {
@@ -896,7 +896,7 @@
  },
  "2021 BCSC 599": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness reduced to some degree under Gladue and Ipeelee.",
+  "reason": "Moral blameworthiness reduced to some degree under Gladue.",
   "by": "reader"
  },
  "2021 BCSC 712": {
@@ -911,62 +911,62 @@
  },
  "2022 BCSC 1015": {
   "overall": "mitigating",
-  "reason": "Gladue factors significantly attenuate blameworthiness and justify departing below range.",
+  "reason": "Gladue factors attenuate blameworthiness and justify departing below range.",
   "by": "reader"
  },
  "2022 BCSC 1394": {
   "overall": "mitigating",
-  "reason": "Sentencing judge (no appeal) accepts his blameworthiness is linked to his background and applies s. 718.2(e) Gladue factors toward rehabilitation; highlights are the court's own view.",
+  "reason": "Court itself links his blameworthiness to his background and applies s. 718.2(e) to his significant Gladue factors; highlights are the deciding court's own view.",
   "by": "verifier"
  },
  "2022 BCSC 1397": {
   "overall": "mitigating",
-  "reason": "Upbringing and Gladue circumstances amount to mitigating factor.",
+  "reason": "Court treats upbringing and Gladue factors as mitigating, supporting non-custodial result.",
   "by": "reader"
  },
  "2022 BCSC 1773": {
   "overall": "mitigating",
-  "reason": "Court states Indigenous heritage and circumstances are a mitigating factor.",
+  "reason": "Court states personal circumstances and Indigenous heritage are mitigating.",
   "by": "reader"
  },
  "2022 BCSC 1972": {
   "overall": "mitigating",
-  "reason": "Upbringing and Indigenous background challenges called clearly mitigating, sentence reduced.",
+  "reason": "Upbringing clearly mitigating; lower sentence due to compelling circumstances.",
   "by": "reader"
  },
  "2022 BCSC 2118": {
   "overall": "mitigating",
-  "reason": "Court finds Gladue circumstances diminish moral blameworthiness; CSO imposed.",
+  "reason": "Gladue circumstances diminish blameworthiness; conditional sentence chosen.",
   "by": "reader"
  },
  "2022 BCSC 2151": {
   "overall": "mitigating",
-  "reason": "Court denies full Gladue but accepts intergenerational trauma helps explain his difficult youth, which it weighs as substantial mitigation. Both highlights are the court's own view.",
-  "by": "verifier"
+  "reason": "Court takes history into serious consideration in sentencing.",
+  "by": "reader"
  },
  "2022 BCSC 2199": {
   "overall": "mitigating",
-  "reason": "Indigenous background and horrendous childhood listed among significant mitigating factors.",
+  "reason": "Horrendous aboriginal childhood among significant mitigating factors.",
   "by": "reader"
  },
  "2022 BCSC 2276": {
   "overall": "mitigating",
-  "reason": "Sentencing judge, in own voice, notes effects of Indigenous ancestry and difficult upbringing and takes Metis heritage into account; no contrary or third-party highlights.",
-  "by": "verifier"
+  "reason": "Court takes Metis heritage and its effects into account, modestly.",
+  "by": "reader"
  },
  "2022 BCSC 2348": {
   "overall": "mitigating",
-  "reason": "Gladue factors listed as mitigating; court recognizes impact of colonialism.",
-  "by": "reader"
+  "reason": "Court lists Gladue factors among mitigating factors at [64] and recognizes residential school and colonial impacts; report quote is consistent with court's findings.",
+  "by": "verifier"
  },
  "2022 BCSC 2493": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness significantly attenuated by Indigenous systemic background.",
+  "reason": "Moral blameworthiness significantly reduced by Indigenous background and trauma.",
   "by": "reader"
  },
  "2022 BCSC 425": {
   "overall": "mitigating",
-  "reason": "Indigenous background and Gladue factors listed as mitigating.",
+  "reason": "Indigenous background listed among mitigating factors.",
   "by": "reader"
  },
  "2022 BCSC 641": {
@@ -976,42 +976,42 @@
  },
  "2022 BCSC 658": {
   "overall": "mitigating",
-  "reason": "Gladue factors reduce moral blameworthiness.",
+  "reason": "Gladue factors and background reduce moral blameworthiness.",
   "by": "reader"
  },
  "2022 BCSC 718": {
   "overall": "mitigating",
-  "reason": "Court accepts Gladue principles in part; upbringing is a mitigating circumstance.",
+  "reason": "Court accepts Gladue background as mitigating circumstance that cannot be ignored.",
   "by": "reader"
  },
  "2023 BCSC 1026": {
   "overall": "mitigating",
-  "reason": "Sentence reduced for reduced blameworthiness from Indigenous status and colonialism.",
+  "reason": "Sentence reduced for reduced blameworthiness from colonial effects.",
   "by": "reader"
  },
  "2023 BCSC 1031": {
   "overall": "mitigating",
-  "reason": "Systemic racism linked to offending; CSO to address resulting disadvantages.",
+  "reason": "Systemic racism link accepted; conditional sentence helps address disadvantage.",
   "by": "reader"
  },
  "2023 BCSC 1722": {
   "overall": "mitigating",
-  "reason": "Gladue challenges called an important mitigating factor.",
+  "reason": "Gladue challenges are an important mitigating factor.",
   "by": "reader"
  },
  "2023 BCSC 1742": {
   "overall": "mitigating",
-  "reason": "Court says Gladue factors reduce moral culpability and the sentence.",
+  "reason": "Gladue factors reduce moral culpability and sentence.",
   "by": "reader"
  },
  "2023 BCSC 1810": {
   "overall": "mitigating",
-  "reason": "Court accepts reduced blameworthiness and reduces sentence by one year.",
+  "reason": "Blameworthiness reduced; one year reduction applied.",
   "by": "reader"
  },
  "2023 BCSC 1876": {
   "overall": "mitigating",
-  "reason": "Court finds backgrounds mitigate the circumstances somewhat.",
+  "reason": "Backgrounds mitigate somewhat.",
   "by": "reader"
  },
  "2023 BCSC 2126": {
@@ -1021,67 +1021,67 @@
  },
  "2023 BCSC 2236": {
   "overall": "mitigating",
-  "reason": "Court finds Gladue considerations lower moral blameworthiness and the range.",
+  "reason": "Gladue considerations lower range by lowering moral blameworthiness.",
   "by": "reader"
  },
  "2023 BCSC 2288": {
   "overall": "mitigating",
-  "reason": "Court rejects Crown range and reflects reduced moral blameworthiness.",
+  "reason": "Court finds reduced moral blameworthiness from Gladue history.",
   "by": "reader"
  },
  "2023 BCSC 2309": {
   "overall": "mitigating",
-  "reason": "Court considers intergenerational trauma and slight attenuation of blameworthiness.",
+  "reason": "Blameworthiness slightly attenuated by background and intergenerational trauma.",
   "by": "reader"
  },
  "2023 BCSC 2342": {
   "overall": "mitigating",
-  "reason": "Significant weight to Gladue factors, reduces responsibility, low end of range.",
+  "reason": "Significant weight to Gladue factors, reduces moral responsibility.",
   "by": "reader"
  },
  "2023 BCSC 2474": {
   "overall": "mitigating",
-  "reason": "Intergenerational trauma is important consideration in assessing moral blameworthiness.",
+  "reason": "Intergenerational trauma important to assessing moral blameworthiness.",
   "by": "reader"
  },
  "2023 BCSC 377": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: racial prejudice and systemic factors played a strong causal role; racist-attack brain injury significantly limits moral culpability.",
-  "by": "verifier"
+  "reason": "Systemic factors causal; limits moral culpability.",
+  "by": "reader"
  },
  "2023 BCSC 671": {
   "overall": "mitigating",
-  "reason": "Court infers Gladue factors substantially contributed and supports low sentence.",
+  "reason": "Gladue factors substantial contributors; sentence reflects them.",
   "by": "reader"
  },
  "2023 BCSC 753": {
   "overall": "mitigating",
-  "reason": "Court lists Gladue and colonial impacts as mitigating factors.",
+  "reason": "Gladue factors important; listed as mitigating.",
   "by": "reader"
  },
  "2023 BCSC 85": {
   "overall": "mitigating",
-  "reason": "Court applies Gladue factors, though impact on blameworthiness only goes so far.",
-  "by": "reader"
+  "reason": "Court applies Gladue factors, finds them very relevant though limited, and rejects Crown sentence for not fulsomely applying them; highlights reflect court's own view.",
+  "by": "verifier"
  },
  "2023 BCSC 876": {
   "overall": "mitigating",
-  "reason": "Court treats disadvantaged background and Gladue factors as mitigating.",
+  "reason": "Disadvantaged background and Gladue factors treated as mitigating.",
   "by": "reader"
  },
  "2023 BCSC 999": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness substantially reduced by colonialism and intergenerational trauma.",
+  "reason": "Moral blameworthiness substantially reduced by colonial legacy.",
   "by": "reader"
  },
  "2024 BCSC 1022": {
   "overall": "mitigating",
-  "reason": "Court links heritage to addiction, treated as mitigating, though less significant.",
+  "reason": "Indigenous heritage considered within mitigating addiction, though less significant.",
   "by": "reader"
  },
  "2024 BCSC 1099": {
   "overall": "mitigating",
-  "reason": "Court finds moral blameworthiness diminished by systemic factors.",
+  "reason": "Moral blameworthiness diminished by systemic factors.",
   "by": "reader"
  },
  "2024 BCSC 1191": {
@@ -1096,102 +1096,102 @@
  },
  "2024 BCSC 1278": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness mitigated to some degree by background.",
-  "by": "reader"
+  "reason": "Court says moral blameworthiness mitigated to some degree by upbringing echoing Indigenous offenders; highlight 4 trimmed before the no-alternative-to-incarceration caveat.",
+  "by": "verifier"
  },
  "2024 BCSC 1313": {
   "overall": "mitigating",
-  "reason": "Gladue factors significantly reduce culpability; conditional sentence.",
+  "reason": "Court says Gladue factors significantly reduce moral culpability and imposes conditional sentence.",
   "by": "reader"
  },
  "2024 BCSC 1325": {
   "overall": "mitigating",
-  "reason": "Colonial legacy relevant; culpability significantly lower.",
+  "reason": "Court finds colonial legacy relevant and moral culpability significantly lower.",
   "by": "reader"
  },
  "2024 BCSC 1821": {
   "overall": "mitigating",
-  "reason": "Gladue mitigating factors accounted for in sentence length.",
+  "reason": "Court accepts Gladue report and accounts for mitigating factors in setting custodial length.",
   "by": "reader"
  },
  "2024 BCSC 2177": {
   "overall": "mitigating",
-  "reason": "Accepts Gladue mitigating factors, accounted for in length.",
+  "reason": "Court accepts Gladue mitigating factors and accounts for them in sentence length.",
   "by": "reader"
  },
  "2024 BCSC 2220": {
   "overall": "mitigating",
-  "reason": "Gladue circumstances partially attenuate moral culpability.",
+  "reason": "Gladue circumstances tied to offending and partially attenuate moral culpability.",
   "by": "reader"
  },
  "2024 BCSC 238": {
   "overall": "mitigating",
-  "reason": "Background factors reduce moral culpability to some degree.",
+  "reason": "Adverse background factors reduce moral culpability to some degree.",
   "by": "reader"
  },
  "2024 BCSC 545": {
   "overall": "mitigating",
-  "reason": "Court concludes certain mitigation appropriate for Indigenous background.",
+  "reason": "Court finds Indigenous background warrants certain mitigation.",
   "by": "reader"
  },
  "2024 BCSC 575": {
   "overall": "mitigating",
-  "reason": "Systemic factors reduce otherwise high moral blameworthiness.",
+  "reason": "Systemic and background factors reduce otherwise high moral blameworthiness.",
   "by": "reader"
  },
  "2024 BCSC 626": {
   "overall": "mitigating",
-  "reason": "Gladue factors are the most significant mitigating aspect.",
+  "reason": "Gladue factors called the most significant mitigating aspect.",
   "by": "reader"
  },
  "2024 BCSC 876": {
   "overall": "mitigating",
-  "reason": "Court treats unfortunate upbringing with Gladue-type circumstances as mitigating.",
-  "by": "reader"
+  "reason": "Court reviews Gladue report, finds Indigenous circumstances present, and lists his unfortunate upbringing as a mitigating factor; no caveats in highlights.",
+  "by": "verifier"
  },
  "2024 BCSC 878": {
   "overall": "mitigating",
-  "reason": "Court finds moral blameworthiness lower given background including intergenerational trauma.",
+  "reason": "Background including intergenerational trauma places moral blameworthiness at lower end.",
   "by": "reader"
  },
  "2024 BCSC 947": {
   "overall": "mitigating",
-  "reason": "Court says systemic factors attenuate moral blameworthiness to some extent.",
+  "reason": "Systemic factors attenuate moral blameworthiness to some extent.",
   "by": "reader"
  },
  "2025 BCSC 1173": {
   "overall": "mitigating",
-  "reason": "Gladue factors relevant, restraint applied to shorten sentence, though not a significant culpability reduction.",
+  "reason": "Gladue factors relevant to offending and restraint applied for Indigenous heritage, though no significant reduction.",
   "by": "reader"
  },
  "2025 BCSC 1296": {
   "overall": "mitigating",
-  "reason": "Court lists intergenerational trauma factors among mitigating factors.",
-  "by": "reader"
+  "reason": "Court lists Gladue intergenerational trauma among mitigating factors at para 44; highlight 2 merely states the Ipeelee law, so it is kept.",
+  "by": "verifier"
  },
  "2025 BCSC 1414": {
   "overall": "mitigating",
-  "reason": "Court says moral culpability somewhat mitigated by systemic background factors.",
+  "reason": "Systemic background factors somewhat mitigate and reduce moral culpability.",
   "by": "reader"
  },
  "2025 BCSC 1980": {
   "overall": "mitigating",
-  "reason": "Gladue factors diminish moral blameworthiness and lower the sentence.",
+  "reason": "Court finds Gladue factors somewhat diminish moral blameworthiness and affect sentence.",
   "by": "reader"
  },
  "2025 BCSC 2302": {
   "overall": "mitigating",
-  "reason": "Court applies restraint and considers systemic background factors in shaping sentence and rehabilitation.",
+  "reason": "Court takes systemic factors into account under restraint and rehabilitation; weakly stated but shapes sentence.",
   "by": "reader"
  },
  "2025 BCSC 232": {
   "overall": "mitigating",
-  "reason": "Gladue factors mitigate some of blameworthiness.",
+  "reason": "Systemic factors diminish moral blameworthiness and mitigate some blameworthiness.",
   "by": "reader"
  },
  "2025 BCSC 2353": {
   "overall": "mitigating",
-  "reason": "Court accepts Gladue-type background as important mitigating factor reducing blameworthiness.",
+  "reason": "Court accepts background as important mitigating factor reducing moral blameworthiness.",
   "by": "reader"
  },
  "2025 BCSC 2395": {
@@ -1201,7 +1201,7 @@
  },
  "2025 BCSC 2418": {
   "overall": "mitigating",
-  "reason": "Colonialism and residential school legacy listed as mitigating factors with direct link.",
+  "reason": "Court lists colonial history factors as mitigating with direct link to functioning.",
   "by": "reader"
  },
  "2025 BCSC 2460": {
@@ -1211,133 +1211,133 @@
  },
  "2025 BCSC 2550": {
   "overall": "mitigating",
-  "reason": "Gladue principles play significant role; background is significant mitigating factor.",
-  "by": "reader"
+  "reason": "Court calls personal circumstances including Metis heritage and disadvantaged upbringing significant mitigating factors; joint sentence reflects his moral culpability.",
+  "by": "verifier"
  },
  "2025 BCSC 2574": {
-  "overall": "mitigating",
-  "reason": "Significantly reduced blameworthiness from Gladue factors and assimilationist disconnection.",
-  "by": "reader"
- },
- "2025 BCSC 2616": {
-  "overall": "mitigating",
-  "reason": "Significantly reduced blameworthiness from Gladue factors and intergenerational trauma.",
-  "by": "reader"
- },
- "2025 BCSC 2651": {
-  "overall": "mitigating",
-  "reason": "Court finds Gladue factors significant and impactful on sentence.",
-  "by": "reader"
- },
- "2025 BCSC 394": {
-  "overall": "mitigating",
-  "reason": "Court says moral culpability limited by Indigenous background factors to some degree.",
-  "by": "reader"
- },
- "2025 BCSC 405": {
-  "overall": "mitigating",
-  "reason": "Court itself recognizes Gladue circumstances as mitigation, though slight; highlight 2 stresses slight effect, so drop it.",
-  "by": "verifier"
- },
- "2025 BCSC 416": {
-  "overall": "mitigating",
-  "reason": "Court adopts reasoning that Gladue factors reduce moral culpability to some degree.",
-  "by": "reader"
- },
- "2025 BCSC 539": {
-  "overall": "mitigating",
-  "reason": "Court finds racism experiences connected to offending and attenuate blameworthiness.",
-  "by": "reader"
- },
- "2025 BCSC 735": {
-  "overall": "mitigating",
-  "reason": "Court finds Gladue factors significantly reduce moral blameworthiness.",
-  "by": "reader"
- },
- "2025 BCSC 759": {
-  "overall": "mitigating",
-  "reason": "Court accepts Indigeneity reduces moral blameworthiness given difficult upbringing.",
-  "by": "reader"
- },
- "2025 BCSC 944": {
-  "overall": "mitigating",
-  "reason": "Court says sentence would be greater without Gladue factors.",
-  "by": "reader"
- },
- "2026 BCSC 1035": {
-  "overall": "mitigating",
-  "reason": "Court says blameworthiness attenuated by intoxication and Gladue background.",
-  "by": "reader"
- },
- "2026 BCSC 1107": {
-  "overall": "mitigating",
-  "reason": "Court finds strong Gladue factors bear on and reduce sentence.",
-  "by": "reader"
- },
- "2026 BCSC 1113": {
-  "overall": "mitigating",
-  "reason": "Court accepts Indigenous factors connected to crimes as support for mitigation.",
-  "by": "reader"
- },
- "2026 BCSC 1120": {
-  "overall": "mitigating",
-  "reason": "Court states residential school impact is a mitigating factor.",
-  "by": "reader"
- },
- "2026 BCSC 1146": {
-  "overall": "mitigating",
-  "reason": "Court finds factors moderate moral blameworthiness and must be given meaningful effect.",
-  "by": "reader"
- },
- "2026 BCSC 1157": {
-  "overall": "mitigating",
-  "reason": "Court finds Gladue factors somewhat diminish moral blameworthiness.",
-  "by": "reader"
- },
- "2026 BCSC 1207": {
-  "overall": "mitigating",
-  "reason": "Sentencing judge finds Gladue factors modestly attenuate moral blameworthiness; highlight 4 states a legal principle; all highlights are the court's own view.",
-  "by": "verifier"
- },
- "2026 BCSC 1289": {
-  "overall": "mitigating",
-  "reason": "Court takes racism into account in assessing responsibility, though responsibility remains high.",
-  "by": "reader"
- },
- "2026 BCSC 1292": {
-  "overall": "mitigating",
-  "reason": "Separation from Indigenous community reduces blameworthiness and sentence from four to three years.",
-  "by": "reader"
- },
- "2026 BCSC 1329": {
-  "overall": "mitigating",
-  "reason": "Court finds background factors mitigate moral culpability.",
-  "by": "reader"
- },
- "2026 BCSC 1377": {
-  "overall": "mitigating",
-  "reason": "Disconnection from culture reduces blameworthiness and sentence.",
-  "by": "reader"
- },
- "2026 BCSC 1446": {
-  "overall": "mitigating",
-  "reason": "Court finds background factors mitigate culpability.",
-  "by": "reader"
- },
- "2026 BCSC 1477": {
   "overall": "mitigating",
   "reason": "Significantly reduced moral blameworthiness due to Gladue factors.",
   "by": "reader"
  },
+ "2025 BCSC 2616": {
+  "overall": "mitigating",
+  "reason": "Significantly reduced blameworthiness and crucial consideration in sentence.",
+  "by": "reader"
+ },
+ "2025 BCSC 2651": {
+  "overall": "mitigating",
+  "reason": "Gladue factors given significant weight in fixing fit sentence.",
+  "by": "reader"
+ },
+ "2025 BCSC 394": {
+  "overall": "mitigating",
+  "reason": "Moral culpability limited at least to some degree by background factors.",
+  "by": "reader"
+ },
+ "2025 BCSC 405": {
+  "overall": "mitigating",
+  "reason": "Court recognizes impact of circumstances as mitigation, though slight.",
+  "by": "reader"
+ },
+ "2025 BCSC 416": {
+  "overall": "mitigating",
+  "reason": "Adopted reasons: Gladue factors reduce moral culpability to some degree.",
+  "by": "reader"
+ },
+ "2025 BCSC 539": {
+  "overall": "mitigating",
+  "reason": "Racism and disadvantage attenuate blameworthiness.",
+  "by": "reader"
+ },
+ "2025 BCSC 735": {
+  "overall": "mitigating",
+  "reason": "Court finds significant impact on moral blameworthiness and reduced culpability.",
+  "by": "reader"
+ },
+ "2025 BCSC 759": {
+  "overall": "mitigating",
+  "reason": "Indigeneity factor reduces moral blameworthiness.",
+  "by": "reader"
+ },
+ "2025 BCSC 944": {
+  "overall": "mitigating",
+  "reason": "Gladue factors lower the sentence to the lower end.",
+  "by": "reader"
+ },
+ "2026 BCSC 1035": {
+  "overall": "mitigating",
+  "reason": "Blameworthiness attenuated by background and circumstances.",
+  "by": "reader"
+ },
+ "2026 BCSC 1107": {
+  "overall": "mitigating",
+  "reason": "Strong Gladue factors bear on sentence.",
+  "by": "reader"
+ },
+ "2026 BCSC 1113": {
+  "overall": "mitigating",
+  "reason": "Factors connected to offence may diminish culpability; court accepts support.",
+  "by": "reader"
+ },
+ "2026 BCSC 1120": {
+  "overall": "mitigating",
+  "reason": "Residential school impact stated to be a mitigating factor.",
+  "by": "reader"
+ },
+ "2026 BCSC 1146": {
+  "overall": "mitigating",
+  "reason": "Factors moderate moral blameworthiness and get meaningful effect.",
+  "by": "reader"
+ },
+ "2026 BCSC 1157": {
+  "overall": "mitigating",
+  "reason": "Gladue factors somewhat diminish moral blameworthiness.",
+  "by": "reader"
+ },
+ "2026 BCSC 1207": {
+  "overall": "mitigating",
+  "reason": "Court finds moral blameworthiness modestly attenuated by Gladue factors; highlight 4 is a limiting caveat used to temper the factor's weight.",
+  "by": "verifier"
+ },
+ "2026 BCSC 1289": {
+  "overall": "mitigating",
+  "reason": "Court takes racism into account in assessing responsibility.",
+  "by": "reader"
+ },
+ "2026 BCSC 1292": {
+  "overall": "mitigating",
+  "reason": "Separation from community affects blameworthiness; sentence reduced.",
+  "by": "reader"
+ },
+ "2026 BCSC 1329": {
+  "overall": "mitigating",
+  "reason": "Background factors mitigate moral culpability.",
+  "by": "reader"
+ },
+ "2026 BCSC 1377": {
+  "overall": "mitigating",
+  "reason": "Disconnection reduces moral blameworthiness and sentence.",
+  "by": "reader"
+ },
+ "2026 BCSC 1446": {
+  "overall": "mitigating",
+  "reason": "Background factors mitigate moral culpability.",
+  "by": "reader"
+ },
+ "2026 BCSC 1477": {
+  "overall": "mitigating",
+  "reason": "Court finds significantly reduced moral blameworthiness from Gladue factors.",
+  "by": "reader"
+ },
  "2026 BCSC 1574": {
   "overall": "mitigating",
-  "reason": "Gladue factors reduce moral culpability and sentence.",
+  "reason": "Court finds moral culpability reduced by Gladue factors.",
   "by": "reader"
  },
  "2026 BCSC 170": {
   "overall": "mitigating",
-  "reason": "Sentencing judge finds moral blameworthiness somewhat reduced by Gladue factors; other highlights are law, facts, or neutral Gladue letter description.",
-  "by": "verifier"
+  "reason": "Court finds blameworthiness somewhat reduced by Gladue factors.",
+  "by": "reader"
  },
  "2026 BCSC 1732": {
   "overall": "mitigating",
@@ -1346,18 +1346,18 @@
  },
  "2026 BCSC 1767": {
   "overall": "mitigating",
-  "reason": "Court finds colonialism and racism significant, so restraint is in order.",
+  "reason": "Court says colonialism and racism had significant impact and restraint is in order.",
   "by": "reader"
  },
  "2026 BCSC 1783": {
   "overall": "mitigating",
-  "reason": "Background is a mitigating factor informing moral blameworthiness.",
+  "reason": "Court treats background as mitigating factor informing moral blameworthiness.",
   "by": "reader"
  },
  "2026 BCSC 2194": {
   "overall": "mitigating",
-  "reason": "Resentencing judge expressly adopts prior finding on intergenerational trauma and colonialism and concludes moral culpability reduced; no highlight contradicts mitigation.",
-  "by": "verifier"
+  "reason": "Court adopts finding and concludes moral culpability was reduced.",
+  "by": "reader"
  },
  "2026 BCSC 248": {
   "overall": "mitigating",
@@ -1366,62 +1366,62 @@
  },
  "2026 BCSC 322": {
   "overall": "mitigating",
-  "reason": "Background factors offset in part the aggravating record.",
+  "reason": "Court says criminal record aggravation is offset in part by background.",
   "by": "reader"
  },
  "2026 BCSC 342": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness significantly reduced by colonization impacts.",
+  "reason": "Court says moral blameworthiness is significantly reduced.",
   "by": "reader"
  },
  "2026 BCSC 377": {
   "overall": "mitigating",
-  "reason": "Sentencing judge accepts the report's Gladue factors as relevant in his own sentencing and states such factors are mitigating; no contrary or other-voice highlight.",
-  "by": "verifier"
+  "reason": "Court says Gladue factors are mitigating in nature and relevant.",
+  "by": "reader"
  },
  "2026 BCSC 591": {
   "overall": "mitigating",
-  "reason": "Court finds factors inform blameworthiness and gives modest downward adjustment.",
+  "reason": "Court informs blameworthiness and gives modest downward adjustment.",
   "by": "reader"
  },
  "2026 BCSC 787": {
   "overall": "mitigating",
-  "reason": "Court says factors inform moral blameworthiness and leave room for rehabilitation.",
+  "reason": "Factors inform blameworthiness and support room for rehabilitation.",
   "by": "reader"
  },
  "2026 BCSC 856": {
   "overall": "mitigating",
-  "reason": "Court finds moral blameworthiness reduced and Gladue impact weighty.",
+  "reason": "Court finds moral blameworthiness reduced; Gladue impact weighty.",
   "by": "reader"
  },
  "2026 BCSC 948": {
   "overall": "mitigating",
-  "reason": "Court accepts report that factors impact moral blameworthiness.",
+  "reason": "Court accepts factors impact moral blameworthiness in weighing mitigating factors.",
   "by": "reader"
  },
  "2008 NSCA 110": {
   "overall": "mitigating",
-  "reason": "Appeal court agrees judge took into account mitigating effect of early deprivation tied to heritage.",
+  "reason": "Appeal court agrees judge took account of mitigating effect of early deprivation tied to aboriginal heritage.",
   "by": "reader"
  },
  "2021 NSCA 62": {
   "overall": "mitigating",
-  "reason": "Appeal court states systemic racism may mitigate moral blameworthiness and approves trial judge.",
+  "reason": "Court states systemic racism context may mitigate moral blameworthiness.",
   "by": "reader"
  },
  "2023 NSCA 53": {
   "overall": "mitigating",
-  "reason": "Appeal court assesses culpability in context of systemic racism and imposes conditional sentence.",
+  "reason": "Culpability assessed in context of systemic racism; conditional sentence substituted.",
   "by": "reader"
  },
  "2023 NSCA 58": {
   "overall": "mitigating",
-  "reason": "Appeal court agrees judge properly considered systemic factors diminishing culpability.",
+  "reason": "Court endorses that constrained circumstances diminish culpability and judge properly considered them.",
   "by": "reader"
  },
  "2024 NSCA 59": {
   "overall": "mitigating",
-  "reason": "Appeal court says Gladue factors impacted moral culpability and proportionality.",
+  "reason": "Gladue factors and trauma impacted moral culpability and proportionality.",
   "by": "reader"
  },
  "2026 NSCA 11": {
@@ -1436,87 +1436,87 @@
  },
  "2008 NSPC 58": {
   "overall": "mitigating",
-  "reason": "Court imposes conditional sentence in light of Aboriginal circumstances and Gladue.",
+  "reason": "Conditional sentence chosen with regard to Aboriginal offender circumstances.",
   "by": "reader"
  },
  "2009 NSPC 28": {
   "overall": "mitigating",
-  "reason": "Court chooses community sentence especially given aboriginal youth circumstances.",
+  "reason": "Community sentence chosen especially given aboriginal youth circumstances.",
   "by": "reader"
  },
  "2009 NSPC 46": {
   "overall": "mitigating",
-  "reason": "Court treats Gladue context as persuasive mitigating factors supporting conditional discharge.",
+  "reason": "Gladue informs conditional discharge as persuasive mitigating public-dimension factor.",
   "by": "reader"
  },
  "2012 NSPC 104": {
   "overall": "mitigating",
-  "reason": "Court finds heritage and background lessen moral blameworthiness.",
+  "reason": "Background lowers moral blameworthiness and sentence should reflect it.",
   "by": "reader"
  },
  "2013 NSPC 46": {
   "overall": "mitigating",
-  "reason": "Court calls aboriginal background a mitigating factor and applies Gladue.",
+  "reason": "Aboriginal background expressly called a mitigating factor.",
   "by": "reader"
  },
  "2015 NSPC 81": {
   "overall": "mitigating",
-  "reason": "Court says culpability must be viewed through racialization lens and balances sentence accordingly.",
+  "reason": "Culpability examined through lens of racialization; relevant consideration in sentencing.",
   "by": "reader"
  },
  "2015 NSPC 82": {
   "overall": "mitigating",
-  "reason": "Same approach: racialization context bears on culpability and shapes sentence.",
+  "reason": "Culpability examined through racialization lens; context matters in sentencing.",
   "by": "reader"
  },
  "2016 NSPC 25": {
   "overall": "mitigating",
-  "reason": "Court must take history into account; links it to concurrency and sentence.",
+  "reason": "Court must take historical injustice into account; concurrency found appropriate.",
   "by": "reader"
  },
  "2016 NSPC 30": {
   "overall": "mitigating",
-  "reason": "Court lists Aboriginal status and Gladue factors as mitigating of culpability.",
+  "reason": "Gladue factors listed as mitigating moral culpability.",
   "by": "reader"
  },
  "2016 NSPC 68": {
   "overall": "mitigating",
-  "reason": "Gladue factors considered so sentence is not unduly long or harsh.",
+  "reason": "Given Gladue factors sentence should not be unduly long or harsh.",
   "by": "reader"
  },
  "2016 NSPC 83": {
   "overall": "mitigating",
-  "reason": "Court says factors diminish culpability significantly and supports conditional sentence.",
+  "reason": "Court finds Aboriginal history linked to offending and significantly diminishes culpability.",
   "by": "reader"
  },
  "2017 NSPC 48": {
   "overall": "mitigating",
-  "reason": "Court sees connection to colonialism and rejects range-only sentence.",
+  "reason": "Court sees connection to colonialism and imposes sentence avoiding perpetuating its impact.",
   "by": "reader"
  },
  "2018 NSPC 48": {
   "overall": "mitigating",
-  "reason": "Court finds Aboriginal experience influenced offending; lower end sentence under 718.2(e).",
+  "reason": "Court finds Aboriginal experience influenced actions and imposes lower end sentence under 718.2(e).",
   "by": "reader"
  },
  "2018 NSPC 56": {
   "overall": "mitigating",
-  "reason": "Court gives true consideration to Mikmaq circumstances; sentence under 18 months.",
+  "reason": "Court gives true consideration to Mikmaq circumstances in setting lesser sentence.",
   "by": "reader"
  },
  "2018 NSPC 83": {
   "overall": "mitigating",
-  "reason": "Court states moral culpability is reduced due to Indigenous circumstances.",
+  "reason": "Court says moral culpability reduced by Indigenous life circumstances and colonial history.",
   "by": "reader"
  },
  "2019 NSPC 13": {
   "overall": "mitigating",
-  "reason": "Gladue factors taken into account to moderate step-up, though aggravating factors limit effect.",
+  "reason": "Court took Gladue factors into account in a restrained step up, despite aggravation.",
   "by": "reader"
  },
  "2019 NSPC 55": {
   "overall": "mitigating",
-  "reason": "Court says sentence would have been much higher but for mitigating Gladue factors.",
+  "reason": "Court says sentence would be much higher but for mitigating factors including Gladue.",
   "by": "reader"
  },
  "2019 NSPC 74": {
@@ -1526,28 +1526,28 @@
  },
  "2019 NSPC 87": {
   "overall": "mitigating",
-  "reason": "Gladue factors explain offending and support conditional sentence.",
+  "reason": "Gladue factors lead court to conditional sentence to reduce overincarceration.",
   "by": "reader"
  },
  "2020 NSPC 1": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: background and systemic racism constrained her choices, mitigating moral blameworthiness; incarceration last resort. No contrary or third-party highlights.",
-  "by": "verifier"
+  "reason": "Court mindful of systemic discrimination and treats incarceration as last resort for her.",
+  "by": "reader"
  },
  "2020 NSPC 10": {
   "overall": "mitigating",
-  "reason": "Court says systemic factors and IRCA vital to sentence and favours community-based approach.",
+  "reason": "Court says systemic factors and IRCA must inform fit sentence and community-based approach.",
   "by": "reader"
  },
  "2020 NSPC 20": {
   "overall": "mitigating",
-  "reason": "Court finds Indigenous experiences and trauma reduce moral culpability.",
+  "reason": "Court says trauma and Indigenous experience reduce moral culpability.",
   "by": "reader"
  },
  "2021 NSPC 20": {
   "overall": "mitigating",
-  "reason": "Court lists Gladue impact on culpability among factors making case more mitigating than Foley; highlight 2 clipped to read as no lighter sentence.",
-  "by": "verifier"
+  "reason": "Court considers Gladue factors impact on moral culpability as a mitigating consideration.",
+  "by": "reader"
  },
  "2022 NSPC 25": {
   "overall": "mitigating",
@@ -1556,107 +1556,107 @@
  },
  "2022 NSPC 59": {
   "overall": "mitigating",
-  "reason": "Court reduces blameworthiness somewhat due to Gladue factors.",
+  "reason": "Court finds blameworthiness reduced somewhat by significant Gladue factors.",
   "by": "reader"
  },
  "2023 NSPC 63": {
   "overall": "mitigating",
-  "reason": "Court says systemic factors inform and affect moral culpability; no penitentiary term.",
+  "reason": "Systemic factors reduce moral responsibility; no penitentiary term.",
   "by": "reader"
  },
  "2023 NSPC 65": {
   "overall": "mitigating",
-  "reason": "Sentencing judge finds systemic racism and IRCA factors attenuate moral blameworthiness. Highlight 1 is an ambiguous fragment about negligence, not the systemic factor.",
-  "by": "verifier"
+  "reason": "Court finds IRCA factors attenuate moral blameworthiness.",
+  "by": "reader"
  },
  "2023 NSPC 68": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: notes African Nova Scotian overrepresentation in conclusion and imposes conditional sentence; no opposing or other-voice highlights.",
-  "by": "verifier"
+  "reason": "Overrepresentation considered; conditional sentence imposed.",
+  "by": "reader"
  },
  "2024 NSPC 31": {
   "overall": "mitigating",
-  "reason": "Court uses Gladue lens to favour community-based sentence.",
+  "reason": "Gladue context leads to community-based sentence.",
   "by": "reader"
  },
  "2024 NSPC 42": {
   "overall": "mitigating",
-  "reason": "Court calls these mitigating circumstances impacting moral culpability.",
+  "reason": "Court calls Indigenous circumstances mitigating, bearing on moral culpability.",
   "by": "reader"
  },
  "2024 NSPC 43": {
   "overall": "mitigating",
-  "reason": "Court takes systemic hardship into account as affecting moral responsibility.",
+  "reason": "Systemic hardship affects moral responsibility; taken into account.",
   "by": "reader"
  },
  "2024 NSPC 45": {
   "overall": "mitigating",
-  "reason": "Court judicially notices anti-Black racism and factors Anderson guidance into sentence.",
+  "reason": "Court takes anti-Black racism context into account in sentence.",
   "by": "reader"
  },
  "2025 NSPC 15": {
   "overall": "mitigating",
-  "reason": "Court considers historical factors in positioning moral responsibility and disposition.",
+  "reason": "Court considers historical factors in positioning moral responsibility.",
   "by": "reader"
  },
  "2026 NSPC 37": {
   "overall": "mitigating",
-  "reason": "Sentencing judge finds racism experiences attenuate blameworthiness to a degree; H2 says not significant role, H3 stresses considerable blameworthiness.",
-  "by": "verifier"
+  "reason": "Racism experiences attenuate blameworthiness to a degree.",
+  "by": "reader"
  },
  "2026 NSPC 43": {
   "overall": "mitigating",
-  "reason": "Court finds systemic racism significantly attenuates moral culpability.",
+  "reason": "Moral culpability attenuated significantly by systemic racism evidence.",
   "by": "reader"
  },
  "2008 NSSC 266": {
   "overall": "mitigating",
-  "reason": "Aboriginal circumstances dissuaded court from federal penitentiary sentence.",
+  "reason": "Aboriginal status dissuaded judge from penitentiary sentence.",
   "by": "reader"
  },
  "2011 NSSC 137": {
   "overall": "mitigating",
-  "reason": "Gladue factors accepted; sentence reduced from about 4 years to 3.5 years.",
+  "reason": "Gladue factors considered; sentence reduced from 4 to 3.5 years.",
   "by": "reader"
  },
  "2014 NSSC 463": {
   "overall": "mitigating",
-  "reason": "Gladue report leads court to weigh rehabilitation and restorative justice.",
+  "reason": "Systemic disadvantage leads to rehabilitative, restorative balanced sentence.",
   "by": "reader"
  },
  "2017 NSSC 173": {
   "overall": "mitigating",
-  "reason": "Gladue background contributes to shorter custodial sentence than Crown sought.",
+  "reason": "Gladue context and potential lead to short custodial sentence.",
   "by": "reader"
  },
  "2018 NSSC 10": {
   "overall": "mitigating",
-  "reason": "Mindful of Gladue factors, court imposes conditional sentence.",
+  "reason": "Gladue factors support conditional sentence instead of jail.",
   "by": "reader"
  },
  "2018 NSSC 16": {
   "overall": "mitigating",
-  "reason": "Aboriginal and African Nova Scotian status gives serious weight to rehabilitation.",
+  "reason": "Court gives Gladue factors weight toward rehabilitation and links background to offending.",
   "by": "reader"
  },
  "2019 NSSC 157": {
   "overall": "mitigating",
-  "reason": "Ancestry-related factors point to conditional sentence order.",
+  "reason": "Gladue factors point toward a conditional sentence order.",
   "by": "reader"
  },
  "2019 NSSC 386": {
   "overall": "mitigating",
-  "reason": "Court acknowledges racism contributed greatly and considers disadvantages in rejecting top range.",
+  "reason": "Court acknowledges racism and disadvantage contributed and weighs them in sentencing.",
   "by": "reader"
  },
  "2019 NSSC 411": {
   "overall": "mitigating",
-  "reason": "Gladue factors listed as mitigating and found significant.",
+  "reason": "Gladue factors listed as mitigating and significant.",
   "by": "reader"
  },
  "2020 NSSC 265": {
   "overall": "mitigating",
-  "reason": "Traumatic life and racism context treated as mitigating, avoiding jail.",
+  "reason": "Court avoids jail partly to counter racism effects; traumatic life a mitigating factor.",
   "by": "reader"
  },
  "2021 NSSC 54": {
@@ -1666,17 +1666,17 @@
  },
  "2022 NSSC 199": {
   "overall": "mitigating",
-  "reason": "Court says racism reduces moral culpability.",
+  "reason": "Moral culpability reduced by racism and limited opportunity.",
   "by": "reader"
  },
  "2022 NSSC 200": {
   "overall": "mitigating",
-  "reason": "Moral responsibility understood in light of social context; record contextualized.",
+  "reason": "Moral responsibility understood in light of social context; parity yields.",
   "by": "reader"
  },
  "2022 NSSC 213": {
   "overall": "mitigating",
-  "reason": "Indigenous and African Nova Scotian status listed as mitigating factor.",
+  "reason": "Indigenous status and racism treated as mitigating factors.",
   "by": "reader"
  },
  "2022 NSSC 215": {
@@ -1686,43 +1686,43 @@
  },
  "2022 NSSC 90": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: Crown ask gave IRCA too little weight, so five to six years rejected; no highlight voices another judge or denies mitigation.",
-  "by": "verifier"
+  "reason": "Court relies on IRCA information to reject the Crown range and lower sentence.",
+  "by": "reader"
  },
  "2022 NSSC 95": {
   "overall": "mitigating",
-  "reason": "Sentence adjusted in keeping with Gladue despite finding no reduction of culpability; highlights show Gladue shaping sentence.",
+  "reason": "Sentence adjusted on application of Gladue factors despite saying culpability not mitigated.",
   "by": "reader"
  },
  "2023 NSSC 317": {
   "overall": "mitigating",
-  "reason": "Court finds Gladue factors diminish aggravating effect of record and reflect his background.",
+  "reason": "Gladue factors diminish the aggravating effect of the record.",
   "by": "reader"
  },
  "2023 NSSC 391": {
   "overall": "mitigating",
-  "reason": "Systemic racism and background lower parole ineligibility to 16 years.",
+  "reason": "Background and systemic racism considered in setting lower parole ineligibility.",
   "by": "reader"
  },
  "2023 NSSC 412": {
   "overall": "mitigating",
-  "reason": "Court moves sentence to lowest end of range given racism context.",
+  "reason": "Racism experience moves sentence to lowest end of range.",
   "by": "reader"
  },
  "2023 NSSC 85": {
   "overall": "mitigating",
-  "reason": "Gladue factors loom large and justify reduced sentence of 3 years.",
+  "reason": "Gladue factors justify reduced sentence below normal range.",
   "by": "reader"
  },
  "2024 NSSC 208": {
   "overall": "mitigating",
-  "reason": "Challenging background treated as mitigating in setting parole ineligibility at 13 years.",
+  "reason": "Court treats challenging background as mitigating factor in parole ineligibility.",
   "by": "reader"
  },
  "2024 NSSC 217": {
   "overall": "mitigating",
-  "reason": "Court lists African Nova Scotian background among mitigating circumstances; highlight 3 signals limited evidence and weight, so a visitor could misread it.",
-  "by": "verifier"
+  "reason": "Listed among mitigating circumstances; court applies Anderson principle though evidence limited.",
+  "by": "reader"
  },
  "2024 NSSC 244": {
   "overall": "mitigating",
@@ -1731,132 +1731,132 @@
  },
  "2024 NSSC 279": {
   "overall": "mitigating",
-  "reason": "Life experiences and black experience in penitentiary considered in setting parole ineligibility.",
+  "reason": "Life experiences and racism considered in assessing culpability and parole ineligibility.",
   "by": "reader"
  },
  "2024 NSSC 33": {
   "overall": "mitigating",
-  "reason": "Court considered systemic racism and IRCA; sentence takes into account his background.",
+  "reason": "Sentence takes into account IRCA background and systemic racism.",
   "by": "reader"
  },
  "2025 NSSC 133": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: IRCA context is the mitigating factor, restraint applies, two years permitting probation chosen. No highlight undercuts this.",
+  "reason": "The court names the IRCA context as the mitigating factor and relies on it with Anderson restraint; highlight 2 means the only mitigation, not reduced weight.",
   "by": "verifier"
  },
  "2025 NSSC 156": {
   "overall": "mitigating",
-  "reason": "IRCA context informs reduced moral blameworthiness for gun possession.",
+  "reason": "IRCA provides context in assessing moral blameworthiness.",
   "by": "reader"
  },
  "2025 NSSC 225": {
   "overall": "mitigating",
-  "reason": "Sentencing judge's own view: Gladue factors and intergenerational trauma diminish moral culpability, pulling sentence below high end; qualifier still affirms mitigation.",
-  "by": "verifier"
+  "reason": "Gladue factors diminish moral culpability, with caveat trimmed.",
+  "by": "reader"
  },
  "2025 NSSC 32": {
   "overall": "mitigating",
-  "reason": "IRCA supports reduced moral blameworthiness and a shorter sentence than Crown sought.",
+  "reason": "Reduced moral blameworthiness from IRCA leads to shorter sentence.",
   "by": "reader"
  },
  "2025 NSSC 426": {
   "overall": "mitigating",
-  "reason": "Court calls the IRCA very important to the outcome and accepts the cultural factors; highlight 3 is the report author urging, not the court's own words.",
-  "by": "verifier"
+  "reason": "IRCA very important to outcome; principle highlight protected.",
+  "by": "reader"
  },
  "2025 NSSC 54": {
   "overall": "mitigating",
-  "reason": "Court treats marginalized ANS background as lowering blameworthiness and supporting a conditional sentence.",
+  "reason": "Marginalized offender less blameworthy; conditional sentence imposed.",
   "by": "reader"
  },
  "2026 NSSC 153": {
   "overall": "mitigating",
-  "reason": "Judge considers Indigenous background in fashioning sentence and in the conclusion.",
+  "reason": "Court considers Indigenous background in fashioning sentence.",
   "by": "reader"
  },
  "2026 NSSC 25": {
   "overall": "mitigating",
-  "reason": "Indigenous identity must be a factor and sentence guided by Gladue report.",
+  "reason": "Indigenous background must be a factor; sentence guided by Gladue report.",
   "by": "reader"
  },
  "2026 NSSC 261": {
   "overall": "mitigating",
-  "reason": "Gladue factors ameliorate sentence and are material to moral blameworthiness.",
+  "reason": "Sentence ameliorated by Gladue factors material to blameworthiness.",
   "by": "reader"
  },
  "2026 NSSC 262": {
   "overall": "mitigating",
-  "reason": "Moral blameworthiness attenuated by Gladue factors.",
+  "reason": "Moral blameworthiness attenuated by significant Gladue factors.",
   "by": "reader"
  },
  "2026 NSSC 330": {
   "overall": "mitigating",
-  "reason": "Gladue factors explain offending and attenuate moral blameworthiness.",
+  "reason": "Court finds systemic factors explain offence and attenuate blameworthiness.",
   "by": "reader"
  },
  "2026 NSSC 338": {
   "overall": "mitigating",
-  "reason": "Gladue factors attenuate moral culpability to some extent.",
+  "reason": "Court says Gladue factors attenuate moral culpability to some extent.",
   "by": "reader"
  },
  "2007 ONCA 116": {
   "overall": "mitigating",
-  "reason": "Appeal court reduces sentence taking aboriginal status into account.",
+  "reason": "Sentence reduced partly because aboriginal status was not considered.",
   "by": "reader"
  },
  "2007 ONCA 255": {
   "overall": "mitigating",
-  "reason": "Fit sentence for aboriginal offender reduced to time served after Gladue report.",
+  "reason": "Time served imposed as fit for aboriginal offender.",
   "by": "reader"
  },
  "2007 ONCA 434": {
   "overall": "mitigating",
-  "reason": "Failure to apply Gladue principles led to reduction to time served.",
+  "reason": "Gladue error corrected by reducing sentence to time served.",
   "by": "reader"
  },
  "2008 ONCA 338": {
   "overall": "mitigating",
-  "reason": "Court considers aboriginal background and residential school abuse as playing a role in fit sentence.",
+  "reason": "Court considers residential school background and reduces to fit sentence.",
   "by": "reader"
  },
  "2008 ONCA 488": {
   "overall": "mitigating",
-  "reason": "Court finds sentence at lower end reflecting full benefit of mitigating Gladue factors.",
+  "reason": "Sentence at lower end and reflects full benefit of mitigating factors.",
   "by": "reader"
  },
  "2008 ONCA 623": {
   "overall": "mitigating",
-  "reason": "Fresh evidence of trauma contributed to offending; sentence reduced.",
+  "reason": "Fresh evidence of trauma leads to reduced sentence.",
   "by": "reader"
  },
  "2009 ONCA 114": {
   "overall": "mitigating",
-  "reason": "Systemic factors led to offence; sentence reduced to give effect to s. 718.2(e).",
+  "reason": "Court reduces sentence recognizing systemic factors that led to offence.",
   "by": "reader"
  },
  "2010 ONCA 30": {
   "overall": "mitigating",
-  "reason": "Appeal court approvingly summarizes trial judge weighing favourable Gladue report and restorative purpose to avoid jail; no highlight contradicts mitigation.",
+  "reason": "Appeal court approvingly describes judge balancing Aboriginal factors to reject jail; highlight 4 states restorative principle for Aboriginal offenders. Nothing cuts against factor.",
   "by": "verifier"
  },
  "2010 ONCA 452": {
   "overall": "mitigating",
-  "reason": "Appeal court says heritage deserved more weight and must tangibly affect the sentence.",
+  "reason": "Appeal court finds insufficient weight to aboriginal heritage and intervenes.",
   "by": "reader"
  },
  "2010 ONCA 737": {
   "overall": "mitigating",
-  "reason": "Court reduces sentence to time served based on Gladue and systemic factors.",
+  "reason": "Gladue error; sentence reduced to time served with treatment plan.",
   "by": "reader"
  },
  "2011 ONCA 182": {
   "overall": "mitigating",
-  "reason": "Court holds systemic factors required a different, lower sentence.",
+  "reason": "Systemic factors must shape penal response; different sentence required.",
   "by": "reader"
  },
  "2011 ONCA 383": {
   "overall": "mitigating",
-  "reason": "Court allows appeal, finds background significant, jail not appropriate.",
+  "reason": "Appeal allowed; Gladue background significant and jail not appropriate.",
   "by": "reader"
  },
  "2013 ONCA 177": {
@@ -1866,27 +1866,27 @@
  },
  "2016 ONCA 367": {
   "overall": "mitigating",
-  "reason": "Court says systemic factors bore on moral blameworthiness and gave them weight.",
+  "reason": "Systemic factors bore on blameworthiness and were given weight in sentence.",
   "by": "reader"
  },
  "2016 ONCA 843": {
   "overall": "mitigating",
-  "reason": "Gladue report warrants reduction in the sentence on appeal.",
+  "reason": "Court accepts Gladue report warrants sentence reduction.",
   "by": "reader"
  },
  "2016 ONCA 87": {
   "overall": "mitigating",
-  "reason": "Appeal court agrees trial judge considered Gladue factors, which tempered parole ineligibility.",
+  "reason": "Court finds Gladue factors considered and reduced parole ineligibility.",
   "by": "reader"
  },
  "2018 ONCA 1029": {
   "overall": "mitigating",
-  "reason": "Appeal court holds systemic factors attenuate blameworthiness; highlight 3 sits in the trial judge quote that gave the factors no impact.",
+  "reason": "Appeal court holds systemic factors attenuate blameworthiness and deserve tangible weight; highlight 3 quotes the trial judge, who gave the factor no impact.",
   "by": "verifier"
  },
  "2019 ONCA 593": {
   "overall": "mitigating",
-  "reason": "Gladue report accepted and sentence reduced.",
+  "reason": "Sentence reduced because of Gladue report on appeal.",
   "by": "reader"
  },
  "2019 ONCA 815": {
@@ -1896,57 +1896,57 @@
  },
  "2020 ONCA 786": {
   "overall": "mitigating",
-  "reason": "Court agrees low-end sentence imposed because of Indigenous ancestry and applied Gladue properly.",
+  "reason": "Low-end sentence imposed because of Indigenous ancestry; court approves.",
   "by": "reader"
  },
  "2021 ONCA 167": {
   "overall": "mitigating",
-  "reason": "Sentence reduced because Gladue principles were not applied.",
+  "reason": "Sentence reduced for failure to apply Gladue principles.",
   "by": "reader"
  },
  "2021 ONCA 208": {
-  "overall": "mitigating",
-  "reason": "Appeal court accepts judge took systemic issues into account in sentence.",
-  "by": "reader"
+  "overall": "unclear",
+  "reason": "Appeal court only reports trial judge took systemic issues into account, impact attenuated; upholds on weight. Highlight 1 is trial judge's words before attenuation caveat.",
+  "by": "verifier"
  },
  "2021 ONCA 33": {
   "overall": "mitigating",
-  "reason": "Appeal court itself reduces sentence considering Gladue Report and background factors; trial judge's recognition of school racism is adopted in para 13.",
-  "by": "verifier"
+  "reason": "Court weighs Gladue report and traumas in reducing sentence.",
+  "by": "reader"
  },
  "2022 ONCA 863": {
   "overall": "mitigating",
-  "reason": "Appeal court agrees trial judge gave appropriate mitigating weight to anti-Black racism.",
+  "reason": "Court agrees trial judge gave appropriate mitigating weight to anti-Black racism.",
   "by": "reader"
  },
  "2022 ONCA 866": {
   "overall": "mitigating",
-  "reason": "Court says moral culpability is mitigated in part by the IRCA evidence.",
+  "reason": "Court says moral culpability mitigated in part by IRCA.",
   "by": "reader"
  },
  "2023 ONCA 317": {
   "overall": "mitigating",
-  "reason": "Court reduces sentence further to give effect to s. 718.2(e) for Indigenous appellant.",
+  "reason": "Sentence reduced to give effect to s. 718.2(e).",
   "by": "reader"
  },
  "2023 ONCA 599": {
   "overall": "mitigating",
-  "reason": "Court reduces sentence by six months considering Indigenous status and cultural progress.",
+  "reason": "Sentence reduced considering Indigenous identity and cultural progress.",
   "by": "reader"
  },
  "2023 ONCA 608": {
   "overall": "mitigating",
-  "reason": "Appeal court agrees background reduces culpability, sets low-end 3 years; trial judge highlights match that view though extent was reduced.",
+  "reason": "Majority finds culpability reduced by background, 3 years at low end. Highlights 3-4 are trial judge findings endorsed only by Paciocco's concurrence, extent rejected by majority.",
   "by": "verifier"
  },
  "2023 ONCA 808": {
   "overall": "mitigating",
-  "reason": "Court calls Gladue factors strong mitigating factors justifying the sentence.",
+  "reason": "Court calls Gladue factors strong mitigating factors.",
   "by": "reader"
  },
  "2023 ONCA 816": {
   "overall": "mitigating",
-  "reason": "Court agrees anti-Black racism diminishes moral responsibility and warrants some reduction.",
+  "reason": "Court finds some diminished moral responsibility and reduces sentence.",
   "by": "reader"
  },
  "2024 ONCA 155": {
@@ -1956,42 +1956,42 @@
  },
  "2025 ONCA 416": {
   "overall": "mitigating",
-  "reason": "Court notes sentence was reduced because of Indigenous identity and history.",
+  "reason": "Appeal court endorses factoring Indigenous identity; sentence reduced because of it.",
   "by": "reader"
  },
  "2025 ONCA 51": {
   "overall": "mitigating",
-  "reason": "Appeal court itself finds colonization and intergenerational trauma reduce blameworthiness; highlight 1 describes the trial judge's omission and could be misread as no analysis.",
-  "by": "verifier"
+  "reason": "Court says colonization trauma reduces moral blameworthiness.",
+  "by": "reader"
  },
  "2025 ONCA 60": {
   "overall": "mitigating",
-  "reason": "Appeal court endorses trial judge treating Gladue/Morris factors as mitigating, bottom-of-range sentence; highlight 2 stresses limited reduction, so dropped.",
-  "by": "verifier"
+  "reason": "Factors recognized as mitigating, though limited; appeal court agrees judge did not ignore them.",
+  "by": "reader"
  },
  "2026 ONCA 113": {
   "overall": "mitigating",
-  "reason": "Indigenous background among mitigating factors yielding low-end sentence.",
+  "reason": "Indigenous background among factors leading to very low end sentence.",
   "by": "reader"
  },
  "2026 ONCA 281": {
   "overall": "mitigating",
-  "reason": "Court affirms trial judge recognized disadvantaged upbringing reduced moral culpability.",
+  "reason": "Appeal court states disadvantaged upbringing reduced moral culpability.",
   "by": "reader"
  },
  "2026 ONCA 556": {
   "overall": "mitigating",
-  "reason": "Court affirms judge recognized anti-Black racism as mitigating circumstance and reduced sentence.",
+  "reason": "Court recognizes systemic discrimination as mitigating and sentence was reduced.",
   "by": "reader"
  },
  "C26729": {
   "overall": "mitigating",
-  "reason": "Court finds error in not weighing Aboriginal status and imposes community-served reformatory sentence.",
+  "reason": "Appeal court finds inadequate weight to Aboriginal status and imposes community sentence.",
   "by": "reader"
  },
  "C32663": {
   "overall": "mitigating",
-  "reason": "Appeal court says hardships should be taken into account and reduces the sentence.",
+  "reason": "Court says hardships must be taken into account and reduces sentence.",
   "by": "reader"
  },
  "C43626": {
@@ -2001,12 +2001,12 @@
  },
  "2012 SCC 13": {
   "overall": "mitigating",
-  "reason": "SCC holds background factors diminish culpability and finds lower courts erred by attenuating them; highlight 4 describes lower courts' attenuated view, misleading alone.",
-  "by": "verifier"
+  "reason": "Court states systemic factors may diminish moral culpability and must be considered.",
+  "by": "reader"
  },
  "2026 SCC 32": {
   "overall": "mitigating",
-  "reason": "SCC adopts Court of Appeal assessment that colonization and trauma factors attenuate moral blameworthiness.",
+  "reason": "Court says colonization and residential school factors attenuate moral blameworthiness.",
   "by": "reader"
  }
 }
