@@ -8,6 +8,7 @@ Two things are checked for each picture:
 Usage
   make_direction_check_batches.py                  every picture on the site (original round, tag "direction")
   make_direction_check_batches.py --new --tag TAG  every picture not yet checked (updates; files TAG_direction_*)
+  make_direction_check_batches.py --recheck --tag TAG  every picture on the site again (after the rules change)
 
 Output  case_extracts/work/<tag>_sample.csv and case_extracts/work/<tag>_batches/<tag>_NN.txt
 Answers are applied by apply_direction_check.py; build_site.py hides cases judged not mitigating.
@@ -67,6 +68,9 @@ def main():
         for p in WORK.glob("*direction_sample.csv"):
             done |= {(r["court"], r["citation"]) for r in csv.DictReader(p.open(encoding="utf-8"))}
         rows = [r for r in rows if (r[0], r[1]) not in done and (r[0], r[1]) in picks]
+    elif "--recheck" in sys.argv:    # every picture on the site again, as a later round that replaces earlier answers
+        tag = sys.argv[sys.argv.index("--tag") + 1] + "_direction"
+        rows = [r for r in rows if r[1] in site]
     else:
         rows = [r for r in rows if r[1] in site]
     if not rows:

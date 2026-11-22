@@ -1,5 +1,5 @@
 {
-  "_about": "Hand corrections to the readers' picks, applied by scripts/extracts/render_extracts.py after every round. Key: citation. remove_crime_highlights / remove_rationale_highlights: phrases to drop exactly as the reader gave them.",
+  "_about": "Hand corrections to the readers' picks, applied by scripts/extracts/render_extracts.py after every round. Key: citation. remove_crime_highlights / remove_rationale_highlights: phrases to drop exactly as the reader gave them. keep_rationale_highlights: phrases automatic checks must never remove.",
   "2023 ONCA 816": {
     "remove_crime_highlights": [
       "the appellant was rummaging in the area between the door and the seat"
@@ -223,7 +223,13 @@
       "Ms. Cordone had been dead for a few days at the time of the autopsy"
     ],
     "source": "filler check",
-    "why": "post-offence cleanup and autopsy timing are not serious acts (cleanup/burying the knife restored at the project author's request)"
+    "why": "post-offence cleanup and autopsy timing are not serious acts (cleanup/burying the knife restored at the project author's request)",
+    "remove_rationale_highlights": [
+      "even after an appropriate allowance for them his level of culpability for this very serious act of violence remains high",
+      "even after attributing some moderating effect to the contributing factors arising from his aboriginal background, his level of moral blameworthiness for this offence is still high"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Sentencing judge finds Aboriginal systemic factors moderate culpability somewhat; highlights 3 and 4 stress culpability remains high, reading as limited weight."
   },
   "2013 BCSC 1145": {
     "remove_crime_highlights": [
@@ -380,7 +386,12 @@
       "The shooting took place in the early morning hours (approximately 4:00 a.m.)"
     ],
     "source": "filler check",
-    "why": "Stolen vehicle and time of day are background"
+    "why": "Stolen vehicle and time of day are background",
+    "remove_rationale_highlights": [
+      "I conclude that the Gladue factors play a minor role in determining the fit sentence for the firearm offences"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Sentencing judge lists Gladue factors as mitigating; highlight 4 says they play only a minor role, so it reads as limited weight."
   },
   "2018 BCSC 132": {
     "remove_crime_highlights": [
@@ -1236,7 +1247,12 @@
       "Alex Thomas punched Mr. Whynder-Ewing."
     ],
     "source": "filler check",
-    "why": "Victim punch is background provocation, not offender serious act"
+    "why": "Victim punch is background provocation, not offender serious act",
+    "remove_rationale_highlights": [
+      "I took these limitations into account."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court lists African Nova Scotian background among mitigating circumstances; highlight 3 signals limited evidence and weight, so a visitor could misread it."
   },
   "2024 NSSC 33": {
     "remove_crime_highlights": [
@@ -1325,7 +1341,12 @@
     "add_rationale_highlights": [
       "the survivor of intergenerational suffering"
     ],
-    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)",
+    "remove_rationale_highlights": [
+      "the survivor of intergenerational suffering"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Appeal court holds systemic factors attenuate blameworthiness; highlight 3 sits in the trial judge quote that gave the factors no impact."
   },
   "2021 ONCA 208": {
     "remove_crime_highlights": [
@@ -1472,7 +1493,12 @@
     "drop_tags": [
       "Colonialism"
     ],
-    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)",
+    "remove_rationale_highlights": [
+      "his unfortunate background and the history of violence and chaos in his personal history due to systemic factors can only, in my view, have a modest impact on the severity of his sentence"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Sentencing judge links residential schools to offender and gives background a modest reduction; highlight 4 stresses only modest impact, reads as limited weight."
   },
   "2016 BCSC 2291": {
     "drop_tags": [
@@ -1650,7 +1676,12 @@
     "drop_tags": [
       "Colonialism"
     ],
-    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)",
+    "remove_rationale_highlights": [
+      "could serve as a basis for some reduction of the high moral culpability that would otherwise mark the offences against M.L."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Appeal court only quotes trial judge summarizing defence position; could serve as basis for reduction is not adopted by appeal court; effect never stated."
   },
   "2023 BCSC 1810": {
     "add_rationale_paras": [
@@ -1802,7 +1833,12 @@
     "add_rationale_highlights": [
       "Several of the appellant’s relatives attended residential schools"
     ],
-    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)"
+    "tag_rule": "every factor tag shown must be visible in the reasons picture (2026-11-21)",
+    "remove_rationale_highlights": [
+      "nowhere in his reasons did he analyze the effects of the systemic impact of colonization and intergenerational trauma experienced by the appellant on his moral blameworthiness for the offences"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Appeal court itself finds colonization and intergenerational trauma reduce blameworthiness; highlight 1 describes the trial judge's omission and could be misread as no analysis."
   },
   "2026 BCCA 273": {
     "drop_tags": [
@@ -1941,9 +1977,109 @@
   },
   "2025 ONCA 60": {
     "remove_rationale_highlights": [
-      "the Gladue and Morris factors in this case did not reduce the appellant’s moral culpability to such a degree to justify a sentence below the three-to-five-year range"
+      "the Gladue and Morris factors in this case did not reduce the appellant’s moral culpability to such a degree to justify a sentence below the three-to-five-year range",
+      "the appellant’s Gladue and Morris factors, while mitigating, could only reduce the sentence so far"
     ],
     "direction_source": "direction check",
-    "direction_why": "Para 22 says Gladue and Morris factors were mitigating, sentence at bottom of range; highlight 1 states they did not reduce culpability enough."
+    "direction_why": "Appeal court endorses trial judge treating Gladue/Morris factors as mitigating, bottom-of-range sentence; highlight 2 stresses limited reduction, so dropped."
+  },
+  "2008 BCCA 437": {
+    "remove_rationale_highlights": [
+      "Counsel have submitted, and I accept, that it was those dysfunctions, together with a dysfunctional notion of how to preserve family honour, that contributed to, if it was not the cause of, these young people becoming involved in the events leading to the death of Mr. Thomas"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Highlight 1 quotes the trial judge, which the appeal court does not adopt here; para 64 only states law; appeal court never states effect."
+  },
+  "2012 BCCA 129": {
+    "remove_rationale_highlights": [
+      "The trial judge identified the factors of poverty, isolation and violence as the primary factors in Ms. O.'s life."
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Appeal court itself says Gladue factors and heritage are reflected in shorter two years less a day sentence; highlight 1 only reports trial judge."
+  },
+  "2013 BCCA 174": {
+    "remove_rationale_highlights": [
+      "These are all live Gladue factors and I take them into account in this case.",
+      "because of Mr. Lagimodiere's upbringing as an aboriginal person, as a member of the Métis community in Clearwater, Alberta, he was predisposed as a consequence of exposure to alcohol and violence in his community"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Appeal court itself says sentence should reflect Metis background and adversity; H1-H2 quote trial judge whose sentence it found erroneous, not clearly adopted."
+  },
+  "2013 BCSC 1894": {
+    "remove_rationale_highlights": [
+      "the impact of those events on her moral culpability and the appropriate sentencing sanctions will obviously be less than the circumstances of offenders who have been part of an aboriginal community throughout their lives"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court itself calls adoption-related Aboriginal factors valid considerations on sentence; highlight 3 stresses their reduced impact on culpability, so drop it."
+  },
+  "2016 BCSC 977": {
+    "remove_rationale_highlights": [
+      "although that is certainly not conclusive of what must happen here"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court itself finds reduced moral blameworthiness from Gladue factors; highlight 2 is a limiting caveat that reads against mitigation."
+  },
+  "2018 BCSC 1033": {
+    "remove_rationale_highlights": [
+      "his failure to accept responsibility for his acts tempers the effect of his background and low cognitive understanding"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Sentencing judge finds Gladue background contributed and gives some reduction in culpability; highlight 4 says lack of responsibility tempers that effect."
+  },
+  "2018 BCSC 1337": {
+    "remove_rationale_highlights": [
+      "I have taken into account an aboriginal dimension of his background, although it does not, as a practical matter, weigh heavily in the outcome"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court took Aboriginal background into account but says it does not, as a practical matter, weigh heavily in outcome; no reduction stated."
+  },
+  "2025 BCSC 405": {
+    "remove_rationale_highlights": [
+      "the mitigating effect of these circumstances is slight"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court itself recognizes Gladue circumstances as mitigation, though slight; highlight 2 stresses slight effect, so drop it."
+  },
+  "2021 NSPC 20": {
+    "remove_rationale_highlights": [
+      "these factors do not necessarily provide a justification for a lighter sentence"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Court lists Gladue impact on culpability among factors making case more mitigating than Foley; highlight 2 clipped to read as no lighter sentence."
+  },
+  "2023 NSPC 65": {
+    "remove_rationale_highlights": [
+      "I find that it is somewhat attenuated"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Sentencing judge finds systemic racism and IRCA factors attenuate moral blameworthiness. Highlight 1 is an ambiguous fragment about negligence, not the systemic factor."
+  },
+  "2026 NSPC 37": {
+    "remove_rationale_highlights": [
+      "I accept that this may have played some role in the violence he chose to commit, although I do not believe that it played a significant role",
+      "I find that Mr. Jarvis bears considerable moral blameworthiness for his actions that night"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Sentencing judge finds racism experiences attenuate blameworthiness to a degree; H2 says not significant role, H3 stresses considerable blameworthiness."
+  },
+  "2025 NSSC 426": {
+    "keep_rationale_highlights": [
+      "One that recognizes the moral blameworthiness of the offence while refusing to perpetrate the structural inequities that produced it."
+    ],
+    "keep_why": "Asked for by the project author (the Anderson passage); never removed by automatic checks"
+  },
+  "2024 ONCA 155": {
+    "remove_rationale_highlights": [
+      "the trial judge saw the social context evidence as having a limited impact in terms of mitigating the appellant’s moral blameworthiness"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "Appeal court only reviews trial judge, who gave social context limited mitigating impact; appeal court's own conclusion on effect not shown. Highlight 4 says limited."
+  },
+  "2012 SCC 13": {
+    "remove_rationale_highlights": [
+      "the courts below gave only attenuated consideration to Mr. Ipeelee’s circumstances as an Aboriginal offender"
+    ],
+    "direction_source": "direction check",
+    "direction_why": "SCC holds background factors diminish culpability and finds lower courts erred by attenuating them; highlight 4 describes lower courts' attenuated view, misleading alone."
   }
 }

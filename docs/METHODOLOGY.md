@@ -995,8 +995,9 @@ the court's own numbered paragraphs, with key phrases highlighted in yellow.
 **Direction check.** A final check ([pipeline/5d_check_direction.js](../pipeline/5d_check_direction.js),
 applied by [scripts/extracts/apply_direction_check.py](../scripts/extracts/apply_direction_check.py)) reads every
 reasons picture shown on the website. Sonnet 5.5 readers check each one, and Opus 5.5 re-reads every case they
-flag. Highlights saying the factor is not mitigating are removed, and cases where the court did not treat the
-factor as mitigating are hidden from the website.
+flag. Highlights saying the factor is not mitigating are removed. Cases where the court did not treat the factor
+as mitigating, or never stated its effect, are hidden from the website and no longer counted as mitigating in the
+dataset.
 
 **How the instructions were set.** Three pilot cases (*Taniskishayinew*, 2018 BCSC 296; *Arnet*, 2026
 BCSC 2194; *Caldi*, 2025 NSSC 426) went through four rounds of review by the project author. The rules

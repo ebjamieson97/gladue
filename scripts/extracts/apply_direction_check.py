@@ -55,7 +55,8 @@ def main():
                 continue
             entry = ovr.setdefault(s["citation"], {})
             existing = set(entry.get("remove_rationale_highlights", []))
-            new = [hl[n - 1] for n in drop if hl[n - 1] not in existing]
+            keep = set(entry.get("keep_rationale_highlights", []))      # protected by hand
+            new = [hl[n - 1] for n in drop if hl[n - 1] not in existing and hl[n - 1] not in keep]
             if new:
                 entry["remove_rationale_highlights"] = sorted(existing | set(new))
                 entry["direction_source"] = "direction check"

@@ -52,6 +52,10 @@ SELECTION_VERSION = "3.3"      # 3.0 = selection by the sentencing logistic regr
 OFFENCE_MODEL = Path(__file__).resolve().parent.parent / "models" / "offence_logistic_regression.json"
 DECISION_LABELS = Path(__file__).resolve().parent.parent / "data" / "labels" / "decision_labels.csv"
 EXTRACTS = Path(__file__).resolve().parent.parent / "case_extracts" / "extracts.csv"         # optional
+# Direction check of the reasons pictures (pipeline/5d_check_direction.js -> apply_direction_check.py). A decision the
+# check found "not_mitigating" (the court said the factor did not mitigate) or "unclear" (the court never stated an
+# effect) does not count as treating a systemic factor as mitigating: its M codes become R or N.  # optional
+DIRECTION_VERDICTS = Path(__file__).resolve().parent.parent / "case_extracts" / "work" / "direction_verdicts.json"
 SENTENCING_MODEL = Path(__file__).resolve().parent.parent / "models" / "sentencing_logistic_regression.json"
 SELECTION_THRESHOLD = 0.5
 
@@ -372,6 +376,16 @@ def enrich(con):
 
     lab = pd.read_csv(DECISION_LABELS, dtype=str, keep_default_na=False).drop_duplicates(key)
     out = out.merge(lab, on=key, how="left", suffixes=("", "_read"), indicator=True)
+    if DIRECTION_VERDICTS.exists():
+        import json
+        verdicts = json.loads(DIRECTION_VERDICTS.read_text(encoding="utf-8"))
+        code = {"not_mitigating": "R", "unclear": "N"}
+        for cit, v in verdicts.items():
+            if v.get("overall") in code:
+                rows = out["citation"] == cit
+                for f in MITIGATION_FACTORS:
+                    col = f"systemic_{f}"
+                    out.loc[rows & (out[col] == "M"), col] = code[v["overall"]]
     read = (out["_merge"] == "both").values
 
     def flag(values):                       # TRUE / FALSE, blank when the decision has not been read

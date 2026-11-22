@@ -160,7 +160,9 @@ Workflow pipeline/5c_fill_tag_gaps.js   args: {"tag": "TAG", "to": N}
 
 **4d. Mitigating, not the opposite.** Run this last, after 4c has added its highlights. Every reasons picture must show
 the court treating the systemic factor as mitigating, and no highlight may say the opposite (for example "there is
-little evidence that his Aboriginal background lessens his culpability"). Sonnet readers check each picture; Opus
+little evidence that his Aboriginal background lessens his culpability"). The highlights must give the view of the
+court deciding the case: on an appeal, a trial judge's words are highlighted only when the appeal court agrees with
+them and they treat the factor as mitigating. Sonnet readers check each picture; Opus
 re-reads every case they flag, and its answer is final.
 
 ```
@@ -169,10 +171,14 @@ Workflow pipeline/5d_check_direction.js   args: {"tag": "TAG", "to": N}
 .venv\Scripts\python.exe -X utf8 scripts\extracts\apply_direction_check.py
 ```
 
-- **Highlights that argue against the factor** are removed (written to `overrides.json`).
-- **Cases where the court did not treat the factor as mitigating** are listed by the script and hidden from the
-  website automatically (`case_extracts/work/direction_verdicts.json`). Cases marked "unclear" are listed too; look
-  at them, but they stay on the site.
+- **Highlights that argue against the factor, or give someone else's view** are removed (written to `overrides.json`).
+- **After changing these rules,** re-check every picture on the site as a new round, which replaces the earlier
+  answers: `make_direction_check_batches.py --recheck --tag NAME`, then the workflow with `{"tag": "NAME", "to": N}`.
+- **Cases where the court did not treat the factor as mitigating, or never states its effect ("unclear")** are
+  listed by the script and handled automatically through `case_extracts/work/direction_verdicts.json`:
+  - they are hidden from the website (`build_site.py`), and
+  - they stop counting as "systemic factor treated as mitigating" in the dataset (`build_sentencing_data.py` turns
+    their M codes into R or N), so the Statistics page and the models follow.
 
 Checks 4b, 4c and 4d write their results to [case_extracts/overrides.json](../case_extracts/overrides.json), the file of
 hand and automatic corrections. Then redraw the pictures and rebuild the dataset:
@@ -213,7 +219,7 @@ website when all of these hold:
 - **Conclusion.** The court plainly states the systemic factor's effect (`extract_conclusion_clear = Y`).
 - **Pictures.** Both pictures exist.
 - **Court's own words.** The reasons picture passed the court's-own-words check.
-- **Mitigating.** The direction check (4d) did not find that the court treated the factor as not mitigating.
+- **Mitigating.** The direction check (4d) found the court treated the factor as mitigating.
 - **Trial or appeal.** It is either:
   - a trial-court sentencing, or
   - an appeal where the systemic factors were corrected, or
@@ -258,7 +264,7 @@ sections 10 and 10.8.
 
 | Date | TAG | A2AJ revision | New sentencing decisions | New systemic-factor cases | Cases on website |
 |---|---|---|---|---|---|
-| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 602 total | 400 |
+| 2026-11-21 | (original build) | 4e85f2882e506177ee08e1286292a52af3b0fe6b | 10,096 total | 587 total (602 before the direction check, 4d) | 387 |
 
 ---
 
