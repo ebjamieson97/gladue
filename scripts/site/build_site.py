@@ -306,6 +306,15 @@ def main():
     _sys.path.insert(0, str(ROOT / "scripts" / "analysis"))
     from sentence_regression import results
     (SITE / "models.js").write_text("window.MODELS = " + json.dumps(results()) + ";\n", encoding="utf-8")
+    # Cache-busting: each page asks for its data files with a version stamp (a hash of their contents), so a browser
+    # never pairs a new page with an old, cached data file.
+    import hashlib
+    for page in SITE.glob("*.html"):
+        html = page.read_text(encoding="utf-8")
+        for data in ("cases.js", "stats.js", "models.js"):
+            v = hashlib.sha1((SITE / data).read_bytes()).hexdigest()[:10]
+            html = html.replace(f'src="{data}"', f'src="{data}?v={v}"')
+        page.write_text(html, encoding="utf-8")
     size = sum(p.stat().st_size for p in SITE.rglob("*") if p.is_file()) / 1e6
     print(f"{len(cases)} cases, {2 * len(cases)} pictures, {size:.0f} MB in {SITE}")
 
