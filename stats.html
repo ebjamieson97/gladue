@@ -155,7 +155,7 @@
   </section>
   END MODEL RESULTS -->
 </main>
-<script src="stats.js?v=fb3332e0d6"></script>
+<script src="stats.js?v=d6060afa38"></script>
 <script src="models.js?v=a667defb78"></script>
 <script>
 (function () {
@@ -298,9 +298,8 @@
   }
   const BY = S.by_year || [];
   drawTrend("trend", BY, "sentencing decisions", "c");
-  // Trial courts only: sentencings where the judge passes sentence on the offender (from the first year with any)
-  const first = BY.findIndex(d => d.imposes > 0);
-  drawTrend("trend-trial", first < 0 ? [] : BY.slice(first).map(d => ({ year: d.year, sentencing: d.imposes, mitigating: d.imposes_mitigating })),
+  // Trial courts only: sentencings where the judge passes sentence on the offender (same years as above)
+  drawTrend("trend-trial", BY.map(d => ({ year: d.year, sentencing: d.imposes, mitigating: d.imposes_mitigating })),
             "trial-court sentencings", "t");
 
   // Model results tables (from models.js, written when the site is built)
