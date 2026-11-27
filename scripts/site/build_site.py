@@ -202,12 +202,12 @@ def write_stats(shown):
     stats["criminal_all"], stats["sentencing_all"], stats["imposes_all"] = duckdb.sql(f"""
         SELECT count(*), count(*) FILTER (is_sentencing), count(*) FILTER (imposes)
         FROM read_parquet('{(ROOT / "data" / "processed" / "criminal_decisions_signals.parquet").as_posix()}')""").fetchall()[0]           # trial courts sentencing the offender themselves
-    # By year, from 1993 (earlier years have only a handful of decisions in the dataset)
+    # By year, from 1999 (the year of R. v. Gladue), so every chart on the Statistics page starts in the same year
     stats["by_year"] = [{"year": int(y), "sentencing": int(n), "mitigating": int(m), "imposes": int(ni), "imposes_mitigating": int(mi)}
                         for y, n, m, ni, mi in duckdb.sql(f"""
         SELECT year, count(*), count(*) FILTER (citation IN (SELECT citation FROM casebook)),
                count(*) FILTER (imposes), count(*) FILTER (imposes AND citation IN (SELECT citation FROM casebook))
-        FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}') WHERE year >= 1993
+        FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}') WHERE year >= 1999
         GROUP BY year ORDER BY year""").fetchall()]
     (SITE / "stats.js").write_text("window.STATS = " + json.dumps(stats, ensure_ascii=False) + ";\n", encoding="utf-8")
     return stats
