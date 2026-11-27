@@ -203,8 +203,10 @@ def write_stats(shown):
         SELECT count(*), count(*) FILTER (is_sentencing), count(*) FILTER (imposes)
         FROM read_parquet('{(ROOT / "data" / "processed" / "criminal_decisions_signals.parquet").as_posix()}')""").fetchall()[0]           # trial courts sentencing the offender themselves
     # By year, from 1993 (earlier years have only a handful of decisions in the dataset)
-    stats["by_year"] = [{"year": int(y), "sentencing": int(n), "mitigating": int(m)} for y, n, m in duckdb.sql(f"""
-        SELECT year, count(*), count(*) FILTER (citation IN (SELECT citation FROM casebook))
+    stats["by_year"] = [{"year": int(y), "sentencing": int(n), "mitigating": int(m), "imposes": int(ni), "imposes_mitigating": int(mi)}
+                        for y, n, m, ni, mi in duckdb.sql(f"""
+        SELECT year, count(*), count(*) FILTER (citation IN (SELECT citation FROM casebook)),
+               count(*) FILTER (imposes), count(*) FILTER (imposes AND citation IN (SELECT citation FROM casebook))
         FROM read_csv_auto('{(ROOT / "sentencing_data" / "index.csv").as_posix()}') WHERE year >= 1993
         GROUP BY year ORDER BY year""").fetchall()]
     (SITE / "stats.js").write_text("window.STATS = " + json.dumps(stats, ensure_ascii=False) + ";\n", encoding="utf-8")

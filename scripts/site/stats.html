@@ -89,6 +89,8 @@
   details.numbers summary { cursor: pointer; }
   details.numbers table { margin-top: 8px; font-size: 13px; }
   @media (max-width: 820px) { .charts { grid-template-columns: 1fr; } }
+  h3.trendhead { margin: 34px 0 0; font: 600 20px/1.3 Georgia, "Times New Roman", serif; }
+  h3.trendhead + div .charts { margin-top: 14px; }
   .note { max-width: 640px; margin: 18px auto 0; color: var(--muted); font-size: 13px; text-align: center; }
   .legend { display: flex; gap: 18px; justify-content: center; flex-wrap: wrap; font-size: 13px; color: var(--muted); margin: 0 0 18px; }
   .legend i { display: inline-block; width: 18px; height: 6px; border-radius: 3px; margin-right: 6px; vertical-align: middle; }
@@ -106,6 +108,8 @@
   <h1>Statistics</h1>
   <h2 id="over-time">Gladue Sentencing Over Time</h2>
   <div id="trend"></div>
+  <h3 class="trendhead">Trial-court sentencings</h3>
+  <div id="trend-trial"></div>
   <h2 id="data">Data</h2>
   <p class="sub" id="sub"></p>
   <div id="tree"><p class="sub">Loading…</p></div>
@@ -223,14 +227,14 @@
       court's own reasons clearly state that a systemic factor mitigated the sentence; these are exactly the cases in the
       <a href="catalogue.html">casebook</a>.</p>`;
 
-  // Trend charts: one series each, year on the x-axis (no legend needed: the title names the series)
-  const Y = (S.by_year || []);
-  if (Y.length) {
+  // Trend charts: one series each, year on the x-axis (no legend needed: the title names the series).
+  // drawTrend(container, rows, what): rows are {year, sentencing, mitigating}; "what" names the decisions counted.
+  function drawTrend(container, Y, what, idp) {
+    if (!Y.length) return;
     const last = Y[Y.length - 1].year, partial = S.built && Number(S.built.slice(0, 4)) === last;
-    const chart = (id, title, sub, value, fmtV, kind) => {
-      const W = 560, H = 250, m = { l: 40, r: 10, t: 10, b: 26 };
-      const iw = W - m.l - m.r, ih = H - m.t - m.b;
-      const vmax = Math.max(...Y.map(value));
+    const W = 560, H = 250, m = { l: 40, r: 10, t: 10, b: 26 }, iw = W - m.l - m.r, ih = H - m.t - m.b;
+    const chart = (id, title, sub, value, kind) => {
+      const vmax = Math.max(1, ...Y.map(value));
       const step = kind === "pct" ? (vmax > 12 ? 5 : 2) : (vmax > 40 ? 10 : 5);
       const top = Math.ceil(vmax / step) * step;
       const x = i => m.l + (i + 0.5) * iw / Y.length, bw = Math.max(2, iw / Y.length - 2);   // 2px gap between bars
@@ -257,46 +261,47 @@
         marks += `<circle class="dot" r="4" fill="var(--gladue)" stroke="var(--panel)" stroke-width="2" style="display:none"/>`;
       }
       const hits = Y.map((d, i) => `<rect class="hit" data-i="${i}" x="${m.l + i * iw / Y.length}" y="${m.t}" width="${iw / Y.length}" height="${ih}"/>`).join("");
-      return `<div class="chart" id="${id}"><h4>${title}</h4><p class="csub">${sub}</p>
+      return `<div class="chart" id="${id}" data-top="${top}"><h4>${title}</h4><p class="csub">${sub}</p>
         <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${title}">${g}${a}${marks}${hits}</svg><div class="tip"></div></div>`;
     };
     const pctOf = d => d.sentencing ? 100 * d.mitigating / d.sentencing : 0;
     const note = partial ? ` ${last} is a partial year.` : "";
-    document.getElementById("trend").innerHTML = `
+    const el = document.getElementById(container);
+    el.innerHTML = `
       <div class="charts">
-        ${chart("c-pct", "Share of sentencing decisions with a systemic factor clearly treated as mitigating", "Per cent of sentencing decisions, by year." + note, pctOf, v => v.toFixed(1) + "%", "pct")}
-        ${chart("c-n", "Number of sentencing decisions with a systemic factor clearly treated as mitigating", "Decisions per year." + note, d => d.mitigating, v => v, "count")}
+        ${chart(idp + "-pct", `Share of ${what} with a systemic factor clearly treated as mitigating`, `Per cent of ${what}, by year.` + note, pctOf, "pct")}
+        ${chart(idp + "-n", `Number of ${what} with a systemic factor clearly treated as mitigating`, "Decisions per year." + note, d => d.mitigating, "count")}
       </div>
       <details class="numbers"><summary>Show the numbers</summary>
-        <table><tr><th>Year</th><th>Sentencing decisions</th><th>Systemic factor clearly mitigating</th><th>Share</th></tr>
+        <table><tr><th>Year</th><th>${what[0].toUpperCase() + what.slice(1)}</th><th>Systemic factor clearly mitigating</th><th>Share</th></tr>
         ${Y.map(d => `<tr><td>${d.year}${partial && d.year === last ? " (partial)" : ""}</td><td>${fmt(d.sentencing)}</td><td>${fmt(d.mitigating)}</td><td>${pctOf(d).toFixed(1)}%</td></tr>`).join("")}</table>
       </details>`;
     // Hover: crosshair dot on the line, tooltip on both charts
-    document.querySelectorAll("#trend .chart").forEach(box => {
+    el.querySelectorAll(".chart").forEach(box => {
       const tip = box.querySelector(".tip"), svg = box.querySelector("svg"), dot = box.querySelector(".dot");
+      const top = +box.dataset.top;
       svg.addEventListener("mousemove", e => {
         const r = e.target.closest(".hit"); if (!r) return;
-        const d = Y[+r.dataset.i], vb = svg.viewBox.baseVal, sc = svg.getBoundingClientRect().width / vb.width;
+        const d = Y[+r.dataset.i], sc = svg.getBoundingClientRect().width / svg.viewBox.baseVal.width;
         const cx = (+r.getAttribute("x") + +r.getAttribute("width") / 2);
-        const isPct = box.id === "c-pct";
-        const val = isPct ? pctOf(d) : d.mitigating;
-        tip.innerHTML = `<b>${d.year}${partial && d.year === last ? " (partial)" : ""}</b><br>${fmt(d.mitigating)} of ${fmt(d.sentencing)} sentencing decisions (${pctOf(d).toFixed(1)}%)`;
+        tip.innerHTML = `<b>${d.year}${partial && d.year === last ? " (partial)" : ""}</b><br>${fmt(d.mitigating)} of ${fmt(d.sentencing)} ${what} (${pctOf(d).toFixed(1)}%)`;
         const svgBox = svg.getBoundingClientRect(), boxR = box.getBoundingClientRect();
         // Keep the tooltip inside its own chart box (it is centred on the point by translate(-50%))
         const half = tip.offsetWidth / 2, pad = 6;
-        const left = Math.min(Math.max(svgBox.left - boxR.left + cx * sc, half + pad), boxR.width - half - pad);
-        tip.style.left = left + "px";
+        tip.style.left = Math.min(Math.max(svgBox.left - boxR.left + cx * sc, half + pad), boxR.width - half - pad) + "px";
         tip.style.top = (svgBox.top - boxR.top + 20) + "px";
         tip.style.opacity = 1;
-        if (dot) {
-          const W = 560, H = 250, m = { t: 10, b: 26 }, ih = H - m.t - m.b;
-          const vmax = Math.max(...Y.map(pctOf)), step = vmax > 12 ? 5 : 2, top = Math.ceil(vmax / step) * step;
-          dot.setAttribute("cx", cx); dot.setAttribute("cy", m.t + ih - val / top * ih); dot.style.display = "";
-        }
+        if (dot) { dot.setAttribute("cx", cx); dot.setAttribute("cy", m.t + ih - pctOf(d) / top * ih); dot.style.display = ""; }
       });
       svg.addEventListener("mouseleave", () => { tip.style.opacity = 0; if (dot) dot.style.display = "none"; });
     });
   }
+  const BY = S.by_year || [];
+  drawTrend("trend", BY, "sentencing decisions", "c");
+  // Trial courts only: sentencings where the judge passes sentence on the offender (from the first year with any)
+  const first = BY.findIndex(d => d.imposes > 0);
+  drawTrend("trend-trial", first < 0 ? [] : BY.slice(first).map(d => ({ year: d.year, sentencing: d.imposes, mitigating: d.imposes_mitigating })),
+            "trial-court sentencings", "t");
 
   // Model results tables (from models.js, written when the site is built)
   const M = window.MODELS;
